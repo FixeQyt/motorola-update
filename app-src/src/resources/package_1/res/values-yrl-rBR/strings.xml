@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Remukuirisa ariré </string>
+  <string name="ab_download_now">Remukuirisa kuiri</string>
+  <string name="ab_install_notification_paused_text">Mũgatusawa mukũisawa piraĩna upé i mitusara</string>
+  <string name="ab_install_notification_text">Mũgatusawa mukũisawa piraĩna upé</string>
+  <string name="ab_restart_fullscreen_text">Uwatari xĩga! Uyukupukú 90 segũdu-ita ruakí umuyupirú arã dispusitiwu amũ yuíri. Mukuírisawa yukuawa, aikué %1$d ara-ita.</string>
+  <string name="ab_restart_text">Uatari xĩga! 90 mukũisawa piri dispusitiwu uyupirũ amũruê.</string>
+  <string name="ab_restart_warning_os_mr">Sistẽma mukuirisawa ipawa serané Dispositiwo i  </string>
+  <string name="ab_restart_warning_smr">Pisikasawa mũgatusawa imupawa serané Dispositiwo i  </string>
+  <string name="ab_warning_continues"> piri mukuirisawa upawa</string>
+  <string name="abupdate_in_progress_status">Software mukuirisawa uikú yũreu</string>
+  <string name="additional_charges_message">Download ukũtinuari kurí daduetá tirikawera irũmu  Daduetá yururesawa ipuderisawa </string>
+  <string name="alertSubText">UUsai aé umaã arã, umuyê asui uĩstalari mupisasusawa pakute</string>
+  <string name="alertText">Uxari umunhã rede uperasãu kuá software mupisasusawa upé</string>
+  <string name="alertTitle">Mupisasusawa tauputari kua wikesá</string>
+  <string name="alert_dialog_cancel">Mũgaturusawa supé</string>
+  <string name="alert_dialog_continue">Rekũtinuari mũgatusawa</string>
+  <string name="alert_dialog_no">Ũba</string>
+  <string name="alert_dialog_ok">Kuiri akuau ana</string>
+  <string name="alert_dialog_yes">Aré</string>
+  <string name="allocate_space_success">Memuria puraĩga pirí mukuíri i yukuawa</string>
+  <string name="allow">Aputari</string>
+  <string name="android_latest_sw_text">Ĩdé repurú software kuiriwara purí reikú</string>
+  <string name="android_version">Android yusenasawa:</string>
+  <string name="app_name">Motorola softiware mukuirisawa </string>
+  <string name="applied">Mairamẽ ũburi</string>
+  <string name="apply_bug_fix">Resuruka iwasusawa mukaturusawa</string>
+  <string name="apply_os_update">Resuruka software mukuirisawa-ita pãnhé</string>
+  <string name="applying_patch">Ũburi mukuírisawa uikú (etápa %1$d, %2$d suí)  </string>
+  <string name="are_you_sure">Reyuraré mukuirisawa-ita tekukuaukatú?</string>
+  <string name="are_you_sure_pop_up_text">Reputari reyuraré mukuirisawa tekukuaukatú será? </string>
+  <string name="asc_campaign_assigned">Kãpãya areibuyãna</string>
+  <string name="asc_campaign_is_allowed"> Firmware mukuirisawa</string>
+  <string name="asc_campaign_is_blocked">Firmware musikĩdasawa</string>
+  <string name="asc_campaign_not_assigned">Kua dispusitiwu ũba uikú yepé kãpanhã resê kuiriwara.</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+ukenaĩ mukuírisawa suí: %s suí até %s</string>
+  <string name="asc_sw_up_to_date"> até kuá wersão kuiriwara píri</string>
+  <string name="asc_target_version"> até kua wersãu </string>
+  <string name="auth_title">Sistẽma mukuirisawa</string>
+  <string name="auto_download_cellualr_charges_warn">Upuderi ũburi taxa-ita píri remuyê ramẽ mukuirisawa-ita rêdi watáwera irũ.</string>
+  <string name="auto_download_enable_cellular_future_updates">Reputari repukuaré dadu-ita muewa upisãu amũkití yeipawa supé, yuiri?</string>
+  <string name="auto_download_settings_title">Yeipawa irupĩtuwa yumukaturusawa</string>
+  <string name="auto_download_wifi_cellular">Download irupĩtuwa dadu-ita watáwera rupí asuí Wi-Fi rupí</string>
+  <string name="auto_download_wifi_cellular_desc">Yeipawa irupĩtuwa imunhãwa rãma dadu-ita muewa rupí asuí Wi-Fi rupí. Wi-Fi urikú kurí ãbarisawa mairamẽ yukuawa. </string>
+  <string name="auto_download_wifi_only">Yeipawa irupĩtuwa ayũrupí Wi-Fi rupí</string>
+  <string name="auto_download_wifi_only_desc">Yeipawa irupĩtuwa ayũrupí Wi-Fi rupí</string>
+  <string name="auto_install_notification_text">Mũgatusawa autumatika %1$s upé</string>
+  <string name="auto_time_set">Yupirũsawa hurariu:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Iaruanasawa resé, kuá mukuirisawa  imũgatuira rãma autumatikape daduetá tirikawera %1$s upé </string>
+  <string name="automatic_download_on_cellular_warning">Kuá mukuirisawa iruana, yawá resé iyeiwara rãma autumatikape daduetá tikawera%1$s upé</string>
+  <string name="background_install_msg">Mukuirisawa ukũtinuari si ĩdé reiwiri ã rekĩdá kuá ukena'ĩ</string>
+  <string name="background_install_text">Yepé mukuirisawa i tekukuaukatú. Rekũtinuari repurú dispusitiwu repuderi.</string>
+  <string name="bad_connection">Ti aikué Ĩterneti</string>
+  <string name="bad_connection_text">Dispositiwo uyudeskunekitara ĩterneti suí Retukari ribiá wiripe piri retẽtari amũruê</string>
+  <string name="bg_install_cancel_confirm">Reputari será remũgatú? </string>
+  <string name="bg_retried">Software yeipawa imumituwa. Yakũtinuari kurí yasaá…</string>
+  <string name="bg_suspended">Usarú uikú kunekisãu dadu-ita suí umunhã arã download amũ yuíri asuí uĩstalári mukũisawa planu resê.</string>
+  <string name="bg_suspended_non_adminapn">Usarũ kunekisawa Wi-Fi uikó ã ĩterneti sepíĩma piri uyuiri download yuí mũgatusawa mukũisawa piraĩna upé...</string>
+  <string name="bg_suspended_roaming">Mũgatusawa mukũisawa piraĩna upé i umuiawí roaming pusá aresé Religari Wi-FI piri rekũtinuari</string>
+  <string name="bg_suspended_wifi">Usarú uikú kunekisãu Wi-Fi suí umunhã arã download amũ yuíri asuí uĩstalári mukũisawa planu resê.</string>
+  <string name="bootloader_unlock_msg">Ne dispusitiwo ti ukaripuãmu mukuirisawa píri asuí upuderi aywaetésawa upé uikú </string>
+  <string name="bootloader_unlock_title">Mukuirisawaĩma yukuawa uikú</string>
+  <string name="cancel">Remusepiĩma</string>
+  <string name="cancel_download_notification">Remusepiĩma</string>
+  <string name="cancel_install">Remusepiĩma</string>
+  <string name="cancel_update_notification">Remusepiĩma</string>
+  <string name="check_for_updates_title">Mukuirisawa maãkatusawa</string>
+  <string name="check_update_badparam">Umeresé yepé yawisa mukuirisawa tẽtatiwa upé yepé log in gawapa resewara
+
+retẽtari amũruê riré</string>
+  <string name="check_update_checking">Usikári uikú mukuírisawa-ita…</string>
+  <string name="check_update_disabled_admin">Mukuirisawa-ita dispusitiwu suí maã adiministradú TI ukũtrulari</string>
+  <string name="check_update_downloading">Yepé mukuirisawa iyeiwara uikó
+
+Ĩdé senuikariira rãma download imupawa ramẽ</string>
+  <string name="check_update_fail">Umeresé yepé yawisa sarũĩma
+
+ dispositiwo utẽtari amũruê yepé mukurisawa mukũisawa piraĩna upé</string>
+  <string name="check_update_internal">Ti upuderi umaãkatú si aikué mukuirisawaetá Remunhã amũ viaji asui xĩga</string>
+  <string name="check_update_net">Remaã katú kunekisãu ĩterneti suí asuí remunhã amũ yuíri.</string>
+  <string name="check_update_net_vzw">Ipuraĩga yepé daduetá kunekisawa piri umaãkatú si aikú mukuirisawa. E-asesari Yumukarurú &gt; Pusá asuí ĩtereti &gt; Ĩterneti &gt; Wi-Fi asuí ne mugustape yumũdisawa Wi-Fi.
+
+Ĩdé repuderi reasesari motorola.com/systemupdates piri remaã mukuirisawa amũ.</string>
+  <string name="check_update_not_sys_user">Maãkatúsawa maãkatusawa yara ĩti xiariãna wisitasara ritãga arã.</string>
+  <string name="check_update_processing">Uyeké kũtatawa pitimũsawa irũ...
+ Resarũ </string>
+  <string name="check_update_roaming">Sistẽma mukuirisawa uikó dispunawa ĩternet dumestika ayũ 
+
+ Reasesari rĩbiá Reyumukaturú upé &gt; Pusá yuí ĩterneti &gt; Wi-Fi piri umunyã yepé kunekisawa</string>
+  <string name="check_update_storage_low">Ti upuderi umukuirisa mãã resé armasenasawa imukusawaĩma dispositiwo upé</string>
+  <string name="check_update_temperror">Ti upuderi umupawa yepé mukuirisawaetá download 
+
+Remunhã amũ viaji.</string>
+  <string name="check_update_text">Umaã ramẽ muíri ara urikú ramẽ mukuírisawa-ita, umiakũta asuí umukatupíri desẽpẽyu dispusitiwu suí.</string>
+  <string name="check_update_title_downloading">Download uwatari uikó...</string>
+  <string name="check_update_vab_validation">Umaãkatu VAB musepisawa mukuirisawa status uikó 
+Resarũ...</string>
+  <string name="check_update_wifi_only">Softiware mukuirisawa dispunawa Wi-Fi rupí ayũ</string>
+  <string name="check_wifi_settings">Remaãkatú Wi-Fi yumukaturusawa</string>
+  <string name="clear_space">Yurau tẽdawa</string>
+  <string name="cloud_picker_title">Muatukasara mapiá upé</string>
+  <string name="compatibility_failed_title">Pupekapawa maãkatusawa umaãkatuĩma</string>
+  <string name="compatibility_verification_failure">Mukuirisawa pupekasawa umuyeiwara uikó, i software wersawa kuiriwara nũgaraĩma dispositiwo upé</string>
+  <string name="compatibility_verification_failure_df">
+
+ Remaãkatú  ne Dogfood murikuasara irũ </string>
+  <string name="compatibility_verification_success">Maãkatusawa imupawa</string>
+  <string name="completed"> Mũgatusawa imupawa. Ipuraĩga rãma ĩdé reamũyupirũ waa telefuni (Etapa %1$d, %2$d yara).</string>
+  <string name="completed_install">%s imupawa </string>
+  <string name="connect_to_wifi">uyuKunekitari Wi-Fi resê</string>
+  <string name="continue_button">Rekũtinuari </string>
+  <string name="critical_install_message_popup_os_mr">Yepé sistẽma mukuirisawa aruana idispunawa Reselesiunari Mũgatú piri resuruka mukuirisawa Siãã, mukuirisawa i munyãgira autumatikape %1$s upé</string>
+  <string name="critical_install_message_popup_smr">Yepé pisikasawa mukuirisawa aruana idispunawa uikú. Reselesiunari "Remũgatú" piri resuruka mukuirisawa. Siãã, mukuirisawa i munhãgira autumatikape %1$s upé</string>
+  <string name="critical_install_message_screen">Kuá mukuirisawa iaruana imũgatúira autumatika upé %1$s Remaãkatú waá bateria karga i awieana piri remũgatú ae.</string>
+  <string name="critical_install_notification">Kuá mukuirisawa i katupirawa, mũgatusawa imunyãgaira autumatika upé %1$s
+ Mũgatusawa ara %2$d mĩnutu-ita</string>
+  <string name="critical_restart_message_popup">Remuyupirú amũ yuíri mairamẽ repuderi, rẽburi arã kuá mukuírisawa yupurãiwa. Tiramẽ repudei remunhã kuá, dispusitiwu umuyupirú kurí irupĩtuwarupí %1$s ramẽ.</string>
+  <string name="critical_restart_message_screen">Kuá mukuirisawa i aruana, yawaresé dispusitiwu i yupirũira rama autumatikape upé )%1$s si ĩdé raĩ ti umunhã kuá.</string>
+  <string name="critical_restart_notification">Kuá yepé mukuírisawa yupurãiwa. Tiramẽ repudei remuyupirú dispusitiwu kuíri, umuyupirú kurí irupĩtuwarupí %1$s ramẽ.</string>
+  <string name="critical_update_notification_title">Mukuirisawa aywa</string>
+  <string name="current_version">Software wersawa kuiriwara</string>
+  <string name="custom_slot">Persunarisari</string>
+  <string name="custom_time">remupurãgawa ura</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s, %s</string>
+  <string name="defer_count_expired">Kuiri akuau ana</string>
+  <string name="deny">Ti aputari</string>
+  <string name="details">Pukatua-ita</string>
+  <string name="device_corrupted_msg">Ya wasẽmu amũ-amũ puximaita sistẽma yara. Yakuawa wáá upudei usú yepé ĩkũweniẽsia, ma indé repurãi resú asistẽsia tékinika ikéwara repiá-mũgeta arã kuá.
+
+usatãbikasawa terefuni yara riré, yapudei kũtinuari yamunhã mukuírisawaita dispusitiwu upé.</string>
+  <string name="device_corrupted_title">Ũba upudei umukuíri terefuni</string>
+  <string name="dialog_alert_net_message">Remaã katú kunekisãu dadu-ita suí uwatáwera ou Wi-Fi asuí remunhã amũ yuíri.</string>
+  <string name="dialog_alert_net_title">Ne dispositiwo uikó off-line</string>
+  <string name="dialog_alert_title">Bateria puíra </string>
+  <string name="dialog_progress">yupurakaisa</string>
+  <string name="dl_options_mobile_only_warning">Irekumẽdara repurú Wi-Fi download supé, mãã resé dadu-ita tirikawera purusawa roaming upé uyeruré upuderi yeruresawa purí 
+
+Ĩdé repurú repuderi ne dispusitiwu kuá software download aramẽ.</string>
+  <string name="done">Imupawa </string>
+  <string name="dont_show_this_again">Ti remukamẽ amũruê</string>
+  <string name="download_cancelled_title">Download i amunika </string>
+  <string name="download_deferred_status">Yeipawa software yara upita'na diariwa</string>
+  <string name="download_failed_status">Gawapa yei ramẽ mukuirisawa</string>
+  <string name="download_in_progress_status">Software Yeipawa uikú yũreu</string>
+  <string name="download_later_button">Reyuí ariré</string>
+  <string name="download_no_button">Ãã, kuekatú</string>
+  <string name="download_note">Rekũtinuari repuderi dispusitiwu irũ mukuirisawa imũgatuira ramẽ.</string>
+  <string name="download_now">Reyeí kuíri </string>
+  <string name="download_now_button">Reyeí </string>
+  <string name="download_options">Download parawakasawa</string>
+  <string name="download_progress_cancel_message">Pirí pisirũ mukuirisawa ariré, e asesari Yumukaturú &gt; Sistẽma mukuirisawa.</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s puerasawa (ita) %2$s/ %3$stekukuaukatú</string>
+  <string name="download_progress_paused_message">%s%% i yeiwara (mitusara)</string>
+  <string name="download_progress_text">Download ukũtinuari kurí si ĩdé reiwiri ã rekĩdá ukena'í</string>
+  <string name="download_subtitle">Maã ĩdé repurãi rekuáu mairamẽ resú kurí remuyê mukuirisawa-ita:</string>
+  <string name="download_text_whats_new">Remaã pisasúsawa-ita</string>
+  <string name="download_time_left">%1$s aikurewaita</string>
+  <string name="download_version">Wersãu %1$s – %2$s</string>
+  <string name="download_wifi_only_error">Repuraĩ repurú WiFi piri reyeí  kuá mukuirisawa Aikué kuri Download kunekisawa uiwiri amũruê ramẽ </string>
+  <string name="downloaded_percentage">%1$s wiripé pe pãnhé</string>
+  <string name="emergency_call_btn_txt">Kutarasawa</string>
+  <string name="emergency_call_text">Yupirũsawa ramẽ, ti upuderi ukaripuãmu nẽ umunyã senuĩsawa. Nẽ kuaye, kutarasawa senuĩsawa</string>
+  <string name="enable_wifi_error_txt">Reyukunekitari Wi-Fi upé piri reyei mukuirisawa </string>
+  <string name="eol_explore">Rewasemu dispositiwoetá pisasú </string>
+  <string name="eol_last_update_text">Pisikasawa patsh</string>
+  <string name="eol_promote">Remaã prumusawa kuirisa</string>
+  <string name="eol_title">Ne dispositiwo upurú software pisasú wã</string>
+  <string name="err_title_contact_server">Ukũtakitari pitimũsara uikó </string>
+  <string name="err_title_memory_low">Memurya xĩga</string>
+  <string name="err_title_temp_error">Yawisa arasawa </string>
+  <string name="err_title_update">Mukuirisawa yawisa</string>
+  <string name="error_code">Yawisawa yupinimasawa: </string>
+  <string name="error_copyfail">Gawapa rekupiá kartũ SD pitasawarẽda ramẽ</string>
+  <string name="error_disabled">Gawapa uyeí mukuirisawa ramẽ mukuirisawa pupekatawa i dispunawa muiramẽ upé )
+
+Nẽyawé asãu i nesesaria</string>
+  <string name="error_fail">Umeresé yepé iwasusawa remukuirisa ne %1$s ramẽ. Nẽyepé sinimusawa. E-asesari Yumukaturú &gt; Sistẽma mukuirisawa asuí e-saá amũ ruê.</string>
+  <string name="error_in_call_msg">Ũba upudei umupisasú dipusitiwo yãse aikué yepé senũisá kuiri.</string>
+  <string name="error_in_call_title">Senuĩsawa uyumuyã uiku</string>
+  <string name="error_install_title">Gawapa mũgatusawa upé</string>
+  <string name="error_mismatch">Aikué ãmurupisawa wesawaetá mitera Amũmukuirisawa imunyã rãma Ĩdé rekaripuãmu kuri yepé senuikariswa si aikué mukuirisawa dispunawa rãma</string>
+  <string name="error_mismatch_sd">Gawapa umukuisa ramẽ Mukuirisawa wersawa ne serurari iãmurupí 
+
+ Reyeí wersawa eresawa ne serurari upé yuí retẽtari amũruê</string>
+  <string name="error_network">Kunekitiwasawa ikanyẽmuira uikó  Retẽtari amũruê, remaãkatú manuauwara mukuirisawa serurari yumukaturusawaetá rupí </string>
+  <string name="error_reboot">Ũbá puderi pisirũ kuá mukuirisawa. Si reputari remukuíri riré, e amũyupirũ dispusitiwo asuí e asesari Yumukaturú &gt; Sistẽma mukuirisawa.</string>
+  <string name="error_resources">Ũbá puderi pisirũ kuá mukuirisawa. Si reputari remukuíri riré, e asesari Yumukaturú &gt; Sistẽma mukuirisawa.</string>
+  <string name="error_sdcard_resources_fail_removal">Kartũ SD i musakaíra. Ti repuderi remupawa download. 
+
+ E muiké kartũ SD amũruê asuí e asesari Yumukaturú &gt; pirí saá pisirũ amũruẽ. 
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Ũbá puderi mupawa download. Mukusawaĩma kartũ SD upé. 
+
+E yurau mukusawa asuí e asesari Yumukaturú &gt; Sistẽma mukuirisawa pirí saá pisirũ amũruê. 
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Resuruka yepé kartũ SD piri download uyepirũ 
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Repukuaré kartũ SD piri download uyuírũ 
+
+ Resó "Reyumukaturú" &gt; "Armasenasawa" &gt; "Repukuaré kartũ SD". 
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Mukusawaĩma kartũ SD upé piri repawa download. 
+
+Reyurau %1$s mukusawa suí yuí reasesari rĩbiá Reyumakuturú upé &gt; Sistẽma mukuirisawa piri retẽtari amũruê. 
+
+
+</string>
+  <string name="error_sdcard_resources_title">Yawisa</string>
+  <string name="error_sdcard_resources_warning">Softiware mukuirisawa iyeiwara kartũ SD upé uikó Ti remutirika kartũ SD té ki mũgatusawa uyupawa
+
+
+
+
+</string>
+  <string name="error_server">Umeresé yepé yawaisa pitimũsara upé Remunhã amũ viaji asui xĩga</string>
+  <string name="error_space">Kuá mukuirisawa uputari %1$s dispositiwo armasenasawa mukusawa. 
+
+Remusaká apps waá ĩdé ti erepurú ã remutirika rãgaweraetá yuí widiuetá amũdispositiwo armasenawara kití piri reyurau %2$s mukusawa suí. 
+
+Riré, e asesari rĩbiá Yumukaturú &gt; Sistẽma mukuirisawa pirí yupirũ mukuirisawa muiramẽ saramũ.</string>
+  <string name="error_space_retry">Kuá mukuirisawa uputari%1$s dispositiwo armasenasawa mukusawa 
+
+ Remusaká apps waá ĩdé ti upurú ã remutirika rãgaweraetá yuí widiuetá amũdispositiwo aramasenawara kití piri uyurau %2$s mukusawa upé</string>
+  <string name="error_space_vab">Kuá mukuirisawa upuraĩ %1$s armasẽnasawa imutara dispusitiwo upé. E yurau tẽdawa memuria upé pirí mugatú mukuirisawa</string>
+  <string name="error_space_vab_make_room_popup">I puraĩga yurau %1$s rẽdawa pirí munhã mukuirisawa Emusaká app-etá puruwaĩma ã e mutirika sãgawera asuí widiu amũ armasẽnasawa dispusitiwo kití</string>
+  <string name="error_title">Gawapa download upé </string>
+  <string name="error_verify">Ti repuderi remusepí mukuirisawa supíupé Retẽtari amũruê</string>
+  <string name="failed">Yawisawa</string>
+  <string name="failed_in_roaming">Wi-Fi purãiwa mukuírisawaita arã</string>
+  <string name="failure_process">Mukuausawa dispunawaĩma</string>
+  <string name="finalizing_patch">Umpawa uikú mukuirisawa… (Etapa 5, 6 yara)  </string>
+  <string name="first_net_text">Remũgatú mukuirisawa ã dispositiwo uyemũgatú yupirũsawa amũruê upé.  Re maãkatú si bateria nũgarasawa %s isusé</string>
+  <string name="forceInstallMessage">Kuá mukuirisawa imũgatuira rãma autukatikape %1$s upé </string>
+  <string name="force_install_message_screen">Kuá mukuirisawa iaruana upuraĩ mũgatuíra uikó té %1$s Siãã, i mũgatuira rãma autumatikape yepé urariu mamẽ dispositiwo puruira xĩga upé Resertiwikari si bateria pukusawa iawiana mũgatusawa supé</string>
+  <string name="force_install_notification_message">Remũgatú té %1$s Si ãã, dispositiwo o munyã kurí mũgatusawa autumatika yepé urariu puruira kuaira upé 
+ Mũgatusawa ara %2$d mĩnutuetá</string>
+  <string name="force_restart_notification_message">Reyupirũ amũruê té %1$s Siãã, dispositiwo uyupirũ amũruê autumatikupe urariu upé waá ipuruira xĩga</string>
+  <string name="force_restart_screen_message">Si ĩdé ti reyupirũ amũruê dispositiwo té%1$s kuá umeresé kurí autumatikape yepé urariu purúira kuaira</string>
+  <string name="google">Google</string>
+  <string name="got_it">Kuiri akuau ana</string>
+  <string name="important_update_install_overdue_message">urariu purugaramara piri mũgatusawa usasari ana Mũgatusawa uyupirũ kurí dispositiwo uatẽderi yeruresawa puraĩga ramẽ</string>
+  <string name="important_update_restart_overdue_message">urariu purugaramara piri yupirũsawa amũruê usasari ana  Dispositiwo yupirũira ãmuruê rãma, uatẽderi kiriteriu aruana riré </string>
+  <string name="initiating_ota_service_msg">E-sarũ…</string>
+  <string name="initiating_ota_service_title">Uyupirũ uikú mukuirisawa muyemunhãsawa software yara</string>
+  <string name="install">Remũgatú</string>
+  <string name="install_after_one_hour">Umũgatú  yepé urariu upé </string>
+  <string name="install_cancelled_title">Mũgatusawa amunika </string>
+  <string name="install_deferred_status">Mukuirisawa upita'na diariwa</string>
+  <string name="install_later">Remũgatú ariré </string>
+  <string name="install_notify_sanity_call_msg">Ũba puderi yumuike manũgara dipuzitiwo upé yãse aikuere uiku semuisawa</string>
+  <string name="install_notify_sanity_maps_msg">Ũba puderi yumuike manũgara dipuzitiwo upé yãse aikuere uiku ususa makiti yuligari</string>
+  <string name="install_now">Remũgatú kuiri</string>
+  <string name="install_postponed">Mũgatusawa mitúsara</string>
+  <string name="install_progress_cancel_message">Pirí mugatú mukuirisawa ariré, e asesari Yumukaturú &gt; Sistẽma mukuirisawa.</string>
+  <string name="install_progress_paused_message">%s imupawa (mitusara)</string>
+  <string name="install_time">Mũgatusawa ara: %1$d mĩnutu-ita</string>
+  <string name="install_warning">Mãã repuraĩ rekuau mũgatusawa rinũdé:</string>
+  <string name="just_one_more_step">Yepé etapa ayũ </string>
+  <string name="keep_it_on">Remãteri i pukuarewá</string>
+  <string name="later_button">Remãduari ariré </string>
+  <string name="learn_more_online_link">E kuau píri on-line</string>
+  <string name="low_battery_bg_install">Ũpitú ĩstalasãu yãsé bateriya uikú kirĩbáĩma asuí umunhã kurí amũ yuíri mairamẽ bateriya urikú 20% píri.</string>
+  <string name="low_battery_download">Download imitusara mãã resé bateria ipuíra. Uwiri kurí dispusitiwu isupiriira ramẽ.</string>
+  <string name="low_battery_install">Resupiri dispositiwo nhũturesé %s remũgatu kuá mukuirisawa enũdé </string>
+  <string name="make_space">Reyurau mukusawa</string>
+  <string name="mandatory_install_notification">Si kuá sistẽma mukuirisawa ĩti munyãgara kuruté, ĩdé rekanyẽmu kurí pisikasawa mukuirisawa katupirawa</string>
+  <string name="mandatory_restart_notification">Kuá yepé mukuirisawa aruana, reyupírũ amũruê kuiri Siãã, ĩdé rekanyẽmu kuri pisikasawa mukuirisawa, yuí yuiri rekurusuetá pisasú yuí yawisa mukuturusawa.</string>
+  <string name="medium_channel_name">Softiware download senuĩkarisara</string>
+  <string name="merge_emergency_call_text">Amũ-yupirũ pukusawa, indé ti repuderi remunhã nẽ reseberi senũigawaita, emerjẽsiaita suí yuíri.</string>
+  <string name="merge_force_restart_text">Se ũba repurari ramẽ reamũ-yupirũ kuíri, terefuni yuamũ-yupirũ kurí irupĩtuwarupí maramẽ aé upitá yatéĩma.</string>
+  <string name="merge_progress_text">Maramẽ mukuírisawa mpawa usú, yamũdú kurí yepe senũikarisawa.</string>
+  <string name="merge_progress_title">Ũpawa uikú mukuírisawa…</string>
+  <string name="merge_restart_text">Kua mukuírisawa yũpawa kurí asuí riré terefuni yuamũyupirũ.</string>
+  <string name="merge_restart_title">Reamũ-yupirũ yuíri</string>
+  <string name="merge_update_fail_notify_text">Ya wasẽmu amũ-amũ puximaita sistẽma yara Resú asistẽsia tékinika re piá-mũgeta arã kuá.</string>
+  <string name="merge_update_fail_notify_title">Gawapa mukuirisawa upé </string>
+  <string name="merge_update_fail_text">Ya wasẽmu amũ-amũ puximaita sistẽma yara ũba wa tauxiari mukuírisawaita. Resú asistẽsia tékinika re piá-mũgeta arã kuá yuakisawaita.
+
+kuá pukusá, indé repuderi rekũtinuari usariwa terefuni nurmawa.</string>
+  <string name="motorola">Motorola </string>
+  <string name="multiple_account">Reparawaka yepé kũta</string>
+  <string name="multiple_account_alert">Piri rekũtinuari remukuirisa sistẽma, reparawaka yepé kũta %1$s</string>
+  <string name="no_thanks">Ãã, kuekatú</string>
+  <string name="no_thanks_message">Si reputari remukuíri riré, e asesari Yumukatú &gt; Sistẽma mukuirisawa.</string>
+  <string name="no_updates_applied">Ũba ũburi nẽyepé mukuírisawa.</string>
+  <string name="not_now">kuíri ãã</string>
+  <string name="ok">ERÉ</string>
+  <string name="otaservice_perm_desc">Permitirisawa waá maesa upuraĩ piri uĩterajiri otaservice irũ</string>
+  <string name="package_size">Download wasusawa: %1$s</string>
+  <string name="personalInfo_instruction">Nẽyepé mukuausawa mirapura ikanhẽmuíra rãma</string>
+  <string name="picker_cell_radio">Wi-Fi yuí dadu-ita </string>
+  <string name="picker_title">Reparawaka mãã ĩdé reyeí reputari kuá mukurisawa:</string>
+  <string name="picker_wifi_only_radio">Ayũ Wi-Fi</string>
+  <string name="please_restart">Renhupirũ amũruê kuiri </string>
+  <string name="policy_set">Sistẽma mukuirisawa iburukeyara uikó Rekũtatá dispositiwo murikuasara piri rekũsegiri mukuausawa purí</string>
+  <string name="press_back_again_to_exit">Piri resẽmu, remayana amũruê rĩbiá RE</string>
+  <string name="progress_copying_sd">Ukupiari mukuirisawa uikó </string>
+  <string name="progress_deffered">Download iyupirũira rãma ĩterneti tirikawera/Wi-Fi upé</string>
+  <string name="progress_downloading_ota">Uyuí sistẽma mukuirisawa uikó...</string>
+  <string name="progress_downloading_security">Uyeí pisikasawa mukuirisawa uikó...</string>
+  <string name="progress_retried">Software yeipawa imumituwa. Yakũtinuari kurí yasaá…</string>
+  <string name="progress_suspended">Usarũ dadu-ita kunekisawa uikú download yuirisawa supé...</string>
+  <string name="progress_suspended_datasaver">Reyuraré daduetá ekunumia rikusawa piri download uiwirí</string>
+  <string name="progress_suspended_no_adminapn">Usarũ kunekisawa Wi-Fi uikó ã ĩternet ãgaré pirí download uiwiri</string>
+  <string name="progress_suspended_roaming">Download muiawira roaming ĩterneti reçewara Religari Wi-FI piri rekũtinuari </string>
+  <string name="progress_suspended_wifi">Usarũ kunekisawa Wi-Fi uikú piri uturnari amũruê download...</string>
+  <string name="progress_verify">Remaã katú dispusitiwu uikú ramẽ katú uyumukuíri arã…</string>
+  <string name="progress_verify_allocate_space">Umaã uikú si aikué memuria awiana...</string>
+  <string name="relative_date_time">%1$s ramẽ %2$s</string>
+  <string name="release_note_battery_desc">Mukuírisawa-ita umukatupíri bateriya usarisawa asuí i pukusawa.</string>
+  <string name="release_note_battery_title">Bateriya</string>
+  <string name="release_note_camera_desc">Kuá-ita mukatupírisawa-ita upitimũ uyuuka rãgawa-ita detáli-ita píri irũ asuí purãha píri.</string>
+  <string name="release_note_camera_title">Kãmera</string>
+  <string name="release_note_cellular_desc">Muyeréusawa-ita upitimũ umukatupíri kunekitividadi dadu-ita suí dispusitiwu yara.</string>
+  <string name="release_note_cellular_title">Serurari</string>
+  <string name="release_note_charging_desc">Kuá mukuírisawa umukatupíri rekursu-ita purakarisawa suí.</string>
+  <string name="release_note_charging_title">Purakarisawa</string>
+  <string name="release_note_generic_desc">Muyeréusawa-ita upitimũ umukatupíri desẽpẽyu jeráu dispusitiwu yara.</string>
+  <string name="release_note_os_update_desc">Tẽma-ita pisasuwa-ita munukrumátiku taumeẽ yepé yukuasá purãga retana terefuni supé asuí taumukameẽ píri planu tipywa. Reavaliari mayé app-ita uusari asuí taumusasá né dadu-ita mairamẽ remuyaté enũdé xiarisawa-ita, asuí rerikú asesibiridadi píri kuá rekursu-ita pisasúwa irũ maãgawa suí asuí sẽdusawa suí Android 14 yara.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Muyeréusawa-ita upitimũ umukatupíri desẽpẽyu dispusitiwu suí.</string>
+  <string name="release_note_performance_title">Desẽpẽyu</string>
+  <string name="release_note_security_desc">Urikú yuíri patches miakũtasawa suí até %1$s.</string>
+  <string name="release_note_security_title">Mukuírisawa miakũtasawa suí</string>
+  <string name="release_note_stability_desc">Urikú yuíri mukatupírisawa-ita asuí musatãbikasawa-ita yawísawa supé uxariwa-ita né terefuni purãga píri asuí repudei reruyári píri sesé.</string>
+  <string name="release_note_stability_title">Istabiridadi</string>
+  <string name="release_note_title">Kuá mukuírisawa urikú</string>
+  <string name="release_note_wifi_desc">Urikú yuíri mukuírisawa-ita né kunekitividadi Wi-Fi supé.</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Remaã Android rekursu pisasú pãnhé %1$s</string>
+  <string name="request_suspended_datasaver">Reyuraré daduetá ekunumia rikusawa piri reyupirũ reyeí ae</string>
+  <string name="request_suspended_no_network">Aikuéĩma ĩterneti piri uyupirũ download</string>
+  <string name="restart_after_one_hour">Uyupirũ amũruê 1 urariu ramẽ</string>
+  <string name="restart_instruction_title">Mãã repuraĩ rekuau amũyupirũsawa enũdé</string>
+  <string name="restart_later">Ariré </string>
+  <string name="restart_message">E-amũyupirũ kuiri pirí mukuiri software.</string>
+  <string name="restart_notification">Reyupirũ amũruê</string>
+  <string name="restart_notification_text">E-amũyupirũ kuiri pirí mukuiri. Mukuirisawa ipẽdẽti aikué %1$d ara.</string>
+  <string name="restart_notify_sanity_call_msg">Ũba puderi uyui yumupiru dipuzitiwo yãse aikuere uiku semuisawa</string>
+  <string name="restart_notify_sanity_maps_msg">Ũba puderi yumuike manũgara dipuzitiwo upé yãse aikuere uiku ususa makiti yuligari</string>
+  <string name="restart_now">Reyupirũ amũruê kuiri </string>
+  <string name="restart_postponed">Amũyupirũsawa i diariara</string>
+  <string name="restart_title">Renhupirũ amũruê dispusitiwu</string>
+  <string name="resume_download_on_cellular">Repurú dadu-ita tirikawera</string>
+  <string name="retrieving_token">Umuasú uiku...</string>
+  <string name="sdcard_predownload_text">
+kuá etapa upé, ĩdé rekupiá mukuirisawa sistẽma memuria upé Mukuirisawa i mũgatuira rama amũruê 
+
+Rekunekitari ne serurari energia upé piri reewitari bateria ipawa</string>
+  <string name="secure_instruction">Muyemunisawa ipisikara </string>
+  <string name="security_download_notification_title">Remusãtá pisikasawa</string>
+  <string name="security_install_notification_text">Yepé pisikasawa mukuirisawa pisasú imupawa mũgatusawa supé</string>
+  <string name="security_install_title">Yepé pisikarisawa mukuirisawa imupawa</string>
+  <string name="security_patch">Pisikasawa patsh</string>
+  <string name="security_update_low_storage_title">Pisikasawa mukuirisawa</string>
+  <string name="security_update_notification_text">Remũgatú pisikasawa mukuirisawa kuirisa purí</string>
+  <string name="security_update_paused">Pisikasawa mukuirisawa imitusara</string>
+  <string name="security_update_pending_notification_text">E-yeí pisikatusawa mukuirisawa kuirisawa píri. Mukuirisawa ipẽdẽti aikué %1$d ara.</string>
+  <string name="security_update_title">Pisikasawa mukuirisawa</string>
+  <string name="select_account">Reparawaka yepé kũta%1$s</string>
+  <string name="selected_later_time_os_mr">Sistãma mukuirisawa imũgatú rãma </string>
+  <string name="selected_later_time_smr">Pisikasawa mukuirisawa imũgatuira rãma</string>
+  <string name="setting_sw_summary">Remukuíri software wersãu mukuiriwara kití </string>
+  <string name="setting_sw_title">Sistema mukuirisawa-ita</string>
+  <string name="smart_cancel_update_toast_msg">Mukuirisawa iamũmarkara %1$s supé</string>
+  <string name="smart_end_time">Pawasawa</string>
+  <string name="smart_install_message_popup">Ĩdé repukuaré rekursu Mukuirisawa tekukuakatú, dispusitiwu umũgatú kurí mukuirisawa autumatika %1$s upé si ĩdé ti rerikú kuá raĩ. Remaãkatú waá bateria karga i awieana piri remũgatú ae. </string>
+  <string name="smart_restart_message_popup">Ĩdé repukuaré ana rekursu Mukuirisawa tekukuaukatú, dispusitiwu imukuiriwara rãma autumatika upé %1$s si ĩdé ti umunhã kuá raĩ.</string>
+  <string name="smart_settings_string">Umuyê asuí uĩstalári mukuírisawa-ita irupĩtuwarupí mairamẽ aikué kunekisãu Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Mukuirisawa-ita yeiãna asuí mũgatuwa irupĩtuwarupí mairamẽ ĩdé reikú yepé yumũdisawa Wi-Fi upé ã reusai reikú dadu-ita muewa.</string>
+  <string name="smart_settings_string_vzw">Mukuirisawa-ita upitá yeiwara asuí mugatuana irupĩtuwarupí</string>
+  <string name="smart_start_time">Yupirũgawa</string>
+  <string name="smart_to_string">às</string>
+  <string name="smart_update_advanced">Sũdekiti</string>
+  <string name="smart_update_note">Umukaturu arã ĩdé, panhẽ mukuírisawa-ita miakũtasawa suí yupurãiwa-ita uyumuyê kurí irupĩtuwarupí, mairamẽ kuá rekursu yatéĩma uikú yuíri.</string>
+  <string name="smart_update_note_vzw">Umukaturu arã ĩdé, panhẽ mukuírisawa-ita krítika tauyumuyê asuí tauyuĩstalári kurí irupĩtuwarupí, mairamẽ kuá rekursu yatéĩma uikú yuíri.</string>
+  <string name="smart_update_pop_up_text">Remãteri ne dispusitiwu ipisikatú yuí isupirũira mukuirisawa-ita autumatika irũ.</string>
+  <string name="smart_update_recommendation">Resaã mukuirisawa-ita tekukuaukatú</string>
+  <string name="smart_update_suggestion_text">E pitá pisikatú mukuirisawa irupĩtuwa irũ</string>
+  <string name="smart_update_text_AB">Reĩstalári irupĩtuwarupí panhẽ mukuírisawa-ita miakũtasawa suí asuí musatãbikasawa yawísawa suí, upitimũ arã dispusitiwu upurakí purãga retana asuí miakũtasawa irũ.</string>
+  <string name="smart_update_text_AB_vzw">Mukuirisawaetá tekukuaukatú upitimũ dispusitiwo uatiwí pisikasawa yuí ewisiẽtisawa irũ. Si ĩdé repukuaré kuá rekursu, pãyé pisasú <b>pisikatusawa mukuirisawa</b> yeiãna upitá kurí irupĩtuwarupí. Yeipawa riré, dispusitiwo i amũyupirũwa kuriwara reparawaka.</string>
+  <string name="smart_update_text_classic">Mukuirisawaetá tekukuaukatú upitimũ dispusitiwo uatiwí pisikasawa yuí ewisiẽtisawa irũ. Si ĩdé repukuaré kuá rekursu, pãyé <b>pisikatusawa mukuirisawa asuí yawisawa yara</b> yeiãna upitá kurí irupĩtuwarupí. Yeipawa riré, dispusitiwo i amũyupirũwa asuí umunhã mũgatúsawa kuriwara repurawaka.</string>
+  <string name="smart_update_text_classic_vzw">Mukuirisawaetá tekukuaukatú upitimũ dispusitiwo uatiwí pisikasawa yuí ewisiẽtisawa irũ. Si ĩdé repukuaré kuá rekursu, pãyé pisasú <b>pisikatusawa mukuirisawa</b> yeiãna upitá kurí irupĩtuwarupí. Yeipawa riré, dispusitiwo i amũyupirũwa asuí umunhã mũgatúsawa kuriwara repurawaka.</string>
+  <string name="smart_update_time_slot_text_AB">Repurawaka huráriu.</string>
+  <string name="smart_update_time_slot_text_classic">Reparawaka mũgaturusawa urariu </string>
+  <string name="smart_update_title">Mukuirisawa-ita tekukuaukatú</string>
+  <string name="software_not_update_to">Ne software raĩ ĩti mukuiriwara … supé</string>
+  <string name="software_update_in_progress">Ne sistẽma imukuiriwara uikú yusẽnassawa upé</string>
+  <string name="software_update_planned_summary">Maãkatuana - %1$s</string>
+  <string name="software_update_planned_title">Software mukuirisawa ayẽdara</string>
+  <string name="software_update_to">Ne sistẽma imukuiriwara … supé</string>
+  <string name="sofware_version">Software wesawa:</string>
+  <string name="storage_low">Rekũsegiri mukusawa mukuiriswa supé</string>
+  <string name="su_btn">Yumũkaturú</string>
+  <string name="su_text_off">Ĩdé repuderi kurí mukuiri porupiwarupí dispusitiwo mairamẽ yepé pisasú software yukuawa uikú. E-pukuaré mukuirisawa tekuaukatú pirí muirupĩtuwa muyemunhãwa. E-tukari pukatua píri arã.</string>
+  <string name="su_text_on">Retewa rupí, mukuirisawa tekuaukatú imunhãwa 1 kuw suí té 3 kuw. Ĩdé repuderi sinimuka kuriwara ã yuraré kuá rekursu yumukaturusawa-ita upé. E-tukari pukatua píri arã.</string>
+  <string name="su_title_off">Mukuirisawa-ita tekuaukatú yurarewa</string>
+  <string name="su_title_on">Mukuirisawa tekuaukatú pukuarewa</string>
+  <string name="system_download_notification_title">Sistẽma mukuirisawa</string>
+  <string name="system_install_notification_text">Yepé sistẽma mukuirisawa imupawa mũgatusawa supé</string>
+  <string name="system_install_title">Yepé mukuirisawa imupawa</string>
+  <string name="system_pdl_notification_mr_title">Rekũsegiri yawisa-ita mukaturusawa yuí puri </string>
+  <string name="system_pdl_notification_os_title">Android usika ana %1$s</string>
+  <string name="system_update">Software mukuirisawa </string>
+  <string name="system_update_desc">Remukaturu né dispusitiwu tiarã urikú yawaetésáwa miak"utasawa supé, asuí rewiké rekursu-ita kuíriwara píri Motorola yara asuí Android yara.</string>
+  <string name="system_update_info_not_available">Yukuawaĩma</string>
+  <string name="system_update_low_storage_text">Retukari iké piri remaãkatú memuria ã rekũtinuari </string>
+  <string name="system_update_low_storage_title">Sistẽma mukuirisawa</string>
+  <string name="system_update_notification_os_text">Repuyaka Android pisasú </string>
+  <string name="system_update_notification_text">Reyeí software pisasú </string>
+  <string name="system_update_paused">Sistẽma mukuirisawa imupawa</string>
+  <string name="system_update_pending_notification_os_text">E-kũyeseri pisasú Android. Mukuirisawa ipẽdẽti aikué %1$d ara.</string>
+  <string name="system_update_pending_notification_text">E-yuí pisasú software. Mukuirisawa ipẽdẽti aikué %1$d ara.</string>
+  <string name="system_update_settings_list_item_title">Sistema mukuirisawa-ita</string>
+  <string name="system_update_status">Status mukuírisawa suí</string>
+  <string name="system_update_title">Software mukuirisawa </string>
+  <string name="tethered_permission_desc">Remũdú resutara kuiriwara 3c</string>
+  <string name="tethered_update_result">Mukuirisawa resutasawa i muatiriira</string>
+  <string name="time_picker_text">Renhupirũ mũgatusawa mãduarisawa'íĩma</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">E-saá amũ ruẽ</string>
+  <string name="turn_it_off">Reyuraré</string>
+  <string name="turn_it_on">Repuakuaré</string>
+  <string name="turn_on_smart_updates">Umuyaté mukuírisawa-ita tekuaukatúwa</string>
+  <string name="update">Remukuirisa</string>
+  <string name="update_blocked_by_policy">Mukurisawa imusikĩdawa wera murikuasara pulitika resé. </string>
+  <string name="update_cancelled_status">Yeipawa software yara upita'na amunika</string>
+  <string name="update_fail_desc">Umeresé'ana yepé yawisawa.</string>
+  <string name="update_fail_status">Gawapa mukuirisawa upé </string>
+  <string name="update_fail_sucancel_dm_status">Mukuirisawa amunika miasuwa resé </string>
+  <string name="update_fail_title">Gawapa mukuirisawa upé </string>
+  <string name="update_history_blank">Purãduwaĩma</string>
+  <string name="update_history_src_target">Wersawa mukuirisawa %1$s %2$s supé </string>
+  <string name="update_history_time">Kuiriwawa %1$s upé </string>
+  <string name="update_history_title">Mukuirisawa-ita marãduwa</string>
+  <string name="update_history_version">Software wersawa %1$s</string>
+  <string name="update_info">Umukuíri uikú…</string>
+  <string name="update_postpone_policy">Mukuirisawa diariwa murikuasara pulitika resé </string>
+  <string name="update_preference">Mukuirisawa ãbarisawa-ita</string>
+  <string name="update_success_desc">Wersãu kuiriwara software suí: %1$s</string>
+  <string name="update_success_desc_os">Ikatú reté! Ĩdé remũgatú ana Android %1$s Kuiri ĩdé repuderi repuyaka yepé wapurí Android katupíri, tekukuaukatú purí yuí pisikatú.</string>
+  <string name="update_success_status">Mukuirisawa upawana</string>
+  <string name="update_title">Mukuirisawa imupawa</string>
+  <string name="update_title_text">Repuyaka software pisasú</string>
+  <string name="upto_date_title">Purãga uikú! </string>
+  <string name="urgent_channel_name">Software mukuiresawa mbeusawa</string>
+  <string name="use_smart_updates">Uusári mukuírisawa-ita tekuaukatúwa</string>
+  <string name="vab_validation_update_failure_desc">Umeresé yepé gawapa walidasawa VAB mukuirisawa upé </string>
+  <string name="vab_validation_update_failure_title">Gawapa sepipawa VAB upé </string>
+  <string name="vab_validation_update_success_desc">Ikatú reté! Sepipawa VAB mukuirisawa imupawa</string>
+  <string name="vab_validation_update_success_title"> Sepipawa VAB imupawa</string>
+  <string name="verifying_patch">Ũba ũburi nẽyepé mukuírisawa. Yamaã yaikú kuá ũburisawa uikú ramẽ katú… (Etápa 4, 6 suí)  </string>
+  <string name="verity_disabled_msg">Uikó upuderi pisikasawa ayuwaá upé Remunyã kumãdasawa wiripé piri rekaripuãmu mukuirisawaetá kũtínua
+
+ adb enable-verity</string>
+  <string name="verity_disabled_title">Dispositiwo ti ukaripuãmu mukuirisawa purí </string>
+  <string name="verizon_failure_notification_text"> Ti repuderi remũgatú mukuirisawa disposotiwo upé Repurú Software mukuirisawa pitimũsara piri remunyã yawá  Retukari rekuau arã puri.</string>
+  <string name="verizon_failure_text">Umeresé yepé puxima remukuirí dispusitiwo ramẽ. Nẽyepé sinimusawa imunhãwa E-usai murakimaé Software Upgrade Assistant pirí mukuiri software.
+
+ Pirí mugatú murakimaé Software Upgrade Assistant, e-munhã kuayawá:
+
+1. E-yumũdi dispusitiwo kũputarawa upé yepé kabu USB 
+2 irũ.  Mairmẽ mẽnú USB upitá mukamẽwa dispusitiwo upé, e-selesiunari yumukaturusawa ikuni penawa iwatepura pokatú upé. 
+3. USB ãbarsawa upé, e-selesiunari software mugatusawa.
+4. Kũputarawa upé e-sikari mugatusawa pitimũsara.
+5. E-segiri imuẽgawa
+
+murakiaé Software Upgrade Assistant upitimũ ĩdé reyeí asuí mugatú software mukuirisawa dispusitiwo upé. </string>
+  <string name="vital_applying_updates">Umunhã uikú mukuirisawa…</string>
+  <string name="vital_bg_text">Yawá upuderi urasó amũamĩ kurimirĩ-ita.</string>
+  <string name="vital_check_for_updates">Upiãmu mukuirisawa…</string>
+  <string name="vital_check_for_updates_desc">Mukuirisawa usupirũ dispusitiwu asuí umukatupíri i desẽpẽnhu.</string>
+  <string name="vital_done">I mugaturuwa!</string>
+  <string name="vital_error_fail">Umeresé yepé yawisawa mukuirisawa upé. Ĩti aikué sinimusawa.</string>
+  <string name="vital_go_back">Ne gustape si ĩdé reputari remitú mugatusawa será?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">E amũyupirũ pirí rekũtinuari </string>
+  <string name="vital_skip">Mãtuwa</string>
+  <string name="vital_stop">Mitú</string>
+  <string name="wifi_setting">Wi-Fi yumukaturusawa-ita</string>
+</resources>

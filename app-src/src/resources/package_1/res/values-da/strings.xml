@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Opdater senere</string>
+  <string name="ab_download_now">Opdater nu</string>
+  <string name="ab_install_notification_paused_text">Baggrundsinstallation midlertidigt afbrudt</string>
+  <string name="ab_install_notification_text">Installation i baggrunden</string>
+  <string name="ab_restart_fullscreen_text">Du er næsten færdig! Det tager kun omkring 90 sekunder at genstarte enheden. Opdateringen har afventet i %1$d dage.</string>
+  <string name="ab_restart_text">Du er næsten færdig! Det tager kun omkring 90 sekunder at genstarte enheden</string>
+  <string name="ab_restart_warning_os_mr">Din systemopdatering er næsten fuldført. Enheden vil   </string>
+  <string name="ab_restart_warning_smr">Din sikkerhedsopdatering er næsten fuldført. Enheden genstarter </string>
+  <string name="ab_warning_continues"> for at færdiggøre opdateringen.</string>
+  <string name="abc_action_bar_home_description">Find hjem</string>
+  <string name="abc_action_bar_up_description">Gå op</string>
+  <string name="abc_action_menu_overflow_description">Flere valgmuligheder</string>
+  <string name="abc_action_mode_done">Udfør</string>
+  <string name="abc_activity_chooser_view_see_all">Se alle</string>
+  <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+  <string name="abc_capital_off">FRA</string>
+  <string name="abc_capital_on">TIL</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">slet</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Fn+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">mellemrum</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Søg…</string>
+  <string name="abc_searchview_description_clear">Ryd forespørgsel</string>
+  <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+  <string name="abc_searchview_description_search">Søg</string>
+  <string name="abc_searchview_description_submit">Indsend forespørgsel</string>
+  <string name="abc_searchview_description_voice">Talesøgning</string>
+  <string name="abc_shareactionprovider_share_with">Del med</string>
+  <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+  <string name="abc_toolbar_collapse_description">Skjul</string>
+  <string name="abupdate_in_progress_status">Softwareopdatering er i gang</string>
+  <string name="additional_charges_message">Download fortsætter på mobildata. Der bliver muligvis opkrævet datagebyrer.</string>
+  <string name="alertSubText">Dette bruges til at søge efter, downloade og installere opdateringspakker</string>
+  <string name="alertText">Tillad netværkshandlinger for softwareopdateringer</string>
+  <string name="alertTitle">Opdateringer kræver følgende tilladelse</string>
+  <string name="alert_dialog_cancel">Afbryd installation</string>
+  <string name="alert_dialog_continue">Fortsæt installation</string>
+  <string name="alert_dialog_no">Nej</string>
+  <string name="alert_dialog_ok">Forstået</string>
+  <string name="alert_dialog_yes">Ja</string>
+  <string name="allocate_space_success">Påkrævet hukommelse er tilgængelig til opdateringen</string>
+  <string name="allow">Tillad</string>
+  <string name="android_latest_sw_text">Du bruger den nyeste software</string>
+  <string name="android_version">Android-version:</string>
+  <string name="app_name">Motorola-softwareopdatering</string>
+  <string name="applied">Til</string>
+  <string name="apply_bug_fix">Anvend på fejlrettelser</string>
+  <string name="apply_os_update">Anvend for alle softwareopdateringer</string>
+  <string name="applying_patch">Anvender opdatering (Trin %1$d af %2$d)  </string>
+  <string name="are_you_sure">Slå Smart-opdateringer fra?</string>
+  <string name="are_you_sure_pop_up_text">Er du sikker på, du vil slå Smart-opdateringer fra? </string>
+  <string name="asc_campaign_assigned">Kampagne tildelt</string>
+  <string name="asc_campaign_is_allowed">Firmwareopdatering</string>
+  <string name="asc_campaign_is_blocked">Firmwarelås</string>
+  <string name="asc_campaign_not_assigned">Enheden er i øjeblikket ikke i en kampagne</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Opdateringsvindue: fra %s til %s</string>
+  <string name="asc_sw_up_to_date"> til seneste version</string>
+  <string name="asc_target_version"> til version </string>
+  <string name="auth_title">Systemopdatering</string>
+  <string name="auto_download_cellualr_charges_warn">Når du downloader opdateringer via mobilnetværk, kan der forekomme gebyrer.</string>
+  <string name="auto_download_enable_cellular_future_updates">Vil du også tilvælge mobildata-muligheden for fremtidige downloads?</string>
+  <string name="auto_download_settings_title">Indstillinger for automatisk download</string>
+  <string name="auto_download_wifi_cellular">Download automatisk via mobilnetværk og Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Download automatisk via mobilnetværk og Wi-Fi. Wi-Fi bruges som førsteprioritet, når det er tilgængeligt. </string>
+  <string name="auto_download_wifi_only">Kun automatisk download via Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Download kun automatisk via Wi-Fi</string>
+  <string name="auto_install_notification_text">Enheden installeres automatisk d. %1$s</string>
+  <string name="auto_time_set">Start kl.:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Da opdateringen er vigtig, bliver den automatisk installeret via mobildata d. %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Da opdateringen er vigtig, bliver den automatisk downloadet via mobildata d. %1$s</string>
+  <string name="background_install_msg">Denne opdatering fortsætter, hvis du går tilbage eller lukker dette vindue</string>
+  <string name="background_install_text">En opdatering downloades og installeres. Du kan fortsætte med at bruge din enhed.</string>
+  <string name="bad_connection">Intet internet</string>
+  <string name="bad_connection_text">Det ser ud til, at din enhed ikke har forbindelse til internettet. Tryk på den nederste knap for at prøve igen.</string>
+  <string name="bg_install_cancel_confirm">Er du sikker på, at du vil afbryde installationen?</string>
+  <string name="bg_retried">Softwaredownload er blevet afbrudt. Vi bliver ved med at forsøge…</string>
+  <string name="bg_suspended">Venter på dataforbindelse for at genoptage download og installation i baggrunden</string>
+  <string name="bg_suspended_non_adminapn">Venter på Wi-Fi eller gratis begrænset internet for at genoptage download og installation i baggrunden...</string>
+  <string name="bg_suspended_roaming">Baggrundsinstallation sat på pause pga. roamingnetværk, tænd for dit Wi-Fi for at genoptage din baggrundsinstallation.</string>
+  <string name="bg_suspended_wifi">Venter på Wi-Fi for at genoptage download og installation i baggrunden</string>
+  <string name="bootloader_unlock_msg">Din enhed modtager ikke længere opdateringer og kan være udsat for sikkerhedsrisici.</string>
+  <string name="bootloader_unlock_title">Ingen tilgængelige opdateringer</string>
+  <string name="call_notification_answer_action">Besvar</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Afvis</string>
+  <string name="call_notification_hang_up_action">Læg på</string>
+  <string name="call_notification_incoming_text">Indgående opkald</string>
+  <string name="call_notification_ongoing_text">Igangværende opkald</string>
+  <string name="call_notification_screening_text">Et indgående opkald screenes</string>
+  <string name="cancel">Annuller</string>
+  <string name="cancel_download_notification">Annuller</string>
+  <string name="cancel_install">Annuller</string>
+  <string name="cancel_update_notification">Annuller</string>
+  <string name="check_for_updates_title">Søg efter opdateringer</string>
+  <string name="check_update_badparam">Opgraderingsforsøget er stødt på en fejl pga. mislykkedes login.
+
+Prøv igen senere.</string>
+  <string name="check_update_checking">Søger efter opdateringer...</string>
+  <string name="check_update_disabled_admin">Enhedsopdateringer kontrolleret af it-administrator</string>
+  <string name="check_update_downloading">Der downloades i øjeblikket en opdatering.
+
+Du bliver underrettet, når downloaden er fuldført.</string>
+  <string name="check_update_fail">Der er opstået en uventet fejl.
+
+Enheden forsøger en opdatering i baggrunden.</string>
+  <string name="check_update_internal">Kunne ikke søge efter opdateringer. Prøv igen senere.</string>
+  <string name="check_update_net">Kontrollér din internetforbindelse, og prøv igen</string>
+  <string name="check_update_net_vzw">Der kræves en dataforbindelse for at søge efter opdateringer. For at søge efter din Wi-Fi-forbindelse skal du gå til Indstillinger &gt; Netværk og internet &gt; Internet &gt; Wi-Fi.
+
+Du kan også gå til motorola.com/systemupdates for at se opdateringsmulighederne.</string>
+  <string name="check_update_not_sys_user">Kontrollér opdatering er ikke tilladt for gæsteprofiler</string>
+  <string name="check_update_processing">Kontakter vores server…
+Vent</string>
+  <string name="check_update_roaming">Systemopdatering er kun tilgængeligt via hjemmenetværk. 
+
+Gå til Indstillinger &gt; Netværk og internet &gt; Wi-Fi for at angive en forbindelse nu.</string>
+  <string name="check_update_storage_low">Opdatering er ikke mulig pga. utilstrækkelig lagringsplads på enheden.</string>
+  <string name="check_update_temperror">Der kunne ikke gennemføres en download af opdateringer på nuværende tidspunkt.
+
+Prøv igen.</string>
+  <string name="check_update_text">Hvis du søger efter opdateringer med jævne mellemrum, holder det din enhed mere sikker og forbedrer dens ydeevne</string>
+  <string name="check_update_title_downloading">Download i gang...</string>
+  <string name="check_update_vab_validation">Tjekker status for VAB-valideringsopdatering
+Vent</string>
+  <string name="check_update_wifi_only">Systemopdatering er kun muligt via Wi-Fi.</string>
+  <string name="check_wifi_settings">Kontroller Wi-Fi-indstillinger</string>
+  <string name="clear_space">Frigør plads</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">En applikation kræver en opdatering af appen Android Wear.</string>
+  <string name="common_android_wear_update_text">Denne app kan ikke køre, medmindre du opdaterer appen Android Wear.</string>
+  <string name="common_android_wear_update_title">Opdater Android Wear</string>
+  <string name="common_google_play_services_enable_button">Aktivér Google Play-tjenester</string>
+  <string name="common_google_play_services_enable_text">Denne app virker ikke, medmindre du aktiverer Google Play-tjenester.</string>
+  <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Anmodning fra %1$s</string>
+  <string name="common_google_play_services_install_button">Hent Google Play-tjenester</string>
+  <string name="common_google_play_services_install_text_phone">Denne app kan ikke køre uden Google Play-tjenester, som mangler på din telefon.</string>
+  <string name="common_google_play_services_install_text_tablet">Denne app kan ikke køre uden Google Play-tjenester, som mangler på din tablet.</string>
+  <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+  <string name="common_google_play_services_invalid_account_text">Den angivne konto findes ikke på denne enhed. Vælg en anden konto.</string>
+  <string name="common_google_play_services_invalid_account_title">Ugyldig konto</string>
+  <string name="common_google_play_services_needs_enabling_title">En applikation kræver, at Google Play-tjenester aktiveres.</string>
+  <string name="common_google_play_services_network_error_text">Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester.</string>
+  <string name="common_google_play_services_network_error_title">Netværksfejl</string>
+  <string name="common_google_play_services_notification_needs_installation_title">En applikation kræver, at Google Play-tjenester installeres.</string>
+  <string name="common_google_play_services_notification_needs_update_title">En applikation kræver, at Google Play-tjenester opdateres.</string>
+  <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+  <string name="common_google_play_services_unknown_issue">Ukendt problem med Google Play-tjenester.</string>
+  <string name="common_google_play_services_unsupported_text">Google Play-tjenester, som nogle af dine applikationer er afhængige af, understøttes ikke af din enhed. Kontakt producenten for at få hjælp.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play-tjenester</string>
+  <string name="common_google_play_services_update_button">Opdater</string>
+  <string name="common_google_play_services_update_text">Denne app kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+  <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+  <string name="common_open_on_phone">Åbn på telefonen</string>
+  <string name="common_signin_button_text">Log ind</string>
+  <string name="common_signin_button_text_long">Log ind med Google</string>
+  <string name="compatibility_failed_title">Pakkenkontrol mislykkedes</string>
+  <string name="compatibility_verification_failure">Opdateringspakken, som downloades, er ikke kompatibel med den aktuelle softwareversion på enheden.</string>
+  <string name="compatibility_verification_failure_df">
+
+Henvend dig til producenten af din enhed.</string>
+  <string name="compatibility_verification_success">Verificeret</string>
+  <string name="completed"> Installation fuldført. Du vil blive bedt om at genstarte din telefon (Trin  af )%1$d%2$d</string>
+  <string name="completed_install">%s fuldført</string>
+  <string name="connect_to_wifi">Opret forbindelse til 
+Wi-Fi</string>
+  <string name="continue_button">Fortsæt</string>
+  <string name="critical_install_message_popup_os_mr">En vigtig systemopdatering er tilgængelig. Vælg Installer for at anvende opdateringen. Hvis ikke anvendes opdateringen automatisk d. %1$s.</string>
+  <string name="critical_install_message_popup_smr">En vigtig sikkerhedsopdatering er tilgængelig. Vælg Installer for at anvende opdateringen. Hvis ikke, anvendes opdateringen automatisk d. %1$s.</string>
+  <string name="critical_install_message_screen">Denne vigtige opdatering installeres automatisk d. %1$s. Sørg for, at du har nok batteri til installation.</string>
+  <string name="critical_install_notification">Da dette er en vigtig opdatering, installeres den automatisk på din enhed d. %1$s.
+Installationstid: %2$d minutter</string>
+  <string name="critical_restart_message_popup">For at anvende denne vigtige opdatering skal du genstarte så hurtigt som muligt. Hvis du ikke kan, genstarter din enhed automatisk d. %1$s.</string>
+  <string name="critical_restart_message_screen">Da dette er en vigtig opdatering, genstarter din enhed automatisk d. %1$s, hvis du ikke har genstartet inden da.</string>
+  <string name="critical_restart_notification">Denne opdatering er vigtig. Hvis du ikke kan genstarte nu, genstarter din enhed automatisk d. %1$s.</string>
+  <string name="critical_update_notification_title">Vigtig opdatering</string>
+  <string name="current_version">Aktuel softwareversion:</string>
+  <string name="custom_slot">Tilpasset tilstand</string>
+  <string name="custom_time">Tilpasset tid</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s kl. %s</string>
+  <string name="defer_count_expired">OK</string>
+  <string name="deny">Afvis</string>
+  <string name="details">Detaljer</string>
+  <string name="device_corrupted_msg">Vi fandt nogle systemproblemer. Vi ved godt, at det er ubelejligt, men du skal besøge dit lokale servicecenter for at få dem fikset.
+
+Når din telefon er fikset, kan vi fortsætte med at køre opdateringer på din telefon.</string>
+  <string name="device_corrupted_title">Kan ikke opdatere telefonen</string>
+  <string name="dialog_alert_net_message">Kontroller din Wi-Fi- eller mobildataforbindelse, og prøv igen.</string>
+  <string name="dialog_alert_net_title">Din enhed er offline</string>
+  <string name="dialog_alert_title">Lavt batteriniveau</string>
+  <string name="dialog_progress">Indlæser…</string>
+  <string name="dl_options_mobile_only_warning">Det anbefales at bruge Wi-Fi. Download med mobildata eller brug af mobildata under roaming kan medføre yderligere gebyrer.
+
+Hvis du downloader denne software, vil det ikke påvirke enhedens betjening.</string>
+  <string name="done">Udført</string>
+  <string name="dont_show_this_again">Vis ikke dette igen</string>
+  <string name="download_cancelled_title">Download er annulleret</string>
+  <string name="download_deferred_status">Softwaredownload blev udskudt d.</string>
+  <string name="download_failed_status">Opdateringen kunne ikke downloades d.</string>
+  <string name="download_in_progress_status">Softwaredownload er i gang</string>
+  <string name="download_later_button">Download senere</string>
+  <string name="download_no_button">Nej tak</string>
+  <string name="download_note">Du kan fortsat bruge din enhed, mens opdateringen installeres</string>
+  <string name="download_now">Download nu</string>
+  <string name="download_now_button">Download</string>
+  <string name="download_options">Downloadmuligheder</string>
+  <string name="download_progress_cancel_message">Hvis du vil downloade denne opdatering senere, skal du gå til Indstillinger &gt; Systemopdateringer</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s tilbage (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% downloadet (midlertidigt afbrudt)</string>
+  <string name="download_progress_text">Denne download fortsætter, hvis du går tilbage eller lukker dette vindue</string>
+  <string name="download_subtitle">Det skal du vide, før du downloader:</string>
+  <string name="download_text_whats_new">Se, hvad der er nyt</string>
+  <string name="download_time_left">%1$s tilbage</string>
+  <string name="download_version">Version%1$s – %2$s</string>
+  <string name="download_wifi_only_error">Wi-Fi er påkrævet for at downloade denne opdatering. Download genoptages, når din forbindelse genoprettes.</string>
+  <string name="downloaded_percentage">%1$s downloadet</string>
+  <string name="emergency_call_btn_txt">Nødopkald</string>
+  <string name="emergency_call_text">Du vil ikke kunne foretage eller modtage opkald, herunder nødopkald, under genstart.</string>
+  <string name="enable_wifi_error_txt">Opret forbindelse til Wi-Fi for at downloade denne opdatering.</string>
+  <string name="eol_explore">Udforsk nye enheder</string>
+  <string name="eol_last_update_text">Sikkerhedsrettelse:</string>
+  <string name="eol_promote">Se de seneste kampagner</string>
+  <string name="eol_title">Din enhed kører den senest tilgængelige software.</string>
+  <string name="err_title_contact_server">Kontakter server…</string>
+  <string name="err_title_memory_low">Lav hukommelse...</string>
+  <string name="err_title_temp_error">Midlertidig fejl</string>
+  <string name="err_title_update">Opdateringsfejl</string>
+  <string name="error_code">Fejlkode: </string>
+  <string name="error_copyfail">Kunne ikke kopiere fra SD-kortposition.</string>
+  <string name="error_disabled">Opdateringen kunne ikke downloades. Opdateringspakken er ikke tilgængelig i øjeblikket. 
+
+Ingen yderligere handling er påkrævet.</string>
+  <string name="error_fail">Vi beklager, men der opstod et problem under opdateringen af din %1$s. Der blev ikke foretaget nogen ændringer. Prøv igen ved at gå til Indstillinger &gt; Systemopdatering.</string>
+  <string name="error_in_call_msg">Enheden kan ikke opdatere nu, da et opkald er i gang</string>
+  <string name="error_in_call_title">Opkald er i gang</string>
+  <string name="error_install_title">Installationen mislykkedes</string>
+  <string name="error_mismatch">Der er opstået en versionsuoverensstemmelse. Der foretages en ny opdatering. Hvis der er en opdatering tilgængelig, modtager du besked.</string>
+  <string name="error_mismatch_sd">Opdateringen mislykkedes. Opdateringsversionen matcher ikke din telefon. 
+
+Download den korrekte version til telefonen, og prøv igen.</string>
+  <string name="error_network">Forbindelsen er gået tabt. Prøv igen ved manuelt at kontrollere opdateringer via telefonens indstillinger.</string>
+  <string name="error_reboot">Vi kunne ikke downloade denne opdatering. Hvis du vil hente denne opdatering senere, skal du genstarte din enhed og derefter gå til Indstillinger &gt; Systemopdateringer.</string>
+  <string name="error_resources">Vi kunne ikke downloade denne opdatering. Hvis du vil hente denne opdatering senere, skal du gå til Indstillinger &gt; Systemopdateringer.</string>
+  <string name="error_sdcard_resources_fail_removal">SD-kort blev fjernet. Download-processen blev ikke færdiggjort. 
+
+Indsæt SD-kortet igen, og gå til Indstillinger &gt; Systemopdateringer for at prøve igen.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Kan ikke fuldføre download. Der er ikke nok plads på SD-kortet. 
+
+Frigør plads, og gå til Indstillinger &gt; Systemopdateringer for at prøve igen.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Indsæt SD-kort for at starte download.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Indsæt SD-kortet for at starte download. 
+
+Gå til Indstillinger &gt; Lager &gt; Indsæt SD-kort.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Der er ikke plads nok på SD-kortet til at færdiggøre download. 
+
+Frigør %1$s plads, og gå til Indstillinger &gt; Systemopdateringer for at prøve at downloade igen.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Fejl</string>
+  <string name="error_sdcard_resources_warning">Softwareopdateringer downloader til SD-kort. 
+
+Fjern ikke SD-kortet, før installationen er fuldført.
+
+
+</string>
+  <string name="error_server">Der er opstået en fejl på serveren. Prøv igen senere.</string>
+  <string name="error_space">Denne opdatering kræver %1$s ledig lagerplads på din enhed. 
+
+Slet overflødige apps, eller flyt dine billeder og videoer til en anden lagerenhed for at frigøre %2$s plads. 
+
+Når du er klar, kan du gå til Indstillinger &gt; Systemopdatering for at starte opdateringen når som helst.</string>
+  <string name="error_space_retry">Denne opdatering kræver %1$s ledig lagerplads på din enhed. 
+
+Slet overflødige apps, eller flyt dine billeder og videoer til en anden lagerenhed for at frigøre %2$s plads.</string>
+  <string name="error_space_vab">Denne opdatering kræver %1$s ledig plads på din enhed. Frigør hukommelse for at gennemføre opdateringer</string>
+  <string name="error_space_vab_make_room_popup">Du skal frigøre %1$s plads, før du opdaterer. Prøv at slette ubrugte apps eller flytte fotos og videoer til en anden lagerenhed.</string>
+  <string name="error_title">Download mislykkedes</string>
+  <string name="error_verify">Opdateringen kunne ikke bekræftes. Prøv igen.</string>
+  <string name="failed">Mislykket</string>
+  <string name="failed_in_roaming">Wi-Fi skal bruges i forbindelse med opdateringer</string>
+  <string name="failure_process">Oplysninger utilgængelige</string>
+  <string name="finalizing_patch">Færdiggør opdatering… (Trin 5 af 6)  </string>
+  <string name="first_net_text">Installer opdateringen, ellers installerer enheden den automatisk under næste genstart. Kontroller, at batteriniveauet er mere end %s</string>
+  <string name="forceInstallMessage">Denne opdatering installeres automatisk d. %1$s.</string>
+  <string name="force_install_message_screen">Dette er en vigtig opdatering, så installer den inden %1$s. Ellers installeres den automatisk på et tidspunkt, hvor din enhed bruges mindst. Sørg for, at du har nok batteritid til installation.</string>
+  <string name="force_install_notification_message">Installer senest %1$s. Ellers installeres den automatisk på et tidspunkt, hvor din enhed bruges mindst.
+Installationstid: %2$d minutter</string>
+  <string name="force_restart_notification_message">Genstart senest %1$s. Ellers installeres den automatisk på et tidspunkt, hvor din enhed bruges mindst.</string>
+  <string name="force_restart_screen_message">Hvis du ikke genstarter senest %1$s, genstarter enheden automatisk, når den bruges mindst.</string>
+  <string name="google">Google</string>
+  <string name="got_it">OK</string>
+  <string name="important_update_install_overdue_message">Den tidsplan, der er planlagt til installation, er overskredet. Installationen starter, når din enhed opfylder kriterierne.</string>
+  <string name="important_update_restart_overdue_message">Den tidsplan, der er planlagt til genstart, er overskredet. Enheden genstarter, når den opfylder kriterierne.</string>
+  <string name="initiating_ota_service_msg">Vent ...</string>
+  <string name="initiating_ota_service_title">Inistialiserer softwareopdateringsprocessen</string>
+  <string name="install">Installer</string>
+  <string name="install_after_one_hour">Installer om 1 time</string>
+  <string name="install_cancelled_title">Installationen blev annulleret</string>
+  <string name="install_deferred_status">Opdatering blev udskudt d.</string>
+  <string name="install_later">Installer senere</string>
+  <string name="install_notify_sanity_call_msg">Enheden kan ikke installere nu, da den foretager opkald</string>
+  <string name="install_notify_sanity_maps_msg">Enheden kan ikke installere nu, da navigation er slået til</string>
+  <string name="install_now">Installer nu</string>
+  <string name="install_postponed">Installation udsat</string>
+  <string name="install_progress_cancel_message">Hvis du vil installere denne opdatering senere, skal du gå til Indstillinger &gt; Systemopdateringer</string>
+  <string name="install_progress_paused_message">%s færdig (midlertidigt afbrudt)</string>
+  <string name="install_time">Installationstid: %1$d minutter</string>
+  <string name="install_warning">Det skal du vide, før du installerer</string>
+  <string name="just_one_more_step">Kun ét trin mere</string>
+  <string name="keep_it_on">Lad det forblive aktiveret</string>
+  <string name="later_button">Påmind mig senere</string>
+  <string name="learn_more_online_link">Lær mere online</string>
+  <string name="low_battery_bg_install">Installation på pause på grund af lavt batteriniveau. Installationen genoptages, når dit batteri er på over 20 %.</string>
+  <string name="low_battery_download">Download på pause på grund af lavt batteriniveau. Download genoptages, når din enhed er opladet.</string>
+  <string name="low_battery_install">Oplad enheden til minimum %s, før du installerer denne opdatering</string>
+  <string name="make_space">Frigør plads</string>
+  <string name="mandatory_install_notification">Hvis du ikke installerer denne systemopdatering snart, går du glip af vigtige sikkerhedsopdateringer samt nye funktioner og fejlrettelser.</string>
+  <string name="mandatory_restart_notification">Da det er en vigtig opdatering, bedes du genstarte nu. Ellers går du glip af sikkerhedsopdateringer samt nye funktioner og fejlrettelser.</string>
+  <string name="medium_channel_name">Underretning om softwareoverførsel</string>
+  <string name="merge_emergency_call_text">Du vil ikke kunne foretage eller modtage opkald, herunder nødopkald, under genstart.</string>
+  <string name="merge_force_restart_text">Hvis du ikke vil genstarte nu, genstarter telefonen automatisk, når den bliver inaktiv.</string>
+  <string name="merge_progress_text">Når opdateringen er fuldført, sender vi en notifikation</string>
+  <string name="merge_progress_title">Afslutter opdatering…</string>
+  <string name="merge_restart_text">Opdateringen afsluttes, når din telefon er genstartet</string>
+  <string name="merge_restart_title">Genstart igen</string>
+  <string name="merge_update_fail_notify_text">Vi fandt nogle systemproblemer. Besøg dit servicecenter for at reparere dem</string>
+  <string name="merge_update_fail_notify_title">Opdatering mislykkedes</string>
+  <string name="merge_update_fail_text">Vi har fundet nogle systemproblemer, som vil forhindre dig i at modtage opdateringer. Besøg dit servicecenter for at løse dem.
+
+I mellemtiden kan du fortsætte med at bruge din telefon som normalt.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Vælg en konto</string>
+  <string name="multiple_account_alert">Vælg en %1$s-konto for at fortsætte med systemopdateringen.</string>
+  <string name="no_thanks">Nej tak</string>
+  <string name="no_thanks_message">Hvis du vil hente denne opdatering senere, skal du gå til Indstillinger &gt; Systemopdateringer.</string>
+  <string name="no_updates_applied">Ingen opdateringer er blevet anvendt</string>
+  <string name="not_now">Ikke nu</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Tilladelse, som apps skal have for at interagere med otaservice</string>
+  <string name="package_size">Størrelse af download: %1$s</string>
+  <string name="personalInfo_instruction">Vi passer på dine personlige oplysninger</string>
+  <string name="picker_cell_radio">Wi-Fi- og mobildata</string>
+  <string name="picker_title">Vælg, hvordan du vil downloade denne opdatering:</string>
+  <string name="picker_wifi_only_radio">Kun Wi-Fi</string>
+  <string name="please_restart">Genstart nu</string>
+  <string name="policy_set">Systemopdateringen er blokeret. Kontakt din enhedsadministrator for at få flere oplysninger.</string>
+  <string name="press_back_again_to_exit">Tryk på TILBAGE igen for at afslutte</string>
+  <string name="progress_copying_sd">Kopierer opdatering</string>
+  <string name="progress_deffered">Download starter i Wi-Fi-/mobilnetværk</string>
+  <string name="progress_downloading_ota">Downloader systemopdatering</string>
+  <string name="progress_downloading_security">Downloader sikkerhedsopdatering</string>
+  <string name="progress_retried">Softwaredownload er blevet afbrudt. Vi bliver ved med at forsøge…</string>
+  <string name="progress_suspended">Venter på dataforbindelse for at genoptage download</string>
+  <string name="progress_suspended_datasaver">Deaktiver datalager for at genoptage download</string>
+  <string name="progress_suspended_no_adminapn">Venter på Wi-Fi eller gratis begrænset internet for at genoptage download</string>
+  <string name="progress_suspended_roaming">Download midlertidigt afbrudt pga. roamingnetværk, tænd for dit Wi-Fi for at genoptage din download.</string>
+  <string name="progress_suspended_wifi">Venter på Wi-Fi for at genoptage download.</string>
+  <string name="progress_verify">Bekræfter, at din enhed er klar til opdatering…</string>
+  <string name="progress_verify_allocate_space">Kontrollerer, om der er tilstrækkelig hukommelse</string>
+  <string name="relative_date_time">%1$s kl. %2$s</string>
+  <string name="release_note_battery_desc">Opdaterer for at forbedre batteritid og -brug</string>
+  <string name="release_note_battery_title">Batteri</string>
+  <string name="release_note_camera_desc">Disse forbedringer hjælper dig med at optage fotos med mere præcision og flere detaljer</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Ændringerne hjælper med at forbedre enhedens dataforbindelse</string>
+  <string name="release_note_cellular_title">Mobilnetværk</string>
+  <string name="release_note_charging_desc">Disse opdateringer giver dine opladningsevner et boost</string>
+  <string name="release_note_charging_title">Opladning</string>
+  <string name="release_note_generic_desc">Ændringerne hjælper med at forbedre enhedens overordnede ydeevne</string>
+  <string name="release_note_os_update_desc">Nye temaer i sort-hvid giver din telefon et raffineret udseende og gør din baggrund iøjnefaldende. Gennemse, hvordan apps bruger og deler dine data, før du giver apptilladelser, og gør den mere tilgængelig med Android 14's nye høre- og synsfunktioner.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Ændringerne hjælper med at forbedre enhedens ydeevne</string>
+  <string name="release_note_performance_title">Ydeevne</string>
+  <string name="release_note_security_desc">Indeholder sikkerhedsrettelser til og med %1$s</string>
+  <string name="release_note_security_title">Sikkerhedsopdatering</string>
+  <string name="release_note_stability_desc">Indeholder forbedringer og fejlrettelser, der gør din telefon endnu mere driftsikker</string>
+  <string name="release_note_stability_title">Stabilitet</string>
+  <string name="release_note_title">Denne opdatering indeholder</string>
+  <string name="release_note_wifi_desc">Omfatter opdateringer af din Wi-Fi-forbindelse</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Se alle de nye funktioner i Android %1$s</string>
+  <string name="request_suspended_datasaver">Deaktiver datasparefunktion for at starte download</string>
+  <string name="request_suspended_no_network">Ingen netværksdækning til at starte download</string>
+  <string name="restart_after_one_hour">Genstart om 1 time</string>
+  <string name="restart_instruction_title">Det skal du vide, inden du genstarter</string>
+  <string name="restart_later">Senere</string>
+  <string name="restart_message">Genstart nu for at opdatere</string>
+  <string name="restart_notification">Genstart</string>
+  <string name="restart_notification_text">Genstart nu for at opdatere. Opdateringen har afventet i %1$d dage.</string>
+  <string name="restart_notify_sanity_call_msg">Enheden kan ikke genstarte nu, da den foretager opkald</string>
+  <string name="restart_notify_sanity_maps_msg">Enheden kan ikke genstarte nu, da navigation er slået til</string>
+  <string name="restart_now">Genstart nu</string>
+  <string name="restart_postponed">Genstart udsat</string>
+  <string name="restart_title">Genstart enheden</string>
+  <string name="resume_download_on_cellular">Brug mobildata</string>
+  <string name="retrieving_token">Godkender...</string>
+  <string name="sdcard_predownload_text">
+På dette trin kopierer du opdateringen til systemhukommelsen. Opdateringen installeres under næste trin. 
+
+Tilslut din telefon til en strømkilde for at sikre, at du ikke løber tør for strøm på batteriet.</string>
+  <string name="search_menu_title">Søg</string>
+  <string name="secure_instruction">Denne proces er sikker</string>
+  <string name="security_download_notification_title">Gør din sikkerhed bedre</string>
+  <string name="security_install_notification_text">En ny sikkerhedsopdatering er klar til at blive installeret</string>
+  <string name="security_install_title">En sikkerhedsopdatering er klar</string>
+  <string name="security_patch">Sikkerhedsrettelse:</string>
+  <string name="security_update_low_storage_title">Sikkerhedsopdatering</string>
+  <string name="security_update_notification_text">Få den seneste sikkerhedsopdatering</string>
+  <string name="security_update_paused">Sikkerhedsopdatering stoppet</string>
+  <string name="security_update_pending_notification_text">Få den seneste sikkerhedsopdatering. Opdateringen har afventet i %1$d dage.</string>
+  <string name="security_update_title">Sikkerhedsopdatering</string>
+  <string name="select_account">Vælg en %1$s-konto</string>
+  <string name="selected_later_time_os_mr">Systemopdatering installeres </string>
+  <string name="selected_later_time_smr">Sikkerhedsopdateringen installeres på</string>
+  <string name="setting_sw_summary">Opdater til den nyeste software </string>
+  <string name="setting_sw_title">Systemopdateringer</string>
+  <string name="smart_cancel_update_toast_msg">Opdateringen er rykket til %1$s</string>
+  <string name="smart_end_time">Afslut</string>
+  <string name="smart_install_message_popup">Da du har aktiveret Smart-opdateringen, installeres opdateringen automatisk på din enhed d. %1$s, hvis du ikke har installeret den inden da. Sørg for, at du har nok batteri til installation.</string>
+  <string name="smart_restart_message_popup">Da du har aktiveret Smart-opdateringen, genstartes din enhed automatisk d. %1$s, hvis du ikke har genstartet den inden da.</string>
+  <string name="smart_settings_string">Opdateringer downloades og installeres automatisk, når du er tilsluttet Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Opdateringer downloades og installeres automatisk, når du er tilsluttet Wi-Fi eller bruger mobildata</string>
+  <string name="smart_settings_string_vzw">Opdateringer downloades og installeres automatisk</string>
+  <string name="smart_start_time">Start</string>
+  <string name="smart_to_string">Til</string>
+  <string name="smart_update_advanced">Avanceret</string>
+  <string name="smart_update_note">Af sikkerhedshensyn downloades alle vigtige sikkerhedsopdateringer automatisk, uanset om denne funktion er slået til eller fra</string>
+  <string name="smart_update_note_vzw">Af sikkerhedshensyn downloades og installeres alle vigtige sikkerhedsopdateringer automatisk, uanset om denne funktion er slået til eller fra.</string>
+  <string name="smart_update_pop_up_text">Hold din enhed sikker med automatiske opdateringer</string>
+  <string name="smart_update_recommendation">Prøv Smart-opdateringer</string>
+  <string name="smart_update_suggestion_text">Forbliv sikker med automatiske opdateringer</string>
+  <string name="smart_update_text_AB">Hjælp din enhed med at køre sikkert og effektivt ved automatisk at installere alle nye sikkerhedsopdateringer og fejlrettelser.</string>
+  <string name="smart_update_text_AB_vzw">Smart-opdateringer hjælper din enhed med at køre sikkert og effektivt. Når du slår dem til, vil alle nye <b>sikkerhedsopdateringer</b> blive downloadet automatisk. Efter download genstarter din enhed på et tidspunkt, du vælger.</string>
+  <string name="smart_update_text_classic">Smart-opdateringer hjælper din enhed med at køre sikkert og effektivt. Når du slår dem til, vil alle nye <b>sikkerhedsopdateringer og fejlrettelser</b> blive downloadet automatisk. Efter download genstarter og installerer din enhed på et tidspunkt, du vælger.</string>
+  <string name="smart_update_text_classic_vzw">Smart-opdateringer hjælper din enhed med at køre sikkert og effektivt. Når du slår dem til, vil alle nye <b>sikkerhedsopdateringer</b> blive downloadet automatisk. Efter download genstarter og installerer din enhed på et tidspunkt, du vælger.</string>
+  <string name="smart_update_time_slot_text_AB">Vælg et starttidspunkt</string>
+  <string name="smart_update_time_slot_text_classic">Vælg et installationstidspunkt</string>
+  <string name="smart_update_title">Smart-opdateringer</string>
+  <string name="software_not_update_to">Din software er endnu ikke blevet opdateret til</string>
+  <string name="software_update_in_progress">Dit system opdateres til version</string>
+  <string name="software_update_planned_summary">Kontrolleret – %1$s</string>
+  <string name="software_update_planned_title">Planlagt softwareopdatering</string>
+  <string name="software_update_to">Dit system er blevet opdateret til</string>
+  <string name="sofware_version">Softwareversion:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Gør plads til en opdatering</string>
+  <string name="su_btn">Indstillinger</string>
+  <string name="su_text_off">Du skal opdatere din enhed manuelt, når ny software bliver tilgængelig. Slå Smart-opdateringer til for at gøre processen automatisk. Tryk for flere oplysninger.</string>
+  <string name="su_text_on">Smart-opdateringer kører som standard mellem 01:00-03:00. Du kan ændre tidspunkterne for opdateringer eller slå Smart-opdateringer fra i indstillinger. Tryk for flere oplysninger.</string>
+  <string name="su_title_off">Smart-opdateringer er slået fra</string>
+  <string name="su_title_on">Smart-opdateringer er slået til</string>
+  <string name="system_download_notification_title">Systemopdatering</string>
+  <string name="system_install_notification_text">En systemopdatering er klar til at blive installeret</string>
+  <string name="system_install_title">En opdatering er klar</string>
+  <string name="system_pdl_notification_mr_title">Få fejlrettelser og meget mere</string>
+  <string name="system_pdl_notification_os_title">Android %1$s er her!</string>
+  <string name="system_update">Systemopdatering</string>
+  <string name="system_update_desc">Beskyt din enhed mod sikkerhedstrusler, og få de seneste Motorola- og Android-funktioner</string>
+  <string name="system_update_info_not_available">Ikke tilgængelig</string>
+  <string name="system_update_low_storage_text">Tryk her for at tjekke hukommelsen og fortsætte.</string>
+  <string name="system_update_low_storage_title">Systemopdatering</string>
+  <string name="system_update_notification_os_text">Oplev den nye Android</string>
+  <string name="system_update_notification_text">Download den nye software</string>
+  <string name="system_update_paused">Systemopdatering sat på pause</string>
+  <string name="system_update_pending_notification_os_text">Oplev den nye Android. Opdateringen har afventet i %1$d dage.</string>
+  <string name="system_update_pending_notification_text">Download den nye software. Opdateringen har afventet i %1$d dage.</string>
+  <string name="system_update_settings_list_item_title">Systemopdateringer</string>
+  <string name="system_update_status">Opdateringsstatus</string>
+  <string name="system_update_title">Systemopdatering</string>
+  <string name="tethered_permission_desc">Send 3c-opdateringsresultater</string>
+  <string name="tethered_update_result">Kopibeskyttede opdateringsresultater</string>
+  <string name="time_picker_text">Start installation uden en påmindelse</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Prøv igen</string>
+  <string name="turn_it_off">Deaktiver</string>
+  <string name="turn_it_on">Slå det til</string>
+  <string name="turn_on_smart_updates">Slå smart-opdateringer til?</string>
+  <string name="update">Opdater</string>
+  <string name="update_blocked_by_policy">Opdatering blokeret af admin-politik </string>
+  <string name="update_cancelled_status">Softwaredownload blev annulleret d.</string>
+  <string name="update_fail_desc">Noget gik galt</string>
+  <string name="update_fail_status">Opdatering mislykkedes</string>
+  <string name="update_fail_sucancel_dm_status">Opdatering annulleret af server</string>
+  <string name="update_fail_title">Opdatering mislykkedes</string>
+  <string name="update_history_blank">Ingen historik endnu</string>
+  <string name="update_history_src_target">Opdater fra %1$s til %2$s</string>
+  <string name="update_history_time">Opdateret d. %1$s</string>
+  <string name="update_history_title">Opdateringshistorik</string>
+  <string name="update_history_version">Softwareversion %1$s</string>
+  <string name="update_info">Opdaterer...</string>
+  <string name="update_postpone_policy">Opdatering udsat af admin-politik </string>
+  <string name="update_preference">Opdateringspræferencer</string>
+  <string name="update_success_desc">Aktuel softwareversion: %1$s</string>
+  <string name="update_success_desc_os">Tillykke! Du har installeret Android-version %1$s. Du er nu klar til at nyde en bedre, smartere og mere sikker Android-oplevelse.</string>
+  <string name="update_success_status">Opdatering gennemført</string>
+  <string name="update_title">Opdatering udført</string>
+  <string name="update_title_text">Nyd din nye software!</string>
+  <string name="upto_date_title">Alt ser fint ud!</string>
+  <string name="urgent_channel_name">Underretning om softwareopdatering</string>
+  <string name="use_smart_updates">Brug Smart-opdateringer</string>
+  <string name="vab_validation_update_failure_desc">VAB-valideringsopdatering mislykkedes</string>
+  <string name="vab_validation_update_failure_title">VAB-validering mislykkedes</string>
+  <string name="vab_validation_update_success_desc">Tillykke! VAB-valideringsopdatering lykkedes</string>
+  <string name="vab_validation_update_success_title">VAB-validering lykkedes</string>
+  <string name="verifying_patch">Opdatering anvendt. Bekræfter, at applikationen blev fuldført… (Trin 4 af 6)  </string>
+  <string name="verity_disabled_msg">Din enhed kan være udsat for sikkerhedsrisici. Udfør nedenstående kommando for at fortsætte med at få opdateringer
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Din enhed modtager ikke længere opdateringer</string>
+  <string name="verizon_failure_notification_text"> Din enhed kunne ikke installere denne opdatering. Brug Software Upgrade Assistant-værktøjet til at installere. Tryk for info.</string>
+  <string name="verizon_failure_text">Der opstod et problem under opdateringen af din enhed. Der blev ikke foretaget nogen ændringer. Du kan bruge Software Upgrade Assistant-værktøjet til at opdatere din software.
+
+For at installere Software Upgrade Assistant-værktøjet:
+
+1. Brug et USB-kabel til at tilslutte din enhed til computeren
+2. Når USB-menuen dukker op på din enhed, skal du vælge ikonet indstillinger øverst til højre
+3. Under USB-præferencer skal du vælge Softwareinstallation
+4. Skift til din pc, og søg efter installationsguiden
+5. Følg guiden
+
+Software Upgrade Assistant-værktøjet hjælper dig med at downloade og installere softwareopdateringer på din enhed.</string>
+  <string name="vital_applying_updates">Anvender opdateringer...</string>
+  <string name="vital_bg_text">Dette kan tage nogle få minutter.</string>
+  <string name="vital_check_for_updates">Søger efter opdateringer …</string>
+  <string name="vital_check_for_updates_desc">Opdateringer holder enheden sikker og forbedrer dens ydeevne.</string>
+  <string name="vital_done">Færdig!</string>
+  <string name="vital_error_fail">Der opstod en opdateringsfejl. Der er ikke foretaget nogen ændringer.</string>
+  <string name="vital_go_back">Er du sikker på, at du vil stoppe installationen?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Genstart for at fortsætte</string>
+  <string name="vital_skip">Skip</string>
+  <string name="vital_stop">Stop</string>
+  <string name="wifi_setting">Indstillinger for Wi-Fi</string>
+</resources>

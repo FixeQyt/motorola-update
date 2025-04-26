@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">您的设备将在 %1$d 秒内重新启动以完成更新。</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">于 %1$d 秒后重启</item>
+  </plurals>
+</resources>

@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">बाद्दे च अपडेट करा</string>
+  <string name="ab_download_now">हुंण अपडेट करा</string>
+  <string name="ab_install_notification_paused_text">बैकग्राउंड स्थापना रोकित्या</string>
+  <string name="ab_install_notification_text">बैकग्राउंड स्थापना</string>
+  <string name="ab_restart_fullscreen_text">तोहांदे उपकरणे जो भिरी शुरू करने च लगभग 90 सकिंटां दा टैम लगगा अपडेट %1$d दिनां तांए उपलब्ध ए</string>
+  <string name="ab_restart_text">तोहांदे उपकरणे जो भिरी शुरू करने च लगभग 90 सकिंटां दा टैम लगगा</string>
+  <string name="ab_restart_warning_os_mr">तोहां दा सिस्टम अपडेट लगभग पूरा होई गया ए। तोहां दा उपकरण होंगा   </string>
+  <string name="ab_restart_warning_smr">तोहां दा सुरक्षा अपडेट लगभग पूरा होई गया है। तोहां दा उपकरण होंगा   </string>
+  <string name="ab_warning_continues"> अपडेट पूरा करणे तांए।</string>
+  <string name="abupdate_in_progress_status">सॉफ्टवेयर अपडेट होआदा ए</string>
+  <string name="additional_charges_message">मोबाइल डेटा पर डाउनलोड जारी रैंगा. डेटा शुल्क लागू होई सकदे हन्।</string>
+  <string name="alertSubText">इसदा इस्तेमाल अपडेट पैकेज दी जांच, डाउनलोड कने इंस्टॉल करणे ताएं कित्या जांदा ए</string>
+  <string name="alertText">सॉफ़्टवेयर अपडेट तांए नेटवर्क संचालने दी अनुमति देया</string>
+  <string name="alertTitle">अपडेट तांए थल्ले दितियो अनुमति दी जरूरत होंदी ए</string>
+  <string name="alert_dialog_cancel">इंस्टॉल रोक्का</string>
+  <string name="alert_dialog_continue">इंस्टॉल करदे रेआ</string>
+  <string name="alert_dialog_no">नी/ना</string>
+  <string name="alert_dialog_ok">समझी गया</string>
+  <string name="alert_dialog_yes">हांजी</string>
+  <string name="allocate_space_success">अपडेट तांए जरूरी मेमोरी उपलब्ध ए</string>
+  <string name="allow">अनुमति देया</string>
+  <string name="android_latest_sw_text">तोहां नोआ सॉफ़्टवेयर दा इस्तेमाल करा दे हन् ।</string>
+  <string name="android_version">एंड्रॉयड संस्करण:</string>
+  <string name="app_name">मोटोरोला सॉफ्टवेयर अपडेट</string>
+  <string name="applied">चालू</string>
+  <string name="apply_bug_fix">बग फिक्स पर लागू करा</string>
+  <string name="apply_os_update">सभी सॉफ़्टवेयर अपडेटा पर लागू करा</string>
+  <string name="applying_patch">अपडेट लागू कित्या जा दा ए... (%2$d ते चरण %1$d)  </string>
+  <string name="are_you_sure">चुस्त अपडेट बंद करा?</string>
+  <string name="are_you_sure_pop_up_text">क्या तोहां सच्ची चुस्त अपडेट बंद करना चांदे हन? </string>
+  <string name="asc_campaign_assigned">अभियान असाइन कित्या गया</string>
+  <string name="asc_campaign_is_allowed">फर्मवेयर अपडेट होए</string>
+  <string name="asc_campaign_is_blocked">फर्मवेयर लॉक</string>
+  <string name="asc_campaign_not_assigned">अभियान असाइन नि कित्या गया</string>
+  <string name="asc_sw_up_to_date">नोए संस्करण तक</string>
+  <string name="asc_target_version">नोए संस्करण  तक</string>
+  <string name="auth_title">सिस्टम अपडेट</string>
+  <string name="auto_download_cellualr_charges_warn">मोबाइल नेटवर्के दे माध्यमे ने सॉफ्टवेयर पैकेज डाउनलोड करदे टैम, होर बिल जोग्गे शुल्क लागू होई सकदे हन्।</string>
+  <string name="auto_download_enable_cellular_future_updates">क्या तोहां बाद्दे दे डाउनलोड तांए भी सेल्युलर डाटा विकल्प चुंणना चांदे हन्?</string>
+  <string name="auto_download_settings_title">आटो डाउनलोड सेटिंगां</string>
+  <string name="auto_download_wifi_cellular">सेलुलर (सिर्फ घरेलू) कने वाई-फाई पर ऑटो डाउनलोड</string>
+  <string name="auto_download_wifi_cellular_desc">सेलुलर कने वाई-फाई पर अपणे आप डाउनलोड करा। उपलब्ध होंणे पर सबते पैले वाई-फ़ाई दा इस्तेमाल कित्या जांगा। </string>
+  <string name="auto_download_wifi_only">सिर्फ वाई-फाई पर ऑटो डाउनलोड</string>
+  <string name="auto_download_wifi_only_desc">सिर्फ वाई-फाई पर अप्पुं डाउनलोड</string>
+  <string name="auto_install_notification_text">डिवाइस %1$s पर अपणे आप इंस्टॉल होई जांगा</string>
+  <string name="auto_time_set">च चालु करा:</string>
+  <string name="automatic_bg_install_on_cellular_warning">इसदे महत्वे दे कारण, एह अपडेट %1$s पर मोबाइल डेटा दा इस्तेमाल करीके अपणे आप इंस्टॉल होई जांगा</string>
+  <string name="automatic_download_on_cellular_warning">इसदे महत्वे दे कारण, एह अपडेट %1$s पर मोबाइल डेटा दा इस्तेमाल करीके अपणे आप डाउनलोड होई जांगा</string>
+  <string name="background_install_msg">अगर तोहां वापस जांदे हन् या इस विंडो जो बंद करदे हन् ता एह अपडेट जारी रैंगा।</string>
+  <string name="background_install_text">अपडेट डाउनलोड/ इंस्टॉल होआ दा ए तोहां अपणे उपकरणे दा इस्तेमाल जारी रखी सकदे हन्।</string>
+  <string name="bad_connection">कोई कनेक्शन नी</string>
+  <string name="bad_connection_text">इयां लगदा ए कि तोहांदा उपकरण हाल ई च इंटरनेटे ने डिस्कनेक्ट होई गया ए। भिरी कोशिश करणे तांए थल्ले बटणे पर टैप करा।</string>
+  <string name="bg_install_cancel_confirm">क्या तोहां सच्ची स्थापना रोकणा चांदे हन्?</string>
+  <string name="bg_retried">सॉफ्टवेयर डाउनलोड च बाधा आइयो ए। अहां कोशिश करदे रैंगे…</string>
+  <string name="bg_suspended">बैकग्राउंड डाउनलोड कने स्थापना भिरी चालु करणे तांए डेटा कनेक्शन जो न्याला दे हन्…</string>
+  <string name="bg_suspended_non_adminapn">बैकग्राउंड डाउनलोड कने इंस्टॉल भिरी चालु करणे तांए वाई-फ़ाई या ज़ीरो रेटिड नेटवर्के जो न्याला दे हन्…</string>
+  <string name="bg_suspended_roaming">रोमिंग नेटवर्के दे कारण डाउनलोड रुकया ए , कृपया डाउनलोड करणा भिरी चालु करणे तांए वाई-फ़ाई चालू करा</string>
+  <string name="bg_suspended_wifi">बैकग्राउंड डाउनलोड कने इंस्टॉल भिरी चालु करणे ताएं वाई-फ़ाई जो न्याला दे हन् …</string>
+  <string name="bootloader_unlock_msg">तोहांदा उपकरण हुंण अपडेट प्राप्त नी करादा ए कने सुरक्षा जोखिमां ते ग्रस्त होई सकदा ए।</string>
+  <string name="bootloader_unlock_title">कोई अपडेट उपलब्ध नी ए</string>
+  <string name="cancel">रद्द करा</string>
+  <string name="cancel_download_notification">रद्द करा</string>
+  <string name="cancel_install">रद्द करा</string>
+  <string name="cancel_update_notification">रद्द करा</string>
+  <string name="check_for_updates_title">अपडेट तांए जांच करा</string>
+  <string name="check_update_badparam">लॉग इन फेल होणे दे कारण अपग्रेड कोशिश च गड़बड़ आइयो ए।
+
+कृपया बाद्दे च भिरी कोशिश करा</string>
+  <string name="check_update_checking">अपडेट तांए जांच करा दे…</string>
+  <string name="check_update_disabled_admin">आई टी व्यवस्थापके द्वारा नियंत्रित</string>
+  <string name="check_update_downloading">हाल ही च इक अपडेट डाउनलोड कित्या जा दा ए।
+
+डाउनलोड पूरे होणे पर तोहां जो दस्या जांगा</string>
+  <string name="check_update_fail">इक अनचाही गड़बड़ होई ओ
+
+उपकरण बैकग्राउंड च अपडेट तांए भिरी कोशिश करगा।</string>
+  <string name="check_update_internal">अपडेटां दी जाँच करणे च असमर्थ। बादे च भिरी कोशिश करा</string>
+  <string name="check_update_net">अद्यतनों दी जाँच करने दे लेई तुसांजो डेटा कनेक्शन दी आवश्यकता ऐ| अपने वाई-फाई कनेक्शन दी जांच करने दे लेई, इंटरनेट &gt; वाई-फाई &gt; सेटिंगां &gt; इंटरनेट पर जा।</string>
+  <string name="check_update_net_vzw">अद्यतनों दी जाँच करने दे लेई तुसांजो डेटा कनेक्शन दी आवश्यकता ऐ| अपने वाई-फाई कनेक्शन दी जांच करने दे लेई, इंटरनेट &gt; वाई-फाई &gt; सेटिंगां &gt; इंटरनेट पर जा।
+
+तुसां बाकी अद्यतन विकल्प दिखने दे लेई motorola.com/systemupdates पर भी जाई सकदे हन।</string>
+  <string name="check_update_processing">अपणे सर्वरे ने संपर्क करा दे हन्...
+कृपया न्याला</string>
+  <string name="check_update_roaming">सिस्टम अपडेट सिर्फ होम नेटवर्के दे माध्यमें ने उपलब्ध ए। 
+
+ हुंण कनेक्शण सेट करणे तांए सेटिंगां &gt; नेटवर्क कने इंटरनेट &gt; वाई-फ़ाई पर जा।</string>
+  <string name="check_update_storage_low">उपकरण पर घट संग्रहण जगह दे कारण अपडेट संभव नी ए।</string>
+  <string name="check_update_temperror">अपडेट दा डाउनलोड हाली पूरा नी कित्या जाई सकया।
+
+कृपया फिरी कोशश करा।</string>
+  <string name="check_update_text">टैमे-टैमे पर अपडेट दी जांच करणे ने तोहां दा उपकरण सुरक्षित रही सकदा ए कन इसदे प्रदर्शणे च सधार होई सकदा ए।</string>
+  <string name="check_update_title_downloading">डाउनलोड होआदा ए…</string>
+  <string name="check_update_vab_validation">वीएबी सत्यापन अपडेट स्थितिया दी जांच कितियो जा दी ए 
+कृपया न्याला</string>
+  <string name="check_update_wifi_only">सिस्टम अपडेट सिर्फ वाई-फाई दे माध्यमें ने उपलब्ध ए।</string>
+  <string name="check_wifi_settings">वाई-फाई सेटिंगां दी जाँच करा</string>
+  <string name="clear_space">जगह खाली करा</string>
+  <string name="cloud_picker_title">क्लाउड चुंणने आला</string>
+  <string name="compatibility_failed_title">पैकेज सत्यापन फेल</string>
+  <string name="compatibility_verification_failure">डाउनलोड कित्या जा दा अपडेट पैकेज उपकरणे पर हाल ही दे सॉफ़्टवेयर संस्करणे कन्ने अनुकूल नी ए</string>
+  <string name="compatibility_verification_failure_df">
+
+कृपया अपणे डाॅग फूड समन्वयक ने संपर्क करा।</string>
+  <string name="compatibility_verification_success">सफलतापूर्वक पुष्टी होइओ ए</string>
+  <string name="completed"> इंस्टॉल पूरा होई गया (चरण %2$d ते %1$d)</string>
+  <string name="completed_install">%s पूरा होई गया</string>
+  <string name="continue_button">जारी रक्खा</string>
+  <string name="critical_install_message_popup_os_mr">इक जरूरी सुरक्षा अपडेट उपलब्ध ए। अपडेट लागू करणे तांए कृपया स्थापित करा जो चुंणा। अगर नी, ता अपडेट अपणे आप %1$s पर लागू होई जांगा।</string>
+  <string name="critical_install_message_popup_smr">इक जरूरी सुरक्षा अपडेट उपलब्ध ए। अपडेट लागू करणे तांए कृपया स्थापित करा जो चुंणा। अगर नी, ता अपडेट अपणे आप %1$s पर लागू होई जांगा।</string>
+  <string name="critical_install_message_screen">एह जरूरी अपडेट अपणे आप %1$s पर इंस्टॉल होई जांगा। पक्का करा कि तोहां ला स्थापना तांए काफी बैटरी ए।</string>
+  <string name="critical_install_notification">कैंजे एह अपडेट जरूरी ए, इस ताएं तोहां दा उपरकण%1$s जो अपणे आप इंस्टॉल होई जांगा
+ इंस्टॉल टैम: %2$d मिंट</string>
+  <string name="critical_restart_message_popup">इस जरूरी अपडेट जो झट ते झट लागू करणे तांए कृपया अपणे उपकरणे जो भिरी चालु करा । जे अगर तोहां अपणे आप भिरी चालू नी करदे हन्, ता तोहांदा उपकरण अपणे आप %1$s जो भिरी चालू होई जांगा।</string>
+  <string name="critical_restart_message_screen">कैंजे एह इक जरूरी अपडेट ए, जे अगर तोहां तालु तिकर भिरी चालु नी कित्या ए , ता तोहां दा उपकरण %1$s जो अपणे आप भिरी चालु होई जांगा।</string>
+  <string name="critical_restart_notification">कैंजे एह अपडेट जरूरी ए, इस ताएं तोहां दा उपरकण%1$s जो अपणे आप भिरी चालु होई जांगा</string>
+  <string name="critical_update_notification_title">जरूरी अपडेट</string>
+  <string name="current_version">हुंण दा सॉफ्टवेयर संस्करण:</string>
+  <string name="custom_slot">अनुकूलित</string>
+  <string name="date_time">%s पर %s</string>
+  <string name="defer_count_expired">समझी गया</string>
+  <string name="deny">मुकरना</string>
+  <string name="details">विवरण</string>
+  <string name="dialog_alert_net_message">अपणा वाई-फ़ाई या मोबाइल डेटा कनेक्शन जांचा कने भिरी ते कोशिश करा.</string>
+  <string name="dialog_alert_net_title">तोहां दा उपकरण ऑफ़लाइन ए</string>
+  <string name="dialog_alert_title">बैटरी घट ए</string>
+  <string name="dialog_progress">लोड होआ दा ए…</string>
+  <string name="dl_options_mobile_only_warning">वाई-फ़ाई दे इस्तेमाल करणे दी सिफारिश कितियो जांदी ए मोबाइल डेटा कन्ने डाउनलोड करणे या रोमिंग दे दौरान मोबाइल डेटा दा इस्तेमाल करणे पर होर शुल्क लगी सकदे हन्।
+
+इस सॉफ़्टवेयरे जो डाउनलोड करणे ते तोहां दे उपकरणे दे संचालने पर कोई प्रभाव नी पोंगा।</string>
+  <string name="done">होइ गया</string>
+  <string name="dont_show_this_again">इसे दुबारा न दिखाओ</string>
+  <string name="download_cancelled_title">डाउनलोड रद्द करित्या</string>
+  <string name="download_deferred_status">सॉफ़्टवेयर डाउनलोड जो स्थगित करी दित्या गया था</string>
+  <string name="download_failed_status">अपडेट डाउनलोड करणे च फेल</string>
+  <string name="download_in_progress_status">सॉफ्टवेयर डाउनलोड होआदा ए</string>
+  <string name="download_later_button">बाद्दे च डाउनलोड करा</string>
+  <string name="download_no_button">जी नि, धन्यवाद</string>
+  <string name="download_note">अपडेट इंस्टॉल होंणे दे दौरान तोहां अपणे उपकरण दा इस्तेमाल जारी रखी सकदे हन् </string>
+  <string name="download_now">हुंण डाउनलोड करा</string>
+  <string name="download_now_button">डाउनलोड</string>
+  <string name="download_options">डाउनलोड विकल्प</string>
+  <string name="download_progress_cancel_message">अगर तोहां इस अपडेट जो बाद्दे च डाउनलोड करणा चांदे हन्, ता सेटिंगां &gt; सिस्टम अपडेट पर जा।</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s बचया (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% डाउनलोड होई गया(रोकित्या)</string>
+  <string name="download_progress_text">अगर तोहां वापस जांदे हन् या इस विंडो जो बंद करदे हन् ता एह डाउनलोड जारी रैंगा।</string>
+  <string name="download_subtitle">डाउनलोड करणे ते पैले तोहांजो क्या पता होंणा चाइदा</string>
+  <string name="download_text_whats_new">दिक्खा कि क्या नोआ ए</string>
+  <string name="download_time_left">%1$s छड्डी गया</string>
+  <string name="download_version">नोआ संस्करण: %1$s</string>
+  <string name="download_wifi_only_error">इस अपडेट जो डाउनलोड करणे तांए वाई-फाई दी जरूरत ए। तोहांदा कनेक्शण रीस्टोर होंदे ई डाउनलोड भिरी शुरू होई जांगा।</string>
+  <string name="downloaded_percentage">%1$s डाउनलोड होई गया</string>
+  <string name="emergency_call_btn_txt">आपातकालीन</string>
+  <string name="emergency_call_text">आप रिबूट दे दौरान आपातकालीन कॉलां कने कॉल करणें या पाणें च सक्षम नी होंगे!</string>
+  <string name="enable_wifi_error_txt">इस अपडेट जो डाउनलोड करणे तांए वाई-फाई ने जुड़ा।</string>
+  <string name="eol_explore">नोए उपकरण तोपा</string>
+  <string name="eol_last_update_text">सुरक्षा पैच: </string>
+  <string name="eol_promote">नोआ प्रचार दिक्खा</string>
+  <string name="eol_title">तोहां दा आपका उपकरण नोएं उपलब्ध सॉफ़्टवेयरे जो चला दा ए।</string>
+  <string name="err_title_contact_server">सर्वरे ने संपर्क करा दे…</string>
+  <string name="err_title_memory_low">घट मेमोरी…</string>
+  <string name="err_title_temp_error">अस्थाई गड़बड़</string>
+  <string name="err_title_update">अपडेट गड़बड़</string>
+  <string name="error_code">गड़बड़ कोड: </string>
+  <string name="error_copyfail">एसडी कार्ड लोकेशण ते कॉपी करणे च फेल।</string>
+  <string name="error_disabled">अपडेट डाउनलोड करणे च फेल अपडेट पैकेज़ इस टैम उपलब्ध नी ए। 
+
+कुसी होर कार्रवाइया दी जरूरत नी ए।</string>
+  <string name="error_fail">माफ करा, तोहांदे %1$s जो अपडेट करणे च समस्या थी। कोई बदलाव नी किंत्ते कृपया सेटिंगां &gt; सिस्टम अपडेट पर जाई करी भिरी कोशिश करा ।</string>
+  <string name="error_in_call_msg">उपकरण हाली अपडेट नी होई सकदा कैंजे कॉल चालु ए</string>
+  <string name="error_in_call_title">काॅल चालु ए</string>
+  <string name="error_install_title">इंस्टॉल करणा फेल</string>
+  <string name="error_mismatch">इक संस्करण बेमेल होई गया ए। भिरी अपडेट होंगा। अगर कोई उपलब्ध ए, ता तोहांजो संकेत दित्या जांगा।</string>
+  <string name="error_mismatch_sd">अपडेट करणे च फेल अपडेट संस्करण तोहांदे फ़ोने ने मेल नी खांदा ए। 
+
+कृपया अपणे फ़ोने तांए सही संस्करण डाउनलोड करा कने भिरी कोशिश करा।</string>
+  <string name="error_network">कनेक्शन गवाच्चिया कृपया फ़ोन सेटिंगां दे माध्यमे ने अपडेट तांए अपणे आप जाँच करीके भिरी कोशिश करा।</string>
+  <string name="error_reboot">इस अपडेट जो डाउनलोड करणे च असमर्थ अगर तोहां इस अपडेट जो बाद्दे च पांणा चांदे हन्, ता उपकरणे जो भिरी चालु करा, फिरी सेटिंगां &gt; सिस्टम अपडेट पर जा।</string>
+  <string name="error_resources">अहां इस अपडेट जो डाउनलोड करणे च सक्षम नी थे। अगर तोहां इस अपडेट जो बाद्दे च पांणा चांदे हन्, ता सेटिंगां &gt; सिस्टम अपडेट पर जा।</string>
+  <string name="error_sdcard_resources_fail_removal">एस डी कार्ड टाईत्या था डाउनलोड प्रक्रिया पूरी नी होइयो थी। 
+
+कृपया एस डी कार्ड भिरी पा कने भिरी कोशिश करणे तांए सेटिंगां &gt; सिस्टम अपडेट पर जा
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">डाउनलोड पूरा करणे च असमर्थ। एस डी कार्डे च जादा जगह नी ए 
+
+कुछ जगह खाली करा कने भिरी कोशिश करणे तांए सेटिंगां &gt; सिस्टम अपडेट पर जा
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">डाउनलोड चालु करणे तांए कृपया एसडी कार्ड पा ।
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">डाउनलोड चालु करणे तांए कृपया एसडी कार्ड पा । 
+
+सेटिंगां &gt; संग्रहण &gt; एस डी कार्ड पा पर जा
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">डाउनलोड पूरा करणे तांए एस डी कार्डे च जादा जगह नी ए 
+
+कृपया %1$s जगह खाली करा कने भिरी डाउनलोड करणे दी कोशिश करणे तांए सेटिंगां &gt; सिस्टम अपडेट पर जा।
+
+
+</string>
+  <string name="error_sdcard_resources_title">गड़बड़</string>
+  <string name="error_sdcard_resources_warning">सॉफ़्टवेयर अपडेट एस डी कार्ड च डाउनलोड होआदा ए । 
+
+स्थापना पूरी होंणे तिकर कृपया एसडी कार्ड मत कड्दे।
+
+
+</string>
+  <string name="error_server">सर्वरे च इक गड़बड़ होई ओ कृपया बाद्दे च भिरी कोशिश करा</string>
+  <string name="error_space">इस अपडेट तांए तोहांदे उपकरणे पर उपलब्ध संग्रहण च %1$s दी जरूरत ए। 
+
+कृपया नी बरतियां ऐपां हटाई देया या जगह खाली करणे तांए अपणी फ़ोटो कने वीडियो जो कुसी होर संग्रहण उपकरण %2$s च लई जा। 
+
+ इक बरी होई जाणे दे बाद, तोहां कुसी भी टैम अपडेट चालु करणे तांए सेटिंगां &gt; सिस्टम अपडेट पर जाई सकदे हन्।</string>
+  <string name="error_space_retry">इस अपडेट तांए तोहांदे उपकरणे पर उपलब्ध संग्रहण च %1$s दी जरूरत ए। 
+
+कृपया नी बरतियां ऐपां हटाई देया या %2$s जगह खाली करणे तांए अपणी फ़ोटो कने वीडियो जो कुसी होर संग्रहण उपकरणे च लई जा।</string>
+  <string name="error_space_vab">इस अपडेट तांए तोहांदे उपकरण पर उपलब्ध खाली जगहां च %1$s दी जरूरत ए। कृपया सफल अपडेटां तांए मेमोरी खाली करा</string>
+  <string name="error_space_vab_make_room_popup">अपडेट करणे ते पैले तोहांजो %1$s जगह खाली करणी होंगी। इस्तेमाल नी होंइयां ऐपां जो हटाणे या फ़ोटो कने वीडियो जो कुसी होर संग्रहण उपकरणे पर लेई जाणे दी कोशिश करा।</string>
+  <string name="error_title">डाउनलोड फेल होई गया</string>
+  <string name="error_verify">अपडेट ढंगे ने सत्यापित नी कित्या जाई सकया। कृपया फिरी कोशश करा।</string>
+  <string name="failed">नाकामयाब</string>
+  <string name="failure_process">जानकारी उपलब्ध नी ए</string>
+  <string name="first_net_text">कृपया अपडेट स्थापित करा नी ता  उपकरण अगले रीबूट च अपणे आप  स्थापित होई जांगा। पक्का करा कि बैटरी दा स्तर %s ते जादा ए</string>
+  <string name="forceInstallMessage">एह अपडेट अपणे आप %1$s पर स्थापित होई जांगा।</string>
+  <string name="force_install_message_screen">एह इक जरूरी अपडेट ए, इस तांए कृपया %1$s तिकर इंस्टॉल करा। नी ता, एह अपणे आप तिस टैम इंस्टॉल होई जांगा जालु तोहांदा उपकरण घटे ते घट इस्तेमाल कित्या जांगा। पक्का करा कि तोहां ला स्थापना तांए काफी बैटरी जीवन ए।</string>
+  <string name="force_install_notification_message">कृपया %1$s द्वारा स्थापित करा। नी ता, तोहां दा उपकरण देये टैमे च अपणे आप इंस्टॉल होई जांगा जालु तिसदा घटे ते घट इस्तेमाल होआ दा हो ।
+ इंस्टॉल टैम: %2$d मिंट</string>
+  <string name="force_restart_notification_message">कृपया %1$s तिकर भिरी चालु करा । नी ता, तोहां दा उपकरण देऐ टैमे च अपणे आप भिरी चालु होई जांगा जालु तिसदा घटे ते घट इस्तेमाल होआ दा ओ</string>
+  <string name="force_restart_screen_message">जे अगर तोहां %1$s तिकर भिरी चालु नी करदे हन्, ता तोहां दा उपकरण घटे ते घट इस्तेमाल होणे पर अपणे आप भिरी चालु होई जांगा।</string>
+  <string name="google">गूगल</string>
+  <string name="got_it">समझी गया</string>
+  <string name="important_update_install_overdue_message">स्थापणा तांए निर्धारित टैम बीतिया ए । जियां ही तोहां दा उपकरण मानदंड पूरा करगा, इंस्टॉल होणा चालु होई जांगा।</string>
+  <string name="important_update_restart_overdue_message">भिरी चालु करणे तांए निर्धारित टैम बीतिया ए । मानदंड पूरा करणे दे बाद उपकरण भिरी चालू होई जांगा।</string>
+  <string name="initiating_ota_service_msg">कृपया न्याला...</string>
+  <string name="initiating_ota_service_title">सॉफ़्टवेयर अपडेट प्रक्रिया चालु कितियो जा दी ए।</string>
+  <string name="install">इंस्टॉल</string>
+  <string name="install_after_one_hour">1 घंटे च इंस्टॉल करा</string>
+  <string name="install_cancelled_title">इंस्टॉल रद्द करीत्या</string>
+  <string name="install_deferred_status">अपडेट जो पर टाली दित्या गया था</string>
+  <string name="install_later">बाद्दे च इंस्टॉल करा</string>
+  <string name="install_notify_sanity_call_msg">उपकरण हाली इंस्टाल नी होई सकदा कैंजे कॉल चालु ए</string>
+  <string name="install_notify_sanity_maps_msg">नेविगेशण चालू होणे दे कारण उपकरण हाली इंस्टाल नी होई सकदा ए</string>
+  <string name="install_now">हुंण इंस्टॉल करा</string>
+  <string name="install_postponed">इंस्टॉल स्थगित</string>
+  <string name="install_progress_cancel_message">अगर तोहां इस अपडेट जो बाद्दे च इंस्टॉल करणा चांदे हन्, ता सेटिंगां &gt; सिस्टम अपडेट पर जा।</string>
+  <string name="install_progress_paused_message">%s पूरा होई गया (रोकित्या)</string>
+  <string name="install_time">इंस्टॉल टैम: %1$d मिंट</string>
+  <string name="install_warning">स्थापित करणे ते पैले क्या जानणा ए।</string>
+  <string name="just_one_more_step">बस इक होर चरण</string>
+  <string name="keep_it_on">चालु ई रक्खा</string>
+  <string name="later_button">वादे च याद द्वायाँ</string>
+  <string name="learn_more_online_link">ऑनलाइन होर जांणा</string>
+  <string name="low_battery_bg_install">बैटरी घट होंणे दी वजह ते स्थापना रोकितियो ए। तोहांदे उपकरण दे चार्ज होंणे पर इंस्टॉलेशन भिरी चालु होई जांगा।</string>
+  <string name="low_battery_download">बैटरी घट होंणे दी वजह ते डाउनलोड रोकित्या ए। तोहांदे उपकरण दे चार्ज होंणे पर डाउनलोड भिरी चालु होई जांगा।</string>
+  <string name="low_battery_install">इस अपडेट जो स्थापित करणे ते पैले कृपया अपणे उपकरण जो घटे ते घट %s चार्ज करा</string>
+  <string name="make_space">जगह बंणा</string>
+  <string name="mandatory_install_notification">जे अगर तोहां झट ही इस सिस्टम अपडेटे जो इंस्टॉल नी करदे हन्, ता तोहां जरूरी सुरक्षा अपडेट, सोगी नोई सुविधां कने बग समाधान ते रई जांगे।</string>
+  <string name="mandatory_restart_notification">जियां कि एह इक जरूरी अपडेट ए, कृपया हुण भिरी चालु करा। नी ता तोहां सुरक्षा अपडेट कन्ने नोई सुविधां कने बग समाधान रई जागें।</string>
+  <string name="medium_channel_name">सॉफ्टवेयर डाउनलोड सूचणा देंणे आला</string>
+  <string name="motorola">मोटोरोला</string>
+  <string name="multiple_account">इक खाता चुंणा</string>
+  <string name="multiple_account_alert">सिस्टम अपडेट कन्ने अग्गे बधणे तांए %1$s खाता चुंणा।</string>
+  <string name="no_thanks">जी नि, धन्यवाद</string>
+  <string name="no_thanks_message">जे अगर तोहां सिर्फ अपडेट जो बादे च पाणा चांदे हन् ता सेटिंगां &gt; सिस्टम अपडेट पर जा.</string>
+  <string name="no_updates_applied">कोई अपडेट लागू नी कित्या गया</string>
+  <string name="not_now">हुंण नी</string>
+  <string name="otaservice_perm_desc">ऐपां जो ओ टी ए सेवां कन्ने इंटरैक्ट करणे तांए अनुमति</string>
+  <string name="package_size">डाउनलोड आकार: %1$s</string>
+  <string name="personalInfo_instruction">तोहां कोई निजी जानकारी नी गोआंगे</string>
+  <string name="picker_cell_radio">वाई-फाई कने मोबाइल डेटा</string>
+  <string name="picker_title">चुंणा कि तोहां इस अपडेट जो किंया डाउनलोड करणा चांदे हन्:</string>
+  <string name="picker_wifi_only_radio">सिर्फ वाई - फाई</string>
+  <string name="please_restart">कृपया हुण भिरी चालु करा</string>
+  <string name="policy_set">सिस्टम अपडेट रोकया ए। होर जानकारियां ताएं कृपया अपणे उपकरणे दे व्यवस्थापके ने संपर्क करा।</string>
+  <string name="press_back_again_to_exit">बार निकलणे ताएं वापस जा जो भिरी दब्बा</string>
+  <string name="progress_copying_sd">अपडेट काॅपी करा दे</string>
+  <string name="progress_deffered">डाउनलोड वाई-फाई/सेलुलर नेटवर्के च चालु होंगा।</string>
+  <string name="progress_downloading_ota">सिस्टम अपडेट डाउनलोड होआ दा</string>
+  <string name="progress_downloading_security">सुरक्षा अपडेट डाउनलोड होआ दा</string>
+  <string name="progress_retried">सॉफ्टवेयर डाउनलोड च बाधा आइयो ए। अहां कोशिश करदे रैंगे…</string>
+  <string name="progress_suspended">डाउनलोड भिरी चालु करणे तांए डेटा कनेक्शण जो न्याला दे</string>
+  <string name="progress_suspended_datasaver">डाउनलोड भिरी चालु करणे तांए डेटा बचाणे आला बंद करा</string>
+  <string name="progress_suspended_no_adminapn">डाउनलोड भिरी चालु करणे तांए वाई-फाई या जीरो रेटिड नेटवर्के जो न्याला दे</string>
+  <string name="progress_suspended_roaming">रोमिंग नेटवर्के दे कारण डाउनलोड रुकया ए , कृपया डाउनलोड करणा भिरी चालु करणे तांए वाई-फ़ाई चालू करा</string>
+  <string name="progress_suspended_wifi">डाउनलोड भिरी चालु करणे तांए वाई-फाई जो न्याला दे</string>
+  <string name="progress_verify">अपडेट दी पुष्टी करा दे…</string>
+  <string name="progress_verify_allocate_space">एह जांच करा दे कि मेमोरी काफी ए या नी</string>
+  <string name="relative_date_time">%1$s पर %2$s</string>
+  <string name="release_notes_string">एंड्रॉयड %1$s च सारी नोई सुविधां दिक्खा</string>
+  <string name="request_suspended_datasaver">डाउनलोड चालु करणे तांए डेटा बचाणे आला बंद करा</string>
+  <string name="request_suspended_no_network">डाउनलोड चालु करणे तांए कोई नेटवर्क कवरेज नी ए</string>
+  <string name="restart_after_one_hour">1 घंटे च भिरी चालु करा</string>
+  <string name="restart_instruction_title">भिरी चालु करणे ते पैले तोहां जो क्या पता होणा चाईदा</string>
+  <string name="restart_later">बाद ची</string>
+  <string name="restart_message">अपडेट करने तांए कृपया हुंण ही भिरी शुरू करा</string>
+  <string name="restart_notification">भिरी चालु करा</string>
+  <string name="restart_notification_text">अपडेट करने तांए कृपया हुंण ही भिरी शुरू करा अपडेट %1$d दिनां ते रूक्या ए</string>
+  <string name="restart_notify_sanity_call_msg">उपकरण हाली रीबूट नी होई सकदा कैंजे कॉल चालु ए</string>
+  <string name="restart_notify_sanity_maps_msg">नेविगेशण चालू होणे दे कारण उपकरण हाली रीबूट नी होई सकदा ए</string>
+  <string name="restart_now">हुंण भिरी चालु करा</string>
+  <string name="restart_postponed">भिरी चालु करा स्थगित</string>
+  <string name="restart_title">अपणा उपकरण भिरी चालु करा</string>
+  <string name="resume_download_on_cellular">मोबाइल डेटा दा इस्तेमाल करा</string>
+  <string name="retrieving_token">प्रमाणीकरण करादा ए...</string>
+  <string name="sdcard_predownload_text">
+इस चरणे च, तोहां अपडेट जो सिस्टम मेमोरी च कॉपी करी लैंगे। अपडेट अगले चरणे पर स्थापित कित्या जांगा। 
+
+बैटरी पावर मुकी न जाए एह पक्का करणे तांए अपणे फोने जो पावर साधने ने जोड़ा।</string>
+  <string name="secure_instruction">एह प्रक्रिया सुरक्षित ए</string>
+  <string name="security_download_notification_title">अपणी सुरक्षा च सधार करा</string>
+  <string name="security_install_notification_text">इक नोआ सुरक्षा अपडेट स्थापित करणे तांए तयार ए</string>
+  <string name="security_install_title">इक सुरक्षा अपडेट तयार ए</string>
+  <string name="security_patch">सुरक्षा पैच:</string>
+  <string name="security_update_low_storage_title">सुरक्षा अपडेट</string>
+  <string name="security_update_notification_text">नोआ सुरक्षा अपडेट पा</string>
+  <string name="security_update_paused">सुरक्षा अपडेट रोकित्या</string>
+  <string name="security_update_pending_notification_text">नोआ सरक्षा अपडेट पा अपडेट %1$d दिनां ते रूक्या ए</string>
+  <string name="security_update_title">सुरक्षा अपडेट</string>
+  <string name="select_account">इक %1$s खाता चुंणा</string>
+  <string name="selected_later_time_os_mr">सिस्टम अपडेट पर स्थापित कित्या जांगा </string>
+  <string name="selected_later_time_smr">सुरक्षा अपडेट पर स्थापित कित्या जांगा </string>
+  <string name="setting_sw_summary">नोईं सॉफ्टवेयरा जो अपडेट करा </string>
+  <string name="setting_sw_title">सिस्टम अप्डेट्स</string>
+  <string name="smart_cancel_update_toast_msg">अपडेट जो %1$s पर भिरी र्निर्धारित कित्या गया ए</string>
+  <string name="smart_end_time">खत्म</string>
+  <string name="smart_install_message_popup">जियां कि तोहां चुस्त अपडेट सुविधा जो सक्षम कित्या ए, अगर तोहां तालु तिकर इंस्टॉल नी कित्या ए ता तोहां दा उपकरण अपणे आप %1$s पर अपडेट जो इंस्टॉल करी दिंगा। पक्का करा कि तोहां ला स्थापना ताएं काफी बैटरी ए।</string>
+  <string name="smart_restart_message_popup">जियां कि तोहां चुस्त अपडेट सुविधा जो सक्षम कित्या ए, अगर तोहां तालु तिकर भिरी चालु नी कित्या ए ता तोहां दा उपकरण अपणे आप %1$s पर अपडेट होई जांगा।</string>
+  <string name="smart_settings_string">जालु तोहां वाई-फाई ने कनेक्ट होदें हन् ता अपडेट अपणे आप डाउनलोड कने इंस्टॉल होई जादें हन्</string>
+  <string name="smart_settings_string_Softbank">जालू तोहां वाई-फाई ने जुड़यो होंदे हन् या मोबाइल डाटा इस्तेमाल करदे हन् ता अपडेट अपणे आप डाउनलोड कने इंस्टॉल होई जांदे हन्</string>
+  <string name="smart_settings_string_vzw">अपडेट अपणे आप डाउनलोड कने इंस्टॉल होई जांदे हन्</string>
+  <string name="smart_start_time">शुरू</string>
+  <string name="smart_to_string">जो</string>
+  <string name="smart_update_advanced">विकसित</string>
+  <string name="smart_update_note">नोट: तोहां दी सुरक्षा तांए , सारे जरूरी अपडेट अपणे आप डाउनलोड कने इंस्टॉल होई जांगे, चाहे एह सुविधा चालू हो या बंद।</string>
+  <string name="smart_update_note_vzw">नोट: तोहां दी सुरक्षा ताएं, सारे जरूरी अपडेट अपणे आप डाउनलोड कने इंस्टॉल होई जांगे, चाहे एह सुविधा चालू हो या बंद।</string>
+  <string name="smart_update_pop_up_text">अपणे आप अपडेट कन्ने अपणे उपकरणे जो सुरक्षित कने बचाई के रक्खा</string>
+  <string name="smart_update_recommendation">स्मार्ट अपडेट आजमा</string>
+  <string name="smart_update_suggestion_text">अपणे-आप अपडेटां कन्ने सुरक्षित रयाह</string>
+  <string name="smart_update_text_AB">चुस्त अपडेट तोहांदे उपकरणे जो सरक्षित कने ढंगे ने चलणें च मदत करदे हन्। जालू तोहां तिनां जो चालू करदे हन् ता सारे नोए <b>सरक्षा अपडेट कने बग फिक्स</b> अपणें आप डाउनलोड होई जांगे। डाउनलोड करने दे बाद, तोहांदा उपकरण तोहांदे द्वारा चुंणयो गए टैमे पर भिरी चालू होंगा।</string>
+  <string name="smart_update_text_AB_vzw">चुस्त अपडेट तोहांदे उपकरणे जो सरक्षित कने ढंगे ने चलणें च मदत करदे हन्। जालू तोहां तिनां जो चालू करदे हन् ता सारे नोए <b>सरक्षा अपडेट</b> अपणें आप डाउनलोड होई जांगे। डाउनलोड करने दे बाद, तोहांदा उपकरण तोहांदे द्वारा चुंणयो गए टैमे पर भिरी चालू होंगा।</string>
+  <string name="smart_update_text_classic">चुस्त अपडेट तोहांदे उपकरणे जो सरक्षित कने ढंगे ने चलणें च मदत करदे हन्। जालू तोहां तिनां जो चालू करदे हन् ता सारे नोए <b>सरक्षा अपडेट कने बग फिक्स</b> अपणें आप डाउनलोड होई जांगे। डाउनलोड करने दे बाद, तोहांदा उपकरण तोहांदे द्वारा चुंणयो गए टैमे पर भिरी चालू होंगा।</string>
+  <string name="smart_update_text_classic_vzw">चुस्त अपडेट तोहांदे उपकरणे जो सरक्षित कने ढंगे ने चलणें च मदत करदे हन्। जालू तोहां तिनां जो चालू करदे हन् ता सारे नोए <b>सरक्षा अपडेट</b> अपणें आप डाउनलोड होई जांगे। डाउनलोड करने दे बाद, तोहांदा उपकरण तोहांदे द्वारा चुंणयो गए टैमे पर भिरी चालू होंगा।</string>
+  <string name="smart_update_time_slot_text_AB">भिरी चालु करणे दा टैम चुंणा</string>
+  <string name="smart_update_time_slot_text_classic">इक इंस्टॉल टैम चुंणा</string>
+  <string name="smart_update_title">चुस्त अपडेट</string>
+  <string name="software_not_update_to">तोहां दा सॉफ़्टवेयर हाली तिकर अपडेट नी कित्या गया ए</string>
+  <string name="software_update_in_progress">तोहां दा सिस्टम संस्करणे च अपडेट होआ दा ए</string>
+  <string name="software_update_planned_summary">जांचया - %1$s</string>
+  <string name="software_update_planned_title">सॉफ्टवेयर अपडेट दी योजना बंणाई</string>
+  <string name="software_update_to">तोहां दे सिस्टमें जो अपडेट करी दित्या गया ए</string>
+  <string name="sofware_version">सॉफ्टवेयर संस्करण:</string>
+  <string name="storage_low">अपडेट तांए जगह बंणा</string>
+  <string name="su_btn">सैटिंगां</string>
+  <string name="su_text_off">नोआ सॉफ़्टवेयर उपलब्ध होंणे पर तोहांजो अपणे उपकरणे जो मैन्युअल रूपे ने अपडेट करना होंगा प्रक्रिया जो अपुं चलणे आली बनाणे तांए चुस्त अपडेट चालू करा होर विवरणां तांए टैप करा।</string>
+  <string name="su_text_on">डिफ़ॉल्ट रूपे ने चुस्त अपडेट भ्यागा 1 बजे - 3 बजे दे बिच चलदे हन्। तोहां सेटिंगां च अपडेट टैम बदली सकदे हन् या चुस्त अपडेट चालू करी सकदे हन्। होर विवरणां तांए टैप करा।</string>
+  <string name="su_title_off">चुस्त अपडेट बंद हन्</string>
+  <string name="su_title_on">चुस्त अपडेट चालु हन्</string>
+  <string name="system_download_notification_title">सिस्टम अपडेट</string>
+  <string name="system_install_notification_text">इक सिस्टम अपडेट इंस्टॉल करणे तांए तयार ए</string>
+  <string name="system_install_title">इक अपडेट तयार ए</string>
+  <string name="system_pdl_notification_mr_title">बग समाधान कने होर पा</string>
+  <string name="system_pdl_notification_os_title">एंड्रॉयड %1$s एथू ए!</string>
+  <string name="system_update">सिस्टम अपडेट</string>
+  <string name="system_update_info_not_available">उपलब्ध नी ए</string>
+  <string name="system_update_low_storage_text">मेमोरी जांचणे कने अग्गे बधणे तांए एथु टैप करा।</string>
+  <string name="system_update_low_storage_title">सिस्टम अपडेट</string>
+  <string name="system_update_notification_os_text">नोए एंड्रॉयड दा अनुभव करा</string>
+  <string name="system_update_notification_text">नोआ सॉफ्टवेयर डाउनलोड करा</string>
+  <string name="system_update_paused">सिस्टम अपडेट रोकित्या</string>
+  <string name="system_update_pending_notification_os_text">नोए एंड्रॉयड दा अनुभव करा अपडेट %1$d दिनां ते रूक्या ए</string>
+  <string name="system_update_pending_notification_text">नोआ सॉफ्टवेयर डाउनलोड करा अपडेट %1$d दिनां ते रूक्या ए</string>
+  <string name="system_update_settings_list_item_title">सिस्टम अप्डेट्स</string>
+  <string name="system_update_status">सिस्टम अपडेट स्थिति</string>
+  <string name="system_update_title">सिस्टम अपडेट</string>
+  <string name="tethered_permission_desc">3सी अपडेट परिणाम भेज्जा</string>
+  <string name="tethered_update_result">टेदरड अपडेट परिणाम</string>
+  <string name="time_picker_text">याद दोआए बगैर इंस्टॉल करणा चालु करा</string>
+  <string name="total_download_size">आकार: %1$s</string>
+  <string name="turn_it_off">इसे बंद करा</string>
+  <string name="turn_it_on">इसे चालू करा</string>
+  <string name="turn_on_smart_updates">चुस्त अपडेट चालु करा</string>
+  <string name="update">अपडेट</string>
+  <string name="update_blocked_by_policy">अपडेट व्यवस्थापक नीति द्वारा रोक्या गया ए </string>
+  <string name="update_cancelled_status">सॉफ़्टवेयर डाउनलोड जो रद्द करी दित्या गया था</string>
+  <string name="update_fail_desc">तोहां दे उपकरणे जो अपडेट करणे च इक समस्या होईयो थी। कोई बदलाव नी किंत्ते
+कृपया सेटिंगां &gt; सिस्टम अपडेट पर जाई करी भिरी कोशिश करा</string>
+  <string name="update_fail_status">अपडेट फेल</string>
+  <string name="update_fail_sucancel_dm_status">सर्वरे द्वारा अपडेट रद्द कित्या गया</string>
+  <string name="update_fail_title">अपडेट फेल</string>
+  <string name="update_history_blank">कोई इतिहास नी</string>
+  <string name="update_history_src_target">%1$s ते %2$s च अपडेट करा</string>
+  <string name="update_history_time">%1$s जो अपडेट कित्या गया</string>
+  <string name="update_history_title">अपडेट इतिहास</string>
+  <string name="update_history_version">साफ्टवेयर संस्करण %1$s</string>
+  <string name="update_postpone_policy">अपडेट व्यवस्थापक नीति द्वारा स्थगित करी दित्या गया ए </string>
+  <string name="update_preference">पसंदां जो अपडेट करा</string>
+  <string name="update_success_desc">बधाइयां! तोहां संस्करण %1$s जो सफलतापूर्वक स्थापित करी लेया ए।</string>
+  <string name="update_success_desc_os">बधाइयां! तोहां एंड्रॉयड %1$s जो सफलतापूर्वक स्थापित करी लेया ए। हुण तोहां इक बदिया, चुस्त् कने सुरक्षित एंड्रॉयड अनुभवे दा नंद लैणे ताएं तयार हन् ।</string>
+  <string name="update_success_status">अपडेट सफल</string>
+  <string name="update_title">अपडेट पूरा होईआ</string>
+  <string name="update_title_text">अपणे नोए साफ्टवेयर दा नंद लेआ!</string>
+  <string name="upto_date_title">सारा कुछ बदिया लग्गा दा ए!</string>
+  <string name="urgent_channel_name">सॉफ्टवेयर अपडेट चताबणी</string>
+  <string name="vab_validation_update_failure_desc">वीएबी सत्यापन अपडेट फेल</string>
+  <string name="vab_validation_update_failure_title">वीएबी सत्यापन फेल</string>
+  <string name="vab_validation_update_success_desc">बधाइयां! वीएबी सत्यापन अपडेट सफल</string>
+  <string name="vab_validation_update_success_title">वीएबी सत्यापन सफल</string>
+  <string name="verity_disabled_msg">तोहांदा उपकरण सुरक्षा जोखिमां दे प्रति संवेदनशील होई सकदा ए। जारी अपडेट
+
+एडीबी सक्षम-सत्यता तांए थल्ले दित्यो आदेश दा पालन करा</string>
+  <string name="verity_disabled_title">तोहांदा उपकरण हुंण अपडेट प्राप्त नी करदा ए</string>
+  <string name="verizon_failure_notification_text"> तोहां दा उपकरण इस अपडेटे जो इंस्टॉल नी करी सकया। इंस्टॉल करणे ताएं सॉफ़्टवेयर अपग्रेड सहायक टूल  दा इस्तेमाल करा । होर जानकारिया तांए टैप करा।</string>
+  <string name="verizon_failure_text">आतुसां दे उपकरण जो अपडेट करने च कोई समस्या थी| कोई बदलाव नी किंत्ते अपने सॉफ़्टवेयर को अपडेट करने दे लेई, तुसां सॉफ़्टवेयर नवीनीकरण सहायक उपकरण दा उपयोग करी सकदे हन।
+
+सॉफ़्टवेयर नवीनीकरण सहायक उपकरण जो स्थापित करने दे लेई:
+
+1. अपने डिवाइस जो अपने कंप्यूटर ने कनेक्ट करने दे लेई यूंएसबी केबल दा उपयोग करा
+2. जालू यूएसबी मेनू तुसांदे उपकरण पर पॉप अप करदा ऐ, ता ऊपर सज्जे पासे सेटिंग्स आइकन दा चयन करा
+3. यूंएसबी प्राथमिकताओं ते, सॉफ़्टवेयर स्थापना दा चयन करा
+4. अपने पीसी पर स्विच करा कने स्थापना विज़र्ड दिखा
+5. विज़ार्ड दे माध्यम ने चला
+
+सॉफ्टवेयर अपग्रेड असिस्टेंट टूल तुसां जो अपने डिवाइस पर सॉफ़्टवेयर अपडेट डाउनलोड कने इंस्टॉल करने च मदद करगा।</string>
+  <string name="vital_applying_updates">अपडेट लागू कित्यो जादे हन्…</string>
+  <string name="vital_bg_text">इस च कुछ मिंट लगी सकदे हन्।</string>
+  <string name="vital_check_for_updates">अपडेटां तांए दिक्खा दे…</string>
+  <string name="vital_check_for_updates_desc">अपडेट तोहां दे उपकरणे जो सुरक्षित रखदे हन् कने इसदे प्रदर्शणे च सधार करदे हन्।</string>
+  <string name="vital_done">होइ गया!</string>
+  <string name="vital_error_fail">अपडेट करणे च कोई गड़बड़ी होईयो थी कोई बदलाव नी कित्या गया ए।</string>
+  <string name="vital_go_back">क्या तोहां पक्का ही स्थापना रोकणा चांदे हन्</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">जारी रखणे बास्ते दबारा शुरू करा</string>
+  <string name="vital_skip">छड्डी देआ</string>
+  <string name="vital_stop">रुका</string>
+  <string name="wifi_setting">वाई-फाई सेटिंगां</string>
+</resources>

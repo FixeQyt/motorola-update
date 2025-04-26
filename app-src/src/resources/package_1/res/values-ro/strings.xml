@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Actualizați mai târziu</string>
+  <string name="ab_download_now">Actualizați acum</string>
+  <string name="ab_install_notification_paused_text">Instalarea în fundal a fost întreruptă</string>
+  <string name="ab_install_notification_text">Instalare în fundal</string>
+  <string name="ab_restart_fullscreen_text">Aproape ați terminat! Repornirea dispozitivului va dura aproximativ 90 de secunde. Actualizarea este disponibilă de %1$d zile.</string>
+  <string name="ab_restart_text">Aproape ați terminat! Repornirea dispozitivului va dura aproximativ 90 de secunde</string>
+  <string name="ab_restart_warning_os_mr">Actualizarea sistemului dvs. este aproape finalizată. Dispozitivul dvs. va  </string>
+  <string name="ab_restart_warning_smr">Instalarea actualizării de securitate este aproape finalizată. Dispozitivul dvs. va </string>
+  <string name="ab_warning_continues"> pentru a finaliza actualizarea.</string>
+  <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+  <string name="abc_action_bar_up_description">Navigați în sus</string>
+  <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+  <string name="abc_action_mode_done">Gata</string>
+  <string name="abc_activity_chooser_view_see_all">Afișați tot</string>
+  <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+  <string name="abc_capital_off">DEZACTIVAT</string>
+  <string name="abc_capital_on">ACTIVAT</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Meniu+</string>
+  <string name="abc_search_hint">Căutați…</string>
+  <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+  <string name="abc_searchview_description_query">Termen de căutare</string>
+  <string name="abc_searchview_description_search">Căutați</string>
+  <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+  <string name="abc_searchview_description_voice">Căutare vocală</string>
+  <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+  <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+  <string name="abc_toolbar_collapse_description">Restrângeți</string>
+  <string name="abupdate_in_progress_status">Actualizarea software-ului este în curs</string>
+  <string name="additional_charges_message">Descărcarea va continua cu date mobile. Pot fi generate costuri de date.</string>
+  <string name="alertSubText">Aceasta se folosește pentru verificarea, descărcarea și instalarea pachetului de actualizări</string>
+  <string name="alertText">Permiteți operațiuni de rețea pentru actualizări de software</string>
+  <string name="alertTitle">Actualizările necesită următoarea permisiune</string>
+  <string name="alert_dialog_cancel">Opriți instalarea</string>
+  <string name="alert_dialog_continue">Continuați instalarea</string>
+  <string name="alert_dialog_no">Nu</string>
+  <string name="alert_dialog_ok">Am înțeles</string>
+  <string name="alert_dialog_yes">Da</string>
+  <string name="allocate_space_success">Memoria necesară este disponibilă pentru actualizare</string>
+  <string name="allow">Permiteți</string>
+  <string name="android_latest_sw_text">Acum utilizați cel mai recent software</string>
+  <string name="android_version">Versiune Android:</string>
+  <string name="app_name">Actualizare software Motorola</string>
+  <string name="applied">Activat</string>
+  <string name="apply_bug_fix">Aplicați pentru corecțiile de erori</string>
+  <string name="apply_os_update">Aplicare pentru toate actualizările de software</string>
+  <string name="applying_patch">Se aplică actualizarea (Pasul %1$d din %2$d)  </string>
+  <string name="are_you_sure">Dezactivați Actualizările inteligente?</string>
+  <string name="are_you_sure_pop_up_text">Sigur doriți să dezactivați Actualizările inteligente? </string>
+  <string name="asc_campaign_assigned">Campania atribuită</string>
+  <string name="asc_campaign_is_allowed">Actualizare firmware</string>
+  <string name="asc_campaign_is_blocked">Blocare firmware</string>
+  <string name="asc_campaign_not_assigned">Dispozitivul nu este momentan într-o campanie</string>
+  <string name="asc_campaign_status_prefix">
+Stare: </string>
+  <string name="asc_campaign_window_period_status">
+Fereastră de actualizare: De la %s la %s</string>
+  <string name="asc_sw_up_to_date"> până la cea mai recentă versiune</string>
+  <string name="asc_target_version"> până la versiunea </string>
+  <string name="auth_title">Actualizare sistem</string>
+  <string name="auto_download_cellualr_charges_warn">Atunci când se descarcă actualizări utilizând o rețea de telefonie mobilă, se pot percepe taxe suplimentare</string>
+  <string name="auto_download_enable_cellular_future_updates">Doriți să optați pentru descărcarea prin date mobile pentru viitoarele descărcări?</string>
+  <string name="auto_download_settings_title">Setări descărcare automată</string>
+  <string name="auto_download_wifi_cellular">Descărcare automată prin date mobile și prin Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Descărcați automat numai cu date mobile și Wi-Fi. Dacă este disponibil, Wi-Fi-ul va fi utilizat ca prima variantă. </string>
+  <string name="auto_download_wifi_only">Descărcați automat numai prin Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Descărcare automată numai cu Wi-Fi</string>
+  <string name="auto_install_notification_text">Dispozitivul se va instala automat în %1$s</string>
+  <string name="auto_time_set">Începe la:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Din cauza importanței sale, această actualizare se va instala automat folosind date mobile pe %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Din cauza importanței sale, această actualizare se va descărca automat folosind date mobile pe %1$s</string>
+  <string name="background_install_msg">Această actualizare va continua dacă mergeți înapoi sau dacă închideți această fereastră</string>
+  <string name="background_install_text">O actualizare este în curs de descărcare și de instalare. Vă puteți utiliza dispozitivul în continuare.</string>
+  <string name="bad_connection">Nu există internet</string>
+  <string name="bad_connection_text">Se pare că dispozitivul dvs. este momentan deconectat de la internet. Apăsați butonul de jos pentru a încerca din nou.</string>
+  <string name="bg_install_cancel_confirm">Sigur doriți să opriți instalarea?</string>
+  <string name="bg_retried">Descărcarea software-ului a fost întreruptă. Vom încerca în continuare…</string>
+  <string name="bg_suspended">Se așteaptă o conexiune de date pentru reluarea descărcării și instalării în fundal</string>
+  <string name="bg_suspended_non_adminapn">Se așteaptă conexiunea Wi-Fi sau rețeaua „zero rating” pentru reluarea descărcării și instalării în fundal…</string>
+  <string name="bg_suspended_roaming">Instalare din fundal întreruptă din cauza rețelei de roaming, activați Wi-Fi pentru a relua instalarea din fundal.</string>
+  <string name="bg_suspended_wifi">Se așteaptă conexiunea Wi-Fi pentru reluarea descărcării și instalării în fundal</string>
+  <string name="bootloader_unlock_msg">Dispozitivul dvs. nu mai primește actualizări și poate fi expus unor riscuri de securitate.</string>
+  <string name="bootloader_unlock_title">Nicio actualizare disponibilă</string>
+  <string name="call_notification_answer_action">Răspunde</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Respinge</string>
+  <string name="call_notification_hang_up_action">Închide</string>
+  <string name="call_notification_incoming_text">Apel primit</string>
+  <string name="call_notification_ongoing_text">Apel în desfășurare</string>
+  <string name="call_notification_screening_text">Se filtrează un apel primit</string>
+  <string name="cancel">Anulare</string>
+  <string name="cancel_download_notification">Anulare</string>
+  <string name="cancel_install">Anulare</string>
+  <string name="cancel_update_notification">Anulare</string>
+  <string name="check_for_updates_title">Verificați dacă există actualizări</string>
+  <string name="check_update_badparam">Încercarea de upgrade a întâmpinat o eroare din cauza conectării nereușite.
+
+Încercați din nou mai târziu.</string>
+  <string name="check_update_checking">Se verifică dacă există actualizări…</string>
+  <string name="check_update_disabled_admin">Actualizări dispozitiv controlate de administratorul IT</string>
+  <string name="check_update_downloading">O actualizare este în curs de descărcare.
+
+Veți fi anunțat când descărcarea este finalizată.</string>
+  <string name="check_update_fail">A survenit o eroare neașteptată.
+
+Dispozitivul va reîncerca o actualizare în fundal.</string>
+  <string name="check_update_internal">Căutarea actualizărilor nu poate fi efectuată. Încercați din nou mai târziu.</string>
+  <string name="check_update_net">Verificați conexiunea la internet și încercați din nou</string>
+  <string name="check_update_net_vzw">Aveți nevoie de o conexiune de date pentru a verifica disponibilitatea actualizărilor. Pentru verificarea conexiunii Wi-Fi, mergeți la Setări &gt; Rețea și internet &gt; Internet &gt; Wi-Fi.
+
+De asemenea, puteți vizita motorola.com/systemupdates pentru a vedea alte opțiuni de actualizare.</string>
+  <string name="check_update_not_sys_user">Verificarea actualizării nu este permisă pentru profilurile de invitați</string>
+  <string name="check_update_processing">Se contactează serverul nostru...
+Așteptați</string>
+  <string name="check_update_roaming">Actualizarea de sistem este disponibilă numai prin rețeaua de domiciliu. 
+
+Accesați Setări &gt; Rețea și internet &gt; Wi-Fi pentru a configura o conexiune acum.</string>
+  <string name="check_update_storage_low">Actualizarea nu este posibilă din cauza spațiului de stocare insuficient de pe dispozitiv.</string>
+  <string name="check_update_temperror">Descărcarea actualizărilor nu a putut fi finalizată pentru moment.
+
+Încercați din nou.</string>
+  <string name="check_update_text">Verificarea periodică a disponibilității actualizărilor vă menține dispozitivul în siguranță și îi îmbunătățește performanța</string>
+  <string name="check_update_title_downloading">Descărcare în curs de desfășurare…</string>
+  <string name="check_update_vab_validation">Se verifică starea de actualizare a validării VAB
+Așteptați</string>
+  <string name="check_update_wifi_only">Actualizare sistem numai prin Wi-Fi.</string>
+  <string name="check_wifi_settings">Verificați setările Wi-Fi</string>
+  <string name="clear_space">Goliți spațiu</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">O aplicație necesită actualizarea aplicației Android Wear.</string>
+  <string name="common_android_wear_update_text">Această aplicație nu va rula dacă nu actualizați aplicația Android Wear.</string>
+  <string name="common_android_wear_update_title">Actualizați Android Wear</string>
+  <string name="common_google_play_services_enable_button">Activaţi Servicii Google Play</string>
+  <string name="common_google_play_services_enable_text">Această aplicaţie nu va funcţiona decât dacă activaţi Servicii Google Play.</string>
+  <string name="common_google_play_services_enable_title">Activaţi Servicii Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Solicitată de %1$s</string>
+  <string name="common_google_play_services_install_button">Obţineţi Servicii Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe telefon.</string>
+  <string name="common_google_play_services_install_text_tablet">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe tabletă.</string>
+  <string name="common_google_play_services_install_title">Descărcaţi Servicii Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+  <string name="common_google_play_services_invalid_account_title">Cont nevalid</string>
+  <string name="common_google_play_services_needs_enabling_title">O aplicație necesită activarea serviciilor Google Play.</string>
+  <string name="common_google_play_services_network_error_text">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Eroare de reţea</string>
+  <string name="common_google_play_services_notification_needs_installation_title">O aplicație necesită instalarea serviciilor Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">O aplicație necesită o actualizare pentru serviciile Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Problemă necunoscută privind Servicii Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Gadgetul nu acceptă serviciile Google Play, pe care se bazează unele dintre aplicații. Pentru asistență, contactați producătorul gadgetului.</string>
+  <string name="common_google_play_services_unsupported_title">Servicii Google Play</string>
+  <string name="common_google_play_services_update_button">Actualizaţi</string>
+  <string name="common_google_play_services_update_text">Această aplicaţie nu poate rula decât dacă actualizaţi Servicii Google Play.</string>
+  <string name="common_google_play_services_update_title">Actualizaţi Servicii Google Play</string>
+  <string name="common_open_on_phone">Deschideți pe telefon</string>
+  <string name="common_signin_button_text">Conectați</string>
+  <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+  <string name="compatibility_failed_title">Verificare nereușită a pachetului</string>
+  <string name="compatibility_verification_failure">Pachetul de actualizare în curs de descărcare nu este compatibil cu versiunea software curentă a dispozitivului.</string>
+  <string name="compatibility_verification_failure_df">
+
+Verificați coordonatorul Dogfood.</string>
+  <string name="compatibility_verification_success">Verificare efectuată cu succes</string>
+  <string name="completed"> Instalare finalizată. Ți se va solicita să repornești telefonul (Pasul %1$d din %2$d)</string>
+  <string name="completed_install">%s finalizat</string>
+  <string name="connect_to_wifi">Conectare la Wi-Fi</string>
+  <string name="continue_button">Continuare</string>
+  <string name="critical_install_message_popup_os_mr">Este disponibilă o actualizare de sistem importantă. Selectați Instalare pentru a aplica actualizarea. În caz contrar, actualizarea va fi aplicată automat pe %1$s.</string>
+  <string name="critical_install_message_popup_smr">Este disponibilă o actualizare de securitate importantă. Selectați Instalare pentru a aplica actualizarea. În caz contrar, actualizarea va fi aplicată automat pe %1$s.</string>
+  <string name="critical_install_message_screen">Această actualizare importantă va fi instalată automat pe %1$s. Asigurați-vă că aveți suficientă baterie pentru instalare.</string>
+  <string name="critical_install_notification">Deoarece această actualizare este importantă, dispozitivul o va instala automat pe %1$s.
+Durata instalării: %2$d minute</string>
+  <string name="critical_restart_message_popup">Pentru a aplica această actualizare importantă, reporniți cât mai repede posibil. Dacă nu puteți, dispozitivul dvs. va reporni automat pe %1$s.</string>
+  <string name="critical_restart_message_screen">Deoarece aceasta este o actualizare importantă, dispozitivul va reporni automat pe %1$s dacă nu ați efectuat repornirea înainte de această dată.</string>
+  <string name="critical_restart_notification">Această actualizare este importantă. Dacă nu puteți reporniți acum, dispozitivul dvs. va reporni automat pe %1$s</string>
+  <string name="critical_update_notification_title">Actualizare critică</string>
+  <string name="current_version">Versiune software curentă:</string>
+  <string name="custom_slot">Personalizat</string>
+  <string name="custom_time">Timp personalizat</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s la %s</string>
+  <string name="defer_count_expired">Am înțeles</string>
+  <string name="deny">Refuzare</string>
+  <string name="details">Detalii</string>
+  <string name="device_corrupted_msg">Am depistat probleme legate de sistem. Știm că este o problemă, dar va trebui să vizitați centrul local de service pentru a remedia aceste probleme.
+
+După repararea telefonului, putem continua să rulăm actualizările pe telefon.</string>
+  <string name="device_corrupted_title">Nu se poate efectua actualizarea telefonului</string>
+  <string name="dialog_alert_net_message">Verificați conexiunea de date mobile sau Wi-Fi și încercați din nou.</string>
+  <string name="dialog_alert_net_title">Dispozitivul dvs. este offline</string>
+  <string name="dialog_alert_title">Baterie descărcată</string>
+  <string name="dialog_progress">Se încarcă…</string>
+  <string name="dl_options_mobile_only_warning">Utilizarea funcției Wi-Fi este recomandată. Descărcarea cu date mobile sau utilizarea datelor mobile în roaming poate conduce la costuri suplimentare.
+
+Descărcarea acestui software nu va afecta funcționarea dispozitivului dvs.</string>
+  <string name="done">Finalizat</string>
+  <string name="dont_show_this_again">Nu afișa din nou acest mesaj</string>
+  <string name="download_cancelled_title">Descărcarea a fost anulată</string>
+  <string name="download_deferred_status">Descărcarea software-ului a fost amânată pe</string>
+  <string name="download_failed_status">Actualizarea a eșuat la descărcare pe</string>
+  <string name="download_in_progress_status">Descărcarea software-ului este în curs</string>
+  <string name="download_later_button">Descărcare mai târziu</string>
+  <string name="download_no_button">Nu, mulțumesc</string>
+  <string name="download_note">Puteți continua să vă utilizați dispozitivul în timp ce se instalează actualizarea</string>
+  <string name="download_now">Descărcați acum</string>
+  <string name="download_now_button">Descărcare</string>
+  <string name="download_options">Opțiuni de descărcare</string>
+  <string name="download_progress_cancel_message">Dacă doriți să descărcați această actualizare mai târziu, accesați Setări &gt; Actualizări de sistem</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Încă %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% descărcat (Întrerupt)</string>
+  <string name="download_progress_text">Această descărcare va continua dacă mergeți înapoi sau dacă închideți această fereastră</string>
+  <string name="download_subtitle">Ce trebuie să știți înainte de descărcare</string>
+  <string name="download_text_whats_new">Vedeți noutățile</string>
+  <string name="download_time_left">A mai rămas %1$s</string>
+  <string name="download_version">Versiune %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Aveți nevoie de Wi-Fi pentru a descărca această actualizare. Descărcarea va fi reluată după restabilirea conexiunii.</string>
+  <string name="downloaded_percentage">%1$s descărcat</string>
+  <string name="emergency_call_btn_txt">Urgență</string>
+  <string name="emergency_call_text">În timpul repornirii, nu veți putea efectua sau primi apeluri, inclusiv apeluri de urgență!</string>
+  <string name="enable_wifi_error_txt">Conectați-vă la Wi-Fi pentru a descărca această actualizare.</string>
+  <string name="eol_explore">Explorați dispozitive noi</string>
+  <string name="eol_last_update_text">Corecție de securitate:</string>
+  <string name="eol_promote">Vedeți cele mai recente promoții</string>
+  <string name="eol_title">Pe dispozitivul dvs. rulează cel mai recent software disponibil. </string>
+  <string name="err_title_contact_server">Se contactează serverul…</string>
+  <string name="err_title_memory_low">Memorie insuficientă…</string>
+  <string name="err_title_temp_error">Eroare temporară</string>
+  <string name="err_title_update">Eroare la actualizare</string>
+  <string name="error_code">Cod de eroare: </string>
+  <string name="error_copyfail">Copierea din locația cartelei SD a eșuat.</string>
+  <string name="error_disabled">Descărcarea actualizării a eșuat. Pachetul de actualizare nu este disponibil momentan. 
+
+Nu este necesară nicio altă acțiune.</string>
+  <string name="error_fail">Ne pare rău, a survenit o problemă la actualizarea %1$s. Nu au fost efectuate modificări. Încercați din nou accesând Setări &gt; Actualizare de sistem</string>
+  <string name="error_in_call_msg">Dispozitivul nu se poate actualiza acum deoarece apelul este în curs de desfășurare</string>
+  <string name="error_in_call_title">Apelul este în curs de desfășurare</string>
+  <string name="error_install_title">Instalare eșuată</string>
+  <string name="error_mismatch">A apărut o nepotrivire de versiune. Va apărea din nou o actualizare. Vi se va atrage atenția dacă va fi disponibilă o actualizare.</string>
+  <string name="error_mismatch_sd">Actualizare eșuată. Versiunea actualizării nu corespunde cu cea a telefonului. 
+
+Descărcați versiunea corectă pentru telefon și încercați din nou.</string>
+  <string name="error_network">Conectivitatea s-a pierdut. Încercați din nou verificând dacă există actualizări prin intermediul setărilor telefonului.</string>
+  <string name="error_reboot">Nu am putut descărca această actualizare. Dacă doriți să obțineți această actualizare mai târziu, reporniți dispozitivul și accesați Setări &gt; Actualizări de sistem.</string>
+  <string name="error_resources">Nu am putut descărca această actualizare. Dacă doriți să obțineți această actualizare mai târziu, accesați Setări &gt; Actualizări de sistem.</string>
+  <string name="error_sdcard_resources_fail_removal">Cardul SD a fost eliminat. Procesul de descărcare nu a fost finalizat. 
+
+Vă rugăm să reintroduceți cardul SD și să accesați Setări &gt; Actualizări de sistem pentru a încerca din nou.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Nu se poate finaliza descărcarea. Nu există suficient spațiu pe cardul SD. 
+
+Eliberați spațiu și accesați Setări &gt; Actualizări de sistem pentru a încerca din nou.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Introduceți cardul SD pentru a începe descărcarea.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Montați cardul SD pentru a începe descărcarea. 
+
+Accesați Setări &gt; Stocare &gt; Montarea cardului SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Nu există suficient spațiu pe cartela SD pentru a finaliza descărcarea. 
+
+Eliberați %1$s de spațiu și mergeți la Setări &gt; Actualizări de sistem pentru a încerca din nou descărcarea.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Eroare</string>
+  <string name="error_sdcard_resources_warning">Actualizarea de software se descarcă pe cardul SD. 
+
+Nu îndepărtați cardul SD înainte de finalizarea instalării.
+
+
+</string>
+  <string name="error_server">A survenit o eroare pe server. Încercați din nou mai târziu.</string>
+  <string name="error_space">Această actualizare necesită %1$s de spațiu de stocare disponibil pe dispozitiv. 
+
+Ștergeți aplicațiile pe care nu le folosiți sau mutați-vă fotografiile și videoclipurile pe alt dispozitiv de stocare pentru a elibera %2$s de spațiu. 
+
+După ce ați terminat, puteți accesa Setări &gt; Actualizări de sistem pentru a începe actualizarea în orice moment.</string>
+  <string name="error_space_retry">Această actualizare necesită %1$s de spațiu de stocare disponibil pe dispozitiv. 
+
+Ștergeți aplicațiile pe care nu le folosiți sau mutați-vă fotografiile și videoclipurile pe alt dispozitiv de stocare pentru a elibera %2$s de spațiu.</string>
+  <string name="error_space_vab">Această actualizare necesită %1$s de spațiu de stocare disponibil pe dispozitiv. Eliberați memoria pentru actualizări reușite</string>
+  <string name="error_space_vab_make_room_popup">Trebuie să goliți %1$s de spațiu înainte de actualizare. Încercați să ștergeți aplicațiile neutilizate sau să mutați fotografii și videoclipuri pe alt dispozitiv de stocare.</string>
+  <string name="error_title">Descărcare nereușită</string>
+  <string name="error_verify">Actualizarea nu a putut fi validată corespunzător. Încercați din nou.</string>
+  <string name="failed">Nereușit</string>
+  <string name="failed_in_roaming">Wi-Fi necesar pentru actualizări</string>
+  <string name="failure_process">Informații indisponibile</string>
+  <string name="finalizing_patch">Se finalizează actualizarea… (Pasul 5 din 6)  </string>
+  <string name="first_net_text">Dacă nu instalați actualizarea, dispozitivul o va instala automat la următoarea repornire. Asigurați-vă că nivelul bateriei este peste %s</string>
+  <string name="forceInstallMessage">Această actualizare va fi instalată automat pe %1$s.</string>
+  <string name="force_install_message_screen">Aceasta este o actualizare importantă, așadar asigurați-vă că o instalați până pe %1$s. În caz contrar, aceasta se va instala automat într-un moment în care dispozitivul dvs. este cel mai puțin utilizat. Asigurați-vă că aveți un nivel suficient al bateriei pentru instalare.</string>
+  <string name="force_install_notification_message">Instalați-o până la %1$s. În caz contrar, dispozitivul dvs. o va instala automat atunci când este folosit mai puțin.
+Durata instalării: %2$d minute</string>
+  <string name="force_restart_notification_message">Reporniți înainte de %1$s. În caz contrar, dispozitivul dvs. va reporni automat atunci când este folosit mai puțin.</string>
+  <string name="force_restart_screen_message">Dacă nu efectuați repornirea înainte de %1$s, dispozitivul dvs. va reporni automat atunci când este folosit mai puțin.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Am înțeles</string>
+  <string name="important_update_install_overdue_message">Perioada programată pentru instalare a trecut. Instalarea va începe după ce dispozitivul dvs. îndeplinește criteriile.</string>
+  <string name="important_update_restart_overdue_message">Perioada programată pentru repornire a trecut. Dispozitivul va reporni după ce îndeplinește criteriile.</string>
+  <string name="initiating_ota_service_msg">Așteptați...</string>
+  <string name="initiating_ota_service_title">Inițializarea procesului de actualizare a software-ului</string>
+  <string name="install">Instalare</string>
+  <string name="install_after_one_hour">Instalare în 1 oră</string>
+  <string name="install_cancelled_title">Instalarea a fost anulată</string>
+  <string name="install_deferred_status">Actualizarea a fost amânată la</string>
+  <string name="install_later">Instalare mai târziu</string>
+  <string name="install_notify_sanity_call_msg">Dispozitivul nu poate face instalarea acum deoarece există un apel în curs de desfășurare</string>
+  <string name="install_notify_sanity_maps_msg">Dispozitivul nu poate face instalarea acum deoarece navigarea este activată</string>
+  <string name="install_now">Instalare acum</string>
+  <string name="install_postponed">Instalare amânată</string>
+  <string name="install_progress_cancel_message">Dacă doriți să instalați această actualizare mai târziu, accesați Setări &gt; Actualizări de sistem</string>
+  <string name="install_progress_paused_message">%s finalizat (Întrerupt)</string>
+  <string name="install_time">Durata instalării: %1$d minute</string>
+  <string name="install_warning">Ce trebuie să știți înainte de instalare</string>
+  <string name="just_one_more_step">A mai rămas doar un pas</string>
+  <string name="keep_it_on">Mențineți pornit</string>
+  <string name="later_button">Amintește-mi mai târziu</string>
+  <string name="learn_more_online_link">Aflați mai multe online</string>
+  <string name="low_battery_bg_install">Instalarea s-a întrerupt din cauza nivelului scăzut al bateriei. Instalarea va fi reluată când bateria are un nivel de peste 20%.</string>
+  <string name="low_battery_download">Descărcarea s-a întrerupt din cauza nivelului scăzut al bateriei. Descărcarea va fi reluată după ce se încarcă dispozitivul.</string>
+  <string name="low_battery_install">Încărcați dispozitivul la cel puțin %s pentru a instala această actualizare</string>
+  <string name="make_space">Eliberați spațiu</string>
+  <string name="mandatory_install_notification">Dacă nu instalați această actualizare de sistem în curând, veți rata actualizări de securitate importante, precum și caracteristici noi și remedieri ale unor erori.</string>
+  <string name="mandatory_restart_notification">Deoarece este o actualizare importantă, reporniți acum. În caz contrar, veți rata actualizări de securitate, precum și caracteristici noi și remedieri ale unor erori.</string>
+  <string name="medium_channel_name">Notificator descărcare software</string>
+  <string name="merge_emergency_call_text">În timpul repornirii, nu veți putea efectua sau primi apeluri, inclusiv apeluri de urgență.</string>
+  <string name="merge_force_restart_text">Dacă nu doriți să reporniți acum, telefonul va reporni automat când devine inactiv.</string>
+  <string name="merge_progress_text">Atunci când actualizarea este finalizată, vă vom trimite o notificare</string>
+  <string name="merge_progress_title">Se finalizează actualizarea…</string>
+  <string name="merge_restart_text">Actualizarea va fi finalizată după repornirea telefonului</string>
+  <string name="merge_restart_title">Reporniți din nou acum</string>
+  <string name="merge_update_fail_notify_text">Am depistat probleme legate de sistem. Consultați centrul de service pentru remediere</string>
+  <string name="merge_update_fail_notify_title">Actualizare nereușită</string>
+  <string name="merge_update_fail_text">Am găsit câteva probleme legate de sistem, care vă vor împiedica să mai primiți actualizări. Consultați centrul de service pentru a rezolva acest lucru
+
+Între timp, puteți continua să utilizați telefonul ca de obicei.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Alegeți un cont</string>
+  <string name="multiple_account_alert">Alegeți un cont %1$s pentru a continua cu actualizarea de sistem.</string>
+  <string name="no_thanks">Nu, mulțumesc</string>
+  <string name="no_thanks_message">Dacă doriți să obțineți această actualizare mai târziu, accesați Setări &gt; Actualizări de sistem.</string>
+  <string name="no_updates_applied">Nu s-au aplicat actualizări</string>
+  <string name="not_now">Nu acum</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Permisiune de care aplicațiile au nevoie pentru a interacționa cu otaservice</string>
+  <string name="package_size">Dimensiune descărcare: %1$s</string>
+  <string name="personalInfo_instruction">Nu veți pierde informații personale</string>
+  <string name="picker_cell_radio">Wi-Fi și date mobile</string>
+  <string name="picker_title">Alegeți modul în care doriți să descărcați această actualizare:</string>
+  <string name="picker_wifi_only_radio">Numai Wi-Fi</string>
+  <string name="please_restart">Reporniți acum</string>
+  <string name="policy_set">Actualizarea sistemului este blocată. Pentru mai multe informații contactați administratorul dispozitivului.</string>
+  <string name="press_back_again_to_exit">Apăsați din nou pe ÎNAPOI pentru a ieși</string>
+  <string name="progress_copying_sd">Copiere actualizare</string>
+  <string name="progress_deffered">Descărcarea va începe în rețeaua Wi-Fi/mobilă.</string>
+  <string name="progress_downloading_ota">Se descarcă actualizarea de sistem</string>
+  <string name="progress_downloading_security">Se descarcă actualizarea</string>
+  <string name="progress_retried">Descărcarea software-ului a fost întreruptă. Vom încerca în continuare…</string>
+  <string name="progress_suspended">Se așteaptă conexiunea de date pentru reluarea descărcării</string>
+  <string name="progress_suspended_datasaver">Dezactivați utilitarul de salvare a datelor pentru a relua descărcarea</string>
+  <string name="progress_suspended_no_adminapn">Se așteaptă conexiunea Wi-Fi sau rețeaua „zero rating” pentru reluarea descărcării</string>
+  <string name="progress_suspended_roaming">Descărcare întreruptă din cauza rețelei de roaming, activați Wi-Fi pentru a relua descărcarea.</string>
+  <string name="progress_suspended_wifi">Se așteaptă conexiunea Wi-Fi pentru reluarea descărcării…</string>
+  <string name="progress_verify">Se verifică dacă dispozitivul este pregătit pentru actualizare…</string>
+  <string name="progress_verify_allocate_space">Se verifică dacă memoria este suficientă</string>
+  <string name="relative_date_time">%1$s la ora %2$s</string>
+  <string name="release_note_battery_desc">Actualizări pentru îmbunătățirea autonomiei și a utilizării bateriei</string>
+  <string name="release_note_battery_title">Baterie</string>
+  <string name="release_note_camera_desc">Aceste îmbunătățiri vă ajută să faceți fotografii mai precise și mai detaliate</string>
+  <string name="release_note_camera_title">Cameră</string>
+  <string name="release_note_cellular_desc">Modificările ajută la îmbunătățirea conectivității de date a dispozitivului</string>
+  <string name="release_note_cellular_title">Date mobile</string>
+  <string name="release_note_charging_desc">Aceste actualizări sporesc capacitățile de încărcare</string>
+  <string name="release_note_charging_title">Încărcare</string>
+  <string name="release_note_generic_desc">Modificările îmbunătățesc performanța generală a dispozitivului</string>
+  <string name="release_note_os_update_desc">Noile teme monocromatice îi dau telefonului dvs. un aspect elegant și fac imaginea de fundal să iasă în evidență. Verificați modul în care aplicațiile utilizează și partajează datele înainte de a le acorda permisiuni aplicațiilor și a le face mai accesibile cu noile caracteristici auditive și vizuale Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Modificările îmbunătățesc performanța dispozitivului</string>
+  <string name="release_note_performance_title">Performanță</string>
+  <string name="release_note_security_desc">Include patch-uri de securitate până pe %1$s</string>
+  <string name="release_note_security_title">Actualizare de securitate</string>
+  <string name="release_note_stability_desc">Include îmbunătățiri și remedieri ale unor erori, care vă fac telefonul mai fiabil</string>
+  <string name="release_note_stability_title">Stabilitate</string>
+  <string name="release_note_title">Această actualizare include</string>
+  <string name="release_note_wifi_desc">Include actualizări pentru conectivitatea Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Vedeți toate caracteristicile noi din Android %1$s</string>
+  <string name="request_suspended_datasaver">Dezactivați utilitarul de salvare a datelor pentru a porni descărcarea</string>
+  <string name="request_suspended_no_network">Fără acoperire de rețea pentru a începe descărcarea</string>
+  <string name="restart_after_one_hour">Reporniți în 1 oră</string>
+  <string name="restart_instruction_title">Ce trebuie să știți înainte de repornire</string>
+  <string name="restart_later">Mai târziu</string>
+  <string name="restart_message">Reporniți acum pentru actualizare</string>
+  <string name="restart_notification">Repornire</string>
+  <string name="restart_notification_text">Reporniți acum pentru actualizare. Actualizarea este în așteptare de %1$d zile.</string>
+  <string name="restart_notify_sanity_call_msg">Dispozitivul nu se poate reporni acum deoarece există un apel în curs de desfășurare</string>
+  <string name="restart_notify_sanity_maps_msg">Dispozitivul nu se poate reporni acum deoarece navigarea este activată</string>
+  <string name="restart_now">Repornire acum</string>
+  <string name="restart_postponed">Repornire amânată</string>
+  <string name="restart_title">Reporniți dispozitivul</string>
+  <string name="resume_download_on_cellular">Utilizați datele mobile</string>
+  <string name="retrieving_token">Autentificare...</string>
+  <string name="sdcard_predownload_text">
+La acest pas, veți copia actualizarea în memoria sistemului. Actualizarea va fi instalată la pasul următor. 
+
+Conectați telefonul la o sursă de alimentare pentru a evita descărcarea bateriei.</string>
+  <string name="search_menu_title">Căutați</string>
+  <string name="secure_instruction">Acest proces este securizat</string>
+  <string name="security_download_notification_title">Îmbunătățiți-vă securitatea</string>
+  <string name="security_install_notification_text">O nouă actualizare de securitate este pregătită pentru instalare</string>
+  <string name="security_install_title">O actualizare de securitate este pregătită</string>
+  <string name="security_patch">Corecție de securitate:</string>
+  <string name="security_update_low_storage_title">Actualizare de securitate</string>
+  <string name="security_update_notification_text">Obțineți cea mai recentă actualizare de securitate</string>
+  <string name="security_update_paused">Actualizare întreruptă</string>
+  <string name="security_update_pending_notification_text">Obține cea mai recentă actualizare de securitate. Actualizarea este în așteptare de %1$d zile.</string>
+  <string name="security_update_title">Actualizare de securitate</string>
+  <string name="select_account">Alegeți un cont %1$s</string>
+  <string name="selected_later_time_os_mr">Actualizarea de sistem va fi instalată </string>
+  <string name="selected_later_time_smr">Actualizarea de securitate va fi instalată pe</string>
+  <string name="setting_sw_summary">Actualizare la cel mai recent software </string>
+  <string name="setting_sw_title">Actualizări de sistem</string>
+  <string name="smart_cancel_update_toast_msg">Actualizarea este reprogramată pentru %1$s</string>
+  <string name="smart_end_time">Terminat</string>
+  <string name="smart_install_message_popup">Deoarece ați activat Actualizare inteligentă, dispozitivul dvs. va instala automat actualizarea pe %1$s, dacă nu ați instalat-o până la acel moment. Asigurați-vă că aveți suficientă baterie pentru instalare.</string>
+  <string name="smart_restart_message_popup">Deoarece ați activat Actualizare inteligentă, dispozitivul dvs. va reporni automat la %1$s, dacă nu l-ați repornit până atunci.</string>
+  <string name="smart_settings_string">Actualizările sunt descărcate și instalate automat dacă sunteți conectat la Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Actualizările sunt descărcate și instalate automat dacă sunteți conectat la Wi-Fi sau la datele mobile</string>
+  <string name="smart_settings_string_vzw">Actualizările sunt descărcate și instalate automat</string>
+  <string name="smart_start_time">Pornire</string>
+  <string name="smart_to_string">-</string>
+  <string name="smart_update_advanced">Avansat</string>
+  <string name="smart_update_note">Pentru siguranța dvs., toate actualizările importante de securitate vor fi descărcate automat, indiferent dacă această caracteristică este activată sau dezactivată</string>
+  <string name="smart_update_note_vzw">Pentru siguranța dvs., toate actualizările critice vor fi descărcate și instalate automat, indiferent dacă această caracteristică este activată sau dezactivată.</string>
+  <string name="smart_update_pop_up_text">Menține-ți dispozitivul în siguranță cu actualizările automate</string>
+  <string name="smart_update_recommendation">Încercați actualizările inteligente</string>
+  <string name="smart_update_suggestion_text">Rămâneți în siguranță cu actualizările automate</string>
+  <string name="smart_update_text_AB">Sprijiniți funcționarea sigură și eficientă a dispozitivului, prin instalarea automată a tuturor actualizărilor noi de securitate și a corecțiilor de erori.</string>
+  <string name="smart_update_text_AB_vzw">Actualizările inteligente vă ajută dispozitivul să funcționeze în mod sigur și eficient. Atunci când le activați, toate <b>actualizările de securitate</b> noi vor fi descărcate automat. După descărcare, dispozitivul va reporni la ora pe care o alegeți.</string>
+  <string name="smart_update_text_classic">Actualizările inteligente vă ajută dispozitivul să funcționeze în mod sigur și eficient. Atunci când le activați, toate <b>actualizările de securitate și remedierile unor erori </b> noi vor fi descărcate automat. După descărcare, dispozitivul va reporni și va instala la ora pe care o alegeți.</string>
+  <string name="smart_update_text_classic_vzw">Actualizările inteligente vă ajută dispozitivul să funcționeze în mod sigur și eficient. Atunci când le activați, toate <b>actualizările de securitate</b> noi vor fi descărcate automat. După descărcare, dispozitivul va reporni și va instala la ora pe care o alegeți.</string>
+  <string name="smart_update_time_slot_text_AB">Alegeți o oră pentru pornire</string>
+  <string name="smart_update_time_slot_text_classic">Alegeți o oră pentru instalare</string>
+  <string name="smart_update_title">Actualizări inteligente</string>
+  <string name="software_not_update_to">Software-ul dvs. nu a fost încă actualizat la</string>
+  <string name="software_update_in_progress">Sistemul dvs. este în curs de actualizare la versiunea</string>
+  <string name="software_update_planned_summary">Verificat - %1$s</string>
+  <string name="software_update_planned_title">Actualizare software planificată</string>
+  <string name="software_update_to">Sistemul a fost actualizat la</string>
+  <string name="sofware_version">Versiune software:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Eliberați spațiu pentru o actualizare</string>
+  <string name="su_btn">Setări</string>
+  <string name="su_text_off">Va trebui să actualizați manuaal dispozitivul dvs. atunci când este disponibil un software nou Activați actualizările automate pentru ca procesul să aibă loc automat. Atingețiâ pentru mai multe detalii.</string>
+  <string name="su_text_on">În mod implicit, actualizările inteligente rulează între orele 1 AM și 3 AM. Puteți modifica orele actualizărilor sau să dezactivați actualizările inteligente în setări. Atingeți pentru mai multe detalii.</string>
+  <string name="su_title_off">Actualizări inteligente dezactivate</string>
+  <string name="su_title_on">Actualizări inteligente activate</string>
+  <string name="system_download_notification_title">Actualizare sistem</string>
+  <string name="system_install_notification_text">O actualizare de sistem este pregătită pentru instalare</string>
+  <string name="system_install_title">O actualizare este pregătită</string>
+  <string name="system_pdl_notification_mr_title">Obțineți corecții de erori și multe altele</string>
+  <string name="system_pdl_notification_os_title">Android %1$s este aici!</string>
+  <string name="system_update">Actualizare sistem</string>
+  <string name="system_update_desc">Protejați-vă dispozitivul împotriva amenințărilor de securitate și beneficiați de cele mai noi caracteristici Motorola și Android</string>
+  <string name="system_update_info_not_available">Indisponibil</string>
+  <string name="system_update_low_storage_text">Atingeți aici pentru a verifica memoria și a continua.</string>
+  <string name="system_update_low_storage_title">Actualizare sistem</string>
+  <string name="system_update_notification_os_text">Experimentați noul Android</string>
+  <string name="system_update_notification_text">Descărcați noul software</string>
+  <string name="system_update_paused">Actualizare sistem întreruptă</string>
+  <string name="system_update_pending_notification_os_text">Experimentează noul Android. Actualizarea este în așteptare de %1$d zile.</string>
+  <string name="system_update_pending_notification_text">Descărcați noul software Actualizarea este în așteptare de %1$d zile.</string>
+  <string name="system_update_settings_list_item_title">Actualizări de sistem</string>
+  <string name="system_update_status">Actualizare stare</string>
+  <string name="system_update_title">Actualizare sistem</string>
+  <string name="tethered_permission_desc">Trimitere rezultate actualizare 3c</string>
+  <string name="tethered_update_result">Rezultat actualizare de pe computer</string>
+  <string name="time_picker_text">Începeți instalarea fără memento</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Încercați din nou</string>
+  <string name="turn_it_off">Dezactivați</string>
+  <string name="turn_it_on">Activează</string>
+  <string name="turn_on_smart_updates">Activează actualizările inteligente</string>
+  <string name="update">Actualizare</string>
+  <string name="update_blocked_by_policy">Actualizarea este blocată de către politica de administrare </string>
+  <string name="update_cancelled_status">Descărcarea software-ului a fost anulată pe</string>
+  <string name="update_fail_desc">A survenit o eroare</string>
+  <string name="update_fail_status">Actualizare nereușită</string>
+  <string name="update_fail_sucancel_dm_status">Actualizare anulată de server</string>
+  <string name="update_fail_title">Actualizare nereușită</string>
+  <string name="update_history_blank">Fără istoric pentru moment</string>
+  <string name="update_history_src_target">Actualizare de la %1$s la %2$s</string>
+  <string name="update_history_time">Actualizat pe %1$s</string>
+  <string name="update_history_title">Istoricul actualizărilor</string>
+  <string name="update_history_version">Versiune software %1$s</string>
+  <string name="update_info">Se actualizează...</string>
+  <string name="update_postpone_policy">Actualizarea este amânată de către politica de administrare </string>
+  <string name="update_preference">Preferințe de actualizare</string>
+  <string name="update_success_desc">Versiunea de software curentă: %1$s</string>
+  <string name="update_success_desc_os">Felicitări! Ați instalat cu succes Android %1$s. Acum sunteți gata să vă bucurați de o experiență Android mai bună, mai inteligentă și mai sigură.</string>
+  <string name="update_success_status">Actualizare reușită</string>
+  <string name="update_title">Actualizare finalizată</string>
+  <string name="update_title_text">Bucurați-vă de noul software!</string>
+  <string name="upto_date_title">Totul pare în regulă!</string>
+  <string name="urgent_channel_name">Alertă actualizare software</string>
+  <string name="use_smart_updates">Folosiți actualizările inteligente</string>
+  <string name="vab_validation_update_failure_desc">Actualizarea validării VAB nu a reușit</string>
+  <string name="vab_validation_update_failure_title">Validare VAB nereușită</string>
+  <string name="vab_validation_update_success_desc">Felicitări! Actualizarea validării VAB a reușit</string>
+  <string name="vab_validation_update_success_title">Validare VAB reușită</string>
+  <string name="verifying_patch">Actualizarea a fost aplicată. Se confirmă că aplicația a reușit… (Pasul 4 din 6)  </string>
+  <string name="verity_disabled_msg">Dispozitivul dvs. ar putea fi supus riscurilor de securitate. Executați comanda de mai jos pentru actualizări continue
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Dispozitivul dvs. nu mai primește actualizări</string>
+  <string name="verizon_failure_notification_text"> Dispozitivul dvs. nu a putut instala această actualizare. Utilizați instrumentul Software Upgrade Assistant pentru instalare. Atingeți pentru mai multe informații.</string>
+  <string name="verizon_failure_text">A survenit o problemă la actualizarea dispozitivului. Nu au fost efectuate modificări. Pentru a vă actualiza softwareul, poți utiliza instrumentul Software Upgrade Assistant.
+
+Pentru a instala instrumentul Software Upgrade Assistant:
+
+1. Utilizați un cablu USB pentru a conecta dispozitivul la computer
+2. Când apare meniul USB pe dispozitiv, selectați pictograma Setări din dreapta sus
+3. Din Preferințe USB, selectați Instalare software
+4. Treceți pe computer și căutați expertul de instalare
+5. Parcurgeți expertul
+
+Instrumentul Software Upgrade Assistant te va ajuta să descărcați și să instalați actualizări de software pe dispozitiv.</string>
+  <string name="vital_applying_updates">Se aplică actualizările...</string>
+  <string name="vital_bg_text">Aceasta poate dura câteva minute.</string>
+  <string name="vital_check_for_updates">Se caută actualizări…</string>
+  <string name="vital_check_for_updates_desc">Actualizările vă păstrează dispozitivul în siguranță și îi îmbunătățesc performanțele.</string>
+  <string name="vital_done">Finalizat!</string>
+  <string name="vital_error_fail">A apărut o eroare de actualizare. Nu s-au făcut modificări.</string>
+  <string name="vital_go_back">Sigur doriți să opriți instalarea</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Reporniți pentru a continua</string>
+  <string name="vital_skip">Omitere</string>
+  <string name="vital_stop">Oprire</string>
+  <string name="wifi_setting">Setări Wi-Fi</string>
+</resources>

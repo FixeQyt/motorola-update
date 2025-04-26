@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TextView android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="@dimen/layout_margin_top"
+          android:drawablePadding="@dimen/drawablePadding"
+          style="@style/TextAppearance.MaterialComponents.Body2" xmlns:android="http://schemas.android.com/apk/res/android" />

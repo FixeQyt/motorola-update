@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Uređaj će se ponovo pokrenuti za %1$d sekundi kako biste dovršili ažuriranje.</item>
+    <item quantity="few">Uređaj će se ponovo pokrenuti za %1$d sekundi kako biste dovršili ažuriranje.</item>
+    <item quantity="other">Uređaj će se ponovo pokrenuti za %1$d sekundi kako biste dovršili ažuriranje.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">ponovo pokrenuti za %1$d s</item>
+    <item quantity="few">ponovo pokrenuti za %1$d s</item>
+    <item quantity="other">ponovo pokrenuti za %1$d s</item>
+  </plurals>
+</resources>

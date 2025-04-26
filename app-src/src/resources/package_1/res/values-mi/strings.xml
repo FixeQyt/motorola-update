@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Whakahōu ā muri ake</string>
+  <string name="ab_download_now">Whakahōungia ināia tonu nei</string>
+  <string name="ab_install_notification_paused_text">Kua taihoatia te tāutanga papamuri</string>
+  <string name="ab_install_notification_text">Tāuta papamuri</string>
+  <string name="ab_restart_fullscreen_text">Kua tata koe ki reira! Tata ki te 90 hēkona anake te roa hei tīmata anō i tō pūrere. Kua wātea te whakahōu mō %1$d ngā rā.</string>
+  <string name="ab_restart_text">Kua tata koe ki reira! Tata ki te 90 hēkona anake te roa hei tīmata anō i tō pūrere</string>
+  <string name="ab_restart_warning_os_mr">Kua tata oti tō whakahōu pūnaha. Ka pai tō pūrere  </string>
+  <string name="ab_restart_warning_smr">Kua tata oti tō whakahōu haumarutanga. Ka pai tō pūrere l  </string>
+  <string name="ab_warning_continues"> hei whakaoti i te whakahōu.</string>
+  <string name="abupdate_in_progress_status">Kei te haere te whakahōu pūmanawa</string>
+  <string name="additional_charges_message">Ka haere tonu te tikiake ki te raraunga pūkoro. Ka pā pea ngā utu raraunga.</string>
+  <string name="alertSubText">Ka whakamahia tēnei hei taki, hei tikiake, hei tāuta hoki i te mōkī whakahōu</string>
+  <string name="alertText">Whakaaetia ngā mahi whatunga mō ngā whakahōutanga pūmanawa</string>
+  <string name="alertTitle">E hiahiatia ana e ngā whakahōu te whakaaetanga e whai ake nei</string>
+  <string name="alert_dialog_cancel">Poroa te tāutatanga</string>
+  <string name="alert_dialog_continue">Me tāuta tonu</string>
+  <string name="alert_dialog_no">Kāore</string>
+  <string name="alert_dialog_ok">Kua mau</string>
+  <string name="alert_dialog_yes">Āe</string>
+  <string name="allocate_space_success">E wātea ana te pūmahara e hiahiatia ana mō te whakahōu</string>
+  <string name="allow">Whakaae</string>
+  <string name="android_latest_sw_text">Kei te whakamahi koe i te pūmanawa hōu rawa</string>
+  <string name="android_version">Putanga Android:</string>
+  <string name="app_name">Whakahōu Pūmanawa Motorola</string>
+  <string name="applied">Whakakā</string>
+  <string name="apply_bug_fix">Hoatu ki ngā whakatika hapa</string>
+  <string name="apply_os_update">Hoatu ki ngā whakahōu pūmanawa katoa</string>
+  <string name="applying_patch">Hoatu ana i te whakahōu (Hipanga %1$d o %2$d)  </string>
+  <string name="are_you_sure">Whakawetohia ngā whakahōu atamai?</string>
+  <string name="are_you_sure_pop_up_text">E tika ana kia whakaweto i ngā whakahōu atamai? </string>
+  <string name="asc_campaign_assigned">Kua tautapatia te whakahau</string>
+  <string name="asc_campaign_is_allowed">Whakahōu Pūmanawamārō</string>
+  <string name="asc_campaign_is_blocked">Maukati Pūmanawamārō</string>
+  <string name="asc_campaign_not_assigned">Kāore te pūrere i roto i tētahi whakahau</string>
+  <string name="asc_campaign_status_prefix">
+Mana: </string>
+  <string name="asc_campaign_window_period_status">
+Whakahōu matapihi: Mai i %s ki %s</string>
+  <string name="asc_sw_up_to_date"> ki te putanga hōu rawa</string>
+  <string name="asc_target_version"> ki te putanga </string>
+  <string name="auth_title">Whakahōu pūnaha</string>
+  <string name="auto_download_cellualr_charges_warn">Ina tikiake whakahōu mā te whatunga pūkoro, ka pā pea ētahi atu utu</string>
+  <string name="auto_download_enable_cellular_future_updates">Me kōwhiri-atu hoki te kōwhiringa raraunga pūkoro mō ngā tikiake ā muri ake?</string>
+  <string name="auto_download_settings_title">Ngā tautuhinga tāuta-aunoa</string>
+  <string name="auto_download_wifi_cellular">Tikiake-aunoa mā te pūkoro me te Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Tikiake aunoa mā te pūkoro me te Wi-Fi. Ka whakamahia te Wi-Fi i te tuatahi ina wātea. </string>
+  <string name="auto_download_wifi_only">Tikiake-aunoa i runga i te Wi-Fi anake</string>
+  <string name="auto_download_wifi_only_desc">Tikiake aunoa mā te Wi-Fi anake</string>
+  <string name="auto_install_notification_text">Ka tāuta aunoa te pūrere %1$s</string>
+  <string name="auto_time_set">Tīmata ki:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Nā tōna hiranga, ka tāuta aunoa tēnei whakahōu mā te raraunga pūkoro i te %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Nā tōna hiranga, mā tēnei whakahōu e tikiake aunoa mā te raraunga pūkoro i te %1$s</string>
+  <string name="background_install_msg">Ka haere tonu tēnei whakahōu inā hoki whakamuri koe, katia rānei tēnei matapihi</string>
+  <string name="background_install_text">Kei te tikiake tētahi whakahōu &amp; tāuta ana. Ka taea e koe te whakamahi tonu i tō pūrere.</string>
+  <string name="bad_connection">Kāore he Ipurangi</string>
+  <string name="bad_connection_text">Te āhua nei kua momotu tō pūrere i tēnei wā me te ipurangi. Patohia te pātene o raro hei ngana anō.</string>
+  <string name="bg_install_cancel_confirm">Me whakatū tūturu te utanga?</string>
+  <string name="bg_retried">Kua haukotia te tikiake pūmanawa. Ka ngana tonu mātou…</string>
+  <string name="bg_suspended">Tatari ana mō tētahi tūhononga raraunga hei tīmata anō i te tikiake papamuri me te tāutatanga</string>
+  <string name="bg_suspended_non_adminapn">Tatari ana mō te whatunga Wi-Fi, Kore rānei i Whakatau hei tīmata anō i te tikiake papamuri me te tāutatanga…</string>
+  <string name="bg_suspended_roaming">Kua taihoa te tāutanga papamuri nā te whatunga tīpokapoka, whakakāngia koa te Wi-Fi hei tīmata anō i te tāutanga papamuri.</string>
+  <string name="bg_suspended_wifi">Tatari ana kia tīmata anō te Wi-Fi i te tikiake papamuri me te tāutatanga</string>
+  <string name="bootloader_unlock_msg">Kāore tō pūrere i te whiwhi whakahōu, ā, ka āhei pea ki ngā mōrea haumarutanga.</string>
+  <string name="bootloader_unlock_title">Kāore he whakahōu wātea</string>
+  <string name="cancel">Whakakore</string>
+  <string name="cancel_download_notification">Whakakore</string>
+  <string name="cancel_install">Whakakore</string>
+  <string name="cancel_update_notification">Whakakore</string>
+  <string name="check_for_updates_title">Takitakina ngā whakahōunga</string>
+  <string name="check_update_badparam">Kua kitea e te ngana whakamohoa tētahi hapa nā te rahua o te takiuru.
+
+Me ngana anō i muri mai.</string>
+  <string name="check_update_checking">Taki ana mō ngā whakahōu…</string>
+  <string name="check_update_disabled_admin">Ngā whakahōu pūrere e whakahaeretia ana e te kaiwhakahaere IT</string>
+  <string name="check_update_downloading">Kei te tikiake tētahi whakahōu i tēnei wā.
+
+Ka whakamōhiotia koe inā oti te tikiake.</string>
+  <string name="check_update_fail">Kua puta mai tētahi hapa ohorere.
+
+Ka ngana anō te pūrere mō tētahi whakahōu i te papamuri.</string>
+  <string name="check_update_internal">Kāore e taea te taki mō ngā whakahōu. Ngana anō ā muri ake.</string>
+  <string name="check_update_net">Tākina tō hononga ipurangi ka ngana anō ai</string>
+  <string name="check_update_net_vzw">Me whai tūhononga raraunga hei taki mō ngā whakahōu. Hei taki i tō tūhononga Wi-Fi, haere ki Ngā Tautuhinga &gt; Whatunga &amp; ipurangi &gt; ipurangi &gt; Wi-Fi.
+
+Ka taea hoki e koe te toro atu ki motorola.com/systemupdates kia kite i ētahi atu kōwhiringa whakahōu.</string>
+  <string name="check_update_not_sys_user">Kāore e whakaaetia te whakahōu mō ngā kōtaha Manuhiri</string>
+  <string name="check_update_processing">Kei te whakapā atu ki tō mātou tūmau…
+Taihoa koa</string>
+  <string name="check_update_roaming">Kei te wātea te Whakahōutanga Pūnaha i te whatunga kāinga anake. 
+
+Haere ki Ngā Tautuhinga &gt; Whatunga &amp; ipurangi Wi-Fi hei tatū i tētahi tūhononga ināianei.</string>
+  <string name="check_update_storage_low">Kāore e taea te whakahōu nā te iti rawa o te mokowā rokiroki i runga i te pūrere.</string>
+  <string name="check_update_temperror">Kāore i taea te tikiake i ngā whakahōu i te wā.
+
+Me ngana ano.</string>
+  <string name="check_update_text">Mā te taki ngā whakahōu mai i tētahi wā ka noho haumaru tō pūrere, ā, ka whakapai ake i te mahinga</string>
+  <string name="check_update_title_downloading">Kei te haere te tikiake…</string>
+  <string name="check_update_vab_validation">Taki ana mō te tūnga whakahōu whakamanatanga VAB
+Taihoa koa</string>
+  <string name="check_update_wifi_only">Kei te wātea te Whakahōutanga Pūnaha mā te Wi-Fi anake.</string>
+  <string name="check_wifi_settings">Tirohia ngā tautuhinga Wi-Fi</string>
+  <string name="clear_space">Ūkui mokowā</string>
+  <string name="cloud_picker_title">Pūwhiri Kapua</string>
+  <string name="compatibility_failed_title">I rahua te manatokonga mōkī</string>
+  <string name="compatibility_verification_failure">Kāore te mōkī whakahōu e tikiake ana i te hototahi ki te putanga pūmanawa o nāianei i runga i te pūrere.</string>
+  <string name="compatibility_verification_failure_df">
+
+Tirohia koa to kairuruku kai.</string>
+  <string name="compatibility_verification_success">I tutuki pai te manatoko</string>
+  <string name="completed"> Kua oti te tāuta. Ka ākina koe kia tīmata anō i tō waea (Hipanga %1$d o te %2$d)</string>
+  <string name="completed_install">%s kua oti</string>
+  <string name="connect_to_wifi">Tūhono ki Wi-Fi</string>
+  <string name="continue_button">Haere tonu</string>
+  <string name="critical_install_message_popup_os_mr">Kei te wātea tētahi whakahōu pūnaha hira. Tīpakohia koa te Tāuta hei hoatu i te whakahōu. Ki te kore, ka hoatu aunoatia te whakahōu ki %1$s.</string>
+  <string name="critical_install_message_popup_smr">Kei te wātea tētahi whakahōutanga haumarutanga hira. Tīpakohia koa te Tāuta hei hoatu i te whakahōu. Ki te kore, ka hoatu aunoatia te whakahōu ki %1$s.</string>
+  <string name="critical_install_message_screen">Ka tāuta aunoa tēnei whakahōu hira ki %1$s. Me mātua whakarite kei a koe te pūhiko nui mō te tāutatanga.</string>
+  <string name="critical_install_notification">Nā te mea he mea hira tēnei whakahōu, ka tāuta aunoa tō pūrere ki %1$s.
+Tāuta wā: %2$d meneti</string>
+  <string name="critical_restart_message_popup">Hei hoatu i tēnei whakahōu hira, tīmata anō koa inā tata nei. Ki te kore e taea e koe, ka tīmata aunoa tō pūrere i te %1$s.</string>
+  <string name="critical_restart_message_screen">Nā te mea he whakahōu hira tēnei, ka tīmata aunoa tō pūrere i %1$s mēnā kāore anō koe kia tīmata anō i taua wā.</string>
+  <string name="critical_restart_notification">He mea hira tēnei whakahōu. Ki te kore e taea e koe te tīmata anō ināianei, ka tīmata aunoa tō pūrere i te %1$s</string>
+  <string name="critical_update_notification_title">Whakahōunga Takenui</string>
+  <string name="current_version">Putanga pūmanawa onāianei:</string>
+  <string name="custom_slot">Ritenga</string>
+  <string name="custom_time">Wā ritenga</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s ki %s</string>
+  <string name="defer_count_expired">Kua mau</string>
+  <string name="deny">Whakahē</string>
+  <string name="details">Ngā Taipitopito</string>
+  <string name="device_corrupted_msg">I kitea e mātau ētahi take pūnaha. E mōhio ana mātou he mamae, engari me toro koe i tō pokapū ratonga paetata kia mau ai ērā.
+
+I muri i te whakaūnga o tō waea, ka taea e mātou te whakahaere tonu i ngā whakahōu i tō waea.</string>
+  <string name="device_corrupted_title">Kāore e taea te whakahōu waea</string>
+  <string name="dialog_alert_net_message">Takina tō tūhononga raraunga Wi-Fi, raraunga pūkoro rānei ka ngana anō.</string>
+  <string name="dialog_alert_net_title">Kei te tuimotu tō pūrere</string>
+  <string name="dialog_alert_title">Pūhiko hahaka</string>
+  <string name="dialog_progress">Kei te tāuta…</string>
+  <string name="dl_options_mobile_only_warning">E manakohia ana te whakamahi Wi-Fi. Mā te tikiake me te raraunga pūkoro, mā te whakamahi rānei i ngā raraunga pūkoro i te wā ka hua pea te tīpokapoka i ētahi atu utu.
+
+Kāore e pā te tikiake i tēnei pūmanawa ki te mahinga o tō pūrere.</string>
+  <string name="done">Kua oti</string>
+  <string name="dont_show_this_again">Kaua e whakaatu mai anō i tēnei</string>
+  <string name="download_cancelled_title">Kua whakakorea te tikiake</string>
+  <string name="download_deferred_status">I hikitia te tikiake Pūmanawa i te</string>
+  <string name="download_failed_status">I rahua te tikiake i te whakahōu i te</string>
+  <string name="download_in_progress_status">Kei te haere te tikiake pūmanawa</string>
+  <string name="download_later_button">Tikiake ā taihoa</string>
+  <string name="download_no_button">Kao kia ora</string>
+  <string name="download_note">Ka taea e koe te whakamahi tonu i tō pūrere i te wā e tāuta ana te whakahōu </string>
+  <string name="download_now">Tikiake ināianei</string>
+  <string name="download_now_button">Tikiake</string>
+  <string name="download_options">Ngā Kōwhiringa Tikiake</string>
+  <string name="download_progress_cancel_message">Mēnā e hiahia ana koe ki te tikiake i tēnei whakahōu ā muri ake, haere ki Ngā Tautuhinga &gt; whakahōu Pūnaha</string>
+  <string name="download_progress_fragment_message">%1$s/ %2$s</string>
+  <string name="download_progress_message">%1$s mauī (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% kua tikiake (Kua whakamahia)</string>
+  <string name="download_progress_text">Ka haere tonu tēnei tikiake inā hoki koe, ka kati rānei i tēnei matapihi</string>
+  <string name="download_subtitle">He aha te mōhio i mua i tō tikiake</string>
+  <string name="download_text_whats_new">Tirohia he aha ngā mea hōu</string>
+  <string name="download_time_left">%1$s mauī</string>
+  <string name="download_version">Putanga %1$s — %2$s</string>
+  <string name="download_wifi_only_error">E hiahiatia ana te Wi-Fi hei tikiake i tēnei whakahōu. Ka tīmata anō te tikiake ina whakaorangia tō tūhononga.</string>
+  <string name="downloaded_percentage">%1$s kua tikiake</string>
+  <string name="emergency_call_btn_txt">Ohorere</string>
+  <string name="emergency_call_text">Kāore e taea e koe te whakatakoto, te whiwhi waea rānei, tae atu ki ngā waea ohorere i te wā o te whakaara anō!</string>
+  <string name="enable_wifi_error_txt">Tūhono ki Wi-Fi hei tikiake i tēnei whakahōu.</string>
+  <string name="eol_explore">Tūhura pūrere hōu</string>
+  <string name="eol_last_update_text">Āpure haumarutanga: </string>
+  <string name="eol_promote">Tirohia ngā whakatairanga hōu rawa</string>
+  <string name="eol_title">Kei te whakahaere tō pūrere i ngā pūmanawa hōu rawa e wātea ana.</string>
+  <string name="err_title_contact_server">Whakapā ana ki te tūmau…</string>
+  <string name="err_title_memory_low">He iti te pūmahara…</string>
+  <string name="err_title_temp_error">Hapa Rangitahi</string>
+  <string name="err_title_update">Hapa whakahōu</string>
+  <string name="error_code">Waehere hapa: </string>
+  <string name="error_copyfail">I rahua te tārua mai i te tauwāhi Kāri SD.</string>
+  <string name="error_disabled">I rahua te tikiake whakahōu. Kāore te mōkī whakahōu i te wātea i tēnei wā. 
+
+Kāore he mahi anō e hiahiatia ana.</string>
+  <string name="error_fail">Aroha mai, i hapa te whakahōu i tō %1$s. Kāore he huringa i mahia. Ngana anō koa mā te haere ki Ngā Tautuhinga &gt; whakahōutanga Pūnaha.</string>
+  <string name="error_in_call_msg">Kāore e taea e te pūrere te whakahōu ināianei i te wā e haere ana te waea</string>
+  <string name="error_in_call_title">Kei te haere te waea</string>
+  <string name="error_install_title">I rahua te tāutanga</string>
+  <string name="error_mismatch">Kua puta mai tētahi ōritetanga putanga. Ka puta mai anō tētahi whakahōu. Ki te wātea tētahi, ka ākina koe.</string>
+  <string name="error_mismatch_sd">I rahua te whakahōu. Kāore te putanga whakahōu i te ōrite ki tō waea. 
+
+Tikiake koa i te putanga tika mō tō waea ka ngana anō.</string>
+  <string name="error_network">Kua ngaro te tūhonotanga. Ngana anō koa mā te taki ā-ringa mō ngā whakahōu mā ngā tautuhinga Waea.</string>
+  <string name="error_reboot">Kāore i taea e mātou tēnei whakahōu te tikiake. Mēnā e hiahia ana koe ki te tiki i tēnei whakahōu ā muri ake, tīmata anō koa i tō pūrere kātahi ka haere ki Ngā Tautuhinga &gt; whakahōu Pūnaha.</string>
+  <string name="error_resources">Kāore i taea e mātou tēnei whakahōu te tikiake. Mēnā e hiahia ana koe ki te tiki i tēnei whakahōu ā muri ake, haere ki Ngā Tautuhinga &gt; whakahōu Pūnaha.</string>
+  <string name="error_sdcard_resources_fail_removal">I tangohia te Kāri SD. Kāore i oti te tukanga tikiake. 
+
+Kōkuhu anōtia koa te Kāri SD ka haere ki Ngā Tautuhinga &gt; whakahōutanga Pūnaha hei ngana anō.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Kāore e taea te whakaoti i te tikiake. He iti rawa te mokowā kei te Kāri SD. 
+
+Whakawāteatia ētahi mokowā ka haere ki Ngā Tautuhinga &gt; whakahōutanga Pūnaha hei ngana anō.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Kōkuhua koa te Kāri SD hei tīmata i te tikiake.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Whakatū koa i te Kāri SD hei tīmata i te tikiake. 
+
+Haere ki te Tautuhinga &gt; Rokiroki &gt; Kāri SD Maunga.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">He iti rawa te mokowā kei te Kāri SD hei whakaoti i te tikiake. 
+
+Whakawātea koa i te %1$s mokowā ka haere ki Ngā Tautuhinga &gt; Whakahōu Pūnaha hei ngana anō i te tikiake.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Hē</string>
+  <string name="error_sdcard_resources_warning">Kei te tikiake te whakahōu pūmanawa ki te Kāri SD. 
+
+Kaua koa e tangohia te Kāri SD kia oti rā anō te utanga.
+
+
+</string>
+  <string name="error_server">Kua puta mai tētahi hapa i te Tūmau. Me ngana anō i muri mai.</string>
+  <string name="error_space">E hiahiatia ana e tēnei whakahōu te %1$s o te rokiroki wātea i tō pūrere. 
+
+Mukua koa ngā taupānga kāore i whakamahia, nekehia rānei ō whakaahua me ō ataata ki tētahi atu pūrere rokiroki hei whakawātea i te %2$s o te mokowā. 
+
+Ina oti, ka taea e koe te haere ki Ngā Tautuhinga &gt; whakahōu pūnaha hei tīmata i te whakahōu ahakoa te wā.</string>
+  <string name="error_space_retry">E hiahiatia ana e tēnei whakahōu te %1$s o te rokiroki wātea i tō pūrere. 
+
+Mukua koa ngā taupānga kāore i whakamahia, nekehia rānei ō whakaahua me ō ataata ki tētahi atu pūrere rokiroki hei whakawātea i te %2$s o te mokowā.</string>
+  <string name="error_space_vab">E hiahiatia ana e tēnei whakahōu te %1$s o te mokowā wātea i tō pūrere. Mā te whakawātea i te pūmahara mō ngā whakahōu momoho</string>
+  <string name="error_space_vab_make_room_popup">Me ūkui e koe te %1$s o te mokowā i mua i te whakahōu. Me ngana ki te muku i ngā taupānga kāore i whakamahia, te nuku whakaahua rānei me ngā ataata ki tētahi atu pūrere rokiroki.</string>
+  <string name="error_title">I rahua te tikiake.</string>
+  <string name="error_verify">Kāore i taea te whakamana tika i te whakahōu. Me ngana ano.</string>
+  <string name="failed">Kāore i tutuki</string>
+  <string name="failed_in_roaming">E hiahiatia ana te Wi-Fi mō ngā whakahōu</string>
+  <string name="failure_process">Kāore te mōhiohio i te wātea</string>
+  <string name="finalizing_patch">Kei te whakaoti i te whakahōu… (Hipanga 5 o te 6)  </string>
+  <string name="first_net_text">Tāuta koa i te whakahōu, ka tāuta aunoa rānei te pūrere ki te whakaara anō. Me mātua whakarite he nui ake te taumata pūhiko i te %s</string>
+  <string name="forceInstallMessage">Ka tāuta aunoatia tēnei whakahōu ki %1$s.</string>
+  <string name="force_install_message_screen">He whakahōu hira tēnei, nō reira tāuta koa mā %1$s. Ki te kore, ka tāuta aunoa i te wā e whakamahia ana tō pūrere. Me mātua whakarite kei a koe te oranga pūhiko nui mō te utanga.</string>
+  <string name="force_install_notification_message">Tāuta koa mā %1$s. Ki te kore, ka tāuta aunoa tō pūrere i te wā e whakamahia ana.
+Tāuta wā: %2$d meneti</string>
+  <string name="force_restart_notification_message">Tīmata anō koa mā %1$s. Ki te kore, ka tīmata aunoa tō pūrere i te wā e whakamahia ana.</string>
+  <string name="force_restart_screen_message">Ki te kore koe e tīmata anō mā %1$s, ka tīmata aunoa tō pūrere i te wā e whakamahia ana.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Kua mau</string>
+  <string name="important_update_install_overdue_message">Kua hipa te wā i whakahōtakatia mō te utanga. Ka tīmata te tāutanga ina tutuki i tō pūrere te paearu.</string>
+  <string name="important_update_restart_overdue_message">Kua hipa te wā i whakahōtakatia mō te tīmata anō. Ka tīmata anō te pūrere ina tutuki i te paearu.</string>
+  <string name="initiating_ota_service_msg">Taihoa koa...</string>
+  <string name="initiating_ota_service_title">Arawhiti ana i te tukanga whakahōu pūmanawa</string>
+  <string name="install">Tāuta</string>
+  <string name="install_after_one_hour">Tāuta i roto i te 1 haora</string>
+  <string name="install_cancelled_title">Kua whakakorea te tāutanga</string>
+  <string name="install_deferred_status">I hikitia te whakahōu i te</string>
+  <string name="install_later">Tāuta ā muri ake</string>
+  <string name="install_notify_sanity_call_msg">Kāore e taea e te pūrere te tāuta ināianei i te mea kei te haere te waea</string>
+  <string name="install_notify_sanity_maps_msg">Kāore e taea e te pūrere te tāuta ināianei i te wā e kā ana te whakaterenga</string>
+  <string name="install_now">Tāuta ināianei</string>
+  <string name="install_postponed">Kua whakaroatia te tāuta</string>
+  <string name="install_progress_cancel_message">Mēnā e hiahia ana koe ki te tāuta i tēnei whakahōu ā muri ake, haere ki Ngā Tautuhinga &gt; whakahōu pūnaha</string>
+  <string name="install_progress_paused_message">%s kua oti (Kua tūtataritia)</string>
+  <string name="install_time">Tāuta wā: %1$d meneti</string>
+  <string name="install_warning">He aha te mōhio i mua i tō tāuta</string>
+  <string name="just_one_more_step">Kotahi anō te hipanga</string>
+  <string name="keep_it_on">Puritia ki</string>
+  <string name="later_button">Whakamaharatia au ā kō ake nei</string>
+  <string name="learn_more_online_link">Ako tuihono anō</string>
+  <string name="low_battery_bg_install">Kua tūtataritia te tāutanga nā te pūhiko hahaka. Ka tīmata anō te tāutanga ina neke atu tō pūhiko i te 20%.</string>
+  <string name="low_battery_download">Kua taihoatia te tikiake nā te pūhiko hahaka. Ka tīmata anō te tikiake ina whakahikotia tō pūrere.</string>
+  <string name="low_battery_install">Whakahikotia koa tō pūrere ki %s i mua i te tāutanga o tēnei whakahōu</string>
+  <string name="make_space">Hanga mokowā</string>
+  <string name="mandatory_install_notification">Ki te kore koe e tāuta wawe i tēnei whakahōutanga pūnaha, ka hapa koe i ngā whakahōutanga haumarutanga hira, me ngā āhuahira hōu me ngā whakatika hapa.</string>
+  <string name="mandatory_restart_notification">He whakahōu hira, tīmata anō koa ināianei. Ki te kore koe e hapa i ngā whakahōutanga haumarutanga, tae atu ki ngā āhuahira hōu me ngā whakatika hapa.</string>
+  <string name="medium_channel_name">Pūmōtai Tikiake Pūmanawa</string>
+  <string name="merge_emergency_call_text">I te wā o te tīmata anō, kāore e taea e koe te whakatakoto, te whiwhi waea rānei, tae atu ki ngā waea ohorere.</string>
+  <string name="merge_force_restart_text">Ki te kore koe e hiahia tīmata anō ināianei, ka tīmata aunoa tō waea ina tautauā.</string>
+  <string name="merge_progress_text">Ina oti te whakahōu, mā mātou e tuku whakamōhiotanga ki a koe</string>
+  <string name="merge_progress_title">Kei te whakaoti i te whakahōu…</string>
+  <string name="merge_restart_text">Ka oti te whakahōu i muri i te tīmatanga anō o tō waea</string>
+  <string name="merge_restart_title">Tīmata anō koa anō</string>
+  <string name="merge_update_fail_notify_text">I kitea e mātau ētahi take pūnaha. Haere koa ki tō pokapū ratonga hei whakatika</string>
+  <string name="merge_update_fail_notify_title">I rahua te whakahōu</string>
+  <string name="merge_update_fail_text">I kitea e mātou ētahi take pūnaha e kore ai koe e whiwhi whakahōu. Haere koa ki tō pokapū ratonga hei whakatika i tēnei.
+
+I tēnei wā, ka taea e koe te whakamahi tonu i tō waea kia rite ki te pūnoa.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Kōwhiria tētahi pūkete</string>
+  <string name="multiple_account_alert">Kōwhiri %1$s pūkete hei haere tonu me te whakahōutanga pūnaha.</string>
+  <string name="no_thanks">Kao kia ora</string>
+  <string name="no_thanks_message">Mēnā e hiahia ana koe ki te tiki i tēnei whakahōu ā muri ake, haere ki Ngā Tautuhinga &gt; whakahōu Pūnaha.</string>
+  <string name="no_updates_applied">Kāore he whakahōu kua hoatu</string>
+  <string name="not_now">Kāore i tēnei wā</string>
+  <string name="ok">Ka pai</string>
+  <string name="otaservice_perm_desc">Whakaaetanga me tauwhiti ngā taupānga ki te otaservice</string>
+  <string name="package_size">Rahi Tikiake: %1$s</string>
+  <string name="personalInfo_instruction">Kāore koe e ngaro i ētahi mōhiohio whaiaro</string>
+  <string name="picker_cell_radio">Wi-Fi me ngā raraunga pūkoro</string>
+  <string name="picker_title">Kōwhiri me pēhea tō tikiake i tēnei whakahōu:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi anake</string>
+  <string name="please_restart">Tīmata anō koa ināianei</string>
+  <string name="policy_set">Kua āraia te whakahōu pūnaha. Whakapā atu koa ki tō kaiwhakahaere pūrere mō ētahi atu mōhiohio.</string>
+  <string name="press_back_again_to_exit">Pēhi anō i te BACK hei waiho</string>
+  <string name="progress_copying_sd">Tārua ana i te whakahōu</string>
+  <string name="progress_deffered">Ka tīmata te tikiake ki te Whatunga Wi-Fi/Cellular.</string>
+  <string name="progress_downloading_ota">Tikiake ana i te whakahōu pūnaha</string>
+  <string name="progress_downloading_security">Tikiake ana i te whakahōutanga haumarutanga</string>
+  <string name="progress_retried">Kua haukotia te tikiake pūmanawa. Ka ngana tonu mātou…</string>
+  <string name="progress_suspended">Tatari ana mō te tūhononga raraunga kia tīmata anō te tikiake</string>
+  <string name="progress_suspended_datasaver">Whakawetohia te pūtiaki raraunga hei tīmata anō i te tikiake</string>
+  <string name="progress_suspended_no_adminapn">Tatari ana mō te whatunga Wi-Fi, kore rānei kua whakatauria kia tīmata anō te tikiake</string>
+  <string name="progress_suspended_roaming">Kua taihoa te tikiake nā te whatunga tīpokapoka, whakakāngia koa te Wi-Fi hei tīmata anō i te tikiake.</string>
+  <string name="progress_suspended_wifi">Tatari ana kia tīmata anō te tikiake i te Wi-Fi…</string>
+  <string name="progress_verify">Manatoko ana kua rite tō pūrere kia whakahōutia…</string>
+  <string name="progress_verify_allocate_space">Taki ana mēnā he tika te pūmahara</string>
+  <string name="relative_date_time">%1$s ki %2$s</string>
+  <string name="release_note_battery_desc">Ngā whakahōu hei whakarei ake i te oranga pūhiko me te whakamahinga</string>
+  <string name="release_note_battery_title">Pūhiko</string>
+  <string name="release_note_camera_desc">Mā ēnei whakareitanga koe e āwhina ki te hopu whakaahua me te tika ake, taipitopito hoki</string>
+  <string name="release_note_camera_title">Kāmera</string>
+  <string name="release_note_cellular_desc">Mā ngā huringa e āwhina ki te whakapai ake i te tūhonotanga raraunga o te pūrere</string>
+  <string name="release_note_cellular_title">Pūkoro</string>
+  <string name="release_note_charging_desc">Mā tēnei whakahōu e whakarewa ō āheinga whakahiko</string>
+  <string name="release_note_charging_title">Pūāhua ana</string>
+  <string name="release_note_generic_desc">Mā ngā huringa e āwhina ki te whakapai ake i te mahinga katoa o te pūrere</string>
+  <string name="release_note_os_update_desc">Mā ngā tāhuhu taetahi hōu e hoatu he āhua sleek ki tō waea, ā, ka pahū tō pepapātū. Arotakea he pēhea te whakamahi me te tiri a ngā taupānga i ō raraunga i mua i tō tuku whakaaetanga taupānga, ā, ka āhei kē atu ki ngā āhuahira rongo me ngā āhuahira kitenga hōu o Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Mā ngā huringa e āwhina ki te whakapai ake i te mahinga o te pūrere</string>
+  <string name="release_note_performance_title">Mahinga</string>
+  <string name="release_note_security_desc">Kei roto ko ngā āpure haumarutanga mā te %1$s</string>
+  <string name="release_note_security_title">Whakahōu Haumarutanga</string>
+  <string name="release_note_stability_desc">Kei roto ko ngā whakapainga me ngā whakatika iro e tino pai ake ai tō waea</string>
+  <string name="release_note_stability_title">Pūmautanga</string>
+  <string name="release_note_title">Kei tēnei whakahōu ko</string>
+  <string name="release_note_wifi_desc">Kei roto ko ngā whakahōu ki tō tūhonotanga Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Tirohia ngā āhuahira hōu katoa i Android %1$s</string>
+  <string name="request_suspended_datasaver">Whakawetohia te pūtiaki raraunga hei tīmata i te tikiake</string>
+  <string name="request_suspended_no_network">Kāore he pānuitanga whatunga hei tīmata i te tikiake</string>
+  <string name="restart_after_one_hour">Tīmata i roto i te 1 hāora</string>
+  <string name="restart_instruction_title">He aha te mōhio i mua i tō tīmata anō</string>
+  <string name="restart_later">I muri mai</string>
+  <string name="restart_message">Tīmata anō koa ināianei hei whakahōu</string>
+  <string name="restart_notification">Tīmata anō</string>
+  <string name="restart_notification_text">Tīmata anō koa ināianei hei whakahōu. Kua tārewa te whakahōu mō %1$d rā.</string>
+  <string name="restart_notify_sanity_call_msg">Kāore e taea e te pūrere te whakaara anō ināianei i te wā e haere ana te waea</string>
+  <string name="restart_notify_sanity_maps_msg">Kāore e taea e te pūrere te whakaara anō ināianei i te wā e kā ana te whakaterenga</string>
+  <string name="restart_now">Tīmata anō ināianei</string>
+  <string name="restart_postponed">Kua whakaroatia te tīmata anō</string>
+  <string name="restart_title">Tīmata anō i tō pūrere</string>
+  <string name="resume_download_on_cellular">Whakamahia te raraunga pūkoro</string>
+  <string name="retrieving_token">Whakamotuhēhē ana...</string>
+  <string name="sdcard_predownload_text">
+Mō tēnei hipanga, ka tāruatia e koe te whakahōu ki te pūmahara pūnaha. Ka tāutatia te whakahōu ki te hipanga panuku. 
+
+Tūhonoa tō waea ki tētahi pūtake hiko kia kore ai koe e pau te hiko pūhiko.</string>
+  <string name="secure_instruction">He haumaru tēnei tukanga</string>
+  <string name="security_download_notification_title">Whakapai ake i tō haumarutanga</string>
+  <string name="security_install_notification_text">Kua rite tētahi whakahōutanga haumarutanga hōu ki te tāuta</string>
+  <string name="security_install_title">Kua rite tētahi whakahōutanga haumarutanga</string>
+  <string name="security_patch">Āpure haumarutanga:</string>
+  <string name="security_update_low_storage_title">Whakahōu Haumarutanga</string>
+  <string name="security_update_notification_text">Tiki i te whakahōutanga haumarutanga hōu rawa</string>
+  <string name="security_update_paused">Kua taihoatia te whakahōutanga haumarutanga</string>
+  <string name="security_update_pending_notification_text">Tiki i te whakahōutanga haumarutanga hōu rawa. Kua tārewa te whakahōu mō %1$d rā.</string>
+  <string name="security_update_title">Whakahōu Haumarutanga</string>
+  <string name="select_account">Kōwhiria he %1$s pūkete</string>
+  <string name="selected_later_time_os_mr">Ka tāutatia te whakahōutanga pūnaha ki </string>
+  <string name="selected_later_time_smr">Ka tāutatia te whakahōutanga haumarutanga ki </string>
+  <string name="setting_sw_summary">Whakahōu ki te pūmanawa hōu rawa </string>
+  <string name="setting_sw_title">Ngā whakahōu pūnaha</string>
+  <string name="smart_cancel_update_toast_msg">Kua whakaritea anōtia te whakahōu ki %1$s</string>
+  <string name="smart_end_time">Mutunga</string>
+  <string name="smart_install_message_popup">I a koe e whakahohe ana i te Whakahōu Atamai, ka tāuta aunoa tō pūrere i te whakahōu ki %1$s mēnā kāore anō koe kia tāutatia e taua wā. Me mātua whakarite kei a koe te pūhiko nui mō te tāutatanga.</string>
+  <string name="smart_restart_message_popup">I a koe e whakahohe ana i te Whakahōu Atamai, ka tīmata aunoa tō pūrere %1$s mēnā kāore anō koe kia tīmata anō i taua wā.</string>
+  <string name="smart_settings_string">Ka tikiake, ka tāuta aunoatia ngā whakahōu ina tūhono koe ki te Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Ka tikiake, ka tāuta aunoatia rānei ngā whakahōu ina tūhono koe ki Wi-Fi, mā te whakamahi raraunga pūkoro rānei</string>
+  <string name="smart_settings_string_vzw">Ka tikinaketia ngā whakahōu, ā, ka tāuta aunoatia</string>
+  <string name="smart_start_time">Tīmata</string>
+  <string name="smart_to_string">Ki</string>
+  <string name="smart_update_advanced">Arā Atu Anō</string>
+  <string name="smart_update_note">Mō tō haumarutanga, ka tikiake aunoa ngā whakahōu haumarutanga hira katoa mēnā kei te kā, whakaweto rānei tēnei āhuatanga</string>
+  <string name="smart_update_note_vzw">Mō tō haumarutanga, ka tikiake, ka tāuta aunoa rānei ngā whakahōu takenui katoa mēnā kei te kā, kua weto rānei tēnei āhuatanga.</string>
+  <string name="smart_update_pop_up_text">Puritia tō pūrere kia haumaru, kia haumaru hoki me ngā whakahōu aunoa</string>
+  <string name="smart_update_recommendation">Whakamātauria ngā whakahōu atamai</string>
+  <string name="smart_update_suggestion_text">Kia haumaru tonu me ngā whakahōu aunoa</string>
+  <string name="smart_update_text_AB">Āwhinatia tō pūrere kia haere haumaru, kia pai hoki mā te tāuta aunoa i ngā whakahōutanga haumarutanga hōu me ngā whakatika iro.</string>
+  <string name="smart_update_text_AB_vzw">Mā ngā whakahōu atamai e āwhina kia haumaru, kia pai hoki te whakahaere o tō pūrere. Ina whakakā koe i a rātou, ko nga mea hou katoa <b>ngā whakahōu haumarutanga</b> ka tikiake aunoa. Ā muri i te tikiake, ka tīmata anō tō pūrere i te wā e kōwhiri ana koe.</string>
+  <string name="smart_update_text_classic">Mā ngā whakahōu atamai e āwhina kia haumaru, kia pai hoki te whakahaere o tō pūrere. Ina whakakā koe, ka whakatika aunoatia ngā whakahōu hōu katoa <b>ngā whakahōu haumarutanga me ngā whakatika hapa</b> ka tikiake aunoa. Ā muri i te tikiake, ka tīmata anō tō pūrere me te tāuta i te wā e kōwhiri ana koe.</string>
+  <string name="smart_update_text_classic_vzw">Mā ngā whakahōu atamai e āwhina kia haumaru, kia pai hoki te whakahaere o tō pūrere. Ina whakakā koe i a rātou, ko nga mea hou katoa <b>ngā whakahōu haumarutanga</b> ka tikiake aunoa. Ā muri i te tikiake, ka tīmata anō tō pūrere me te tāuta i te wā e kōwhiri ana koe.</string>
+  <string name="smart_update_time_slot_text_AB">Kōwhiria he wā tīmata</string>
+  <string name="smart_update_time_slot_text_classic">Kōwhiria he wā tāuta</string>
+  <string name="smart_update_title">Ngā whakahōu atamai</string>
+  <string name="software_not_update_to">Kāore anō tō pūmanawa kia whakahōutia ki</string>
+  <string name="software_update_in_progress">Kei te whakahōu tō pūnaha ki te putanga</string>
+  <string name="software_update_planned_summary">Kua takina - %1$s</string>
+  <string name="software_update_planned_title">Kua whakaritea te whakahōu pūmanawa</string>
+  <string name="software_update_to">Kua whakahōutia tō pūnaha ki</string>
+  <string name="sofware_version">Putanga Pūmanawa:</string>
+  <string name="storage_low">Whakaritea he wāhi mō tētahi whakahōutanga</string>
+  <string name="su_btn">Ngā Tautuhinga</string>
+  <string name="su_text_off">Me whakahōu ā-ringa koe i tō pūrere ina wātea mai he pūmanawa hōu. Whakakāngia ngā whakahōu atamai kia aunoa ai te tukanga. Pato mō ētahi atu taipitopito.</string>
+  <string name="su_text_on">Hei taunoa, ka haere ngā whakahōu atamai i waenga i te 1 AM - 3 AM. Ka taea e koe te huri wā whakahōu, te whakaweto rānei i ngā whakahōu atamai i ngā tautuhinga. Pato mō ētahi atu taipitopito.</string>
+  <string name="su_title_off">Kua weto ngā whakahōu atamai</string>
+  <string name="su_title_on">Kei te kā ngā whakahōu atamai</string>
+  <string name="system_download_notification_title">Whakahōu pūnaha</string>
+  <string name="system_install_notification_text">Kua rite tētahi whakahōutanga pūnaha ki te tāuta</string>
+  <string name="system_install_title">Kua rite tētahi whakahōu</string>
+  <string name="system_pdl_notification_mr_title">Tiki whakatika hapa &amp; ētahi atu</string>
+  <string name="system_pdl_notification_os_title">Android %1$s kei konei</string>
+  <string name="system_update">Whakahōu pūnaha</string>
+  <string name="system_update_desc">Parea tō pūrere mai i ngā tuma haumarutanga me te tiki i ngā āhuahira Motorola me te Android hōu rawa</string>
+  <string name="system_update_info_not_available">Kore Wātea</string>
+  <string name="system_update_low_storage_text">Pato ki konei hei taki pūmahara me te haere tonu.</string>
+  <string name="system_update_low_storage_title">Whakahōu pūnaha</string>
+  <string name="system_update_notification_os_text">Wheakotia te Android hōu</string>
+  <string name="system_update_notification_text">Tikiake i te pūmanawa hōu</string>
+  <string name="system_update_paused">Kua taihoatia te whakahōutanga pūnaha</string>
+  <string name="system_update_pending_notification_os_text">Wheakotia te Android hōu. Kua tārewa te whakahōu mō %1$d rā.</string>
+  <string name="system_update_pending_notification_text">Tikiake i te pūmanawa hōu. Kua tārewa te whakahōu mō %1$d rā.</string>
+  <string name="system_update_settings_list_item_title">Ngā whakahōu pūnaha</string>
+  <string name="system_update_status">Tūnga whakahōu</string>
+  <string name="system_update_title">Whakahōu pūnaha</string>
+  <string name="tethered_permission_desc">Tuku i ngā hua whakahōu 3c</string>
+  <string name="tethered_update_result">Hua Whakahōu Tethered</string>
+  <string name="time_picker_text">Tīmata tāutanga me te kore whakamaumahara</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Kia Ngana Anō</string>
+  <string name="turn_it_off">Whakawetongia</string>
+  <string name="turn_it_on">Whakakāia</string>
+  <string name="turn_on_smart_updates">Whakakāngia ngā whakahōu atamai</string>
+  <string name="update">Whakahōu</string>
+  <string name="update_blocked_by_policy">Kua āraia te whakahōu e te kaupapahere kaiwhakahaere </string>
+  <string name="update_cancelled_status">I whakakorea te tikiake pūmanawa i te</string>
+  <string name="update_fail_desc">Kua pā tētahi raru.</string>
+  <string name="update_fail_status">I rahua te whakahōu</string>
+  <string name="update_fail_sucancel_dm_status">Kua whakakorea te whakahōu mā te tūmau</string>
+  <string name="update_fail_title">I rahua te whakahōu</string>
+  <string name="update_history_blank">Kāore anō kia hītori</string>
+  <string name="update_history_src_target">Whakahōu mai i %1$s ki %2$s</string>
+  <string name="update_history_time">Kua whakahōutia i te %1$s</string>
+  <string name="update_history_title">Hītori whakahōu</string>
+  <string name="update_history_version">Putanga Pūmanawa %1$s</string>
+  <string name="update_info">Whakahōu ana...</string>
+  <string name="update_postpone_policy">Kua whakaroatia te whakahōu e te kaupapahere kaiwhakahaere </string>
+  <string name="update_preference">Whakahōu manakohanga</string>
+  <string name="update_success_desc">Putanga pūmanawa onāianei: %1$s</string>
+  <string name="update_success_desc_os">whakamihi! Kua tāuta tika koe i te Android %1$s. Ināianei kua rite koe ki te hākinakina i tētahi wheako Android pai ake, atamai ake, haumaru ake hoki.</string>
+  <string name="update_success_status">Whakahōu momoho</string>
+  <string name="update_title">Kua oti te whakahōu</string>
+  <string name="update_title_text">Kia hari ki tō pūmanawa hōu!</string>
+  <string name="upto_date_title">He pai te āhua o ngā mea katoa!</string>
+  <string name="urgent_channel_name">Matohi Whakahōu Pūmanawa</string>
+  <string name="use_smart_updates">Whakamahia ngā Whakahōutanga Atamai</string>
+  <string name="vab_validation_update_failure_desc">Kua rahua te whakahōutanga whakamanatanga VAB</string>
+  <string name="vab_validation_update_failure_title">I rahua te whakamanatanga VAB</string>
+  <string name="vab_validation_update_success_desc">whakamihi! I angitu te whakahōutanga whakamanatanga VAB</string>
+  <string name="vab_validation_update_success_title">angitu whakamanatanga VAB</string>
+  <string name="verifying_patch">Kua hoatu te whakahōu. E whakaū ana kua momoho te taupānga… (Hipanga 4 o te 6)  </string>
+  <string name="verity_disabled_msg">Ka taea pea tō pūrere te whakararuraru i ngā mōrea haumarutanga. Kawekawea te tono o raro nei mō ngā whakahōu haere tonu
+
+adb whakahohe-verity</string>
+  <string name="verity_disabled_title">Kāore tō pūrere e whiwhi whakahōu</string>
+  <string name="verizon_failure_notification_text"> Kāore i taea e tō pūrere te tāuta i tēnei whakahōu. Whakamahia te utauta Kaiāwhina Whakahōu Pūmanawa hei tāuta. Patohia mō ētahi atu mōhiohio.</string>
+  <string name="verizon_failure_text">I hapa te whakahōu i tō pūrere. Kāore he huringa i mahia. Hei whakahōu i tō pūmanawa, ka taea e koe te whakamahi i te utauta Kaiāwhina Whakamohoa Pūmanawa.
+
+Hei tāuta i te utauta Kaiāwhina Whakahōu Pūmanawa:
+
+1. Whakamahia tētahi taura USB hei tūhono i tō pūrere ki tō rorohiko
+2. Ina puta ake te tahua USB ki tō pūrere, tīpakohia te ata tautuhinga kei runga matau
+3. Mai i ngā Manakohanga USB, tīpakohia te tāutanga Pūmanawa
+4. Whakawhiti ki tō PC me te kimi i te ruānuku tāuta
+5. Mā te haere mā te ruānuku
+
+Software Upgrade Assistant utauta koe e āwhina ki te tikiake me te tāuta whakahōu pūmanawa ki tō pūrere.</string>
+  <string name="vital_applying_updates">Hoatu ana i ngā whakahōu…</string>
+  <string name="vital_bg_text">Kāore tēnei e roa rawa.</string>
+  <string name="vital_check_for_updates">Rapu ana i ngā whakahōu…</string>
+  <string name="vital_check_for_updates_desc">Ka noho haumaru tonu ngā whakahōu i tō pūrere me te whakapai ake i tana mahinga.</string>
+  <string name="vital_done">Kua oti!</string>
+  <string name="vital_error_fail">He hapa whakahōu. Karekau he huringa i mahia.</string>
+  <string name="vital_go_back">E tika ana kia mutu te tāutatanga</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Tīmata anō kia haere tonu</string>
+  <string name="vital_skip">Tīpoka</string>
+  <string name="vital_stop">Poroa</string>
+  <string name="wifi_setting">Ngā tautuhinga Wi-Fi</string>
+</resources>

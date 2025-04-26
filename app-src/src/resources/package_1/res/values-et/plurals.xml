@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Teie seade taaskäivitub %1$d sekundi pärast värskendamise lõpetamiseks.</item>
+    <item quantity="other">Teie seade taaskäivitub %1$d sekundi pärast värskendamise lõpetamiseks.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">taaskäivitub %1$d sekundi pärast</item>
+    <item quantity="other">taaskäivitub %1$d sekundi pärast</item>
+  </plurals>
+</resources>

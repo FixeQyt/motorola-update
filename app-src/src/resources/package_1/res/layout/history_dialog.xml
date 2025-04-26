@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<ScrollView android:scrollbarSize="@dimen/scrollbar_size"
+            android:scrollbarStyle="outsideOverlay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:fadeScrollbars="false" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <LinearLayout android:orientation="vertical"
+                android:padding="@dimen/layout_view_space"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+    <TextView android:id="@id/history_dialog_title"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              style="@style/TextAppearance.MaterialComponents.Headline6" />
+    <LinearLayout android:layout_gravity="center"
+                  android:orientation="horizontal"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="@dimen/heading_margin"
+                  android:layout_marginStart="@dimen/list_starting_padding_top"
+                  android:layout_marginEnd="@dimen/list_starting_padding_top">
+      <TextView android:id="@id/expandable_list_title"
+                android:paddingTop="@dimen/layout_margin_top"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/TextAppearance.MaterialComponents.Subtitle2" />
+      <View android:id="@id/dash_line"
+            android:background="?android:attr/dividerVertical"
+            android:visibility="gone"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_height"
+            android:layout_marginTop="@dimen/vital_updates_body_margin_top"
+            android:layout_marginStart="@dimen/scroll_padding" />
+    </LinearLayout>
+    <ExpandableListView android:id="@id/history_dialog_notes"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginTop="@dimen/list_item_padding_bottom"
+                        android:divider="@android:color/darker_gray"
+                        android:dividerHeight="0.0dp"
+                        android:indicatorStart="?android:attr/expandableListPreferredItemIndicatorLeft" />
+    <TextView android:id="@id/updateNotes"
+              android:visibility="gone"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/list_item_padding_bottom"
+              style="@style/TextAppearance.MaterialComponents.Body2" />
+    <com.google.android.material.button.MaterialButton android:gravity="center"
+                          android:layout_gravity="bottom|center|end"
+                          android:id="@id/history_okay"
+                          android:paddingTop="@dimen/layout_margin_top"
+                          android:layout_width="fill_parent"
+                          android:layout_height="wrap_content"
+                          android:text="@string/alert_dialog_ok"
+                          ota:cornerRadius="@dimen/button_corner_radius"
+                          style="@style/MaterialButtonColoredStyle" />
+  </LinearLayout>
+</ScrollView>

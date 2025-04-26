@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">អាប់ដេតពេលក្រោយ</string>
+  <string name="ab_download_now">អាប់ដេតឥឡូវនេះ</string>
+  <string name="ab_install_notification_paused_text">បានផ្អាកការដំឡើងនៅផ្ទៃខាងក្រោយ</string>
+  <string name="ab_install_notification_text">ការដំឡើងនៅផ្ទៃខាងក្រោយ</string>
+  <string name="ab_restart_fullscreen_text">វានឹងចំណាយពេលប្រហែល 90 វិនាទី ដើម្បីចាប់ផ្តើមឧបករណ៍របស់អ្នកឡើងវិញ។ ការអាប់ដេតត្រូវបានផ្តល់ជូនក្នុងរយៈពេល %1$d ថ្ងៃ។</string>
+  <string name="ab_restart_text">វានឹងចំណាយពេលប្រហែល 90 វិនាទី ដើម្បីចាប់ផ្តើមឧបករណ៍របស់អ្នកឡើងវិញ។</string>
+  <string name="ab_restart_warning_os_mr">ការអាប់ដេត​ប្រព័ន្ធ​របស់​អ្នក ជិត​ចប់ហើយ។ ឧបករណ៍​របស់​អ្នកនឹង  </string>
+  <string name="ab_restart_warning_smr">ការអាប់ដេតសុវត្ថិភាពរបស់អ្នកជិតរួចរាល់ហើយ។ ឧបករណ៍របស់អ្នកនឹង </string>
+  <string name="ab_warning_continues"> ដើម្បី​បញ្ចប់​ការ​អាប់ដេត។</string>
+  <string name="abupdate_in_progress_status">ការអាប់ដេតសុហ្វវែរកំពុងដំណើរការ</string>
+  <string name="additional_charges_message">ការទាញយកនឹងបន្តលើទិន្នន័យចល័ត។ ការគិតថ្លៃទិន្នន័យអាចត្រូវបានអនុវត្ត។</string>
+  <string name="alertSubText">ការអនុញ្ញាតនេះប្រើដើម្បីពិនិត្យមើល ទាញយក និងដំឡើងកញ្ចប់អាប់ដេត</string>
+  <string name="alertText">អនុញ្ញាតប្រតិបត្តិការបណ្តាញសម្រាប់ការអាប់ដេតកម្មវិធី</string>
+  <string name="alertTitle">ការអាប់ដេតតម្រូវឱ្យមានការអនុញ្ញាតដូចខាងក្រោម</string>
+  <string name="alert_dialog_cancel">បញ្ឈប់ការដំឡើង</string>
+  <string name="alert_dialog_continue">បន្តការដំឡើង</string>
+  <string name="alert_dialog_no">ទេ</string>
+  <string name="alert_dialog_ok">យល់ហើយ</string>
+  <string name="alert_dialog_yes">បាទ/ចាស</string>
+  <string name="allocate_space_success">តម្រូវឱ្យមានអង្គចងចាំ ដើម្បីអាប់ដេត</string>
+  <string name="allow">អនុញ្ញាត</string>
+  <string name="android_latest_sw_text">អ្នកកំពុងប្រើសុហ្វវែរចុងក្រោយបំផុត។</string>
+  <string name="android_version">ជំនាន់របស់ Android៖</string>
+  <string name="app_name">ការអាប់ដេតសូហ្វវែរ Motorola</string>
+  <string name="applied">បើក</string>
+  <string name="apply_bug_fix">អនុវត្តលើការកែកំហុស</string>
+  <string name="apply_os_update">ធ្វើការអាប់ដេតសុហ្វវែរទាំងអស់</string>
+  <string name="applying_patch">កំពុងធ្វើការអាប់ដេត… (ជំហាន %1$d នៃ %2$d)  </string>
+  <string name="are_you_sure">បិទការអាប់ដេតឆ្លាតវៃឬ?</string>
+  <string name="are_you_sure_pop_up_text">តើអ្នកប្រាកដជាចង់បិទការអាប់ដេតឆ្លាតវៃមែនទេ? </string>
+  <string name="asc_campaign_assigned">បានចាត់តាំងយុទ្ធនាការ</string>
+  <string name="asc_campaign_is_allowed">ការអាប់ដេតកម្មវិធីបង្កប់</string>
+  <string name="asc_campaign_is_blocked">សោកម្មវិធីបង្កប់ </string>
+  <string name="asc_campaign_not_assigned">មិនបានចាត់តាំងយុទ្ធនាការ</string>
+  <string name="asc_sw_up_to_date">រហូតដល់កំណែចុងក្រោយបំផុត</string>
+  <string name="asc_target_version">រហូតដល់កំណែ </string>
+  <string name="auth_title">ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​</string>
+  <string name="auto_download_cellualr_charges_warn">អាចមានការគិតថ្លៃបន្ថែម នៅពេលទាញយកកញ្ចប់សុហ្វវែរតាមរយៈបណ្ដាញទូរសព្ទចល័ត។</string>
+  <string name="auto_download_enable_cellular_future_updates">តើអ្នកក៏ចង់ជ្រើសយកជម្រើសទិន្នន័យទូរសព្ទសម្រាប់ការទាញយកនាពេលអនាគតមែនទេ?</string>
+  <string name="auto_download_settings_title">ការកំណត់ការទាញយកដោយស្វ័យប្រវត្តិ</string>
+  <string name="auto_download_wifi_cellular">ទាញយកដោយស្វ័យប្រវត្តិតាមបណ្ដាញចល័ត (ក្នុងស្រុកតែប៉ុណ្ណោះ) និង Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">ទាញយកដោយស្វ័យប្រវត្តិតាមបណ្ដាញចល័ត និង Wi-Fi Wi-Fi នឹងត្រូវបានប្រើមុនគេ នៅពេលមាន។ </string>
+  <string name="auto_download_wifi_only">ទាញយកដោយស្វ័យប្រវត្តិតាម Wi-Fi តែប៉ុណ្ណោះ</string>
+  <string name="auto_download_wifi_only_desc">ទាញយកដោយស្វ័យប្រវត្តិតាម Wi-Fi តែប៉ុណ្ណោះ</string>
+  <string name="auto_install_notification_text">ឧបករណ៍នឹងដំឡើង %1$sដោយស្វ័យប្រវត្តិ</string>
+  <string name="auto_time_set">ចាប់ផ្ដើមនៅ៖</string>
+  <string name="automatic_bg_install_on_cellular_warning">ដោយសារតែមានភាពចាំបាច់ ការអាប់ដេតនេះនឹងដំឡើងដោយស្វ័យប្រវត្តិដោយប្រើទិន្នន័យចល័តនៅលើ %1$s</string>
+  <string name="automatic_download_on_cellular_warning">ដោយសារតែមានភាពចាំបាច់ ការអាប់ដេតនេះនឹងទាញយកដោយស្វ័យប្រវត្តិដោយប្រើទិន្នន័យចល័តនៅលើ %1$s</string>
+  <string name="background_install_msg">ការអាប់ដេតនេះនឹងបន្ត ប្រសិនបើអ្នកថយក្រោយ ឬបិទផ្ទាំងនេះ។</string>
+  <string name="background_install_text">កំពុងទាញយកការអាប់ដេត និងកំពុងដំឡើង។ អ្នកអាចបន្តប្រើឧបករណ៍របស់អ្នកបាន។</string>
+  <string name="bad_connection">គ្មានការតភ្ជាប់</string>
+  <string name="bad_connection_text">មើលទៅឧបករណ៍របស់អ្នកឥឡូវនេះហាក់ដូចជាបានផ្តាច់អ៊ីនធឺណិតហើយ។ ចុចប៊ូតុងខាងក្រោម ដើម្បីព្យាយាមម្តងទៀត។</string>
+  <string name="bg_install_cancel_confirm">តើអ្នកប្រាកដជាចង់បញ្ឈប់ការដំឡើងមែនទេ?</string>
+  <string name="bg_retried">ការទាញយកសុហ្វវែរត្រូវបានរំខាន។ យើងនឹងបន្តព្យាយាម…</string>
+  <string name="bg_suspended">កំពុងរង់ចាំការតភ្ជាប់ទិន្នន័យ ដើម្បីបន្តទាញយក និងដំឡើងនៅផ្ទៃខាងក្រោយ...</string>
+  <string name="bg_suspended_non_adminapn">កំពុងរង់ចាំ Wi-Fi ឬបណ្តាញឥតគិតថ្លៃ ដើម្បីបន្តការទាញយក និងដំឡើងនៅផ្ទៃខាងក្រោយ...</string>
+  <string name="bg_suspended_roaming">បានផ្អាកការដំឡើងផ្ទៃខាងក្រោយដោយសារតែបណ្ដាញរ៉ូមីង សូមបើក Wi-Fi ដើម្បីបន្តការដំឡើងផ្ទៃខាងក្រោយ។</string>
+  <string name="bg_suspended_wifi">កំពុងរង់ចាំ Wi-Fi ដើម្បីបន្តទាញយក និងដំឡើងនៅផ្ទៃខាងក្រោយ...</string>
+  <string name="bootloader_unlock_msg">ឧបករណ៍របស់អ្នកលែងទទួលការអាប់ដេតទៀតហើយ ហើយងាយនឹងមានហានិភ័យផ្នែកសុវត្ថិភាព។</string>
+  <string name="bootloader_unlock_title">មិនមានការអាប់ដេតទេ</string>
+  <string name="cancel">បោះបង់</string>
+  <string name="cancel_download_notification">បោះបង់</string>
+  <string name="cancel_install">បោះបង់</string>
+  <string name="cancel_update_notification">បោះបង់</string>
+  <string name="check_for_updates_title">រកមើលអាប់ដេត</string>
+  <string name="check_update_badparam">ការព្យាយាមកែលម្អបានជួបប្រទះកំហុសដោយសារការបរាជ័យក្នុងការចូល។
+
+សូមព្យាយាមម្ដងទៀតពេលក្រោយ។</string>
+  <string name="check_update_checking">កំពុងរកមើលការអាប់ដេត...</string>
+  <string name="check_update_disabled_admin">គ្រប់គ្រងដោយអ្នកគ្រប់គ្រង IT</string>
+  <string name="check_update_downloading">កំពុងទាញយកការអាប់ដេតមួយឥឡូវនេះ។
+
+អ្នកនឹងត្រូវបានជូនដំណឹង នៅពេលការទាញយកបានបញ្ចប់។</string>
+  <string name="check_update_fail">កំហុស​មិនបាន​រំពឹងទុក​បាន​កើត​ឡើង។
+
+ឧបករណ៍​នឹង​ព្យាយាមឡើងវិញ សម្រាប់រក​ការ​អាប់ដេត​នៅក្នុង​ផ្ទៃ​ខាងក្រោយ។</string>
+  <string name="check_update_internal">មិនអាចរកមើលការអាប់ដេតបានទេ។ ព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+  <string name="check_update_net">អ្នកត្រូវការការតភ្ជាប់ទិន្នន័យ ដើម្បីរកមើលការអាប់ដេត។ ដើម្បីពិនិត្យមើលការតភ្ជាប់ Wi-Fi របស់អ្នក សូមចូលទៅកាន់ការកំណត់ &gt; បណ្ដាញ និងអ៊ីនធឺណិត &gt; អ៊ីនធឺណិត &gt; Wi-Fi។</string>
+  <string name="check_update_net_vzw">អ្នកត្រូវការការតភ្ជាប់ទិន្នន័យ ដើម្បីរកមើលការអាប់ដេត។ ដើម្បីពិនិត្យមើលការតភ្ជាប់ Wi-Fi របស់អ្នក សូមចូលទៅកាន់ការកំណត់ &gt; បណ្ដាញ និងអ៊ីនធឺណិត &gt; អ៊ីនធឺណិត &gt; Wi-Fi។
+
+អ្នកក៏អាចចូលទៅកាន់ motorola.com/systemupdates ដើម្បីមើលជម្រើសអាប់ដេតផ្សេងទៀតផងដែរ។</string>
+  <string name="check_update_processing">កំពុងភ្ជាប់ទៅម៉ាស៊ីនមេរបស់យើង…
+សូមរង់ចាំ</string>
+  <string name="check_update_roaming">ការអាប់ដេតប្រព័ន្ធអាចរកបានតែក្នុងបណ្ដាញនៅផ្ទះប៉ុណ្ណោះ។ 
+
+សូមចូលទៅកាន់ការកំណត់ &gt; បណ្តាញ និងអ៊ីនធឺណិត &gt; Wi-Fi ដើម្បីដំឡើងការតភ្ជាប់ឥឡូវនេះ។</string>
+  <string name="check_update_storage_low">មិនអាចធ្វើការអាប់ដេតបានទេដោយសារតែទំហំផ្ទុកមិនគ្រប់គ្រាន់នៅលើឧបករណ៍។</string>
+  <string name="check_update_temperror">ការទាញយកការអាប់ដេតមិនអាចបញ្ចប់បានទេឥឡូវនេះ។
+
+សូមព្យាយាមម្ដងទៀត។</string>
+  <string name="check_update_text">ការរកមើលការអាប់ដេតម្ដងម្កាលអាចរក្សាឧបករណ៍របស់អ្នកឱ្យមានសុវត្ថិភាព និងធ្វើឱ្យដំណើរការរបស់វាកាន់តែប្រសើរឡើង។</string>
+  <string name="check_update_title_downloading">ការទាញយកកំពុងដំណើរការ...</string>
+  <string name="check_update_vab_validation">កំពុងពិនិត្យមើលស្ថានភាពបច្ចុប្បន្នភាពលើការធ្វើឱ្យមានសុពលភាព VAB
+សូមរង់ចាំ</string>
+  <string name="check_update_wifi_only">ការអាប់ដេតប្រព័ន្ធអាចរកបានតែតាមរយៈ Wi-Fi ប៉ុណ្ណោះ។</string>
+  <string name="check_wifi_settings">ពិនិត្យមើលការកំណត់ Wi-Fi</string>
+  <string name="clear_space">សម្អាតទំហំផ្ទុក</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">កម្មវិធី​ទាមទារ​បច្ចុប្បន្នភាព​ចំពោះ​កម្មវិធី Android Wear ។</string>
+  <string name="common_android_wear_update_text">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ លុះ​ត្រា​តែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​​កម្មវិធី Android Wear ។</string>
+  <string name="common_android_wear_update_title">ធ្វើ​បច្ចុប្បន្នភាព Android Wear</string>
+  <string name="common_google_play_services_enable_button">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+  <string name="common_google_play_services_enable_text">កម្ម​វិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​បើក​សេវាកម្ម​​កម្សាន្ត​ Google ។</string>
+  <string name="common_google_play_services_enable_title">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">បាន​ស្នើ​ដោយ %1$s</string>
+  <string name="common_google_play_services_install_button">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+  <string name="common_google_play_services_install_text_phone">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​ទូរស័ព្ទ​របស់​​អ្នក​មិន​មាន។</string>
+  <string name="common_google_play_services_install_text_tablet">​​កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​មិន​មាន។</string>
+  <string name="common_google_play_services_install_title">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+  <string name="common_google_play_services_invalid_account_text">គណនី​ដែល​បាន​បញ្ជាក់​មិន​មាន​នៅ​លើ​ឧបករណ៍​នេះ​ទេ។ សូម​ជ្រើស​គណនី​ផ្សេង​។</string>
+  <string name="common_google_play_services_invalid_account_title">គណនី​មិន​ត្រឹមត្រូវ</string>
+  <string name="common_google_play_services_needs_enabling_title">កម្មវិធី​ទាមទារ​ឲ្យ​បើក​សេវាកម្ម​ Google កម្សាន្ត។</string>
+  <string name="common_google_play_services_network_error_text">បាន​ទាមទារ​ការ​តភ្ជាប់​ទិន្នន័យ ដើម្បី​ភ្ជាប់​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។</string>
+  <string name="common_google_play_services_network_error_title">កំហុស​​បណ្ដាញ</string>
+  <string name="common_google_play_services_notification_needs_installation_title">កម្មវិធី​ទាមទារ​ឲ្យ​ដំឡើង​សេវាកម្ម​ Google កម្សាន្ត។</string>
+  <string name="common_google_play_services_notification_needs_update_title">កម្មវិធី​ទាមទារ​​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម ​Google កម្សាន្ត។</string>
+  <string name="common_google_play_services_notification_ticker">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+  <string name="common_google_play_services_unknown_issue">មិន​ស្គាល់​បញ្ហា​ជាមួយ​សេវាកម្ម​កម្សាន្ត Google ។</string>
+  <string name="common_google_play_services_unsupported_text">សេវាកម្ម​កម្សាន្ត Google អាស្រ័យ​លើ​កម្មវិធី​របស់​អ្នក មិន​ត្រូវ​បាន​គាំទ្រ​ដោយ​ឧបករណ៍​របស់​អ្នក។ សូម​ទាក់ទង​ក្រុមហ៊ុន​ផលិត​សម្រាប់​ជំនួយ។</string>
+  <string name="common_google_play_services_unsupported_title">សេវាកម្ម​កម្សាន្ត​ Google</string>
+  <string name="common_google_play_services_update_button">ធ្វើ​បច្ចុប្បន្នភាព</string>
+  <string name="common_google_play_services_update_text">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google ។</string>
+  <string name="common_google_play_services_update_title">ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google</string>
+  <string name="common_open_on_phone">បើក​តាម​ទូរស័ព្ទ</string>
+  <string name="common_signin_button_text">ចូល</string>
+  <string name="common_signin_button_text_long">ចូល​ដោយ​ប្រើ​ Google</string>
+  <string name="compatibility_failed_title">បាន​បរាជ័យ​ក្នុងការ​ផ្ទៀងផ្ទាត់​កញ្ចប់</string>
+  <string name="compatibility_verification_failure">កញ្ចប់​ធ្វើ​បច្ចុប្បន្នភាព​ដែលកំពុង​ទាញយក មិនអាច​ប្រើបាន​ជាមួយ​នឹងជំនាន់​នៃសូហ្វវែរ​បច្ចុប្បន្ន​នៅ​លើ​ឧបករណ៍​ទេ។</string>
+  <string name="compatibility_verification_failure_df">
+
+សូម​សាកសួរ​អ្នក​សម្របសម្រួលនៅ Dogfood របស់​អ្នក។</string>
+  <string name="compatibility_verification_success">បានផ្ទៀងផ្ទាត់ដោយជោគជ័យ</string>
+  <string name="completed"> ការដំឡើងបានបញ្ចប់។ (ជំហាន %1$d នៃ %2$d)</string>
+  <string name="completed_install">%s បានបញ្ចប់</string>
+  <string name="continue_button">បន្ត</string>
+  <string name="critical_install_message_popup_os_mr">មានការអាប់ដេតប្រព័ន្ធសំខាន់មួយ។ សូមជ្រើសរើសដំឡើង ដើម្បីធ្វើការអាប់ដេត។ បើមិនដូច្នោះទេ ការអាប់ដេតនឹងត្រូវបានធ្វើឡើងដោយស្វ័យប្រវត្តិនៅ %1$s។</string>
+  <string name="critical_install_message_popup_smr">មានការអាប់ដេតសុវត្ថិភាពសំខាន់មួយ។ សូមជ្រើសរើសដំឡើង ដើម្បីធ្វើការអាប់ដេត។ បើមិនដូច្នោះទេ ការអាប់ដេតនឹងត្រូវបានធ្វើឡើងដោយស្វ័យប្រវត្តិនៅ %1$s។</string>
+  <string name="critical_install_message_screen">ការអាប់ដេតសំខាន់នេះនឹងដំឡើងដោយស្វ័យប្រវត្តិនៅ %1$s។ ត្រូវប្រាកដថាអ្នកមានថាមពលថ្មគ្រប់គ្រាន់សម្រាប់ការដំឡើង។</string>
+  <string name="critical_install_notification">ដោយសារតែការអាប់ដេតនេះមានសារៈសំខាន់ ឧបករណ៍របស់អ្នកនឹងដំឡើងដោយស្វ័យប្រវត្តិនៅ %1$s។
+រយៈពេលដំឡើង៖ %2$d នាទី</string>
+  <string name="critical_restart_message_popup">សូមចាប់ផ្តើមឧបករណ៍របស់អ្នកឡើងវិញ ដើម្បីធ្វើការអាប់ដេតដ៏សំខាន់នេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន។ ប្រសិនបើអ្នកមិនចាប់ផ្តើមឡើងវិញដោយដៃទេ ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិនៅ %1$s។</string>
+  <string name="critical_restart_message_screen">ដោយសារតែនេះគឺជាការអាប់ដេតសំខាន់ ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិនៅ %1$s ប្រសិនបើអ្នកមិនបានចាប់ផ្តើមឡើងវិញនៅពេលនោះ។</string>
+  <string name="critical_restart_notification">ដោយសារតែការអាប់ដេតនេះមានសារៈសំខាន់ ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិនៅ %1$s</string>
+  <string name="critical_update_notification_title">ការអាប់ដេតសំខាន់</string>
+  <string name="current_version">កំណែសុហ្វវែរបច្ចុប្បន្ន៖</string>
+  <string name="custom_slot">ផ្ទាល់ខ្លួន</string>
+  <string name="date_time">%s នៅ %s</string>
+  <string name="defer_count_expired">យល់ហើយ</string>
+  <string name="deny">បដិសេធ</string>
+  <string name="details">ព័ត៌មាន​លម្អិត</string>
+  <string name="dialog_alert_net_message">ពិនិត្យ​មើល​ Wi-Fi​ ឬ​ការ​តភ្ជាប់​ទិន្នន័យ​ចល័ត​របស់​អ្នក ហើយ​ព្យាយាម​ម្ដងទៀត។</string>
+  <string name="dialog_alert_net_title">ឧបករណ៍​របស់​អ្នកនៅ​ក្រៅ​បណ្ដាញ</string>
+  <string name="dialog_alert_title">អស់​ថ្</string>
+  <string name="dialog_progress">កំពុង​ផ្ទុក...</string>
+  <string name="dl_options_mobile_only_warning">ការប្រើ Wi-Fi ត្រូវបានណែនាំ។ ការទាញយកទិន្នន័យចល័ត ឬប្រើទិន្នន័យចល័ត ខណៈពេលរ៉ូមីងអាចបណ្តាលឱ្យមានការគិតថ្លៃបន្ថែម។
+
+ការទាញយកសុហ្វវែរ​នេះ​នឹង​មិន​ប៉ះពាល់​ដល់​ប្រតិបត្តិការ​ឧបករណ៍​របស់អ្នកទេ។</string>
+  <string name="done">រួចរាល់</string>
+  <string name="dont_show_this_again">កុំ​បង្ហាញ​ព័ត៌មាន​នេះ​ម្ដងទៀត</string>
+  <string name="download_cancelled_title">បានលុបការ​ទាញ​យក</string>
+  <string name="download_deferred_status">ការទាញយកសុហ្វវែរត្រូវបានពន្យារពេលទៅថ្ងៃទី</string>
+  <string name="download_failed_status">មិនអាចទាញយកការអាប់ដេតបានទេនៅថ្ងៃទី</string>
+  <string name="download_in_progress_status">ការទាញយកសុហ្វវែរកំពុងដំណើរការ</string>
+  <string name="download_later_button">ទាញយកពេលក្រោយ</string>
+  <string name="download_no_button">ទេ អរគុណ</string>
+  <string name="download_note">អ្នកអាចបន្តប្រើឧបករណ៍របស់អ្នក នៅពេលដំឡើងការអាប់ដេត</string>
+  <string name="download_now">ទាញយកឥឡូវនេះ</string>
+  <string name="download_now_button">ទាញ​យក</string>
+  <string name="download_options">ជម្រើស​នៃការ​ទាញ​យក</string>
+  <string name="download_progress_cancel_message">ប្រសិនបើអ្នកចង់ទាញយកការអាប់ដេតនេះនៅពេលក្រោយ សូមចូលទៅកាន់ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">នៅសល់ %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">បានទាញយក %s%% (បានផ្អាក)</string>
+  <string name="download_progress_text">ការទាញយកនេះនឹងបន្ តប្រសិនបើអ្នកថយក្រោយ ឬបិទផ្ទាំងនេះ។</string>
+  <string name="download_subtitle">អ្វីដែលត្រូវដឹងមុនពេលអ្នកទាញយក</string>
+  <string name="download_text_whats_new">មើលអ្វីដែលថ្មី</string>
+  <string name="download_time_left">នៅសល់ %1$s </string>
+  <string name="download_version">កំណែថ្មី៖ %1$s</string>
+  <string name="download_wifi_only_error">ត្រូវការ Wi-Fi ដើម្បីទាញយកការអាប់ដេតនេះ។ ការទាញយកនឹងបន្ត នៅពេលការភ្ជាប់របស់អ្នកត្រូវបានស្តារឡើងវិញ។</string>
+  <string name="downloaded_percentage">បានទាញយក %1$s </string>
+  <string name="emergency_call_btn_txt">ពេលមានអាសន្ន</string>
+  <string name="emergency_call_text">អ្នក​នឹង​មិនអាច​ហៅ​ឬ​ទទួលការហៅ បានទេ រួមទាំងការហៅ​ពេលមានអាសន្ន ក្នុងពេល​កំពុង​ប៊ូតឡើង​វិញ!</string>
+  <string name="enable_wifi_error_txt">ភ្ជាប់ Wi-Fi ដើម្បីទាញយកការអាប់ដេតនេះ។</string>
+  <string name="eol_explore">រុករកឧបករណ៍ថ្មីៗ</string>
+  <string name="eol_last_update_text">បំណះសុវត្ថិភាព៖</string>
+  <string name="eol_promote">សូមមើលការផ្សព្វផ្សាយចុងក្រោយបំផុត</string>
+  <string name="eol_title">ឧបករណ៍របស់អ្នកកំពុងដំណើរការសុហ្វវែរដែលអាចរកបានចុងក្រោយបំផុត។</string>
+  <string name="err_title_contact_server">កំពុងភ្ជាប់ទៅម៉ាស៊ីនមេ…</string>
+  <string name="err_title_memory_low">ជិតអស់ទំហំអង្គចងចាំ…</string>
+  <string name="err_title_temp_error">បញ្ហាបណ្តោះអាសន្ន</string>
+  <string name="err_title_update">បញ្ហាក្នុងការអាប់ដេត</string>
+  <string name="error_code">លេខកូដ​បញ្ហា៖ </string>
+  <string name="error_copyfail">បរាជ័យក្នុងការថតចម្លងពីទីតាំងកាត SD ។</string>
+  <string name="error_disabled">ការទាញយក​ការអាប់ដេត​បាន​បរាជ័យ។ កញ្ចប់អាប់ដេតមិនអាចរកបាន​នា​ពេល​ឥឡូវនេះ​ទេ។ ​
+
+No ចាំបាច់ត្រូវ​មាន​សកម្មភាព​បន្ថែម​ទៀត។</string>
+  <string name="error_fail">សូមអភ័យទោស មានបញ្ហាក្នុងការអាប់ដេត %1$sរបស់អ្នក។ មិនមានការផ្លាស់ប្តូរទេ។ សូមព្យាយាមម្តងទៀតដោយចូលទៅកាន់ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ។</string>
+  <string name="error_in_call_msg">ឧបករណ៍មិនអាចអាប់ដេតបានទេនៅពេលនេះ ដោយសារតែការហៅកំពុងដំណើរការ</string>
+  <string name="error_in_call_title">ការហៅកំពុងដំណើរការ</string>
+  <string name="error_install_title">ការ​ដំឡើង​បាន​បរាជ័យ</string>
+  <string name="error_mismatch">មានភាពមិនស៊ីគ្នានៃកំណែ។ ការអាប់ដេតនឹងមានម្ដងទៀត។ ប្រសិនបើមាន អ្នកនឹងត្រូវបានជូនដំណឹង។</string>
+  <string name="error_mismatch_sd">ការអាប់ដេតបានបរាជ័យ។ កំណែការអាប់ដេតមិនត្រូវគ្នានឹងទូរសព្ទរបស់អ្នក។ 
+
+សូមទាញយកកំណែត្រឹមត្រូវសម្រាប់ទូរសព្ទរបស់អ្នក ហើយព្យាយាមម្ដងទៀត។</string>
+  <string name="error_network">ការតភ្ជាប់បាន​បាត់បង់។ សូមព្យាយាម​ម្ដងទៀតដោយត្រួតពិនិត្យការអាប់ដេត​តាមរយៈ​ការកំណត់​ទូរសព្ទ​ដោយ​ខ្លួន​ឯង។</string>
+  <string name="error_reboot">យើងមិនអាចទាញយកការអាប់ដេតនេះបានទេ។ យើងមិនអាចទាញយកការអាប់ដេតនេះបានទេ។ ប្រសិនបើអ្នកចង់បានការអាប់ដេតនេះនៅពេលក្រោយ សូមចាប់ផ្ដើមឧបករណ៍របស់អ្នកឡើងវិញ ហើយចូលទៅកាន់ ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ។</string>
+  <string name="error_resources">យើងមិនអាចទាញយកការអាប់ដេតនេះបានទេ។ ប្រសិនបើអ្នកចង់បានការអាប់ដេតនេះនៅពេលក្រោយ សូមចូលទៅកាន់ ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ។</string>
+  <string name="error_sdcard_resources_fail_removal">កាត SD ត្រូវបានដកចេញ។ ដំណើរការទាញយកមិនត្រូវបានបញ្ចប់។
+
+សូមបញ្ចូលកាត SD ម្តងទៀត ហើយចូលទៅកាន់ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ ដើម្បីព្យាយាមម្តងទៀត។
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">មិនអាចបញ្ចប់ការទាញយកបានទេ។ មិនមានទំហំទំនេរគ្រប់គ្រាន់នៅលើកាត SD ទេ។ 
+
+សូមបង្កើនទំហំទំនេរ ហើយចូលទៅ ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ ដើម្បីព្យាយាមទាញយកម្ដងទៀត។
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">សូមបញ្ចូលកាត SD Card ដើម្បីចាប់ផ្ដើមការទាញយក។ 
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">សូមដំឡើងកាត SD Card ដើម្បីចាប់ផ្ដើមការទាញយក។ 
+
+ចូលទៅ ការកំណត់ &gt; ឧបករណ៍ផ្ទុក &gt; ដំឡើងកាត SD ។
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">មិនមានទំហំទំនេរគ្រប់គ្រាន់នៅលើកាត SD ដើម្បីបញ្ចប់ការទាញយកទេ។ 
+
+សូមបង្កើនទំហំទំនេរ %1$sហើយចូលទៅកាន់ការកំណត់ &gt; ប្រព័ន្ធ &gt; ការអាប់ដេតប្រព័ន្ធ ដើម្បីព្យាយាមទាញយកម្តងទៀត។
+
+
+</string>
+  <string name="error_sdcard_resources_title">កំហុស</string>
+  <string name="error_sdcard_resources_warning">ការអាប់ដេតសុហ្វវែរកំពុងទាញយកកាត SD ។ 
+
+សូមកុំដកកាត SD មុនពេលការការដំឡើងបានបញ្ចប់។
+
+
+</string>
+  <string name="error_server">មានបញ្ហាមួយកើតឡើងនៅលើម៉ាស៊ីនមេ។ សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។</string>
+  <string name="error_space">ការអាប់ដេតនេះតម្រូវឱ្យមានទំហំផ្ទុកទំនេរ %1$s នៅលើឧបករណ៍របស់អ្នក។ 
+
+សូមលុបកម្មវិធីដែលមិនបានប្រើ ឬផ្លាស់ទីរូបថត និងវីដេអូរបស់អ្នកទៅឧបករណ៍ផ្ទុកមួយផ្សេងទៀត ដើម្បីបង្កើនទំហំទំនេរ %2$s។ 
+
+នៅពេលរួចរាល់ អ្នកអាចចូលទៅកាន់ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ ដើម្បីចាប់ផ្តើមការអាប់ដេតនៅពេលណាមួយ។</string>
+  <string name="error_space_retry">ការអាប់ដេតនេះតម្រូវឱ្យមានទំហំផ្ទុកទំនេរ %1$s នៅលើឧបករណ៍របស់អ្នក។ 
+
+សូមលុបកម្មវិធីដែលមិនប្រើ ឬផ្លាស់ទីរូបថត និងវីដេអូរបស់អ្នកទៅឧបករណ៍ផ្ទុកមួយផ្សេងទៀត ដើម្បីបង្កើនទំហំទំនេរ %2$s។</string>
+  <string name="error_space_vab">ការអាប់ដេតនេះតម្រូវឱ្យមានទំហំផ្ទុកទំនេរ %1$s នៅលើឧបករណ៍របស់អ្នក។ សូមបង្កើនទំហំផ្ទុកទំនេរនៅលើអង្គចងចាំ ដើម្បីអាប់ដេតបានជោគជ័យ</string>
+  <string name="error_space_vab_make_room_popup">អ្នកត្រូវសម្អាតទំហំផ្ទុក %1$s មុនពេលអាប់ដេត។ ព្យាយាមលុបកម្មវិធីដែលមិនប្រើចេញ ឬផ្ទេររូបថត និងវីដេអូទៅឧបករណ៍ផ្ទុកផ្សេងទៀត។</string>
+  <string name="error_title">ការទាញយកបានបរាជ័យ</string>
+  <string name="error_verify">ការអាប់ដេតមិនអាចធ្វើសុពលភាពបានត្រឹមត្រូវទេ។ សូមព្យាយាមម្ដងទៀត។</string>
+  <string name="failed">បាន​បរាជ័យ</string>
+  <string name="failure_process">មិនមានព័ត៌មានទេ</string>
+  <string name="first_net_text">សូមដំឡើងការអាប់ដេត បើមិនដូច្នោះទេឧបករណ៍នឹងដំឡើងដោយស្វ័យប្រវត្តិពេលចាប់ផ្ដើមឡើងវិញនៅពេលបន្ទាប់។ ត្រូវប្រាកដថាកម្រិតថ្មមានច្រើនជាង %s</string>
+  <string name="forceInstallMessage">ការអាប់ដេតនេះនឹងត្រូវបានដំឡើងដោយស្វ័យប្រវត្តិនៅ %1$s។</string>
+  <string name="force_install_message_screen">នេះគឺជាការអាប់ដេតសំខាន់ ដូច្នេះសូមដំឡើងត្រឹម %1$s។ បើមិនដូច្នោះទេ ការអាប់ដេតនឹងដំឡើងដោយស្វ័យប្រវត្តិ នៅពេលដែលឧបករណ៍របស់អ្នកត្រូវបានប្រើប្រាស់តិចបំផុត។ ត្រូវប្រាកដថាអ្នកមានថាមពលថ្មគ្រប់គ្រាន់សម្រាប់ការដំឡើង។</string>
+  <string name="force_install_notification_message">សូមដំឡើងត្រឹម %1$s។ បើមិនដូច្នោះទេ ឧបករណ៍របស់អ្នកនឹងដំឡើងដោយស្វ័យប្រវត្តិ នៅពេលដែលវាត្រូវបានប្រើប្រាស់តិចបំផុត។
+រយៈពេលដំឡើង៖ %2$d នាទី</string>
+  <string name="force_restart_notification_message">សូមចាប់ផ្តើមឡើងវិញត្រឹម %1$s។ បើមិនដូច្នោះទេ ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិ នៅពេលដែលវាត្រូវបានប្រើប្រាស់តិចបំផុត។</string>
+  <string name="force_restart_screen_message">ប្រសិនបើអ្នកមិនចាប់ផ្តើមឡើងវិញត្រឹម %1$s ទេ ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិនៅពេលវាត្រូវបានប្រើប្រាស់តិចបំផុត។</string>
+  <string name="google">Google</string>
+  <string name="got_it">យល់ហើយ</string>
+  <string name="important_update_install_overdue_message">ពេលវេលាដែលបានកំណត់ពេលសម្រាប់ការដំឡើងបានកន្លងផុតទៅហើយ។ ការដំឡើងនឹងចាប់ផ្តើមនៅពេលឧបករណ៍របស់អ្នកបំពេញបានតាមលក្ខណៈវិនិច្ឆ័យ។</string>
+  <string name="important_update_restart_overdue_message">ពេលវេលាដែលបានកំណត់ពេលសម្រាប់ការដំឡើងបានកន្លងផុតទៅហើយ។ ឧបករណ៍នឹងចាប់ផ្តើមឡើងវិញនៅពេលដែលវាបំពេញតាមលក្ខណៈវិនិច្ឆ័យ។</string>
+  <string name="initiating_ota_service_msg">សូមរង់ចាំ...</string>
+  <string name="initiating_ota_service_title">កំពុងចាប់ផ្តើមដំណើរការអាប់ដេតសុហ្វវែរ</string>
+  <string name="install">ដំឡើង</string>
+  <string name="install_after_one_hour">ដំឡើងក្នុងរយៈពេល 1 ម៉ោង</string>
+  <string name="install_cancelled_title">បានបោះបង់ការដំឡើង</string>
+  <string name="install_deferred_status">ការអាប់ដេតត្រូវបានពន្យារពេលនៅ</string>
+  <string name="install_later">ដំឡើង​ពេលក្រោយ</string>
+  <string name="install_notify_sanity_call_msg">ឧបករណ៍មិនអាចដំឡើងបានទេនៅពេលនេះ ដោយសារតែការហៅកំពុងដំណើរការ</string>
+  <string name="install_notify_sanity_maps_msg">ឧបករណ៍មិនអាចដំឡើងបានទេនៅពេលនេះ ដោយសារតែការរុករកត្រូវបានបើក</string>
+  <string name="install_now">តម្លើងឥឡូវនេះ</string>
+  <string name="install_postponed">បានពន្យារពេលការ​ដំឡើង</string>
+  <string name="install_progress_cancel_message">ប្រសិនបើអ្នកចង់ដំឡើងការអាប់ដេតនេះនៅពេលក្រោយ សូមចូលទៅកាន់ ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ</string>
+  <string name="install_progress_paused_message">%s បានបញ្ចប់ (បានផ្អាក)</string>
+  <string name="install_time">រយៈពេលដំឡើង៖ %1$d នាទី</string>
+  <string name="install_warning">អ្វីដែលត្រូវដឹងមុនពេលអ្នកដំឡើង</string>
+  <string name="just_one_more_step">តែមួយជំហានទៀតប៉ុណ្ណោះ</string>
+  <string name="keep_it_on">ទុកឲ្យវានោបើក</string>
+  <string name="later_button">រំលឹកខ្ញុំនៅពេលក្រោយ</string>
+  <string name="learn_more_online_link">ស្វែងយល់បន្ថែមតាមអ៊ីនធឺណិត</string>
+  <string name="low_battery_bg_install">ការដំឡើងត្រូវបានផ្អាកដោយសារជិតអស់ថ្ម។ ការដំឡើងនឹងបន្ត នៅពេលឧបករណ៍របស់អ្នកសាកថ្ម។</string>
+  <string name="low_battery_download">ការទាញយកត្រូវបានផ្អាកដោយសារជិតអស់ថ្ម។ ការទាញយកនឹងបន្ត នៅពេលឧបករណ៍របស់អ្នកសាកថ្ម។</string>
+  <string name="low_battery_install">សូមសាកថ្មឧបករណ៍របស់អ្នកឱ្យបានយ៉ាងហោចណាស់ %s មុនពេល​ដំឡើង​ការអាប់ដេត​នេះ</string>
+  <string name="make_space">បង្កើនទំហំទំនេរ</string>
+  <string name="mandatory_install_notification">ប្រសិនបើអ្នកមិនបានដំឡើងការអាប់ដេតប្រព័ន្ធនេះក្នុងពេលឆាប់ៗនេះទេ អ្នកនឹងខកខានមិនបានធ្វើការអាប់ដេតសុវត្ថិភាពសំខាន់ៗក៏ដូចជាមុខងារថ្មីៗ និងការកែកំហុស។</string>
+  <string name="mandatory_restart_notification">ដោយសារតែវាជាការអាប់ដេតដ៏សំខាន់ សូមចាប់ផ្តើមឡើងវិញឥឡូវនេះ។ បើមិនដូច្នោះទេ អ្នកនឹងខកខានមិនបានធ្វើការអាប់ដេតសុវត្ថិភាពសំខាន់ៗក៏ដូចជាមុខងារថ្មីៗ និងការកែកំហុស។</string>
+  <string name="medium_channel_name">កម្មវិធីជូនដំណឹងពីការទាញយកសុហ្វវែរ</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">ជ្រើស​គណនី</string>
+  <string name="multiple_account_alert">ជ្រើសរើសគណនី %1$s ដើម្បីបន្តការអាប់ដេតប្រព័ន្ធ។</string>
+  <string name="no_thanks">ទេ អរគុណ</string>
+  <string name="no_thanks_message">ប្រសិនបើអ្នកចង់បានការអាប់ដេតនេះនៅពេលក្រោយ សូមចូលទៅកាន់ ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ។</string>
+  <string name="no_updates_applied">មិនបានអនុវត្តការអាប់ដេតទេ</string>
+  <string name="not_now">មិនមែន​ឥឡូវ</string>
+  <string name="otaservice_perm_desc">ការអនុញ្ញាត​ដែលកម្មវិធី​ត្រូវការ ត្រូវតែ​មានអន្តរសកម្មភាព​ជាមួយ otaservice</string>
+  <string name="package_size">ទំហំទាញយក៖ %1$s</string>
+  <string name="personalInfo_instruction">អ្នកនឹងមិនបាត់បង់ព័ត៌មានផ្ទាល់ខ្លួនណាមួយទេ</string>
+  <string name="picker_cell_radio">Wi-Fi និងទិន្នន័យចល័ត</string>
+  <string name="picker_title">ជ្រើសរើស​របៀប​ដែល​អ្នកចង់ទាញយក​អាប់ដេត​នេះ៖</string>
+  <string name="picker_wifi_only_radio">Wi-Fi តែប៉ុណ្ណោះ</string>
+  <string name="please_restart">សូមចាប់ផ្តើមឡើងវិញឥឡូវនេះ</string>
+  <string name="policy_set">ការអាប់ដេតប្រព័ន្ធត្រូវបានប្លុក។ សូមទាក់ទងអ្នកគ្រប់គ្រងឧបករណ៍របស់អ្នកសម្រាប់ព័ត៌មានបន្ថែម។</string>
+  <string name="press_back_again_to_exit">ចុច​ថយក្រោយម្ដងទៀត ដើម្បី​ចាកចេញ​</string>
+  <string name="progress_copying_sd">កំពុង​ចម្លង​អាប់ដេត</string>
+  <string name="progress_deffered">ការទាញយក​នឹង​ចាប់ផ្ដើម​តាម Wi-Fi/បណ្ដាញ​ចល័ត។</string>
+  <string name="progress_downloading_ota">កំពុង​ទាញយក​ការអាប់ដេត​ប្រព័ន្ធ</string>
+  <string name="progress_downloading_security">កំពុងទាញយក​អាប់ដេត​សន្តិសុខ</string>
+  <string name="progress_retried">ការទាញយកសុហ្វវែរត្រូវបានរំខាន។ យើងនឹងបន្តព្យាយាម…</string>
+  <string name="progress_suspended">កំពុងរង់ចាំ​ការភ្ជាប់ទិន្នន័យ ដើម្បី​បន្ត​ការទាញយក​ជាបន្ត​ទៀត</string>
+  <string name="progress_suspended_datasaver">បិទ​ធាតុរក្សា​ទិន្នន័យ​ដើម្បី​បន្តទាញយក</string>
+  <string name="progress_suspended_no_adminapn">កំពុងរង់ចាំ Wi-Fi ឬបណ្ដាញកម្រិតសូន្យ ដើម្បីបន្តការទាញយកឡើងវិញ</string>
+  <string name="progress_suspended_roaming">បានផ្អាកការទាញយកដោយសារបណ្តាញរ៉ូមីង សូមបើក Wi-Fi ដើម្បីបន្តការទាញយក។</string>
+  <string name="progress_suspended_wifi">កំពុងរង់ចាំ Wi-Fi ដើម្បីបន្តការទាញយក...</string>
+  <string name="progress_verify">កំពុងផ្ទៀងផ្ទាត់ការអាប់ដេត...</string>
+  <string name="progress_verify_allocate_space">ពិនិត្យមើលថាតើអង្គចងចាំមានទំហំផ្ទុកគ្រប់គ្រាន់ឬនៅ</string>
+  <string name="relative_date_time">%1$s នៅ %2$s</string>
+  <string name="release_notes_string">សូមពិនិត្យមើលមុខងារថ្មីៗទាំងអស់នៅក្នុង Android %1$s</string>
+  <string name="request_suspended_datasaver">បិទ​ធាតុរក្សា​ទិន្នន័យ​ដើម្បី​ចាប់ផ្ដើម​ការទាញយក</string>
+  <string name="request_suspended_no_network">មិនមានដែនគ្របដណ្ដប់បណ្ដាញ ដើម្បីចាប់ផ្ដើមការទាញយកទេ</string>
+  <string name="restart_after_one_hour">ចាប់ផ្ដើមឡើងវិញក្នុងរយៈពេល 1 ម៉ោង</string>
+  <string name="restart_instruction_title">អ្វីដែលត្រូវដឹងមុនពេលអ្នកចាប់ផ្តើមឡើងវិញ</string>
+  <string name="restart_later">ពេលក្រោយ</string>
+  <string name="restart_message">សូមចាប់ផ្ដើមឡើងវិញឥឡូវនេះដើម្បីអាប់ដេត</string>
+  <string name="restart_notification">ចាប់ផ្ដើមឡើងវិញ</string>
+  <string name="restart_notification_text">សូមចាប់ផ្ដើមឡើងវិញឥឡូវនេះដើម្បីអាប់ដេត។ ការអាប់ដេតត្រូវបានដាក់ឱ្យរង់ចាំរយៈពេល %1$d ថ្ងៃ។</string>
+  <string name="restart_notify_sanity_call_msg">ឧបករណ៍មិនអាចចាប់ផ្ដើមឡើងវិញបានទេនៅពេលនេះ ដោយសារតែការហៅកំពុងដំណើរការ</string>
+  <string name="restart_notify_sanity_maps_msg">ឧបករណ៍មិនអាចចាប់ផ្តើមឡើងវិញបានទេនៅពេលនេះ ដោយសារការរុករកត្រូវបានបើក</string>
+  <string name="restart_now">ចាប់ផ្ដើមឡើងវិញឥឡូវនេះ</string>
+  <string name="restart_postponed">ការចាប់ផ្ដើមឡើងវិញត្រូវបានពន្យារពេល</string>
+  <string name="restart_title">ចាប់ផ្តើមឧបករណ៍របស់អ្នកឡើងវិញ</string>
+  <string name="resume_download_on_cellular">ប្រើប្រាស់​ទិន្នន័យ​ចល័ត</string>
+  <string name="retrieving_token">កំពុងផ្ទៀងផ្ទាត់​ភាព​ត្រឹមត្រូវ...</string>
+  <string name="sdcard_predownload_text">
+នៅជំហាននេះ អ្នកនឹង​ចម្លង​ការអាប់ដេតទៅ​ក្នុង​អង្គចងចាំប្រព័ន្ធ​។ ការអាប់ដេត​នឹង​ត្រូវ​ដំឡើង នៅជំហាន​បន្ទាប់។ 
+
+ភ្ជាប់​ទូរសព្ទ​របស់អ្នក​ទៅ​ប្រភព​ថាម​ពល​ដើម្បីកុំ​ឱ្យទូរ​ស័ព្ទ​របស់​អ្នក​​អស់​ថ្ម។</string>
+  <string name="secure_instruction">ដំណើរការនេះមានសុវត្ថិភាព</string>
+  <string name="security_download_notification_title">កែលម្អសុវត្ថិភាពរបស់អ្នក</string>
+  <string name="security_install_notification_text">ការអាប់ដេតសុវត្ថិភាពថ្មីគឺរួចរាល់ក្នុងការដំឡើង</string>
+  <string name="security_install_title">អាចដំឡើងការអាប់ដេតសុវត្ថិភាពនេះបានហើយ</string>
+  <string name="security_patch">បំណះសុវត្ថិភាព៖</string>
+  <string name="security_update_low_storage_title">​បច្ចុប្បន្នភាព​សុវត្ថិភាព</string>
+  <string name="security_update_notification_text">ទទួលបានការអាប់ដេតសុវត្ថិភាពចុងក្រោយបំផុត</string>
+  <string name="security_update_paused">បានផ្អាក​អាប់ដេត​សន្តិសុខ</string>
+  <string name="security_update_pending_notification_text">ទទួលបានការអាប់ដេតសុវត្ថិភាពចុងក្រោយបំផុត ការអាប់ដេតត្រូវបានដាក់ឱ្យរង់ចាំរយៈពេល %1$d ថ្ងៃ។</string>
+  <string name="security_update_title">​បច្ចុប្បន្នភាព​សុវត្ថិភាព</string>
+  <string name="select_account">ជ្រើសរើសគណនី %1$s មួយ</string>
+  <string name="selected_later_time_os_mr">ការអាប់ដេត​ប្រព័ន្ធ​នឹង​ត្រូវ​ដំឡើង​នៅ </string>
+  <string name="selected_later_time_smr">ការអាប់ដេតសុវត្ថិភាពនឹងត្រូវបានដំឡើងនៅ</string>
+  <string name="setting_sw_summary">អាប់ដេតទៅកាន់សុហ្វវែរចុងក្រោយបំផុត </string>
+  <string name="setting_sw_title">អាប់ដេត​ប្រព័ន្ធ</string>
+  <string name="smart_cancel_update_toast_msg">ការអាប់ដេតត្រូវបានកំណត់ពេលឡើងវិញទៅ %1$s</string>
+  <string name="smart_end_time">បញ្ចប់</string>
+  <string name="smart_install_message_popup">ដោយសារតែអ្នកបានបើកមុខងារអាប់ដេតឆ្លាតវៃ ឧបករណ៍របស់អ្នកនឹងដំឡើងការអាប់ដេតដោយស្វ័យប្រវត្តិនៅ %1$s ប្រសិនបើអ្នកមិនទាន់បានដំឡើងនៅពេលនោះទេ។ ត្រូវប្រាកដថាអ្នកមានថាមពលថ្មគ្រប់គ្រាន់សម្រាប់ការដំឡើង។</string>
+  <string name="smart_restart_message_popup">ដោយសារតែអ្នកបានបើកមុខងារអាប់ដេតឆ្លាតវៃ ឧបករណ៍របស់អ្នកនឹងអាប់ដេតដោយស្វ័យប្រវត្តិនៅ %1$s ប្រសិនបើអ្នកមិនទាន់បានចាប់ផ្តើមឡើងវិញនៅពេលនោះទេ។</string>
+  <string name="smart_settings_string">ការអាប់ដេតត្រូវបានទាញយក និងដំឡើងដោយស្វ័យប្រវត្តិ នៅពេលអ្នកភ្ជាប់ Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">ការអាប់ដេតត្រូវបានទាញយក និងដំឡើងដោយស្វ័យប្រវត្តិ នៅពេលអ្នកភ្ជាប់ Wi-Fi ឬប្រើប្រាស់ទិន្នន័យទូរសព្ទចល័ត</string>
+  <string name="smart_settings_string_vzw">ការអាប់ដេតត្រូវបានទាញយក និងដំឡើងដោយស្វ័យប្រវត្តិ</string>
+  <string name="smart_start_time">ចាប់ផ្តើម</string>
+  <string name="smart_to_string">ទៅ​</string>
+  <string name="smart_update_advanced">កម្រិតខ្ពស់</string>
+  <string name="smart_update_note">ចំណាំ៖ ដើម្បីសុវត្ថិភាពរបស់អ្នក រាល់ការអាប់ដេតសុវត្ថិភាពសំខាន់ៗទាំងអស់នឹងទាញយក និងដំឡើងដោយស្វ័យប្រវត្តិមិនថាមុខងារនេះបើក ឬបិទនោះទេ។</string>
+  <string name="smart_update_note_vzw">ចំណាំ៖ ដើម្បីសុវត្ថិភាពរបស់អ្នក រាល់ការអាប់ដេតសុវត្ថិភាពសំខាន់ៗទាំងអស់នឹងទាញយក និងដំឡើងដោយស្វ័យប្រវត្តិមិនថាមុខងារនេះបើក ឬបិទនោះទេ។</string>
+  <string name="smart_update_pop_up_text">រក្សា​ឧបករណ៍របស់អ្នកឱ្យ​មានសុវត្ថិភាព និងសន្តិសុខ​ជាមួយនឹងការអាប់ដេត​ស្វ័យប្រវត្តិ</string>
+  <string name="smart_update_recommendation">សាកល្បងការអាប់ដេតឆ្លាតវៃ</string>
+  <string name="smart_update_suggestion_text">មានសុវត្ថិភាពជាមួយនឹងការធ្វើបច្ចុប្បន្នភាពស្វ័យប្រវត្តិ</string>
+  <string name="smart_update_text_AB">ការអាប់ដេតឆ្លាតវៃជួយឱ្យឧបករណ៍របស់អ្នកដំណើរការប្រកបដោយសុវត្ថិភាព និងមានប្រសិទ្ធភាព។ នៅពេលអ្នកបើក <b>ការអាប់ដេតសុវត្ថិភាព និងការកែកំហុសថ្មី</b>ទាំងអស់នឹងទាញយកដោយស្វ័យប្រវត្តិ។ បន្ទាប់ពីទាញយក ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញទៅតាមពេលវេលាដែលអ្នកជ្រើសរើស។</string>
+  <string name="smart_update_text_AB_vzw">ការអាប់ដេតឆ្លាតវៃជួយឱ្យឧបករណ៍របស់អ្នកដំណើរការប្រកបដោយសុវត្ថិភាព និងមានប្រសិទ្ធភាព។ នៅពេលអ្នកបើក <b>ការអាប់ដេតសុវត្ថិភាព</b>ថ្មីទាំងអស់នឹងទាញយកដោយស្វ័យប្រវត្តិ។ បន្ទាប់ពីទាញយក ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញទៅតាមពេលវេលាដែលអ្នកជ្រើសរើស។</string>
+  <string name="smart_update_text_classic">ការអាប់ដេតឆ្លាតវៃជួយឱ្យឧបករណ៍របស់អ្នកដំណើរការប្រកបដោយសុវត្ថិភាព និងមានប្រសិទ្ធភាព។ នៅពេលអ្នកបើក <b>ការអាប់ដេតសុវត្ថិភាព និងការកែកំហុសថ្មី</b>ទាំងអស់នឹងទាញយកដោយស្វ័យប្រវត្តិ។ បន្ទាប់ពីទាញយក ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញ និងដំឡើងទៅតាមពេលវេលាដែលអ្នកជ្រើសរើស។</string>
+  <string name="smart_update_text_classic_vzw">ការអាប់ដេតឆ្លាតវៃជួយឱ្យឧបករណ៍របស់អ្នកដំណើរការប្រកបដោយសុវត្ថិភាព និងមានប្រសិទ្ធភាព។ នៅពេលអ្នកបើក <b>ការអាប់ដេតសុវត្ថិភាព</b>ថ្មីទាំងអស់នឹងទាញយកដោយស្វ័យប្រវត្តិ។ បន្ទាប់ពីទាញយក ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញ និងដំឡើងទៅតាមពេលវេលាដែលអ្នកជ្រើសរើស។</string>
+  <string name="smart_update_time_slot_text_AB">ជ្រើសរើសពេលវេលាចាប់ផ្តើមឡើងវិញ</string>
+  <string name="smart_update_time_slot_text_classic">ជ្រើសរើសពេលវេលាដំឡើង</string>
+  <string name="smart_update_title">ការអាប់ដេតឆ្លាតវៃ</string>
+  <string name="software_not_update_to">សុហ្វវែររបស់អ្នកមិនទាន់ត្រូវបានអាប់ដេតទៅ</string>
+  <string name="software_update_in_progress">ប្រព័ន្ធរបស់អ្នកកំពុងអាប់ដេតទៅកំណែ</string>
+  <string name="software_update_planned_summary">បានពិនិត្យ - %1$s</string>
+  <string name="software_update_planned_title">គ្រោងការអាប់ដេតសុហ្វវែរ</string>
+  <string name="software_update_to">ប្រព័ន្ធរបស់អ្នកត្រូវបានអាប់ដេតទៅ</string>
+  <string name="sofware_version">កំណែ​សុហ្វវែរ៖</string>
+  <string name="storage_low">រៀបចំដើម្បីមានកន្លែង​អាប់ដេត</string>
+  <string name="su_btn">ការកំណត់</string>
+  <string name="su_text_off">អ្នកនឹងត្រូវធ្វើការអាប់ដេតឧបករណ៍របស់អ្នកដោយផ្ទាល់ដៃ នៅពេលមានសុហ្វវែរថ្មី។ បើកការអាប់ដេតឆ្លាតវៃ ដើម្បីធ្វើឱ្យដំណើរការមានភាពស្វ័យប្រវត្តិ។ ចុច ដើម្បីមើលព័ត៌មានលម្អិតបន្ថែម។</string>
+  <string name="su_text_on">តាមលំនាំដើម ការអាប់ដេតឆ្លាតវៃដំណើរការនៅចន្លោះម៉ោង 1 យប់ដល់ម៉ោង 3 យប់។ អ្នកអាចផ្លាស់ប្តូរពេលវេលាអាប់ដេត ឬបិទការអាប់ដេតឆ្លាតវៃនៅក្នុងការកំណត់។ ចុច ដើម្បីមើលព័ត៌មានលម្អិតបន្ថែម។</string>
+  <string name="su_title_off">បានបិទការអាប់ដេតឆ្លាតវៃ</string>
+  <string name="su_title_on">បានបើកការអាប់ដេតឆ្លាតវៃ</string>
+  <string name="system_download_notification_title">ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​</string>
+  <string name="system_install_notification_text">អាចដំឡើងការអាប់ដេតប្រព័ន្ធនេះបានហើយ</string>
+  <string name="system_install_title">អាចដំឡើងការអាប់ដេតនេះបានហើយ</string>
+  <string name="system_pdl_notification_mr_title">ទទួលបានការជួសជុលកំហុស និងច្រើនទៀត</string>
+  <string name="system_pdl_notification_os_title">Android %1$s មាននៅទីនេះ!</string>
+  <string name="system_update">ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​</string>
+  <string name="system_update_info_not_available">មិនមាន</string>
+  <string name="system_update_low_storage_text">ចុច​ទីនេះដើម្បី​ពិនិត្យ​អង្គចងចាំ និង​ចាប់ដើម។</string>
+  <string name="system_update_low_storage_title">ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​</string>
+  <string name="system_update_notification_os_text">ទទួលបានបទពិសោធន៍ប្រើ Android ថ្មី</string>
+  <string name="system_update_notification_text">ទាញយកសុហ្វវែរថ្មី</string>
+  <string name="system_update_paused">បានផ្អាក​ការអាប់ដេត​ប្រព័ន្ធ</string>
+  <string name="system_update_pending_notification_os_text">ទទួលបានបទពិសោធន៍ប្រើ Android ថ្មី។ ការអាប់ដេតត្រូវបានដាក់ឱ្យរង់ចាំរយៈពេល %1$d ថ្ងៃ។</string>
+  <string name="system_update_pending_notification_text">ទាញយកសុហ្វវែរថ្មី។ ការអាប់ដេតត្រូវបានដាក់ឱ្យរង់ចាំរយៈពេល %1$d ថ្ងៃ។</string>
+  <string name="system_update_settings_list_item_title">អាប់ដេត​ប្រព័ន្ធ</string>
+  <string name="system_update_status">ស្ថានភាពនៃការអាប់ដេតប្រព័ន្ធ</string>
+  <string name="system_update_title">ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​</string>
+  <string name="tethered_permission_desc">ផ្ញើលទ្ធផល​អាប់ដេត 3c</string>
+  <string name="tethered_update_result">លទ្ធផល​អាប់ដេតដែលបានភ្ជាប់​ចំណង</string>
+  <string name="time_picker_text">ចាប់ផ្ដើមដំឡើងដោយមិនចាំបាច់រំឮក</string>
+  <string name="total_download_size">ទំហំ៖ %1$s</string>
+  <string name="turn_it_off">បិទវា</string>
+  <string name="turn_it_on">បើក​វា</string>
+  <string name="turn_on_smart_updates">បើកការធ្វើបច្ចុប្បន្នភាពឆ្លាតវៃ</string>
+  <string name="update">ធ្វើ​បច្ចុប្បន្នភាព</string>
+  <string name="update_blocked_by_policy">ការអាប់ដេតត្រូវបានទប់ស្កាត់ពេលដោយគោលការណ៍អ្នកគ្រប់គ្រង </string>
+  <string name="update_cancelled_status">ការទាញយកសុហ្វវែរត្រូវបានលុបចោលនៅថ្ងៃទី</string>
+  <string name="update_fail_desc">មានបញ្ហាក្នុងការអាប់ដេតឧបករណ៍របស់អ្នក។ មិនមានការផ្លាស់ប្តូរទេ។
+សូមព្យាយាមម្តងទៀតដោយចូលទៅកាន់ការកំណត់ &gt; ការអាប់ដេតប្រព័ន្ធ។</string>
+  <string name="update_fail_status">អាប់ដេត​បាន​បរាជ័យ</string>
+  <string name="update_fail_sucancel_dm_status">បានបោះបង់ការអាប់ដេតដោយម៉ាស៊ីនមេ</string>
+  <string name="update_fail_title">អាប់ដេត​បាន​បរាជ័យ</string>
+  <string name="update_history_blank">មិនមានប្រវត្តិ</string>
+  <string name="update_history_src_target">អាប់ដេតពី %1$s ទៅ %2$s</string>
+  <string name="update_history_time">បានអាប់ដេតនៅ %1$s</string>
+  <string name="update_history_title">ប្រវត្តិអាប់ដេត</string>
+  <string name="update_history_version">កំណែសុហ្វវែរ %1$s</string>
+  <string name="update_postpone_policy">ការអាប់ដេតត្រូវបានពន្យារពេលដោយគោលការណ៍អ្នកគ្រប់គ្រង </string>
+  <string name="update_preference">ចំណង់ចំណូលចិត្តការអាប់ដេត</string>
+  <string name="update_success_desc">សូមអបអរសាទរ! អ្នកបានដំឡើងកំណែ %1$s ដោយជោគជ័យ។</string>
+  <string name="update_success_desc_os">សូមអបអរសាទរ! អ្នកបានដំឡើង Android %1$s ដោយជោគជ័យ។ ឥឡូវនេះអ្នកអាចរីករាយនឹងបទពិសោធន៍ Android កាន់តែប្រសើរ ឆ្លាត និងមានសុវត្ថិភាពជាងមុន។</string>
+  <string name="update_success_status">អាប់ដេតបាន​ជោគជ័យ</string>
+  <string name="update_title">បាន​បញ្ចប់​ការអាប់ដេត</string>
+  <string name="update_title_text">សូមរីករាយជាមួយសុហ្វវែរថ្មីរបស់អ្នក!</string>
+  <string name="upto_date_title">អ្វីគ្រប់យ៉ាងមើលទៅល្អ!</string>
+  <string name="urgent_channel_name">ការជូនដំណឹងពីការអាប់ដេតសុហ្វវែរ</string>
+  <string name="vab_validation_update_failure_desc">បច្ចុប្បន្នភាពលើការធ្វើឱ្យមានសុពលភាព VAB បានបរាជ័យ</string>
+  <string name="vab_validation_update_failure_title">ការធ្វើឱ្យមានសុពលភាព VAB បានបរាជ័យ</string>
+  <string name="vab_validation_update_success_desc">សូមអបអរសាទរ! បច្ចុប្បន្នភាពលើការធ្វើឱ្យមានសុពលភាព VAB ទទួលបានជោគជ័យ</string>
+  <string name="vab_validation_update_success_title">ការធ្វើឱ្យមានសុពលភាព VAB ទទួលបានជោគជ័យ</string>
+  <string name="verity_disabled_msg">ឧបករណ៍របស់អ្នកអាចងាយរងគ្រោះផ្នែកសុវត្ថិភាព។ ប្រតិបត្តិពាក្យបញ្ជាខាងក្រោមសម្រាប់ការបន្តអាប់ដេត
+
+បើកមូលដ្ឋានពិត adb</string>
+  <string name="verity_disabled_title">ឧបករណ៍របស់អ្នកលែងទទួលបានការអាប់ដេតទៀតហើយ</string>
+  <string name="verizon_failure_notification_text"> ឧបករណ៍របស់អ្នកមិនអាចដំឡើងការអាប់ដេតនេះបានទេ។ ប្រើឧបករណ៍ជំនួយអាប់ហ្គ្រេដសុហ្វវែរដើម្បីដំឡើង។ ចុចដើម្បីទទួលបានព័ត៌មានបន្ថែម។</string>
+  <string name="verizon_failure_text">មានបញ្ហាក្នុងការអាប់ដេតឧបករណ៍របស់អ្នក។ មិនមានការផ្លាស់ប្ដូរទេ។ ដើម្បីអាប់ដេតសុហ្វវែររបស់អ្នក អ្នកអាចប្រើប្រាស់ឧបករណ៍ Software Upgrade Assistant បាន។
+
+ដើម្បីដំឡើងឧបករណ៍ Software Upgrade Assistant៖
+
+1. ប្រើខ្សែ USB ដើម្បីភ្ជាប់ឧបករណ៍ទៅកុំព្យួទ័ររបស់អ្នក
+2. នៅពេលមីនុយ USB លោតឡើងនៅលើឧបករណ៍អ្នក សូមជ្រើសរើសរូបតំណាងការកំណត់នៅខាងលើផ្នែកខាងស្ដាំ
+3. ពីចំណូលចិត្ត USB សូមជ្រើសរើសការដំឡើងសុហ្វវែរ
+4. ប្ដូរទៅកុំព្យូទ័ររបស់អ្នក និងរកមើលកម្មវិធីជំនួយការដំឡើង
+5. ស្វែងយល់អំពីកម្មវិធីជំនួយនេះ
+
+ឧបករណ៍ Software Upgrade Assistant នឹងជួយអ្នកឱ្យទាញយក និងដំឡើងការអាប់ដេតសុហ្វវែរនានានៅលើឧបករណ៍របស់អ្នក។</string>
+  <string name="vital_applying_updates">កំពុងអនុវត្តការអាប់ដេត...</string>
+  <string name="vital_bg_text">វាអាចនឹងចំណាយពេលពីរ ឬបីនាទី។</string>
+  <string name="vital_check_for_updates">កំពុងរកមើលការអាប់ដេត…</string>
+  <string name="vital_check_for_updates_desc">ការអាប់ដេតរក្សាឧបករណ៍របស់អ្នកឱ្យមានសុវត្ថិភាព និងធ្វើឱ្យដំណើរការរបស់វាប្រសើរឡើង។</string>
+  <string name="vital_done">រួចរាល់!</string>
+  <string name="vital_error_fail">មានបញ្ហាក្នុងការអាប់ដេត។ មិនមានការផ្លាស់ប្តូរទេ។</string>
+  <string name="vital_go_back">តើអ្នកប្រាកដជាចង់បញ្ឈប់ការដំឡើងមែនទេ</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">ចាប់ផ្តើមឡើងវិញ ដើម្បីបន្ត</string>
+  <string name="vital_skip">រំលង</string>
+  <string name="vital_stop">បញ្ឈប់</string>
+  <string name="wifi_setting">ការកំណត់ Wi-Fi</string>
+</resources>

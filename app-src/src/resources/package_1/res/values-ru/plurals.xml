@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Устройство будет перезапущено через %1$d секунду для завершения обновления.</item>
+    <item quantity="few">Устройство будет перезапущено через %1$d сек. для завершения обновления.</item>
+    <item quantity="many">Устройство будет перезапущено через %1$d сек. для завершения обновления.</item>
+    <item quantity="other">Устройство будет перезапущено через %1$d сек. для завершения обновления.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">перезагружено через %1$d секунду</item>
+    <item quantity="few">перезагружено через %1$d с</item>
+    <item quantity="many">перезагружено через %1$d с</item>
+    <item quantity="other">перезагружено через %1$d с</item>
+  </plurals>
+</resources>

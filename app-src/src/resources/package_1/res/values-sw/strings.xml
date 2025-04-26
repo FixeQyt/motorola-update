@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Sasisha baadaye</string>
+  <string name="ab_download_now">Sasisha sasa</string>
+  <string name="ab_install_notification_paused_text">Usakinishaji wa chinichini umesitishwa</string>
+  <string name="ab_install_notification_text">Usakinishaji wa chinichini</string>
+  <string name="ab_restart_fullscreen_text">Itachukua kama sekunde 90 kuwasha upya kifaa chako. Sasisho limepatikana %1$d kwa siku nyingi.</string>
+  <string name="ab_restart_text">Itachukua kama sekunde 90 kuwasha upya kifaa chako.</string>
+  <string name="ab_restart_warning_os_mr">Usasishaji wako wa mfumo unakaribia kukamilika. Kifaa chako  </string>
+  <string name="ab_restart_warning_smr">Usasishaji wako wa usalama unakaribia kukamilika. Kifaa chako  </string>
+  <string name="ab_warning_continues"> kukamilisha sasisho.</string>
+  <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+  <string name="abc_action_bar_up_description">Sogeza juu</string>
+  <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+  <string name="abc_action_mode_done">Nimemaliza</string>
+  <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+  <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+  <string name="abc_capital_off">IMEZIMWA</string>
+  <string name="abc_capital_on">IMEWASHWA</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Tafuta…</string>
+  <string name="abc_searchview_description_clear">Futa hoja</string>
+  <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+  <string name="abc_searchview_description_search">Tafuta</string>
+  <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+  <string name="abc_searchview_description_voice">Kutafuta kwa kutamka</string>
+  <string name="abc_shareactionprovider_share_with">Shiriki na</string>
+  <string name="abc_shareactionprovider_share_with_application">Shiriki ukitumia %s</string>
+  <string name="abc_toolbar_collapse_description">Kunja</string>
+  <string name="abupdate_in_progress_status">Usasishaji wa programu unaendelea</string>
+  <string name="additional_charges_message">Upakuaji utaendelea kwa kutumia muunganisho wa simu. Gharama za data zinaweza kutozwa.</string>
+  <string name="alertSubText">Hii inatumika kuangalia, kupakua na kusakinisha kifurushi cha sasisho</string>
+  <string name="alertText">Ruhusu uendeshaji wa mtandao kwa sasisho za programu</string>
+  <string name="alertTitle">Masasisho yanahitaji ruhusa ifuatayo</string>
+  <string name="alert_dialog_cancel">Sitisha usakinishaji</string>
+  <string name="alert_dialog_continue">Endelea kusakinisha</string>
+  <string name="alert_dialog_no">Hapana</string>
+  <string name="alert_dialog_ok">Nimeelewa</string>
+  <string name="alert_dialog_yes">Ndiyo</string>
+  <string name="allocate_space_success">Hifadhi inayohitajika inapatikana kwa sasisho</string>
+  <string name="allow">Ruhusu</string>
+  <string name="android_latest_sw_text">Unatumia programu mpya zaidi.</string>
+  <string name="android_version">Toleo la Android:</string>
+  <string name="app_name">Sasisho la Programu ya Motorola</string>
+  <string name="applied">Umewasha</string>
+  <string name="apply_bug_fix">Tumia kwa marekebisho ya hitilafu</string>
+  <string name="apply_os_update">Tumia kwa masasisho yote ya programu</string>
+  <string name="applying_patch">Unaweka sasisho… (Hatua ya %1$d kati ya %2$d)  </string>
+  <string name="are_you_sure">Ungependa kuzima sasisho mahiri?</string>
+  <string name="are_you_sure_pop_up_text">Je, una uhakika unataka kuzima sasisho mahiri? </string>
+  <string name="asc_campaign_assigned">Kampeni imekabidhiwa</string>
+  <string name="asc_campaign_is_allowed">Sasisho la Firmware</string>
+  <string name="asc_campaign_is_blocked">Kufunga Firmware</string>
+  <string name="asc_campaign_not_assigned">Kifaa hakiko kwenye kampeni kwa sasa</string>
+  <string name="asc_campaign_status_prefix">
+Hali: </string>
+  <string name="asc_campaign_window_period_status">
+Dirisha la sasisho: Kutoka %s hadi %s</string>
+  <string name="asc_sw_up_to_date">  toleo jipya zaidi</string>
+  <string name="asc_target_version"> to toleo </string>
+  <string name="auth_title">Sasisho la Mfumo</string>
+  <string name="auto_download_cellualr_charges_warn">Unapopakua vifurushi vya programu kupitia mtandao wa simu, gharama za ziada zinaweza kutozwa.</string>
+  <string name="auto_download_enable_cellular_future_updates">Je, ungependa kuchagua kuingia katika chaguo la data ya mtandao wa simu kwa upakuaji wa siku zijazo pia?</string>
+  <string name="auto_download_settings_title">Mipangilio ya kupakua kiotomatiki</string>
+  <string name="auto_download_wifi_cellular">Pakua kiotomatiki kupitia simu za mkononi (ndani pekee) na Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Pakua kiotomatiki kupitia simu za mkononi na Wi-Fi. Wi-Fi itatumika kwanza inapopatikana. </string>
+  <string name="auto_download_wifi_only">Pakua kiotomatiki kupitia Wi-Fi pekee</string>
+  <string name="auto_download_wifi_only_desc">Pakua kiotomatiki kupitia Wi-Fi pekee</string>
+  <string name="auto_install_notification_text">Kifaa kitasakinisha kiotomatiki %1$s</string>
+  <string name="auto_time_set">Anzia:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Kwa sababu ya umuhimu wake, sasisho hili litasakinishwa kiotomatiki kwa kutumia data ya simu tarehe %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Kwa sababu ya umuhimu wake, sasisho hili litapakuliwa kiotomatiki kwa kutumia data ya simu tarehe %1$s</string>
+  <string name="background_install_msg">Sasisho hili litaendelea ukirudi nyuma au ukifunga dirisha hili.</string>
+  <string name="background_install_text">Sasisho linapakuliwa &amp; linasakinishwa. Unaweza kuendelea kutumia kifaa chako.</string>
+  <string name="bad_connection">Hakuna muunganisho</string>
+  <string name="bad_connection_text">Inaonekana kifaa chako hakina muunganisho wa intaneti kwa sasa. Gusa kitufe cha chini ili ujaribu tena.</string>
+  <string name="bg_install_cancel_confirm">Je, una uhakika unataka kusimamisha usakinishaji?</string>
+  <string name="bg_retried">Upakuaji wa programu umekatizwa. Tutaendelea kujaribu…</string>
+  <string name="bg_suspended">Inasubiri muunganisho wa data ili kuendelea kupakua na kusakinisha chinichini…</string>
+  <string name="bg_suspended_non_adminapn">Inasubiri Wi-Fi au mtandao Usiolipishwa iendelee kupakua na kusakinisha chinichini…</string>
+  <string name="bg_suspended_roaming">Usakinishaji wa ususli umesitishwa kwa sababu ya mtandao wa urandaji, tafadhali washa Wi-Fi ili kuendelea na usakinishaji wa mandharinyuma.</string>
+  <string name="bg_suspended_wifi">Inasubiri Wi-Fi iendelee kupakua na kusakinisha chinichini…</string>
+  <string name="bootloader_unlock_msg">Kifaa chako hakipokei tena masasisho na kinaweza kukabiliwa na hatari za kiusalama.</string>
+  <string name="bootloader_unlock_title">Hakuna sasisho zinazopatikana</string>
+  <string name="call_notification_answer_action">Jibu</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Kataa</string>
+  <string name="call_notification_hang_up_action">Kata simu</string>
+  <string name="call_notification_incoming_text">Simu uliyopigiwa</string>
+  <string name="call_notification_ongoing_text">Simu inayoendelea</string>
+  <string name="call_notification_screening_text">Inachuja simu unayopigiwa</string>
+  <string name="cancel">Ghairi</string>
+  <string name="cancel_download_notification">Ghairi</string>
+  <string name="cancel_install">Ghairi</string>
+  <string name="cancel_update_notification">Ghairi</string>
+  <string name="check_for_updates_title">Tafuta sasisho</string>
+  <string name="check_update_badparam">Jaribio la kuboresha limekumbana na hitilafu kwa sababu ya kushindwa kuingia.
+
+Tafadhali jaribu tena baadaye.</string>
+  <string name="check_update_checking">Inatafuta sasisho…</string>
+  <string name="check_update_disabled_admin">Sasisho za kifaa zinadhibitiwa na msimamizi wa IT</string>
+  <string name="check_update_downloading">Sasisho lina-pakuliwa kwa sasa.
+
+Utaarifiwa upakuaji utakapokamilika.</string>
+  <string name="check_update_fail">Hitilafu isiyotarajiwa imetokea.
+
+Kifaa kitajaribu tena kupata sasisho katikachinichini.</string>
+  <string name="check_update_internal">Imeshindwa kuangalia sasisho. Jaribu tena baadaye.</string>
+  <string name="check_update_net">Unahitaji muunganisho wa data ili kuangalia sasisho. Ili kuangalia muunganisho wako wa Wi-Fi, nenda kwenye Mipangilio &gt; Mtandao na intaneti &gt; Intaneti &gt; Wi-Fi.</string>
+  <string name="check_update_net_vzw">Unahitaji muunganisho wa data ili kuangalia sasisho. Ili kuangalia muunganisho wako wa Wi-Fi, nenda kwenye Mipangilio &gt; Mtandao na intaneti &gt; Intaneti &gt; Wi-Fi.
+
+Unaweza pia kutembelea motorola.com/systemupdates ili kuona chaguo zingine za sasisho.</string>
+  <string name="check_update_not_sys_user">Usasishaji wa ukaguzi hauruhusiwi kwa wasifu wa Wageni</string>
+  <string name="check_update_processing">Kuwasiliana na seva yetu…
+Tafadhali subiri</string>
+  <string name="check_update_roaming">Usasishaji wa Mfumo unapatikana katika mtandao wa nyumbani pekee. 
+
+Nenda kwenye Mipangilio &gt; Mtandao na intaneti &gt; Wi-Fi ili kusanidi muunganisho sasa.</string>
+  <string name="check_update_storage_low">Usasishaji hauwezekani kwa sababu hakuna hifadhi ya kutosha kwenye kifaa.</string>
+  <string name="check_update_temperror">Upakuaji wa masasisho haukuweza kukamilika kwa wakati huo.
+
+Tafadhali jaribu tena.</string>
+  <string name="check_update_text">Kutafuta sasisho mara kwa mara kunaweza kuweka kifaa chako salama na kuboresha utendaji wake.</string>
+  <string name="check_update_title_downloading">Upakuaji unaendelea…</string>
+  <string name="check_update_vab_validation">Inatafuta hali ya usasisho ya Uthibitishaji wa VAB
+Tafadhali subiri</string>
+  <string name="check_update_wifi_only">Sasisho la Mfumo linapatikana kupitia Wi-Fi pekee.</string>
+  <string name="check_wifi_settings">Angalia mipangilio ya Wi-Fi</string>
+  <string name="clear_space">Nafasi wazi</string>
+  <string name="cloud_picker_title">Kichagua Wingu</string>
+  <string name="common_android_wear_notification_needs_update_text">Programu inahitaji sasisho kwa programu ya Android Wear.</string>
+  <string name="common_android_wear_update_text">Programu hii haitaendeshwa usiposasisha programu ya Android Wear.</string>
+  <string name="common_android_wear_update_title">Sasisha Android Wear</string>
+  <string name="common_google_play_services_enable_button">Wezesha huduma za Google Play</string>
+  <string name="common_google_play_services_enable_text">Programu hii haitafanya kazi mpaka utakapowezesha huduma za Google Play.</string>
+  <string name="common_google_play_services_enable_title">Wezesha huduma za Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Imeombwa na %1$s</string>
+  <string name="common_google_play_services_install_button">Pata huduma za Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako.</string>
+  <string name="common_google_play_services_install_text_tablet">Programu hii haiwezi kufanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta kibao yako.</string>
+  <string name="common_google_play_services_install_title">Pata huduma za Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+  <string name="common_google_play_services_invalid_account_title">Akaunti Batili</string>
+  <string name="common_google_play_services_needs_enabling_title">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+  <string name="common_google_play_services_network_error_text">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Hitilafu ya Mtandao</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Programu inahitaji usakinishaji wa huduma za Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Hitilafu kwenye huduma za Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Suala lisilojulikana na huduma za Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Huduma za Google Play, ambazo baadhi ya programu zako zinategemea, si linganifu na kifaa chako. Tafadhali wasiliana na mtengenezaji kwa usaidizi.</string>
+  <string name="common_google_play_services_unsupported_title">Huduma za Google Play</string>
+  <string name="common_google_play_services_update_button">Sasisha</string>
+  <string name="common_google_play_services_update_text">Programu hii haiwezi kuendeshwa mpaka utakaposasisha huduma za Google Play.</string>
+  <string name="common_google_play_services_update_title">Sasisha huduma za Google Play</string>
+  <string name="common_open_on_phone">Fungua kwenye simu</string>
+  <string name="common_signin_button_text">Ingia</string>
+  <string name="common_signin_button_text_long">Ingia ukitumia Google</string>
+  <string name="compatibility_failed_title">Uthibitishaji wa kifurushi umeshindwa</string>
+  <string name="compatibility_verification_failure">Kifurushi cha sasisho kinachopakuliwa hakioani na toleo la sasa la programu endeshi kwenye kifaa.</string>
+  <string name="compatibility_verification_failure_df">
+
+Tafadhali wasiliana na mratibu wako wa Dogfood.</string>
+  <string name="compatibility_verification_success">Imefanikiwa kuthibitishwa</string>
+  <string name="completed"> Usakinishaji umekamilika. Utadokezwa kuwasha upya simu yako (Hatua ya %1$d kati ya %2$d)</string>
+  <string name="completed_install">Umekamilisha %s</string>
+  <string name="connect_to_wifi">Unganisha na Wi-Fi</string>
+  <string name="continue_button">Endelea</string>
+  <string name="critical_install_message_popup_os_mr">Sasisho muhimu la mfumo linapatikana. Tafadhali chagua Sakinisha ili kuweka sasisho. Kama sivyo, sasisho litawekwa kiotomatiki %1$s.</string>
+  <string name="critical_install_message_popup_smr">Sasisho muhimu la usalama linapatikana. Tafadhali chagua Sakinisha ili kuweka sasisho. Kama sivyo, sasisho litawekwa kiotomatiki %1$s.</string>
+  <string name="critical_install_message_screen">Sasisho hili muhimu litasakinishwa kiotomatiki tarehe %1$s. Hakikisha una betri ya kutosha kwa ajili ya usakinishaji.</string>
+  <string name="critical_install_notification">Kwa sababu sasisho hili ni muhimu, kifaa chako kitalisakinisha kiotomatiki tarehe %1$s.
+Muda wa kusakinisha: dakika %2$d </string>
+  <string name="critical_restart_message_popup">Tafadhali zima na uwashe kifaa chako ili kuweka sasisho hili muhimu haraka iwezekanavyo. Usipowasha upya wewe mwenyewe, kifaa chako kitawashwa upya kiotomatiki %1$s.</string>
+  <string name="critical_restart_message_screen">Kwa sababu hili ni sasisho muhimu, kifaa chako kitawashwa upya kiotomatiki %1$s ikiwa hujawasha upya kufikia wakati huo.</string>
+  <string name="critical_restart_notification">Kwa sababu sasisho hili ni muhimu, kifaa chako kitawaka upya kiotomatiki %1$s.</string>
+  <string name="critical_update_notification_title">Sasisho muhimu</string>
+  <string name="current_version">Toleo la programu endeshi ya sasa:</string>
+  <string name="custom_slot">Maalum</string>
+  <string name="date_time">%s saa %s</string>
+  <string name="defer_count_expired">Nimeelewa</string>
+  <string name="deny">Kataza</string>
+  <string name="details">Maelezo</string>
+  <string name="dialog_alert_net_message">Angalia muunganisho wako wa Wi-Fi au data ya rununu na ujaribu tena.</string>
+  <string name="dialog_alert_net_title">Kifaa chako hakijaunganishwa mtandaoni</string>
+  <string name="dialog_alert_title">Betri iko chini</string>
+  <string name="dialog_progress">Inapakia…</string>
+  <string name="dl_options_mobile_only_warning">Inapendekezwa kutumia Wi-Fi. Kupakua kwa data ya mtandao wa simu au kutumia data ya mtandao wa simu unapotumia mitandao ya ng'ambo kunaweza kusababisha gharama za ziada.
+
+Kupakua programu hii hakutaathiri utendakazi wa kifaa chako.</string>
+  <string name="done">Umemaliza</string>
+  <string name="dont_show_this_again">Usionyeshe onyo hili tena</string>
+  <string name="download_cancelled_title">Upakuaji umeghairiwa</string>
+  <string name="download_deferred_status">Upakuaji wa Programu uliahirishwa</string>
+  <string name="download_failed_status">Sasisho limeshindwa kupakua</string>
+  <string name="download_in_progress_status">Upakuaji wa programu unaendelea</string>
+  <string name="download_later_button">Pakua baadaye</string>
+  <string name="download_no_button">Hapana, asante</string>
+  <string name="download_note">Unaweza kuendelea kutumia kifaa chako wakati sasisho linasakinishwa </string>
+  <string name="download_now">Pakua sasa</string>
+  <string name="download_now_button">Pakua</string>
+  <string name="download_options">Machaguo ya kupakua</string>
+  <string name="download_progress_cancel_message">Ikiwa ungependa kupakua sasisho hili baadaye, nenda kwenye Mipangilio &gt; Masasisho ya mfumo.</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s imesalia (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% imepakuliwa (Imesitishwa)</string>
+  <string name="download_progress_text">Upakuaji huu utaendelea ukirudi nyuma au ukifunga dirisha hili.</string>
+  <string name="download_subtitle">Unachopaswa kujua kabla ya kupakua</string>
+  <string name="download_text_whats_new">Tazama kilicho kipya</string>
+  <string name="download_time_left">%1$s imesalia</string>
+  <string name="download_version">Toleo jipya: %1$s</string>
+  <string name="download_wifi_only_error">Wi-Fi inahitajika ili kupakua sasisho hili. Upakuaji utaendelea mara tu muunganisho wako utakaporejeshwa.</string>
+  <string name="downloaded_percentage">%1$s imepakuliwa</string>
+  <string name="emergency_call_btn_txt">Dharura</string>
+  <string name="emergency_call_text">Hutaweza kupiga au kupokea simu, ikijumuisha simu za dharura wakati wa kuwasha upya!</string>
+  <string name="enable_wifi_error_txt">Unganisha kwenye Wi-Fi ili kupakua sasisho hili.</string>
+  <string name="eol_explore">Gundua vifaa vipya</string>
+  <string name="eol_last_update_text">Kihasho cha usalama: </string>
+  <string name="eol_promote">Tazama matangazo ya hivi punde</string>
+  <string name="eol_title">Kifaa chako kinatumia programu mpya zaidi inayopatikana.</string>
+  <string name="err_title_contact_server">Inawasiliana na seva…</string>
+  <string name="err_title_memory_low">Nafasi ya hifadhi ni ndogo…</string>
+  <string name="err_title_temp_error">Hitilafu ya Muda Mfupi</string>
+  <string name="err_title_update">Hitilafu ya kusasisha</string>
+  <string name="error_code">Msimbo wa Hitilafu: </string>
+  <string name="error_copyfail">Imeshindwa kunakili kutoka eneo la Kadi ya SD.</string>
+  <string name="error_disabled">Imeshindwa kupakua sasisho. Kifurushi cha sasisho hakipatikani kwa wakati huu. 
+
+Hakuna hatua zaidi inayohitajika.</string>
+  <string name="error_fail">Samahani, hitilafu imetokea wakati wa kusasisha %1$s yako. Hakuna mabadiliko yaliyofanywa. Tafadhali jaribu tena kwa kwenda kwenye Mipangilio &gt; Sasisho la mfumo.</string>
+  <string name="error_in_call_msg">Sasa kifaa hakiwezi kuwashwa tena kupiga simu kunapoendelea</string>
+  <string name="error_in_call_title">Simu inaendelea</string>
+  <string name="error_install_title">Usakinishaji haujafaulu</string>
+  <string name="error_mismatch">Hitilafu ya kutolingana kwa matoleo limetokea. Sasisho litatolewa tena. Likipatikana, utadokezwa.</string>
+  <string name="error_mismatch_sd">Imeshindwa kusasisha. Toleo la sasisho halilingani na simu yako. 
+
+Tafadhali pakua toleo sahihi la simu yako na ujaribu tena.</string>
+  <string name="error_network">Muunganisho umepotea. Tafadhali jaribu tena kwa kuangalia mwenyewe sasisho kupitia mipangilio ya Simu.</string>
+  <string name="error_reboot">Hatukuweza kupakua sasisho hili. Ikiwa ungependa kupata sasisho hili baadaye, tafadhali washa upya kifaa chako kisha uende kwenye Mipangilio &gt; Masasisho ya mfumo.</string>
+  <string name="error_resources">Hatukuweza kupakua sasisho hili. Ikiwa ungependa kupata sasisho hili baadaye, nenda kwenye Mipangilio &gt; Masasisho ya mfumo.</string>
+  <string name="error_sdcard_resources_fail_removal">Kadi ya SD iliondolewa. Mchakato wa kupakua haujakamilika. 
+
+Tafadhali weka tena Kadi ya SD na uende kwenye Mipangilio &gt; Masasisho ya mfumo ili ujaribu tena.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Haiwezi kukamilisha upakuaji. Hakuna nafasi ya kutosha kwenye Kadi ya SD. 
+
+Tengeneza nafasi na uende kwenye Mipangilio &gt; Masasisho ya mfumo ili ujaribu tena.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Tafadhali ingiza Kadi ya SD ili kuanza upakuaji.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Tafadhali weka Kadi ya SD ili kuanza upakuaji. 
+
+Nenda kwenye Mipangilio &gt; Hifadhi &gt; Weka kadi ya SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Hakuna nafasi ya kutosha kwenye Kadi ya SD kukamilisha upakuaji. 
+
+Tafadhali tengeneza %1$s nafasi na uende kwenye Mipangilio &gt; Masasisho ya mfumo ili ujaribu kupakua tena.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Hitilafu</string>
+  <string name="error_sdcard_resources_warning">Sasisho la programu linapakuliwa kwenye Kadi ya SD. 
+
+Tafadhali usiondoe Kadi ya SD Hadi usakinishaji ukamilike.
+
+
+</string>
+  <string name="error_server">Hitilafu imetokea kwenye Seva. Tafadhali jaribu tena baadaye.</string>
+  <string name="error_space">Sasisho hili linahitaji hifadhi ya %1$s kwenye kifaa chako. 
+
+Tafadhali futa programu ambazo hazijatumika au uhamishie picha na video zako kwenye kifaa kingine cha hifadhi ili kufungua nafasi ya %2$s. 
+
+Ukimaliza, unaweza kwenda kwenye Mipangilio &gt; Masasisho ya mfumo ili kuanza kusasisha wakati wowote.</string>
+  <string name="error_space_retry">Sasisho hili linahitaji hifadhi ya %1$s kwenye kifaa chako. 
+
+Tafadhali futa programu ambazo hazijatumika au uhamishie picha na video zako kwenye kifaa kingine cha hifadhi ili kufungua nafasi ya %2$s.</string>
+  <string name="error_space_vab">Sasisho hili linahitaji nafasi ya %1$s kwenye kifaa chako. Tafadhali tengeneza nafasi ili kufanikisha sasisho</string>
+  <string name="error_space_vab_make_room_popup">Unahitaji kutafuta%1$s nafasi kabla ya kusasishwa. Jaribu kufuta programu ambazo hazijatumika au kuhamisha picha na video kwenye kifaa kingine cha hifadhi.</string>
+  <string name="error_title">Imeshindwa kupakua</string>
+  <string name="error_verify">Sasisho halikuweza kuthibitishwa ipasavyo. Tafadhali jaribu tena.</string>
+  <string name="failed">Haijafanikiwa</string>
+  <string name="failure_process">Habari haipatikani</string>
+  <string name="finalizing_patch">Inakamilisha kusasisha… (Hatua ya 5 kati ya 6)  </string>
+  <string name="first_net_text">Tafadhali sakinisha sasisho la sivyo kifaa kitasakinisha kiotomatiki katika kuwasha upya kunakofuata. Hakikisha kiwango cha betri ni zaidi ya %s</string>
+  <string name="forceInstallMessage">Sasisho hili litasakinishwa kiotomatiki tarehe %1$s.</string>
+  <string name="force_install_message_screen">Hili ni sasisho muhimu, kwa hivyo tafadhali sakinisha kabla ya %1$s. Vinginevyo, litasakinishwa kiotomatiki wakati ambapo kifaa chako hakitumiki sana. Hakikisha una chaji ya kutosha kwenye betri yako kwa ajili ya usakinishaji.</string>
+  <string name="force_install_notification_message">Tafadhali sakinisha kwa %1$s. Vinginevyo, kifaa chako kitasakinisha kiotomatiki wakati ambapo hakitumiki sana.
+Muda wa kusakinisha: dakika %2$d </string>
+  <string name="force_restart_notification_message">Tafadhali washa upya kufikia %1$s. Vinginevyo, kifaa chako kitawashwa upya kiotomatiki wakati ambapo hakitumiki sana.</string>
+  <string name="force_restart_screen_message">Usipoanza upya %1$s, kifaa chako kitawaka kiotomatiki wakati ambapo hakitumiki sana.</string>
+  <string name="google">Mtandao wa Google</string>
+  <string name="got_it">Nimeelewa</string>
+  <string name="important_update_install_overdue_message">Muda uliopangwa kwa ajili ya usakinishaji umepita. Usakinishaji utaanza mara tu kifaa chako kitakapotimiza vigezo.</string>
+  <string name="important_update_restart_overdue_message">Muda uliopangwa kwa ajili ya kuwasha upya umepita. Kifaa kitawaka upya pindi kitakapotimiza vigezo.</string>
+  <string name="initiating_ota_service_msg">Tafadhali subiri…</string>
+  <string name="initiating_ota_service_title">Kuanzisha mchakato wa kusasisha programu</string>
+  <string name="install">Sakinisha</string>
+  <string name="install_after_one_hour">Sakinisha baada ya saa 1</string>
+  <string name="install_cancelled_title">Usakinishaji umeghairiwa</string>
+  <string name="install_deferred_status">Usasishaji uliahirishwa</string>
+  <string name="install_later">Sakinisha baadaye</string>
+  <string name="install_notify_sanity_call_msg">Kifaa hakiwezi kusakinisha tena kupiga simu kunapoendelea</string>
+  <string name="install_notify_sanity_maps_msg">Kifaa hakiwezi kusakinisha sasa kwa kuwa usogezaji umewashwa</string>
+  <string name="install_now">Sakinisha sasa</string>
+  <string name="install_postponed">Usakinishaji umeahirishwa</string>
+  <string name="install_progress_cancel_message">Ikiwa ungependa kusakinisha sasisho hili baadaye, nenda kwenye Mipangilio &gt;Masasisho ya mfumo</string>
+  <string name="install_progress_paused_message">%s imekamilika (Imesitishwa)</string>
+  <string name="install_time">Muda wa kusakinisha: dakika %1$d</string>
+  <string name="install_warning">Unachopaswa kujua kabla ya kusakinisha</string>
+  <string name="just_one_more_step">Hatua moja tu zaidi</string>
+  <string name="keep_it_on">Endelea</string>
+  <string name="later_button">Nikumbushe baadaye</string>
+  <string name="learn_more_online_link">Pata maelezo zaidi mtandaoni</string>
+  <string name="low_battery_bg_install">Usakinishaji umesitishwa kwa sababu ya kiwango cha chini cha betri. Upakuaji utaendelea wakati kifaa chako kitakapochaji.</string>
+  <string name="low_battery_download">Upakuaji umesitishwa kwa sababu ya kiwango cha chini cha betri. Upakuaji utaendelea wakati kifaa chako kitakapochaji.</string>
+  <string name="low_battery_install">Tafadhali chaji kifaa chako angalau %skabla ya kusakinisha sasisho hili</string>
+  <string name="make_space">Tengeneza nafasi</string>
+  <string name="mandatory_install_notification">Usiposakinisha sasisho la mfumo huu hivi karibuni, utakosa sasisho muhimu ya usalama, pamoja na vipengele vipya na kurekebishwa kwa hitilafu.</string>
+  <string name="mandatory_restart_notification">Kwa kuwa ni sasisho muhimu, tafadhali washa upya sasa. Vinginevyo, utakosa sasisho za usalama, pamoja na vipengele vipya na marekebisho ya hitilafu.</string>
+  <string name="medium_channel_name">Kiarifu cha Upakuaji wa Programu</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Chagua akaunti</string>
+  <string name="multiple_account_alert">Chagua akaunti %1$s ili kuendelea na sasisho la mfumo.</string>
+  <string name="no_thanks">Hapana, asante</string>
+  <string name="no_thanks_message">Ikiwa ungependa kupata sasisho hili baadaye, nenda kwenye Mipangilio &gt; Masasisho ya mfumo.</string>
+  <string name="no_updates_applied">Hakuna sasisho zilizotumika</string>
+  <string name="not_now">Si sasa</string>
+  <string name="otaservice_perm_desc">Ruhusa ambayo programu zinahitaji kuingiliana na huduma ya ota</string>
+  <string name="package_size">Ukubwa wa kupakua: %1$s</string>
+  <string name="personalInfo_instruction">Hutapoteza taarifa zozote za kibinafsi</string>
+  <string name="picker_cell_radio">Wi-Fi na data ya simu</string>
+  <string name="picker_title">Chagua jinsi ungependa kupakua sasisho hili:</string>
+  <string name="picker_wifi_only_radio">Inatumia Wi-Fi pekee</string>
+  <string name="please_restart">Tafadhali washa upya sasa</string>
+  <string name="policy_set">Usasishaji wa mfumo umezuiwa. Tafadhali wasiliana na msimamizi wa kifaa chako kwa maelezo zaidi.</string>
+  <string name="press_back_again_to_exit">Bonyeza NYUMA tena ili kuondoka</string>
+  <string name="progress_copying_sd">Inanakili sasisho</string>
+  <string name="progress_deffered">Upakuaji utaanza katika Wi-Fi/Mtandao wa Simu.</string>
+  <string name="progress_downloading_ota">Usasisho wa mfumo unapakuliwa</string>
+  <string name="progress_downloading_security">Sasisho la mfumo unapakuliwa</string>
+  <string name="progress_retried">Upakuaji wa programu umekatizwa. Tutaendelea kujaribu…</string>
+  <string name="progress_suspended">Inasubiri muunganisho wa data ili kuendelea upakuaji</string>
+  <string name="progress_suspended_datasaver">Zima kiokoa data ili uendelee kupakua</string>
+  <string name="progress_suspended_no_adminapn">Inasubiri Wi-Fi au mtandao uliokadiriwa Sifuri ili kuendelea kupakua</string>
+  <string name="progress_suspended_roaming">Upakuaji umesitishwa kwa sababu ya mtandao wa urandaji, tafadhali washa Wi-Fi ili uendelee kupakua.</string>
+  <string name="progress_suspended_wifi">Inasubiri Wi-Fi iendelee kupakua…</string>
+  <string name="progress_verify">Inathibitisha kuwa kifaa chako kiko tayari kusasishwa…</string>
+  <string name="progress_verify_allocate_space">Kuangalia ikiwa hifadhi inatosha</string>
+  <string name="relative_date_time">%1$s saa %2$s</string>
+  <string name="release_note_battery_desc">Masasisho ya kuboresha maisha ya betri na matumizi</string>
+  <string name="release_note_battery_title">Betri</string>
+  <string name="release_note_camera_desc">Maboresho haya hukusaidia kupiga picha kwa usahihi na kwa undani zaidi</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Mabadiliko husaidia kuboresha muunganisho wa data wa kifaa</string>
+  <string name="release_note_cellular_title">Simu ya rununu</string>
+  <string name="release_note_charging_desc">Sasisho hizi huongeza uwezo wako wa kuchaji</string>
+  <string name="release_note_charging_title">Inachaji</string>
+  <string name="release_note_generic_desc">Mabadiliko husaidia kuboresha utendaji wa jumla wa kifaa</string>
+  <string name="release_note_os_update_desc">Mandhari mapya ya monokromatiki huipa simu yako mwonekano maridadi na kufanya kibambo chako kipendeze. Kagua jinsi programu zinavyotumia na kushiriki data yako kabla ya kutoa ruhusa za programu na uifanye iweze kufikiwa zaidi na vipengele vipya vya kusikia na kuona vya Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Mabadiliko husaidia kuboresha utendaji wa kifaa kwa jumla</string>
+  <string name="release_note_performance_title">Utendakazi</string>
+  <string name="release_note_security_desc">Inajumuisha masasisho ya usalama kupitia %1$s</string>
+  <string name="release_note_security_title">Sasisho la usalama</string>
+  <string name="release_note_stability_desc">Inajumuisha uboreshaji na marekebisho ya hitilafu ambayo hufanya simu yako kuaminika zaidi</string>
+  <string name="release_note_stability_title">Uthabiti</string>
+  <string name="release_note_title">Sasisho hili linajumuisha maboresho ya:</string>
+  <string name="release_note_wifi_desc">Inajumuisha masasisho kwa muunganisho wako wa Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Angalia vipengele vyote vipya kwenye Android %1$s</string>
+  <string name="request_suspended_datasaver">Zima kihifadhi data ili uendelee kupakua</string>
+  <string name="request_suspended_no_network">Hakuna upeo wa mtandao ili kuanza upakuaji</string>
+  <string name="restart_after_one_hour">Washa upya baada ya saa 1</string>
+  <string name="restart_instruction_title">Nini cha kujua kabla ya kuwasha upya</string>
+  <string name="restart_later">Baadaye</string>
+  <string name="restart_message">Tafadhali washa upya sasa ili kusasisha</string>
+  <string name="restart_notification">Washa upya</string>
+  <string name="restart_notification_text">Tafadhali washa upya sasa ili kusasisha. Sasisho limekuwa likisubiri kwa %1$d siku nyingi.</string>
+  <string name="restart_notify_sanity_call_msg">Sasa kifaa hakiwezi kuwashwa tena simu inapoendelea</string>
+  <string name="restart_notify_sanity_maps_msg">Kifaa hakiwezi kuwaka upya sasa kwa kuwa usogezaji umewashwa</string>
+  <string name="restart_now">Anzisha tena sasa</string>
+  <string name="restart_postponed">Kuwasha upya kumeahirishwa</string>
+  <string name="restart_title">Washa kifaa upya</string>
+  <string name="resume_download_on_cellular">Tumia data ya rununu</string>
+  <string name="retrieving_token">Inathibitisha...</string>
+  <string name="sdcard_predownload_text">
+Katika hatua hii, utanakili sasisho kwenye hifadhi ya mfumo. Sasisho litasakinishwa kwenye hatua inayofuata. 
+
+Unganisha simu yako kwenye chanzo cha nishati ili kuhakikisha kuwa hauishiwi na nishati ya betri.</string>
+  <string name="search_menu_title">Tafuta</string>
+  <string name="secure_instruction">Utaratibu huu ni salama</string>
+  <string name="security_download_notification_title">Boresha usalama wako</string>
+  <string name="security_install_notification_text">Sasisho jipya la usalama liko tayari kusakinishwa</string>
+  <string name="security_install_title">Sasisho la usalama liko tayari</string>
+  <string name="security_patch">Kihasho cha usalama:</string>
+  <string name="security_update_low_storage_title">Sasisho la usalama</string>
+  <string name="security_update_notification_text">Pakua sasisho jipya la usalama</string>
+  <string name="security_update_paused">Sasisho la usalama limesitishwa</string>
+  <string name="security_update_pending_notification_text">Pata sasisho jipya la usalama. Sasisho limekuwa likisubiri kwa %1$d siku nyingi.</string>
+  <string name="security_update_title">Usasisho wa usalama</string>
+  <string name="select_account">Chagua akaunti ya %1$s </string>
+  <string name="selected_later_time_os_mr">Sasisho la mfumo litasakinishwa </string>
+  <string name="selected_later_time_smr">Sasisho la usalama litasakinishwa </string>
+  <string name="setting_sw_summary">Sasisha kwa programu mpya zaidi </string>
+  <string name="setting_sw_title">Masasisho ya Mfumo</string>
+  <string name="smart_cancel_update_toast_msg">Sasisho limeratibiwa upya %1$s</string>
+  <string name="smart_end_time">Mwisho</string>
+  <string name="smart_install_message_popup">Kwa kuwa umewasha kipengele cha Usasishaji Mahiri, kifaa chako kitasasishwa kiotomatiki %1$sikiwa hutakuwa umesakinisha wakati huo. Hakikisha una betri ya kutosha kwa ajili ya usakinishaji.</string>
+  <string name="smart_restart_message_popup">Kwa kuwa umewasha kipengele cha Usasishaji Mahiri, kifaa chako kitasasishwa kiotomatiki %1$sikiwa haujawasha upya wakati huo.</string>
+  <string name="smart_settings_string">Sasisho hupakuliwa na kusakinishwa kiotomatiki unapounganishwa kwenye Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Sasisho hupakuliwa na kusakinishwa kiotomatiki unapounganishwa kwenye Wi-Fi au unatumia data ya simu</string>
+  <string name="smart_settings_string_vzw">Sasisho hupakuliwa na kusakinishwa kiotomatiki</string>
+  <string name="smart_start_time">Anza</string>
+  <string name="smart_to_string">Kwa</string>
+  <string name="smart_update_advanced">Ya hali ya juu</string>
+  <string name="smart_update_note">Kumbuka: Kwa usalama wako, masasisho yote muhimu ya usalama yatapakuliwa na kusakinishwa kiotomatiki, kipengele hiki kiwe kimewashwa au kimezimwa.</string>
+  <string name="smart_update_note_vzw">Kumbuka: Kwa usalama wako, masasisho yote muhimu yatapakuliwa na kusakinishwa kiotomatiki, kipengele hiki kiwe kimewashwa au kimezimwa.</string>
+  <string name="smart_update_pop_up_text">Weka kifaa chako salama na sasisho za kiotomatiki</string>
+  <string name="smart_update_recommendation">Jaribu masasisho mahiri</string>
+  <string name="smart_update_suggestion_text">Endelea kuwa salama na sasisho za kiotomatiki</string>
+  <string name="smart_update_text_AB">Masasisho mahiri husaidia kifaa chako kufanya kazi kwa usalama na kwa ufanisi. Ukiyawasha, masasisho yote mapya ya <b>usalama na marekebisho ya hitilafu</b> yatapakuliwa kiotomatiki. Baada ya kupakua, kifaa chako kitawaka upya kwa wakati uliochagua.</string>
+  <string name="smart_update_text_AB_vzw">Masasisho mahiri husaidia kifaa chako kufanya kazi kwa usalama na kwa ufanisi. Ukiyawasha, <b>masasisho yote mapya ya usalama</b> yatapakuliwa kiotomatiki. Baada ya kupakua, kifaa chako kitawaka upya kwa wakati uliochagua.</string>
+  <string name="smart_update_text_classic">Masasisho mahiri husaidia kifaa chako kufanya kazi kwa usalama na kwa ufanisi. Ukiyawasha, masasisho yote mapya ya <b>usalama na marekebisho ya hitilafu</b> yatapakuliwa kiotomatiki. Baada ya kupakua, kifaa chako kitazima na kuwaka tena na kusakinisha kwa wakati unaochagua.</string>
+  <string name="smart_update_text_classic_vzw">Masasisho mahiri husaidia kifaa chako kufanya kazi kwa usalama na kwa ufanisi. Ukiyawasha, <b>masasisho yote mapya ya usalama</b> yatapakuliwa kiotomatiki. Baada ya kupakua, kifaa chako kitazima na kuwaka tena na kusakinisha kwa wakati unaochagua.</string>
+  <string name="smart_update_time_slot_text_AB">Chagua wakati wa kuanza upya</string>
+  <string name="smart_update_time_slot_text_classic">Chagua muda wa kusakinisha</string>
+  <string name="smart_update_title">Masasisho mahiri</string>
+  <string name="software_not_update_to">Programu yako bado haijasasishwa</string>
+  <string name="software_update_in_progress">Mfumo wako unasasishwa ili uingiane na toleo</string>
+  <string name="software_update_planned_summary">Imeangaliwa - %1$s</string>
+  <string name="software_update_planned_title">Sasisho la programu limepangwa</string>
+  <string name="software_update_to">Mfumo wako umesasishwa kwa</string>
+  <string name="sofware_version">Toleo la Programu Endeshi:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Weka nafasi ya usasisho</string>
+  <string name="su_btn">Mipangilio</string>
+  <string name="su_text_off">Utahitaji kusasisha kifaa chako mwenyewe wakati programu mpya inapatikana. Washa sasisho Mahiri ili ufanye mchakato kiotomatiki. Gusa kwa maelezo zaidi.</string>
+  <string name="su_text_on">Kimsingi, sasisho Mahiri huendeshwa kati ya 1 AM - 3 AM. Unaweza kubadilisha saa za sasisho au kuzima sasisho Mahiri katika mipangilio. Gusa kwa maelezo zaidi.</string>
+  <string name="su_title_off">Sasisho mahiri zimezimwa</string>
+  <string name="su_title_on">Sasisho mahiri zimewashwa</string>
+  <string name="system_download_notification_title">Sasisho la Mfumo</string>
+  <string name="system_install_notification_text">Sasisho jipya la mfumo liko tayari kusakinishwa</string>
+  <string name="system_install_title">Sasisho liko tayari</string>
+  <string name="system_pdl_notification_mr_title">Pata marekebisho ya hitilafu na zaidi</string>
+  <string name="system_pdl_notification_os_title">Android %1$s imefika!</string>
+  <string name="system_update">Sasisho la Mfumo</string>
+  <string name="system_update_info_not_available">Haipatikani</string>
+  <string name="system_update_low_storage_text">Gusa hapa ili kuangalia hifadhi na kuendelea.</string>
+  <string name="system_update_low_storage_title">Sasisho la Mfumo</string>
+  <string name="system_update_notification_os_text">Furahia Android mpya</string>
+  <string name="system_update_notification_text">Pakua programu mpya</string>
+  <string name="system_update_paused">Usasisho wa mfumo umesitishwa</string>
+  <string name="system_update_pending_notification_os_text">Furahia Android mpya. Sasisho limekuwa likisubiri kwa %1$d siku nyingi.</string>
+  <string name="system_update_pending_notification_text">Pakua programu mpya. Sasisho limekuwa likisubiri kwa %1$d siku nyingi.</string>
+  <string name="system_update_settings_list_item_title">Masasisho ya mfumo</string>
+  <string name="system_update_status">Sasisho ya Mfumo</string>
+  <string name="system_update_title">Sasisho la mfumo</string>
+  <string name="tethered_permission_desc">Tuma matokeo ya sasisho ya 3c</string>
+  <string name="tethered_update_result">Tokeo la Usasisho Lililounganishwa na Mtandao</string>
+  <string name="time_picker_text">Anza usakinishaji bila kikumbusho</string>
+  <string name="total_download_size">Ukubwa: %1$s</string>
+  <string name="try_again">Jaribu tena</string>
+  <string name="turn_it_off">Izime</string>
+  <string name="turn_it_on">Washa</string>
+  <string name="turn_on_smart_updates">Washa masasisho mahiri</string>
+  <string name="update">Sasisha</string>
+  <string name="update_blocked_by_policy">Usasishaji umezuiwa na sera ya msimamizi </string>
+  <string name="update_cancelled_status">Upakuaji wa programu ulighairiwa</string>
+  <string name="update_fail_desc">Hitilafu fulani imetokea</string>
+  <string name="update_fail_status">Sasisho halijafanikiwa</string>
+  <string name="update_fail_sucancel_dm_status">Usasishaji umeghairiwa na seva</string>
+  <string name="update_fail_title">Sasisho halijafanikiwa</string>
+  <string name="update_history_blank">Hakuna historia</string>
+  <string name="update_history_src_target">Sasisha kutoka %1$s hadi %2$s</string>
+  <string name="update_history_time">Ilisasishwa %1$s</string>
+  <string name="update_history_title">Historia ya usasishaji</string>
+  <string name="update_history_version">Toleo la Programu Endeshi %1$s</string>
+  <string name="update_postpone_policy">Sasisho limeahirishwa kwa sera ya msimamizi </string>
+  <string name="update_preference">Mapendeleo ya usasisho</string>
+  <string name="update_success_desc">Hongera! Umefaulu kusakinisha toleo %1$s.</string>
+  <string name="update_success_desc_os">Hongera! Umefanikiwa kusakinisha Android %1$s. Sasa uko tayari kufurahia matumizi ya Android bora, salama na nadhifu zaidi.</string>
+  <string name="update_success_status">Usasishaji Umefaulu</string>
+  <string name="update_title">Usasishaji umekamilika</string>
+  <string name="update_title_text">Furahia programu yako mpya!</string>
+  <string name="upto_date_title">Kila kitu kinaonekana kizuri!</string>
+  <string name="urgent_channel_name">Arifa ya Usasishaji wa Programu</string>
+  <string name="vab_validation_update_failure_desc">Sasisho la uthibitishaji wa VAB haujafaulu</string>
+  <string name="vab_validation_update_failure_title">Uthibitishaji wa VAB umeshindwa</string>
+  <string name="vab_validation_update_success_desc">Hongera! Sasisho la uthibitishaji wa VAB umefaulu</string>
+  <string name="vab_validation_update_success_title">Uthibitishaji wa VAB umefaulu</string>
+  <string name="verifying_patch">Sasisho limetumika. Inathibitisha kuwa ombi lilifanikiwa… (Hatua ya 4 kati ya 6)  </string>
+  <string name="verity_disabled_msg">Kifaa chako kinaweza kukabiliwa na hatari za usalama. Tekeleza amri iliyo hapa chini kwa sasisho zinazoendelea
+
+ uwezeshaji wa adb</string>
+  <string name="verity_disabled_title">Kifaa chako hakipokei tena sasisho</string>
+  <string name="verizon_failure_notification_text"> Kifaa chako hakikuweza kusakinisha sasisho hili. Tumia kifaa cha Uboreshaji wa Programu ili kusakinisha. Gusa upate habari zaidi</string>
+  <string name="verizon_failure_text">Kulikuwa na tatizo la kusasisha kifaa chako. Hakuna mabadiliko yaliyofanywa. Ili kusasisha programu yako, unaweza kutumia kifaa cha Kuboresha Programu.
+
+Ili kusakinisha kifaa cha Kuboresha Programu:
+
+1. Tumia kebo ya USB kuunganisha kifaa chako kwenye kompyuta yako
+2. Orodha ya USB inapotokea kwenye kifaa chako, chagua aikoni ya mipangilio iliyo upande wa juu kulia
+3. Kutoka kwa Mapendeleo ya USB, chagua Usakinishaji wa Programu
+4. Elekea kwa Kompyuta yako na utafute sogora ya usakinishaji
+5. Tembea kupitia sogora
+
+Kifaa cha Kuboresha Programu kitakusaidia kupakua na kusakinisha sasisho za programu kwenye kifaa chako.</string>
+  <string name="vital_applying_updates">Unaweka sasisho…</string>
+  <string name="vital_bg_text">Hii inaweza kuchukua dakika chache.</string>
+  <string name="vital_check_for_updates">Inatafuta sasisho…</string>
+  <string name="vital_check_for_updates_desc">Sasisho huweka kifaa chako salama na kuboresha utendaji wake.</string>
+  <string name="vital_done">Imekamilika!</string>
+  <string name="vital_error_fail">Hitilafu imetokea wakati wa kusasisha. Hakuna mabadiliko yaliyofanywa.</string>
+  <string name="vital_go_back">Je, una uhakika unataka kusimamisha usakinishaji?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Washa tena ili kuendelea</string>
+  <string name="vital_skip">Ruka</string>
+  <string name="vital_stop">Acha</string>
+  <string name="wifi_setting">Mipangilio ya Wi-Fi</string>
+</resources>

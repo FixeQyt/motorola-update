@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Kora ivugurura nshya nyuma</string>
+  <string name="ab_download_now">Kora ivugurura nshya nonaha</string>
+  <string name="ab_install_notification_paused_text">Kwinjiza porogaramu inyuma byahagaritswe</string>
+  <string name="ab_install_notification_text">Kwinjiza porogaramu inyuma</string>
+  <string name="ab_restart_fullscreen_text">Bizatwara amasegonda agera kuri 90 kugira ngo utangira igikoresho cyawe. Ubu buryo bwo kuvugurura amakuru bumaze iminsi %1$dbuboneka.</string>
+  <string name="ab_restart_text">Bizatwara amasegonda agera kuri 90 kugira ngo utangira igikoresho cyawe.</string>
+  <string name="ab_restart_warning_os_mr">Ivugurura rya sisitemu yawe iri hafi kurangira. Igikoresho cyawe kira   </string>
+  <string name="ab_restart_warning_smr">Ivugurura rya sisitemu y'umutekano yawe iri hafi kurangira. Igikoresho cyawe kira   </string>
+  <string name="ab_warning_continues"> kugirango ivugurura rirangire.</string>
+  <string name="abupdate_in_progress_status">Kuvugurura porogaramu biri gukorwa</string>
+  <string name="additional_charges_message">Ku Dawunirodinga birakomeza ukoresheje interineti isanzwe Ibiciro by'inyongera bishobora gukurikizwa.</string>
+  <string name="alertSubText">Ibi bikoreshwa mukugenzura, ku Dawunirodinga no kwinjizamo pake yo kuvugurura</string>
+  <string name="alertText">Kwemerera imikorere y'urusobe mu kuvugurura porogaramu</string>
+  <string name="alertTitle">Ibyavuguruwe bisaba uburenganzira bukurikira</string>
+  <string name="alert_dialog_cancel">guhagarika kwinjizaporogaramu</string>
+  <string name="alert_dialog_continue">Komeza kwinjizamo</string>
+  <string name="alert_dialog_no">Oya</string>
+  <string name="alert_dialog_ok">Byumvikanye</string>
+  <string name="alert_dialog_yes">Yego</string>
+  <string name="allocate_space_success">Ububiko bukenewe kugirango ashyirweho ivugurura</string>
+  <string name="allow">Emerera</string>
+  <string name="android_latest_sw_text">Ukoresha porogaramu igezweho.</string>
+  <string name="android_version">Verisiyo ya Andoroyide:</string>
+  <string name="app_name">Ivugurura ya sisitemu ya Motorola</string>
+  <string name="applied">Kwatsa</string>
+  <string name="apply_bug_fix">Gukoresha mu gukosora udukosa</string>
+  <string name="apply_os_update">Kora kuri porogaramu zose ziheruka</string>
+  <string name="applying_patch">Gusoza ivugurura… (Igice cya%1$d mu %2$d)  </string>
+  <string name="are_you_sure">Gukuraho Uburyo buvuguruye bwubwenge?</string>
+  <string name="are_you_sure_pop_up_text">Uzi neza ko ushaka guhagarika ivugurura rigezweho? </string>
+  <string name="asc_campaign_assigned">Gahunda yashyizweho</string>
+  <string name="asc_campaign_is_allowed">Kuvugurura Firmware</string>
+  <string name="asc_campaign_is_blocked">Gufunga Firmware</string>
+  <string name="asc_campaign_not_assigned">Igikoresho ntikiri mu gikorwa cyo kwamamaza</string>
+  <string name="asc_campaign_status_prefix">
+Imiterere: </string>
+  <string name="asc_campaign_window_period_status">
+Kuvugurura: kuva kuri %skugera%s</string>
+  <string name="asc_sw_up_to_date"> kuri verisiyo iheruka</string>
+  <string name="asc_target_version"> kuri verisiyo </string>
+  <string name="auth_title">Uburyo buvuguruye sisitemu</string>
+  <string name="auto_download_cellualr_charges_warn">Iyo ukuraho porogaramu ukoresheje umuyoboro wa telefoni igendanwa, hashobora gukoreshwa ibindi biciro by'inyongera.</string>
+  <string name="auto_download_enable_cellular_future_updates">Urashaka guhitamo uburyo bwa interineti ya terefoni kubikorwa byo ku Dawunirodinga mugihe kizaza?</string>
+  <string name="auto_download_settings_title">Ingenamiterere yo kuvugurura byikora</string>
+  <string name="auto_download_wifi_cellular">Gukurura byikora kuri interineti ya telefoni (mu rugo gusa) na Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Ku Dawunirodinga byikora kuri interineti ya telefoni na Wi-Fi. Wi-Fi izajya ikoreshwa mbere y'ibindi byose. </string>
+  <string name="auto_download_wifi_only">Ku Dawunirodinga byikora kuri Wi-Fi gusa</string>
+  <string name="auto_download_wifi_only_desc">Ku Dawunirodinga byikora kuri Wi-Fi gusa</string>
+  <string name="auto_install_notification_text">Igikoresho kizajya gishyirwa kuri%1$s</string>
+  <string name="auto_time_set">Tangira kuri:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Kubera akamaro kabyo, iyi vugurura izinjizwa mu buryo bwikora ukoresheje interineti ya telefoni kuri%1$s</string>
+  <string name="automatic_download_on_cellular_warning">Kubera akamaro kabyo, iyi vugurura izakurikirwa mu buryo bwikora ukoresheje interineti ya telefoni kuri%1$s</string>
+  <string name="background_install_msg">Irivugurura rizakomeza niba usubiye inyuma cyangwa ufunze iri dirishya.</string>
+  <string name="background_install_text">Ivugurura riri kudawunirodingwa &amp; ryinjizamo. Ushobora gukomeza gukoresha icyo gikoresho cyawe.</string>
+  <string name="bad_connection">Nta kwihuza</string>
+  <string name="bad_connection_text">Birasa n'aho igikoresho cyawe cyatandukanyijwe na interineti. Kanda buto iri hasi kugira ngo wongere ugerageze.</string>
+  <string name="bg_install_cancel_confirm">Wizeye neza ko ushaka guhagarika ishyirwamo?</string>
+  <string name="bg_retried">gukurura porogaramu byahagaritswe. Komeza ugerageze…</string>
+  <string name="bg_suspended">Gutegereza interineti igendanwa kugirango rikomeze ku Dawunirodinga no kwishyiriraho…</string>
+  <string name="bg_suspended_non_adminapn">Gutegereza Wi-Fi igendanwa cyangwa rezo zijyanye na Zeru kugirango rikomeze ku dawunirodinga no kwinjizaporogaramu…</string>
+  <string name="bg_suspended_roaming">Kwishyiriraho inyuma byahagaritswe kubera interineti ituruka mukandi gace, nyamuneka fungura Wi-Fi kugirango usubire kwishyiriraho.</string>
+  <string name="bg_suspended_wifi">Gutegereza Wi-Fi igendanwa kugirango rikomeze ku Dawunirodinga no kwinjizaporogaramu…</string>
+  <string name="bootloader_unlock_msg">igikoresho cyacu nticyakiriye ibishya kandi birashobora guhura nibibazo byumutekano.</string>
+  <string name="bootloader_unlock_title">Nta makuru mashya aboneka</string>
+  <string name="cancel">Hagarika</string>
+  <string name="cancel_download_notification">Hagarika</string>
+  <string name="cancel_install">Hagarika</string>
+  <string name="cancel_update_notification">Hagarika</string>
+  <string name="check_for_updates_title">Kugenzura ko hari ibyahinduwe</string>
+  <string name="check_update_badparam">Kugerageza kuzamura sisitemu byahuye nikibazo kubera kwinjira byananiranye.
+
+Wongere ugerageze mukanya.</string>
+  <string name="check_update_checking">Kureba ibishya…</string>
+  <string name="check_update_disabled_admin">Kuvugurura ibikoresho bigenzurwa n'umuyobozi w'ibyikoranabuhanga</string>
+  <string name="check_update_downloading">Ubu hari ibishya birimo gukururwa.
+
+Uzabimenyeshwa igihe igikorwa cyo Dawunirodinga kizaba kirangiye.</string>
+  <string name="check_update_fail">Habayeho ikosa ritari ryitezwe.
+
+Igikoresho kizongera kugerageza kuvugurura inyuma.</string>
+  <string name="check_update_internal">Kugenzura amavugurura ntibyakunze. Ongera ugerageze nyuma.</string>
+  <string name="check_update_net">Ukeneye interineti kugira ngo urebe ko hari amakuru mashya. Kugirango ugenzure ikoranabuhanga rya Wi-Fi, jya ku Magenamiterere &gt; Umuyoboro na interineti &gt; Interineti &gt; Wi-Fi.</string>
+  <string name="check_update_net_vzw">Ukeneye interineti kugira ngo urebe ko hari amakuru mashya. Kugirango ugenzure ikoranabuhanga rya Wi-Fi, jya ku Magenamiterere &gt; Umuyoboro na interineti &gt; Interineti &gt; Wi-Fi.
+
+Urashobora kandi gusura motorola.com/systemupdates kugirango urebe ubundi buryo bwo kuvugurura.</string>
+  <string name="check_update_not_sys_user">Gusuzuma ubuziranenge bw'inyandiko y'abashyitsi ntibyemewe</string>
+  <string name="check_update_processing">Menyesha seriveri yacu…
+ Nyamuneka utegereze</string>
+  <string name="check_update_roaming">Ivugurura rya Sisitemu riboneka mu muyoboro wo mu rugo gusa. 
+
+Jya ku Magenamiterere &gt; Umuyoboro na interineti&gt; Wi-Fi kugirango ushyireho ku murongo none aha.</string>
+  <string name="check_update_storage_low">Gukora ivugurura ntibyashoboka kubera ko nta mwanya uhagije wo kubika ku gikoresho.</string>
+  <string name="check_update_temperror">Ku Dawunirodinga amavugurura ntiyashoboraga kurangiza kuri ako kanya.
+
+Ongera ugerageze indi nshuro.</string>
+  <string name="check_update_text">Gusuzuma buri gihe niba hari amakuru mashya ahari, bishobora gutuma mudasobwa yawe ikomeza gukora neza kandi ikarushaho kugira umutekano.</string>
+  <string name="check_update_title_downloading">gukurura birimo gukorwa…</string>
+  <string name="check_update_vab_validation">Kugenzura niba VAB yemeje imiterere yo kuvugurura 
+Banza utegereze</string>
+  <string name="check_update_wifi_only">Ivugurura rya Sisitemu riboneka hifashishijwe Wi-Fi gusa.</string>
+  <string name="check_wifi_settings">Reba Igenamiterere ya Wi-Fi</string>
+  <string name="clear_space">Sukura umwanya</string>
+  <string name="cloud_picker_title">Gufata mububiko bwo mubicu</string>
+  <string name="compatibility_failed_title">Kugenzura ipaki byananiranye</string>
+  <string name="compatibility_verification_failure">Gahunda yo kuvugurura irimo ku Dawunirodinga ntabwo ihuza na verisiyo ya sisitemu iriho ku gikoresho.</string>
+  <string name="compatibility_verification_failure_df">
+
+Please check with your Dogfood coordinator.</string>
+  <string name="compatibility_verification_success">Byagenzuwe neza</string>
+  <string name="completed"> Kwinjizaporogaramu byarangiye. Uzahamagarirwa kongera kwatsa terefone yawe (Icyiciro %1$dcya%2$d)</string>
+  <string name="completed_install">%s byuzuye</string>
+  <string name="connect_to_wifi">guhuza kuri Wi-Fi</string>
+  <string name="continue_button">Komeza</string>
+  <string name="critical_install_message_popup_os_mr">Hari amavugurura y'ingenzi ya sisitemu agenga sisitemu. Hitamo Gushyiramo kugirango wemeze ivugurura. Bitabaye ibyo, iyi vugurura izashyirwa mu bikorwa mu buryo bwikora kuri %1$s.</string>
+  <string name="critical_install_message_popup_smr">Hari amavugurura y'ingenzi agenga umutekano. Hitamo Gushyiramo kugirango wemeze ivugurura. Bitabaye ibyo, iyi vugurura izashyirwa mu bikorwa mu buryo bwikora kuri %1$s.</string>
+  <string name="critical_install_message_screen">Iri vugurura ry'ingenzi rizajya ryishyiramo kuri %1$s. Reba neza ko ufite batiri ihagije kugira ngo winjize porogaramu.</string>
+  <string name="critical_install_notification">Kubera ko iyi vugurura ari ingenzi, igikoresho cyawe kizinjizaporogaramu ubwacyo kuri%1$s.
+Igihe cyo kwinjiza porogaramu: iminota%2$d</string>
+  <string name="critical_restart_message_popup">Nyamuneka ongera ufungure igikoresho cyawe kugira ngo ushyireho iyi mpinduka y'ingenzi vuba bishoboka. Niba utongeye gufungura wenyine, igikoresho cyawe kizafunguka mu buryo bwikora kuri %1$s.</string>
+  <string name="critical_restart_message_screen">Kubera ko iyi vugurura ari ingenzi, igikoresho cyawe kizatangira ubwacyo kuri%1$sniba utari warongeye gutangira kugeza icyo gihe.</string>
+  <string name="critical_restart_notification">Kubera ko iyi vugurura ari ingenzi, igikoresho cyawe kizatangira ubwacyo kuri%1$s</string>
+  <string name="critical_update_notification_title">Amakuru mashya y'ingenzi</string>
+  <string name="current_version">Verisiyo ya porogaramu iriho:</string>
+  <string name="custom_slot">Inozamimerere</string>
+  <string name="date_time">%skuri%s</string>
+  <string name="defer_count_expired">Byumvikanye</string>
+  <string name="deny">Hakana</string>
+  <string name="details">Amakuru arambuye</string>
+  <string name="dialog_alert_net_message">Igikoresho cyawe ikoranabuhanga ntikiri ku murongo genzura Wi-Fi cyangwa interineti ya terefoni wongere ugerageze.</string>
+  <string name="dialog_alert_net_title">igikoresho cyawe ntabwo kiri kuri interineti</string>
+  <string name="dialog_alert_title">Umuriro ugiye gushira muri batiri</string>
+  <string name="dialog_progress">Iri gutangira…</string>
+  <string name="dl_options_mobile_only_warning">Gukoresha Wi-Fi birasabwa. Ku dawunirodinga amakuru ukoresheje interineti ya telefoni igendanwa cyangwa gukoresha interineti ya telefoni igendanwa mu gihe uri mu mahanga bishobora gutuma wishyura amafaranga y'inyongera.
+
+Ku Dawunirodinga iyi porogaramu ntibizagira ingaruka ku mikorere y'igikoresho cyawe.</string>
+  <string name="done">Byakozwe</string>
+  <string name="dont_show_this_again">Ntibizongere kugaragara ukundi</string>
+  <string name="download_cancelled_title">Ku Dawunirodinga byahagaritswe</string>
+  <string name="download_deferred_status">Ku Dawunirodinga porogaramu byasubitswe ku</string>
+  <string name="download_failed_status">Ku Dawunirodinga amavugurura byaanze ku</string>
+  <string name="download_in_progress_status">Ku dawunirodinga porogaramu biri gukorwa</string>
+  <string name="download_later_button">Ku Dawunirodinga nyuma</string>
+  <string name="download_no_button">Oya murakoze</string>
+  <string name="download_note">Ushobora gukomeza gukoresha igikoresho cyawe mu gihe iyi porogaramu yongeye gushyirwaho </string>
+  <string name="download_now">Ku Dawunirodinga nonaha</string>
+  <string name="download_now_button">Kumanurwa kuri murandasi</string>
+  <string name="download_options">Amahitamo yo ku Dawunirodinga</string>
+  <string name="download_progress_cancel_message">Niba ushaka gukurura iri vugurura nyuma, jya kuri Igenamiterere&gt; ivugurura rya sisitemu</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s ibumoso (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">Kumanurwa kuri murandasi%s%%(byahagaze)</string>
+  <string name="download_progress_text">Ku Dawunirodinga bizakomeza niba usubiye inyuma cyangwa ufunze iri dirishya.</string>
+  <string name="download_subtitle">Ibyo ugomba kumenya mbere yo ku Dawunirodinga</string>
+  <string name="download_text_whats_new">Reba ibintu bishya</string>
+  <string name="download_time_left">%1$s ibumoso</string>
+  <string name="download_version">Verisiyo nshya:%1$s</string>
+  <string name="download_wifi_only_error">Wi-Fi irakenewe kugirango u downloadinge iyi vugurura. Ku downloadinge bizasubukurwa igihe interineti yawe izaba imaze kugaruka.</string>
+  <string name="downloaded_percentage">%1$s ya dawunirodinzwe</string>
+  <string name="emergency_call_btn_txt">Ibyihutirwa</string>
+  <string name="emergency_call_text">Ntuzashobora guhamagara cyangwa guhamagarwa, hakubiyemo guhamagara ubutabazi mu gihe cyo kwatsa!</string>
+  <string name="enable_wifi_error_txt">Huza na Wi-Fi kugirango ukurure iyi vugurura.</string>
+  <string name="eol_explore">Kugenzura ibikoresho bishya</string>
+  <string name="eol_last_update_text">Agasanduku k'umutekano: </string>
+  <string name="eol_promote">Reba amahitamo aheruka</string>
+  <string name="eol_title">Igikoresho cyawe kirimo porogaramu igezweho.</string>
+  <string name="err_title_contact_server">Kumenyesha seriveri…</string>
+  <string name="err_title_memory_low">Ububiko ntibuhari…</string>
+  <string name="err_title_temp_error">Ikosa ry'igihe gito</string>
+  <string name="err_title_update">Ikosa ryo kuvugurura</string>
+  <string name="error_code">Ikosa muri kode: </string>
+  <string name="error_copyfail">Ntibyashobotse gukoporora uhereye kuri memory kadi.</string>
+  <string name="error_disabled">Ntibyashobotse ku Dawunirodinga amavugurura. Gahunda yo kuvugurura ntabwo iboneka muri iki gihe. 
+
+Nta kindi gikorwa gikenewe.</string>
+  <string name="error_fail">Ihangane, habaye ikibazo cyo kuvugurura%1$s yawe. Nta mpinduka zakozwe. Nyamuneka gerageza nanone ujya kuri Igenamiterere&gt; Kuvugurura sisitemu.</string>
+  <string name="error_in_call_msg">Igikoresho ntigishobora kuvugurura ubu kuko guhamagara biri gukorwa</string>
+  <string name="error_in_call_title">Guhamagara kwakomeje</string>
+  <string name="error_install_title">Kwinjizamo byanze</string>
+  <string name="error_mismatch">Habayeho gutandukana kwa verisiyo. Hazabaho kongera kuvugurura. Niba iboneka, uzabibwirwa.</string>
+  <string name="error_mismatch_sd">Ntibyashobotse gushiramo amavugurura. Verisiyo y'ivugurura ntabwo ihuye na terefone yawe. 
+
+Nyamuneka fata verisiyo ikwiriye ya terefone yawe maze wongere ugerageze.</string>
+  <string name="error_network">Interineti yakuweho. Nyamuneka ongera ugerageze ukoresheje uburyo busanzwe kugenzura ibishya ukoresheje igenamiterere rya Terefone.</string>
+  <string name="error_reboot">Ntabwo twashoboye ku Dawunirodinga iri vugurura. Niba wifuza kubona iri vugurura nyuma, nyamuneka ongera utangize igikoresho cyawe hanyuma ujye kuri Igenamiterere&gt; ivugurura rya sisitemu.</string>
+  <string name="error_resources">Ntabwo twashoboye ku Dawunirodinga iri vugurura. Niba ushaka iri vugurura nyuma, jya ku Magenamiterere &gt; Amavugurura ya Sisitemu.</string>
+  <string name="error_sdcard_resources_fail_removal">Memori kadi yakuwemo Igikorwa cyo ku Dawunirodinga ntabwo cyarangiye. 
+
+Nyamuneka ongera ushyiremo memori kadi hanyuma ujye kuri Igenamiterere&gt; Sisitemu ivugurura kugirango wongere ugerageze.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Ntibishoboka gusoza ko Dawunirodinga. Nta mwanya uhagije kuri Memori kadi. 
+
+Gira ibyo usiba ubone umwanya maze ujye ku Magenamiterere &gt; ivugurura rya Sisitemu wongere ugerageze.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Nyamuneka shyira Memori kadi kugirango utangire ibidawunirodingwa.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Nyamuneka shyira Memori kadi kugirango utangire ku dawunirodinga. 
+
+Jya ku Magenamiterere &gt; Ububiko&gt; Ikarita ya SD ya Mount.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Nta mwanya uhagije kuri Memori kadi kugirango gukurura kuri murandasi birangire. 
+
+Gira ibyo usiba ubone %1$s umwanya maze ujye ku Magenamiterere &gt; ivugurura rya Sisitemu wongere ugerageze kudawunirodinga.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Ikosa</string>
+  <string name="error_sdcard_resources_warning">Ivugurura rya porogaramu ririmo gukururwa kuri memori kadi. 
+
+Nyamuneka ntukureho memori kadi kugeza igihe kwinjizaporogaramu bitarangiye.
+
+
+</string>
+  <string name="error_server">Ikosa ryabaye kuri Seriveri. Wongere ugerageze mukanya.</string>
+  <string name="error_space">Iri vugurura rikeneye %1$s y'umwanya uboneka ku gikoresho cyawe. 
+
+Nyamuneka gusiba porogaramu udakoresha cyangwa kwimurira amafoto yawe na videwo ku kindi gikoresho cyo kubika kugirango ubone umwanya%2$s. 
+
+Bimaze gukorwa, urashobora kujya kuri Igenamiterere&gt; ivugurura rya sisitemu kugirango utangire ivugurura igihe icyo aricyo cyose.</string>
+  <string name="error_space_retry">Iri vugurura rikeneye %1$s y'umwanya uboneka ku gikoresho cyawe. 
+
+Nyamuneka gusiba porogaramu udakoresha cyangwa kwimurira amafoto yawe na videwo ku kindi gikoresho cyo kubika kugirango ubone umwanya%2$s.</string>
+  <string name="error_space_vab">Iri vugurura rikeneye %1$s y'umwanya uboneka uriho ubusa ku gikoresho cyawe. Nyamuneka shakisha umwanya w'ububiko kugirango kuvugurura bigende neza</string>
+  <string name="error_space_vab_make_room_popup">Ugomba gukuraho%1$s umwanya mbere yo kuvugurura. Gerageza gusiba porogaramu udakoresha cyangwa kwimurira amafoto na videwo ku kindi gikoresho cyo kubika.</string>
+  <string name="error_title">Kumanurwa kuri murandasi byanze</string>
+  <string name="error_verify">Ibyahinduwe ntibishobora kwemezwa neza. Ongera ugerageze indi nshuro.</string>
+  <string name="failed">ntibyakunze</string>
+  <string name="failure_process">Amakuru adahari</string>
+  <string name="finalizing_patch">Gusoza porogaramu… (Igice cya 5 muri 6)  </string>
+  <string name="first_net_text">Nyamuneka shyiramo ivugurura naho ubundi igikoresho kizahita gishyiraho mu gutangira bundi bushya bukurikira. Reba neza ko igipimo cya bateri kirenze%s</string>
+  <string name="forceInstallMessage">Iri vugurura rizajya ryishyiramo kuri %1$s.</string>
+  <string name="force_install_message_screen">Iri ni ivugurura ryingenzi, nyamuneka winjizemo porogaramu bitarenze%1$s. Bitabaye ibyo, igikoresho cyawe kizajya cyishyiriraho mu gihe kidakoreshwa cyane. Reba neza ko ufite batiri ihagije kugira yo kwinjizmo porogaramu.</string>
+  <string name="force_install_notification_message">Nyamuneka shyiramo ukoresheje%1$s. Bitabaye ibyo, igikoresho cyawe kizajya cyishyiriraho mu gihe gikoreshwa gake.
+Igihe cyo kwinjiza porogaramu: iminota%2$d</string>
+  <string name="force_restart_notification_message">Nyamuneka ongera watse nyuma %1$s. Bitabaye ibyo, igikoresho cyawe kizajya cyiyatsa mu gihe kidakoreshwa cyane.</string>
+  <string name="force_restart_screen_message">Niba utongeye gutangiza%1$s, igikoresho cyawe kizatangira gukora mu gihe kitakoreshejwe cyane.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Byumvikanye</string>
+  <string name="important_update_install_overdue_message">Igihe cyari cyateganyijwe cyo kwongera kwinjizaporogaramu cyararangiye. Kwinjizaporogaramu bizatangira igihe igikoresho cyawe kizaba cyujuje ibisabwa.</string>
+  <string name="important_update_restart_overdue_message">Igihe cyari cyateganyijwe cyo kwongera kwatsa cyararangiye. Igikoresho kizongera gutangira igihe cyujuje ibisabwa.</string>
+  <string name="initiating_ota_service_msg">Nyamuneka tegereza...</string>
+  <string name="initiating_ota_service_title">Gushyiraho porogaramu yo kuvugurura sisitemu</string>
+  <string name="install">Injizamo</string>
+  <string name="install_after_one_hour">kwinjizaporogaramu mu gihe cy'isaha 1</string>
+  <string name="install_cancelled_title">Kwinjiza porogaramu byahagaritswe</string>
+  <string name="install_deferred_status">Ivugurura ryasubitswe ku</string>
+  <string name="install_later">Kwinjizaporogaramu nyuma</string>
+  <string name="install_notify_sanity_call_msg">Igikoresho ntigishobora gushiramo porogaramu ubu kuko guhamagara biri gukorwa</string>
+  <string name="install_notify_sanity_maps_msg">Igikoresho ntigishobora kwinjizamo nonaha kuko gushakisha biri gukorwa</string>
+  <string name="install_now">Shyiramo none aha</string>
+  <string name="install_postponed">Gushyiraho byasubitswe</string>
+  <string name="install_progress_cancel_message">Niba ushaka kwinjiza iri vugurura nyuma, jya kuri Igenamiterere&gt; ivugurura rya sisitemu</string>
+  <string name="install_progress_paused_message">%s byuzuye(byahagaritswe)</string>
+  <string name="install_time">Igihe cyo kwinjiza porogaramu: iminota%1$d</string>
+  <string name="install_warning">Ibyo ugomba kumenya mbere yo kwinjizaporogaramu</string>
+  <string name="just_one_more_step">Intambwe imwe gusa</string>
+  <string name="keep_it_on">Komerezaho</string>
+  <string name="later_button">Kwibutswa nyuma</string>
+  <string name="learn_more_online_link">Menya byinshi ku rubuga</string>
+  <string name="low_battery_bg_install">Kwinjiza porogaramu byahagaritswe kubera batiri nke. Kwinjiza porogaramu birasubukurwa igihe igikoresho cyawe kiraba kwinjije umuriro.</string>
+  <string name="low_battery_download">Gukurura kuri murandasi byahagaritswe kubera batiri nke. Gukurura kuri murandasi birasubukurwa igihe igikoresho cyawe kiraba kwinjije umuriro.</string>
+  <string name="low_battery_install">Nyamuneka shyiramo umuriro mu gikoresho cyawe byibuze mbere %syo kwinjizamo iyi vugurura</string>
+  <string name="make_space">Shyiramo umwanya</string>
+  <string name="mandatory_install_notification">Niba udashyizeho iyi vugurura ya sisitemu vuba, uzatakaza amakuru yingenzi yo mu rwego rw'umutekano, kimwe n'ibintu bishya n'ibikoresho byo gukosora amakosa.</string>
+  <string name="mandatory_restart_notification">Kubera ko ari amakuru y'ingenzi, turagusaba kongera gutangiza igikoresho. Bitabaye ibyo, uzatakaza amakuru arebana n'umutekano, ndetse n'ibintu bishya n'ibikoresho byo gukosora amakosa.</string>
+  <string name="medium_channel_name">Imenyenyesha yo Gukurura Porogaramu</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Guhitamo konti</string>
+  <string name="multiple_account_alert">Hitamo kont%1$si kugirango ukomeze no kuvugurura sisitemu.</string>
+  <string name="no_thanks">Oya murakoze</string>
+  <string name="no_thanks_message">Niba ushaka iri vugurura nyuma, jya ku Magenamiterere &gt; Amavugurura ya Sisitemu.</string>
+  <string name="no_updates_applied">Nta makuru mashya yashyizwe mu bikorwa</string>
+  <string name="not_now">Si nonaha</string>
+  <string name="otaservice_perm_desc">Uruhushya ko porogaramu zikeneye kugira ngo zikorane na serivisi ya ota</string>
+  <string name="package_size">Ingano y'Ibyamanuwe kuri murandasi %1$s</string>
+  <string name="personalInfo_instruction">Nta makuru yawe bwite uzatakaza</string>
+  <string name="picker_cell_radio">Wi-Fi na interineti igendanwa</string>
+  <string name="picker_title">Hitamo uburyo wifuza ku Dawunirodinga iyi vugurura:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi gusa</string>
+  <string name="please_restart">Nyamuneka ongera watse nonaha</string>
+  <string name="policy_set">Ivugurura rya sisitemu ryahagaritswe. Nyamuneka hamagara umuyobozi ushinzwe igikoresho cyawe kugira ngo ubone andi makuru.</string>
+  <string name="press_back_again_to_exit">Kanga INYUMA nanone usohoke</string>
+  <string name="progress_copying_sd">Gukoporora ivugurura</string>
+  <string name="progress_deffered">Ku Dawunirodinga bizatangira muri Wi-Fi / Umuyoboro wa telefoni.</string>
+  <string name="progress_downloading_ota">Gukurura uburyo buvuguruye bwa sisitemu</string>
+  <string name="progress_downloading_security">Gukurura uburyo buvuguruye bwa sisitemu</string>
+  <string name="progress_retried">gukurura porogaramu byahagaritswe. Komeza ugerageze…</string>
+  <string name="progress_suspended">Gutegereza interineti igendanwa ngo rikomeze gukurura kuri murandasi</string>
+  <string name="progress_suspended_datasaver">Kuraho uburo bwo kuzigama interineti kugirango usubukure gukurura kuri murandasi</string>
+  <string name="progress_suspended_no_adminapn">Gutegereza interineti ya Wi-Fi cyangwa umuyoboro utishyura ngo rikomeze gukurura kuri murandasi</string>
+  <string name="progress_suspended_roaming">Ku Dawunirodinga byahagaritswe kubera umuyoboro uturuka mukandi gace, nyamuneka fungura Wi-Fi kugirango ukomeze Dawunirodinga.</string>
+  <string name="progress_suspended_wifi">Gutegereza interineti igendanwa ngo rikomeze gukurura kuri murandasi…</string>
+  <string name="progress_verify">Kugenzura ko igikoresho cyawe cyiteguye kuvugururwa…</string>
+  <string name="progress_verify_allocate_space">Kugenzura niba ububiko buhagije</string>
+  <string name="relative_date_time">%1$skuri%2$s</string>
+  <string name="release_note_battery_desc">Ibyavuguruwe kugira ngo byongere igihe batiri imara n'uko ikoreshwa</string>
+  <string name="release_note_battery_title">Batiri</string>
+  <string name="release_note_camera_desc">Ibyo bintu byongereweho bigufasha gufata amafoto neza anafite ibisobanuro</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Impinduka zifasha kunoza imikoranire ya interineti y'igikoresho</string>
+  <string name="release_note_cellular_title">Telefoni</string>
+  <string name="release_note_charging_desc">Ivugurura ryongerera ubushobozi bwo kwinjiza umuriro</string>
+  <string name="release_note_charging_title">Kwinjiza umuriro</string>
+  <string name="release_note_generic_desc">Ihinduka rifasha kunoza imikorere rusange y'igikoresho</string>
+  <string name="release_note_os_update_desc">amashusho mugaragaza mashya y'amabara menshi ituma terefone yawe igaragara neza kandi igatuma amashusho mugaragaza by'amabara bigaragara. Reba uko porogaramu zikoresha no gusangira amakuru yawe mbere yo guha uruhushya porogaramu no kuyigeraho kurushaho ukoresheje ibiranga kumva no kureba bishya bya Andoroyide 14.</string>
+  <string name="release_note_os_update_title">Andoroyide %1$s</string>
+  <string name="release_note_performance_desc">Ihinduka rifasha mu kunoza imikorere rusange y'igikoresho</string>
+  <string name="release_note_performance_title">Imikorere</string>
+  <string name="release_note_security_desc">Harimo n'ibikubiye by'umutekano binyuze muri%1$s</string>
+  <string name="release_note_security_title">Uburyo buvuguruye bwubwirinzi</string>
+  <string name="release_note_stability_desc">Harimo amavugurura n'ibikoresho byo gukosora amakosa bituma telefoni yawe irushaho kwizerwa</string>
+  <string name="release_note_stability_title">Ubushobozi bwo guhagarara neza</string>
+  <string name="release_note_title">Iyi mpinduka ikubiyemo iterambere ku:</string>
+  <string name="release_note_wifi_desc">Harimo amavugurura yo guhuza Wi-Fi yawe</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Reba ibintu byose bishya biri muri Andoroyide%1$s</string>
+  <string name="request_suspended_datasaver">Kuraho uburo bwo kuzigama interineti kugirango usubukure gukurura kuri murandasi</string>
+  <string name="request_suspended_no_network">Nta rezo y'urusobekerane rwo gutangira gukurura amakuru mashya</string>
+  <string name="restart_after_one_hour">Ongera utangire mu gihe cy'isaha 1</string>
+  <string name="restart_instruction_title">Ibyo ugomba kumenya mbere yo gutangira bundi bushya</string>
+  <string name="restart_later">Nyuma</string>
+  <string name="restart_message">Nyamuneka ongera utangize nonaha kugirango uvugurure</string>
+  <string name="restart_notification">Ongera utangire</string>
+  <string name="restart_notification_text">Nyamuneka ongera utangize nonaha kugirango uvugurure. Hari hashize iminsi%1$d hategerejwe amakuru mashya.</string>
+  <string name="restart_notify_sanity_call_msg">Igikoresho ntigishobora kwongera kwatswa ubu kuko guhamagara biri gukorwa</string>
+  <string name="restart_notify_sanity_maps_msg">Igikoresho ntigishobora kwongera kwiyata nonaha kuko gushakisha biri gukorwa</string>
+  <string name="restart_now">Ongera watse nonaha</string>
+  <string name="restart_postponed">Kwatsa telefoni byimuwe</string>
+  <string name="restart_title">Kwongera kwatsa igikoresho cyawe</string>
+  <string name="resume_download_on_cellular">koresha interineti igendanwa</string>
+  <string name="retrieving_token">Kwemeza...</string>
+  <string name="sdcard_predownload_text">
+Muri iyi ntambwe, uzakoporora inyandiko nshya mu bubiko bwa sisitemu. Ivugurura rizashyirwaho mu ntambwe ikurikira. 
+
+Shira telefoni yawe ku muriro kugira ngo wirinde ko bateri yawe yagabanuka.</string>
+  <string name="secure_instruction">Ubu buryo burizewe</string>
+  <string name="security_download_notification_title">Ongera umutekano wawe</string>
+  <string name="security_install_notification_text">Ivugurura nshya y'umutekano yiteguye gushyirwaho</string>
+  <string name="security_install_title">Ivugurura ry'umutekano rirateguye</string>
+  <string name="security_patch">Agasanduku k'umutekano:</string>
+  <string name="security_update_low_storage_title">Uburyo buvuguruye bwubwirinzi</string>
+  <string name="security_update_notification_text">Shakisha amakuru agezweho y'umutekano</string>
+  <string name="security_update_paused">Uburyo buvuguruye bwubwirinzi bwahagaze</string>
+  <string name="security_update_pending_notification_text">Shaka amakuru mashya arebana n'umutekano. Hari hashize iminsi%1$d hategerejwe amakuru mashya.</string>
+  <string name="security_update_title">Uburyo buvuguruye bwubwirinzi</string>
+  <string name="select_account">Guhitamo konti%1$s</string>
+  <string name="selected_later_time_os_mr">Ivugurura rya sisitemu rizashyirwa kuri </string>
+  <string name="selected_later_time_smr">Ivugurura rya sisitemu y'umutekano izashyirwa kuri </string>
+  <string name="setting_sw_summary">Kuvugurura sisitemu igezweho </string>
+  <string name="setting_sw_title">Uburyo buvuguruye bwa sisitemu</string>
+  <string name="smart_cancel_update_toast_msg">Ivugurura ryimuriwe ku%1$s</string>
+  <string name="smart_end_time">Iherezo</string>
+  <string name="smart_install_message_popup">Nkuko washizeho ibiranga imikorere y'ivugurura y'ubwenge, igikoresho cyawe kizahita gishyiraho ivugurura %1$sniba utarigeze ushyiraho icyo gihe. Reba neza ko ufite batiri ihagije kugira ngo winjize porogaramu.</string>
+  <string name="smart_restart_message_popup">Nkuko washizeho ibiranga imikorere y'ivugurura y'ubwenge, igikoresho cyawe kizahita gishyiraho %1$sivugurura niba utarigeze kwatsa icyo gihe.</string>
+  <string name="smart_settings_string">Ibyavuguruwe byimurwa kandi bishyirwa mubikorwa mu buryo bwikora mugihe uhujwe na Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Ibyavuguruwe byimurwa kandi bishyirwa mubikorwa mu buryo bwikora mugihe uhujwe na Wi-Fi cyangwa ukoresheje interineti igendanwa</string>
+  <string name="smart_settings_string_vzw">amavugurura gukururwa kuri murandasi no gushyirwaho mu buryo bwikora</string>
+  <string name="smart_start_time">Tangira</string>
+  <string name="smart_to_string">Ku</string>
+  <string name="smart_update_advanced">Ibiri imbere</string>
+  <string name="smart_update_note">Icyitonderwa: Ku bw'umutekano wawe, amavugurura yose y'ingenzi y'umutekano azajya adawunirodingwa ashyirwemo mu buryo bwikora byaba bifunze cyangwa bifunguye.</string>
+  <string name="smart_update_note_vzw">Icyitonderwa: Ku bw'umutekano wawe, amavugurura yose afite ikibazo azajya adawunirodingwa ashyirwemo mu buryo bwikora byaba bifunze cyangwa bifunguye.</string>
+  <string name="smart_update_pop_up_text">Koresha porogaramu yo kuvugurura byikora kugirango urinde igikoresho cyawe</string>
+  <string name="smart_update_recommendation">Gerageza Uburyo buvuguruye bwubwenge</string>
+  <string name="smart_update_suggestion_text">Guma mu mutekano hamwe no kuvugurura byikora</string>
+  <string name="smart_update_text_AB">Ivugurura ry'ubwenge rifasha igikoresho cyawe gukora neza kandi mumutekano. Iyo ubishyize ku murongo, porogaramu zose <b>z'umutekano nshya n'ibibazo bizajya </b>bikururwa mu buryo bwikora. Nyuma yo ku Dawunirodinga, igikoresho cyawe kizongera gutangira mugihe wahisemo.</string>
+  <string name="smart_update_text_AB_vzw">Ivugurura ry'ubwenge rifasha igikoresho cyawe gukora neza kandi mumutekano. Iyo ubishyize ku murongo, porogaramu zose <b>z'umutekano</b> nshya zizajya ziskururwa mu buryo bwikora. Nyuma yo ku Dawunirodinga, igikoresho cyawe kizongera gutangira mugihe wahisemo.</string>
+  <string name="smart_update_text_classic">Ivugurura ry'ubwenge rifasha igikoresho cyawe gukora neza kandi mumutekano. Iyo ubishyize ku murongo, porogaramu zose <b>z'umutekano nshya n'ibibazo bizajya </b>bikururwa mu buryo bwikora. Nyuma yo ku Dawunirodinga, igikoresho cyawe kizongera gutangira no kwinjizaporogaramu mugihe wahisemo.</string>
+  <string name="smart_update_text_classic_vzw">Ivugurura ry'ubwenge rifasha igikoresho cyawe gukora neza kandi mumutekano. Iyo ubishyize ku murongo, porogaramu zose <b>z'umutekano</b> nshya zizajya ziskururwa mu buryo bwikora. Nyuma yo ku Dawunirodinga, igikoresho cyawe kizongera gutangira no kwinjizaporogaramu mugihe wahisemo.</string>
+  <string name="smart_update_time_slot_text_AB">Guhitamo igihe cyo gutangira</string>
+  <string name="smart_update_time_slot_text_classic">Hitamo igihe cyo kwinjizamo</string>
+  <string name="smart_update_title">Uburyo buvuguruye bwubwenge</string>
+  <string name="software_not_update_to">Porogaramu yawe ntiravugururwa kugeza ubu</string>
+  <string name="software_update_in_progress">Sisitemu yawe iri kuvugurura kuri verisiyo</string>
+  <string name="software_update_planned_summary">Gusuzuma - %1$s</string>
+  <string name="software_update_planned_title">Kuvugurura software byateganijwe</string>
+  <string name="software_update_to">Sisitemu yawe yavuguruwe kuri</string>
+  <string name="sofware_version">Verisiyo ya Porogaramu:</string>
+  <string name="storage_low">Shaka umwanya wo kuvugurura</string>
+  <string name="su_btn">Amagenamiterere</string>
+  <string name="su_text_off">Uzakenera kuvugurura igikoresho cyawe wenyine igihe porogaramu nshya ibonetse. Fungura amavugurura y'ubwenge kugira ngo iyi mikorere ikorwe mu buryo bwikora. Kanda ukeneye ibindi bisobanuro.</string>
+  <string name="su_text_on">Mubusanzwe, ivugurura ryubwenge rikora hagati ya saa 1 - na saa 3. Urashobora guhindura igihe cyo kuvugurura cyangwa guhagarika kuvugurura by'ubwenge mu miterere. Kanda ukeneye ibindi bisobanuro.</string>
+  <string name="su_title_off">Uburyo bwimuvugurire bwubwenge bwahagaritswe</string>
+  <string name="su_title_on">Uburyo buvuguruye bwubwenge bwashizweho</string>
+  <string name="system_download_notification_title">Uburyo buvuguruye sisitemu</string>
+  <string name="system_install_notification_text">Ivugurura nshya yiteguye gushyirwaho</string>
+  <string name="system_install_title">Kujyanisha n'igihe biriteguye</string>
+  <string name="system_pdl_notification_mr_title">Gukosora amakosa n'ibindi</string>
+  <string name="system_pdl_notification_os_title">Andoroyide %1$siri hano!</string>
+  <string name="system_update">Uburyo buvuguruye sisitemu</string>
+  <string name="system_update_info_not_available">Ntabwo iboneka</string>
+  <string name="system_update_low_storage_text">Kanda hano kugira ngo ugenzure imiterere y'ububiko hanyuma ukomeze.</string>
+  <string name="system_update_low_storage_title">Uburyo buvuguruye sisitemu</string>
+  <string name="system_update_notification_os_text">Menya uko Andoroyide nshya imeze</string>
+  <string name="system_update_notification_text">Dawunirodinga porogaramu nshya</string>
+  <string name="system_update_paused">Uburyo buvuguruye sisitemu byahagaze</string>
+  <string name="system_update_pending_notification_os_text">Menya uko Andoroyide nshya imeze. Hari hashize iminsi%1$d hategerejwe amakuru mashya.</string>
+  <string name="system_update_pending_notification_text">Dawunirodinga porogaramu nshya. Hari hashize iminsi%1$d hategerejwe amakuru mashya.</string>
+  <string name="system_update_settings_list_item_title">Uburyo buvuguruye bwa sisitemu</string>
+  <string name="system_update_status">Imiterere y'ivugurura rya sisitemu</string>
+  <string name="system_update_title">Uburyo buvuguruye sisitemu</string>
+  <string name="tethered_permission_desc">Kohereza ibisubizo byo kuvugurura 3c</string>
+  <string name="tethered_update_result">Ibyavuye mu gusangiza interineti</string>
+  <string name="time_picker_text">Kwinjiza porogaramu nta kwibutsa</string>
+  <string name="total_download_size">Ingano :%1$s</string>
+  <string name="try_again">Ongera ugerageze</string>
+  <string name="turn_it_off">Kizimye</string>
+  <string name="turn_it_on">Gicane</string>
+  <string name="turn_on_smart_updates">Gushiraho Uburyo buvuguruye bwubwenge</string>
+  <string name="update">Vugurura</string>
+  <string name="update_blocked_by_policy">Ivugurura rihagaritswe n'amabwiriza y'umuyobozi </string>
+  <string name="update_cancelled_status">Ku Dawunirodinga porogaramu byahagaritswe ku</string>
+  <string name="update_fail_desc">Hari ikitagendaga neza</string>
+  <string name="update_fail_status">Uburyo buvuguruye bwanze</string>
+  <string name="update_fail_sucancel_dm_status">Ivugurura ryahagaritswe na seriveri</string>
+  <string name="update_fail_title">Uburyo buvuguruye bwanze</string>
+  <string name="update_history_blank">Nta mateka</string>
+  <string name="update_history_src_target">Kuvugurura kuva kuri%1$s kugera%2$s</string>
+  <string name="update_history_time">Byavuguruwe kuri %1$s</string>
+  <string name="update_history_title">Amateka yo kuvugurura</string>
+  <string name="update_history_version">Verisiyo ya porogaramu%1$s</string>
+  <string name="update_postpone_policy">Ivugurura ryasubitswe n'amategeko ya admin </string>
+  <string name="update_preference">Ibyifuzo byo kuvugurura</string>
+  <string name="update_success_desc">Komereza aho! Washoboye gushyiraho Verisiyo %1$s.</string>
+  <string name="update_success_desc_os">Komereza aho! Washoboye gushyiraho Andoroyide%1$s. Noneho witeguye kwishimira Andoroyide nziza, ikora neza kandi ifite umutekano.</string>
+  <string name="update_success_status">Imirimo y'ivugurura yagenze neza</string>
+  <string name="update_title">Kuvugurura byarangiye</string>
+  <string name="update_title_text">Ishimire porogaramu nshya!</string>
+  <string name="upto_date_title">Ibintu byose bisa n'aho ari byiza!</string>
+  <string name="urgent_channel_name">Ubutumwa ku Mavugurura ya Porogaramu</string>
+  <string name="vab_validation_update_failure_desc">Ibikorwa byo kuvugurura VAB ntibyakunze</string>
+  <string name="vab_validation_update_failure_title">Gushyira mu bikorwa VAB ntibyashobotse</string>
+  <string name="vab_validation_update_success_desc">Komereza aho! Ibikorwa byo kuvugurura VAB byagenze neza</string>
+  <string name="vab_validation_update_success_title">Ibikorwa byo kwemeza VAB byagenze neza</string>
+  <string name="verifying_patch">Ivugurura ryakozwe Kwemeza ko icyifuzo cyagenze neza… (Igice cya 4 kuri 6)  </string>
+  <string name="verity_disabled_msg">Icyo gikoresho cyawe gishobora kuba gifite ibibazo by'umutekano. Kora kuri buto rikurikira kugirango ukomeze kuvugururwa 
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Igikoresho cyawe nticyakira amakuru mashya</string>
+  <string name="verizon_failure_notification_text"> Igikoresho cyawe nticyashoboye kwinjizamo iyi vugurura. Koresha uburyo bugufasha kuvugurura sisitemu kugirango winjizemo porogaramu. Kanda ukeneye andi makuru</string>
+  <string name="verizon_failure_text"> Habaye ikibazo cyo kuvugurura igikoresho cyawe. Nta mpinduka zakozwe. Kugirango uvugurure porogaramu yawe, urashobora gukoresha igikoresho Kigufasha mu kuvugurura sisitemu.
+
+Kugirango ushyireho igikoresho Kigufasha mu kuvugurura sisitemu:
+
+1. Koresha umugozi wa USB mu guhuza igikoresho cyawe na mudasobwa yawe
+2. Iyo imbonerahamwe ya USB igaragaye ku gikoresho cyawe, hitamo igenamiterere hejuru iburyo
+3. Kuva ibyifuzwa kuri USB, hitamo kwinjizaporogaramu
+ 4. Jya kuri mudasobwa yawe maze ushakishe uburyo bwo kwinjizamo porogaramu
+5. Genda unyuze muri nyobora
+
+ sisitemu igufasha kwinjiza porogaramu izagufasha ku Dawunirodinga no kwinjizamo ivugurura rya software kugikoresho cyawe.</string>
+  <string name="vital_applying_updates">Gushyiraho amavugurura…</string>
+  <string name="vital_bg_text">Ibi bishobora gufata iminota mike</string>
+  <string name="vital_check_for_updates">Gushakisha amavugurura…</string>
+  <string name="vital_check_for_updates_desc">Iyo ushizeho amakuru mashya, birinda igikoresho kandi bigatuma ikora neza kurushaho.</string>
+  <string name="vital_done">Byakozwe!</string>
+  <string name="vital_error_fail">Ari ikibazo mu kuvugurura. Nta mpinduka yabaye.</string>
+  <string name="vital_go_back">Urabyizeye ko ushaka guhagarika ishyirwamo</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Ongera gutangira kugirango ukomeze</string>
+  <string name="vital_skip">Simbuka</string>
+  <string name="vital_stop">Hagarara</string>
+  <string name="wifi_setting">Igenamiterere ya Wi-Fi</string>
+</resources>

@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">بعداً به‌روز شود</string>
+  <string name="ab_download_now">اکنون به‌روز شود</string>
+  <string name="ab_install_notification_paused_text">نصب در پس‌زمینه موقتاً متوقف شد</string>
+  <string name="ab_install_notification_text">نصب در پس‌زمینه</string>
+  <string name="ab_restart_fullscreen_text">تقریباً انجام شد! فقط حدود ۹۰ ثانیه طول می‌کشد که دستگاهتان راه‌اندازی مجدد شود. به‌روزرسانی %1$d روز در دسترس بوده است.</string>
+  <string name="ab_restart_text">تقریباً انجام شد! فقط حدود ۹۰ ثانیه طول می‌کشد که دستگاهتان راه‌اندازی مجدد شود</string>
+  <string name="ab_restart_warning_os_mr">به‌روزرسانی سیستم تقریباً انجام شده است. دستگاه شما  </string>
+  <string name="ab_restart_warning_smr">به‌روزرسانی امنیتی شما تقریباً انجام شده است. دستگاه شما </string>
+  <string name="ab_warning_continues"> تا به‌روزرسانی تکمیل شود.</string>
+  <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+  <string name="abc_action_bar_up_description">رفتن به بالا</string>
+  <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+  <string name="abc_action_mode_done">تمام</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
+  <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+  <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+  <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+  <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+  <string name="abc_menu_space_shortcut_label">فاصله</string>
+  <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+  <string name="abc_prepend_shortcut_label">منو+</string>
+  <string name="abc_search_hint">جستجو…‏</string>
+  <string name="abc_searchview_description_clear">پاک کردن پُرسمان</string>
+  <string name="abc_searchview_description_query">درخواست جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">ارسال پُرسمان</string>
+  <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+  <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
+  <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
+  <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+  <string name="abupdate_in_progress_status">به‌روزرسانی نرم‌افزار در حال انجام است</string>
+  <string name="additional_charges_message">دانلود با اینترنت همراه ادامه خواهد یافت. هزینه اینترنت همراه اعمال می‌شود.</string>
+  <string name="alertSubText">از آن برای بررسی، دانلود و نصب بسته به‌روزرسانی استفاده می‌شود</string>
+  <string name="alertText">به عملکردهای شبکه اجازه به‌روزرسانی نرم‌افزار بدهید</string>
+  <string name="alertTitle">برای به‌روزرسانی به مجوز زیر نیاز است</string>
+  <string name="alert_dialog_cancel">توقف نصب</string>
+  <string name="alert_dialog_continue">ادامه نصب</string>
+  <string name="alert_dialog_no">خیر</string>
+  <string name="alert_dialog_ok">متوجه شدم</string>
+  <string name="alert_dialog_yes">بله</string>
+  <string name="allocate_space_success">حافظه مورد نیاز برای به‌روزرسانی موجود است</string>
+  <string name="allow">اجازه</string>
+  <string name="android_latest_sw_text">جدیدترین نرم‌افزار را دارید</string>
+  <string name="android_version">نسخه Android:</string>
+  <string name="app_name">به‌روزرسانی نرم‌افزار Motorola</string>
+  <string name="applied">روشن</string>
+  <string name="apply_bug_fix">اجرا روی رفع اشکال‌ها</string>
+  <string name="apply_os_update">اعمال برای همه به‌روزرسانی‌های نرم‌افزار</string>
+  <string name="applying_patch">در حال اجرای به‌روزرسانی (مرحله %1$d از %2$d)  </string>
+  <string name="are_you_sure">به‌روزرسانی هوشمند خاموش شود؟</string>
+  <string name="are_you_sure_pop_up_text">واقعاً می‌خواهید به‌روزرسانی هوشمند را خاموش کنید؟ </string>
+  <string name="asc_campaign_assigned">کمپین اختصاص داده شد</string>
+  <string name="asc_campaign_is_allowed">به‌روزرسانی میان‌افزار</string>
+  <string name="asc_campaign_is_blocked">قفل میان‌افزار</string>
+  <string name="asc_campaign_not_assigned">در حال حاضر دستگاه در یک کمپین نیست</string>
+  <string name="asc_campaign_status_prefix">‏
+وضعیت: </string>
+  <string name="asc_campaign_window_period_status">‏
+مدت به‌روزرسانی: از %s تا %s</string>
+  <string name="asc_sw_up_to_date">‏ تا جدیدترین نسخه</string>
+  <string name="asc_target_version">‏ تا نسخه </string>
+  <string name="auth_title">به‌روزرسانی سیستم</string>
+  <string name="auto_download_cellualr_charges_warn">دانلود کردن نسخه‌های به‌روز با شبکه تلفن همراه، ممکن است هزینه اضافی در بر داشته باشد</string>
+  <string name="auto_download_enable_cellular_future_updates">آیا می‌خواهید دانلودها در آینده با اینترنت تلفن همراه نیز انجام شود؟</string>
+  <string name="auto_download_settings_title">تنظیمات دانلود خودکار</string>
+  <string name="auto_download_wifi_cellular">دانلود خودکار از طریق شبکه تلفن همراه و Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">دانلود خودکار از طریق شبکه تلفن همراه و Wi-Fi انجام می‌شود. اگر Wi-Fi در دسترس بود اول از آن استفاده می‌شود. </string>
+  <string name="auto_download_wifi_only">دانلود خودکار از طریق فقط Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">دانلود خودکار فقط از طریق Wi-Fi انجام می‌شود</string>
+  <string name="auto_install_notification_text">دستگاه نصب خودکار را در %1$s انجام می‌دهد</string>
+  <string name="auto_time_set">شروع در:</string>
+  <string name="automatic_bg_install_on_cellular_warning">این به‌روزرسانی به دلیل اهمیتی که دارد، به طور خودکار با اینترنت همراه در %1$s نصب می‌شود</string>
+  <string name="automatic_download_on_cellular_warning">این به‌روزرسانی به دلیل اهمیتی که دارد، به طور خودکار با اینترنت همراه در %1$s دانلود می‌شود</string>
+  <string name="background_install_msg">اگر برگردید یا این پنجره را ببندید، به‌روزرسانی ادامه پیدا می‌کند</string>
+  <string name="background_install_text">یک به‌روزرسانی در حال دانلود &amp; نصب است. می‌توانید به استفاده از دستگاه ادامه دهید.</string>
+  <string name="bad_connection">اینترنت وجود ندارد</string>
+  <string name="bad_connection_text">به نظر می‌رسد اتصال اینترنت دستگاه شما قطع است. روی دکمه زیر ضربه زده و دوباره امتحان کنید.</string>
+  <string name="bg_install_cancel_confirm">واقعاً می‌خواهید نصب را متوقف کنید؟</string>
+  <string name="bg_retried">دانلود نرم‌افزار متوقف شده است. ما به سعی خود ادامه می‌دهیم…</string>
+  <string name="bg_suspended">در انتظار اتصال اینترنت برای ازسرگیری دانلود و نصب در پس‌زمینه</string>
+  <string name="bg_suspended_non_adminapn">در انتظار Wi-Fi یا شبکه Zero Rated برای ازسرگیری دانلود و نصب در پس‌زمینه...</string>
+  <string name="bg_suspended_roaming">نصب در پس‌زمینه به دلیل شبکه رومینگ، موقتا متوقف شد، لطفاً Wi-Fi را برای ازسرگیری نصب در پس‌زمینه روشن کنید.</string>
+  <string name="bg_suspended_wifi">در انتظار Wi-Fi برای ازسرگیری دانلود و نصب در پس‌زمینه</string>
+  <string name="bootloader_unlock_msg">دستگاه شما دیگر به‌روزرسانی را دریافت نمی‌کند و ممکن است مستعد خطرهای امنیتی باشد.</string>
+  <string name="bootloader_unlock_title">به‌روزرسانی وجود ندارد</string>
+  <string name="call_notification_answer_action">پاسخ دادن</string>
+  <string name="call_notification_answer_video_action">ویدیو</string>
+  <string name="call_notification_decline_action">رد کردن</string>
+  <string name="call_notification_hang_up_action">قطع تماس</string>
+  <string name="call_notification_incoming_text">تماس ورودی</string>
+  <string name="call_notification_ongoing_text">تماس درحال انجام</string>
+  <string name="call_notification_screening_text">درحال غربال کردن تماس ورودی</string>
+  <string name="cancel">لغو</string>
+  <string name="cancel_download_notification">لغو</string>
+  <string name="cancel_install">لغو</string>
+  <string name="cancel_update_notification">لغو</string>
+  <string name="check_for_updates_title">بررسی به‌روزرسانی‌ها</string>
+  <string name="check_update_badparam">عملکرد ارتقا به دلیل ناموفق بودن ورود به سیستم، با اشکال مواجه شده است.
+
+لطفاً بعداً دوباره امتحان کنید.</string>
+  <string name="check_update_checking">در حال بررسی به‌روزرسانی‌ها...</string>
+  <string name="check_update_disabled_admin">به‌روزرسانی‌های دستگاه کنترل شده توسط مدیر IT</string>
+  <string name="check_update_downloading">هم اکنون یک به‌روزرسانی دانلود شده است.
+
+وقتی دانلود کامل شد، به شما اطلاع داده می‌شود.</string>
+  <string name="check_update_fail">یک خطای غیرمنتظره رخ داده است.
+
+دستگاه در پس‌زمینه، دوباره به‌روزرسانی را امتحان می‌کند.</string>
+  <string name="check_update_internal">بررسی به‌روزرسانی‌ها ممکن نیست. بعداً دوباره امتحان کنید.</string>
+  <string name="check_update_net">لطفاً اتصال اینترنت خود را بررسی کرده و دوباره امتحان کنید</string>
+  <string name="check_update_net_vzw">برای بررسی به‌روزرسانی‌ها به اتصال اینترنت نیاز دارید. برای بررسی اتصال Wi-Fi خود، به تنظیمات &gt; شبکه و اینترنت &gt; اینترنت &gt; Wi-Fi بروید.‏
+
+همچنین می‌توانید برای مشاهده گزینه‌های دیگر به‌روزرسانی از motorola.com/systemupdates بازدید کنید.</string>
+  <string name="check_update_not_sys_user">بررسی به‌روزرسانی برای نمایه‌های میهمان مجاز نیست</string>
+  <string name="check_update_processing">در حال برقراری تماس با سرور...
+لطفاً صبر کنید</string>
+  <string name="check_update_roaming">به‌روزرسانی سیستم فقط در شبکه خانگی ممکن است. ‏
+
+اکنون به تنظیمات &gt; شبکه و اینترنت &gt; Wi-Fi بروید و یک اتصال تنظیم کنید.</string>
+  <string name="check_update_storage_low">به‌روزرسانی ممکن نیست چون فضای ذخیره کافی در دستگاه وجود ندارد.</string>
+  <string name="check_update_temperror">دانلود این نسخه‌های به‌روز کامل نشد.
+
+لطفاً دوباره امتحان کنید.</string>
+  <string name="check_update_text">هر چند وقت یک بار بررسی به‌روزرسانی‌ها به ایمنی و بهبود عملکرد دستگاه شما کمک می‌کند</string>
+  <string name="check_update_title_downloading">دانلود در حال انجام است...</string>
+  <string name="check_update_vab_validation">در حال بررسی وضعیت به‌روزرسانی تایید اعتبار VAB
+لطفاً صبر کنید</string>
+  <string name="check_update_wifi_only">به‌روزرسانی سیستم فقط از طریق Wi-Fi ممکن است.</string>
+  <string name="check_wifi_settings">بررسی تنظیمات Wi-Fi</string>
+  <string name="clear_space">پاک کردن فضا</string>
+  <string name="cloud_picker_title">ابریاب</string>
+  <string name="common_android_wear_notification_needs_update_text">‏برنامه باید به برنامه Android Wear به‌روزرسانی شود.</string>
+  <string name="common_android_wear_update_text">‏این برنامه اجرا نمی‌شود مگر اینکه برنامه Android Wear را به‌روزرسانی کنید.</string>
+  <string name="common_android_wear_update_title">‏به‌روزرسانی Android Wear</string>
+  <string name="common_google_play_services_enable_button">‏فعال کردن خدمات Google Play</string>
+  <string name="common_google_play_services_enable_text">‏تا زمانی‌که خدمات Google Play را فعال نکنید این برنامه کار نمی‌کند.</string>
+  <string name="common_google_play_services_enable_title">‏فعال کردن خدمات Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">درخواست توسط %1$s</string>
+  <string name="common_google_play_services_install_button">‏دریافت خدمات Google Play</string>
+  <string name="common_google_play_services_install_text_phone">‏این برنامه بدون خدمات Google Play اجرا نمی‌شود، این خدمات در تلفن شما وجود ندارد.</string>
+  <string name="common_google_play_services_install_text_tablet">‏این برنامه بدون خدمات Google Play اجرا نمی‌شود، این خدمات در رایانهٔ لوحی شما وجود ندارد.</string>
+  <string name="common_google_play_services_install_title">‏دریافت خدمات Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">حسابی که تعیین کردید در این دستگاه وجود ندارد. لطفاً حساب دیگری را انتخاب کنید.</string>
+  <string name="common_google_play_services_invalid_account_title">حساب نامعتبر</string>
+  <string name="common_google_play_services_needs_enabling_title">‏برنامه‌ای نیاز به فعال شدن خدمات Google Play دارد.</string>
+  <string name="common_google_play_services_network_error_text">‏برای اتصال به خدمات Google Play اتصال داده لازم است.</string>
+  <string name="common_google_play_services_network_error_title">خطای شبکه</string>
+  <string name="common_google_play_services_notification_needs_installation_title">‏برنامه‌ای نیاز به نصب خدمات Google Play دارد.</string>
+  <string name="common_google_play_services_notification_needs_update_title">‏‫برنامه‌ای نیاز به یک به‌روزرسانی برای خدمات Google Play دارد.</string>
+  <string name="common_google_play_services_notification_ticker">‏خطا در خدمات Google Play</string>
+  <string name="common_google_play_services_unknown_issue">‏مشکل نامشخص در خدمات Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">‏خدمات Google Play، که برخی از برنامه‌های شما به آن وابسته است، توسط دستگاه شما پشتیبانی نمی‌شود. لطفاً برای دریافت کمک با سازنده تماس بگیرید.</string>
+  <string name="common_google_play_services_unsupported_title">‏خدمات Google Play</string>
+  <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+  <string name="common_google_play_services_update_text">‏تا زمانی‌که خدمات Google Play را به‌روز نکنید این برنامه کار نمی‌کند.</string>
+  <string name="common_google_play_services_update_title">‏به‌روزرسانی خدمات Google Play</string>
+  <string name="common_open_on_phone">باز کردن در تلفن</string>
+  <string name="common_signin_button_text">ورود به سیستم</string>
+  <string name="common_signin_button_text_long">‏ورود به سیستم با Google‎</string>
+  <string name="compatibility_failed_title">تایید اعتبار بسته ناموفق بود</string>
+  <string name="compatibility_verification_failure">بسته به‌روز در حال دانلود با نسخه نرم‌افزار فعلی در دستگاه شما سازگار نیست.</string>
+  <string name="compatibility_verification_failure_df">‏
+
+لطفاً با هماهنگکننده Dogfood خود بررسی کنید.</string>
+  <string name="compatibility_verification_success">با موفقیت تایید شد</string>
+  <string name="completed"> نصب تکمیل شد. از شما خواسته می‌شود تلفن خود را راه‌اندازی مجدد کنید (مرحله %1$d از %2$d)</string>
+  <string name="completed_install">‏%s کامل شد</string>
+  <string name="connect_to_wifi">اتصال با Wi-Fi</string>
+  <string name="continue_button">ادامه</string>
+  <string name="critical_install_message_popup_os_mr">یک به‌روز‌رسانی سیستم مهم موجود است. لطفاً برای اجرای به‌روزرسانی، نصب را انتخاب کنید. در غیر اینصورت، به‌روزرسانی به طور خودکار در %1$s اجرا می‌شود.</string>
+  <string name="critical_install_message_popup_smr">یک به‌روز‌رسانی مهم امنیتی موجود است. لطفاً برای اجرای به‌روزرسانی، نصب را انتخاب کنید. در غیر اینصورت، به‌روزرسانی به طور خودکار در %1$s اجرا می‌شود.</string>
+  <string name="critical_install_message_screen">این به‌روزرسانی مهم به طور خودکار در %1$s نصب می‌شود مطمئن شوید باتری برای نصب کافی باشد.</string>
+  <string name="critical_install_notification">این یک به‌روزرسانی مهم است، بنابراین دستگاهتان به طور خودکار آن را در %1$s نصب می‌کند.‏
+مدت زمان نصب: %2$d دقیقه</string>
+  <string name="critical_restart_message_popup">لطفاً برای اجرای این به‌روزرسانی مهم، هر چه زودتر دستگاهتان را راه‌اندازی مجدد کنید. اگر نکردید، این کار به طور خودکار در %1$s انجام می‌شود.</string>
+  <string name="critical_restart_message_screen">این یک به‌روزرسانی مهم است، بنابراین اگر دستگاهتان را راه‌اندازی مجدد نکنید، به طور خودکار در %1$s راه‌اندازی مجدد می‌شود.</string>
+  <string name="critical_restart_notification">این به‌روزرسانی مهم است. اگر اکنون راه‌اندازی مجدد نکنید، دستگاهتان به طور خودکار در %1$s راه‌اندازی مجدد می‌شود</string>
+  <string name="critical_update_notification_title">به‌روزرسانی بسیار مهم</string>
+  <string name="current_version">نسخه نرم‌افزار فعلی:</string>
+  <string name="custom_slot">سفارشی</string>
+  <string name="custom_time">زمان سفارشی</string>
+  <string name="dash">‏—</string>
+  <string name="date_time">%s ساعت %s</string>
+  <string name="defer_count_expired">متوجه شدم</string>
+  <string name="deny">رد کردن</string>
+  <string name="details">جزئیات</string>
+  <string name="device_corrupted_msg">ما به چند اشکال سیستمی برخورد کردیم. درک می‌کنیم سخت است ولی برای حل آنها باید به مرکز خدمات محلی خود مراجعه کنید.‏
+
+بعد از تعمیر تلفن، می‌توانیم به اجرای به‌روزرسانی‌ها در تلفن شما ادامه دهیم.</string>
+  <string name="device_corrupted_title">به‌روزرسانی تلفن ممکن نیست</string>
+  <string name="dialog_alert_net_message">اتصال اینترنت تلفن همراه یا Wi-Fi خود را بررسی کرده و دوباره امتحان کنید.</string>
+  <string name="dialog_alert_net_title">دستگاه شما آفلاین است</string>
+  <string name="dialog_alert_title">باتری ضعیف است</string>
+  <string name="dialog_progress">در حال بارگیری…</string>
+  <string name="dl_options_mobile_only_warning">توصیه می‌شود از Wi-Fi استفاده کنید. دانلود با اینترنت همراه یا استفاده از اینترنت همراه در حین رومینگ ممکن است هزینه‌های اضافی در بر داشته باشد.
+
+دانلود این نرم‌افزار بر عملکرد دستگاه شما تاثیری نخواهد داشت.</string>
+  <string name="done">انجام شد</string>
+  <string name="dont_show_this_again">دیگر نشان داده نشود</string>
+  <string name="download_cancelled_title">دانلود لغو شد</string>
+  <string name="download_deferred_status">دانلود نرم‌افزار به‌تعویق افتاد در</string>
+  <string name="download_failed_status">دانلود به‌روزرسانی ناموفق بود در</string>
+  <string name="download_in_progress_status">دانلود نرم‌افزار در حال انجام است</string>
+  <string name="download_later_button">بعداً دانلود شود</string>
+  <string name="download_no_button">خیر ممنون</string>
+  <string name="download_note">می‌توانید در حین نصب نسخه به‌روزرسانی، به استفاده از دستگاهتان ادامه دهید</string>
+  <string name="download_now">اکنون دانلود شود</string>
+  <string name="download_now_button">دانلود</string>
+  <string name="download_options">گزینه‌های دانلود</string>
+  <string name="download_progress_cancel_message">اگر می‌خواهید این نسخه به‌روز را بعداً دانلود کنید، به تنظیمات &gt; به‌روزرسانی سیستم بروید</string>
+  <string name="download_progress_fragment_message">‏%1$s/%2$s</string>
+  <string name="download_progress_message">‏%1$s مانده (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">‏%s%% دانلود شد (موقتاً متوقف شد)</string>
+  <string name="download_progress_text">اگر برگردید یا این پنجره را ببندید، دانلود ادامه پیدا می‌کند</string>
+  <string name="download_subtitle">آنچه باید قبل از دانلود بدانید</string>
+  <string name="download_text_whats_new">ببینید خبر تازه چیست</string>
+  <string name="download_time_left">‏%1$s مانده</string>
+  <string name="download_version">نسخه %1$s — %2$s</string>
+  <string name="download_wifi_only_error">برای دانلود این نسخه به‌روز به Wi-Fi نیاز است. وقتی اتصال بازیابی شد، دانلود ادامه می‌یابد.</string>
+  <string name="downloaded_percentage">‏%1$s دانلود شد</string>
+  <string name="emergency_call_btn_txt">اضطراری</string>
+  <string name="emergency_call_text">در مدت راه اندازی مجدد، نمی‌توانید تماس‌های تلفنی از جمله تماس‌های اضطراری را دریافت یا برقرار کنید!</string>
+  <string name="enable_wifi_error_txt">برای دانلود این به‌روزرسانی، به Wi-Fi متصل شوید.</string>
+  <string name="eol_explore">یافتن دستگاه‌های جدید</string>
+  <string name="eol_last_update_text">نسخه اصلاحی امنیتی:</string>
+  <string name="eol_promote">مشاهده آخرین پیشنهادهای ویژه</string>
+  <string name="eol_title">دستگاه شما جدیدترین نرم‌افزار موجود را دارد.</string>
+  <string name="err_title_contact_server">در حال تماس با سرور...</string>
+  <string name="err_title_memory_low">حافظه ضعیف است...</string>
+  <string name="err_title_temp_error">خطای موقتی</string>
+  <string name="err_title_update">خطا در به‌روزرسانی</string>
+  <string name="error_code">کد خطا: </string>
+  <string name="error_copyfail">کپی از محل کارت حافظه ناموفق بود.</string>
+  <string name="error_disabled">دانلود به‌روزرسانی ناموفق بود. بسته به‌روزرسانی در این لحظه موجود نیست. 
+
+اقدام دیگری لازم نیست.</string>
+  <string name="error_fail">متاسفانه هنگام به‌روزرسانی%1$s مشکلی رخ داد. تغییری انجام نشد. لطفاً با رفتن به تنظیمات &gt; به‌روزرسانی سیستم، دوباره امتحان کنید.</string>
+  <string name="error_in_call_msg">به‌روزرسانی دستگاه ممکن نیست چون تماس در حال انجام است</string>
+  <string name="error_in_call_title">تماس در حال انجام است</string>
+  <string name="error_install_title">نصب ناموفق بود</string>
+  <string name="error_mismatch">عدم تطبیق نسخه اتفاق افتاده است. به‌روزرسانی دوباره انجام خواهد شد. اگر یکی از نسخه‌ها موجود باشد، به شما اطلاع داده می‌شود.</string>
+  <string name="error_mismatch_sd">به‌روزرسانی ناموفق بود. نسخه به‌روزرسانی مطابق با تلفن شما نمی‌باشد. 
+
+لطفاً نسخه صحیح را برای تلفن دانلود کرده و دوباره امتحان کنید.</string>
+  <string name="error_network">اتصال قطع شد. لطفاً به طور دستی از طریق تنظیمات تلفن به‌روزرسانی‌ها را بررسی کرده و دوباره امتحان کنید.</string>
+  <string name="error_reboot">ما قادر به دانلود این به‌روزرسانی نیستیم. اگر می‌خواهید این نسخه به‌روز را بعداً دریافت کنید، لطفاً دستگاه خود را مجدداً راه‌اندازی کرده و سپس به تنظیمات &gt; به‌روزرسانی سیستم بروید.</string>
+  <string name="error_resources">ما قادر به دانلود این به‌روزرسانی نیستیم. اگر می‌خواهید این نسخه به‌روز را بعداً دریافت کنید، به تنظیمات &gt; به‌روزرسانی سیستم بروید.</string>
+  <string name="error_sdcard_resources_fail_removal">کارت SD خارج شده است. دانلود کامل نشد.
+
+لطفاً کارت SD را وارد کرده و به تنظیمات &gt; به‌روزرسانی سیستم بروید و دوباره امتحان کنید.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">تکمیل دانلود ممکن نیست. فضای کافی در کارت SD وجود ندارد. 
+
+لطفاً فضا را خالی کرده و به تنظیمات &gt; به‌روزرسانی سیستم بروید و دوباره امتحان کنید.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">لطفاً کارت حافظه را وارد کنید تا دانلود شروع شود.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">لطفاً کارت حافظه را سوار کنید تا دانلود شروع شود. 
+
+به تنظیمات &gt; حافظه &gt; سوار کردن کارت حافظه بروید.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">برای تکمیل دانلود، فضای کافی در کارت SD وجود ندارد. ‏
+
+لطفاً %1$s از فضا را آزاد کرده و به تنظیمات &gt; به‌روزرسانی سیستم بروید و دوباره دانلود کنید.
+
+
+</string>
+  <string name="error_sdcard_resources_title">خطا</string>
+  <string name="error_sdcard_resources_warning">به‌روزرسانی نرم‌افزار در کارت حافظه دانلود می‌شود. 
+
+لطفاً تا زمانیکه نصب کامل نشده است،‌ کارت حافظه را خارج نکنید.
+
+
+</string>
+  <string name="error_server">خطایی در سرور رخ داده است. لطفاً بعداً دوباره امتحان کنید.</string>
+  <string name="error_space">این به‌روزرسانی به %1$s حافظه آزاد در دستگاه شما نیاز دارد. ‏
+
+لطفاً برنامه‌های بلااستفاده را حذف کرده یا عکس‌ها و فیلم‌های خود را به قسمت دیگری از حافظه دستگاه منتقل کنید تا %2$s از فضا آزاد شود. ‏
+
+وقتی این کار انجام شد، می‌توانید به تنظیمات &gt; به‌روزرسانی سیستم بروید و به‌روزرسانی را در هر زمان شروع کنید.</string>
+  <string name="error_space_retry">این به‌روزرسانی به %1$s حافظه آزاد در دستگاه شما نیاز دارد. ‏
+
+لطفاً برنامه‌های بلااستفاده را حذف کرده یا عکس‌ها و فیلم‌های خود را به قسمت دیگری از حافظه دستگاه منتقل کنید تا %2$s از فضا آزاد شود.</string>
+  <string name="error_space_vab">این به‌روزرسانی به %1$s فضای آزاد در دستگاه شما نیاز دارد. لطفاً برای به‌روزرسانی‌های موفق، حافظه را خالی کنید</string>
+  <string name="error_space_vab_make_room_popup">باید قبل از به‌روزرسانی، %1$s از فضا را پاک کنید. سعی کنید برنامه‌های بی‌استفاده را حذف کنید یا عکس‌ها و ویدیوها را به دستگاه ذخیره دیگری منتقل کنید.</string>
+  <string name="error_title">دانلود ناموفق بود</string>
+  <string name="error_verify">به‌روزرسانی به درستی تأیید نشده است. لطفاً دوباره امتحان کنید.</string>
+  <string name="failed">انجام نشد</string>
+  <string name="failed_in_roaming">برای به‌روزرسانی به Wi-Fi نیاز است</string>
+  <string name="failure_process">اطلاعات در دسترس نیست</string>
+  <string name="finalizing_patch">مراحل نهایی به‌روزرسانی… (مرحله ۵ از ۶)  </string>
+  <string name="first_net_text">لطفاً نسخه به‌روز را نصب کنید در غیر اینصورت، دستگاه در راه‌اندازی مجدد بعدی، به طور خودکار آن را نصب می‌کند. مطمئن شوید سطح باتری بیشتر از %s باشد</string>
+  <string name="forceInstallMessage">این نسخه به‌روز به طور خودکار در %1$s نصب می‌شود.</string>
+  <string name="force_install_message_screen">این یک به‌روزرسانی مهم است، پس لطفاً تا %1$s آن را نصب کنید. در غیر اینصورت، به طور خودکار وقتی استفاده از دستگاهتان در کمترین میزان قرار دارد، نصب انجام می‌شود. مطمئن شوید نیروی باتری برای نصب کافی باشد.</string>
+  <string name="force_install_notification_message">لطفاً تا %1$s نصب کنید. در غیر اینصورت، به طور خودکار وقتی استفاده از دستگاه در کمترین میزان قرار دارد، نصب انجام می‌شود.‏
+مدت زمان نصب: %2$d دقیقه</string>
+  <string name="force_restart_notification_message">لطفاً تا %1$s راه‌اندازی مجدد را انجام دهید. در غیر اینصورت، به طور خودکار وقتی استفاده از دستگاه در کمترین میزان قرار دارد، راه‌اندازی مجدد می‌شود.</string>
+  <string name="force_restart_screen_message">اگر تا %1$s راه‌اندازی مجدد نکنید، وقتی دستگاهتان در کمترین استفاده است، به طور خودکار راه‌اندازی مجدد می‌شود.</string>
+  <string name="google">Google</string>
+  <string name="got_it">متوجه شدم</string>
+  <string name="important_update_install_overdue_message">زمان برنامه‌ریزی شده برای نصب گذشته است. وقتی دستگاهتان شرایط لازم را داشت، نصب شروع می‌شود.</string>
+  <string name="important_update_restart_overdue_message">زمان برنامه‌ریزی شده برای راه‌اندازی مجدد گذشته است. وقتی دستگاهتان شرایط لازم را داشت، راه‌اندازی مجدد می‌شود.</string>
+  <string name="initiating_ota_service_msg">لطفاً صبر کنید...</string>
+  <string name="initiating_ota_service_title">در حال راه‌اندازی مراحل به‌روزرسانی نرم‌افزار</string>
+  <string name="install">نصب</string>
+  <string name="install_after_one_hour">نصب ۱ ساعت دیگر</string>
+  <string name="install_cancelled_title">نصب لغو شد</string>
+  <string name="install_deferred_status">به‌روزرسانی به تعویق افتاد در</string>
+  <string name="install_later">بعداً نصب شود</string>
+  <string name="install_notify_sanity_call_msg">نصب دستگاه ممکن نیست چون تماس در حال انجام است</string>
+  <string name="install_notify_sanity_maps_msg">نصب دستگاه ممکن نیست چون ناوبری روشن است</string>
+  <string name="install_now">اکنون نصب شود</string>
+  <string name="install_postponed">نصب به تعویق افتاد</string>
+  <string name="install_progress_cancel_message">اگر می‌خواهید این نسخه به‌روز را بعداً نصب کنید، به تنظیمات &gt; به‌روزرسانی سیستم بروید</string>
+  <string name="install_progress_paused_message">‏%s تکمیل شد (موقتاً متوقف شد)</string>
+  <string name="install_time">مدت زمان نصب: %1$d دقیقه</string>
+  <string name="install_warning">آنچه باید قبل از نصب بدانید</string>
+  <string name="just_one_more_step">فقط یک مرحله دیگر مانده است</string>
+  <string name="keep_it_on">روشن بماند</string>
+  <string name="later_button">بعداً یادآوری شود</string>
+  <string name="learn_more_online_link">اطلاعات بیشتر آنلاین</string>
+  <string name="low_battery_bg_install">نصب به دلیل ضعیف بودن باتری موقتاً متوقف شد. وقتی باتری بیشتر از ۲۰ درصد شارژ داشته باشد، نصب از سرگیری می‌شود.</string>
+  <string name="low_battery_download">دانلود به دلیل ضعیف بودن باتری موقتاً متوقف شد. وقتی دستگاه شارژ شد، دانلود ادامه می‌یابد.</string>
+  <string name="low_battery_install">لطفاً قبل از نصب این نسخه به‌روز، دستگاهتان را حداقل تا %s شارژ کنید</string>
+  <string name="make_space">ایجاد فضا</string>
+  <string name="mandatory_install_notification">اگر این به‌روزرسانی سیستم را به زودی نصب نکنید، به‌روزرسانی‌های امنیتی مهم و ویژگی‌های جدید و رفع اشکال‌ها را از دست خواهید داد.</string>
+  <string name="mandatory_restart_notification">از آنجا که این یک به‌روزرسانی مهم است، لطفاً همین حالا راه‌اندازی مجدد کنید. در غیر اینصورت، به‌روزرسانی‌های امنیتی و ویژگی‌های جدید و رفع اشکال‌ها را از دست خواهید داد.</string>
+  <string name="medium_channel_name">اعلان دانلود نرم‌افزار</string>
+  <string name="merge_emergency_call_text">در مدت راه اندازی مجدد، نمی‌توانید تماس‌های تلفنی از جمله تماس‌های اضطراری را دریافت یا برقرار کنید.</string>
+  <string name="merge_force_restart_text">اگر نمی‌خواهید فعلاً راه‌اندازی مجدد کنید، وقتی تلفن غیرفعال بود، به طور خودکار راه‌اندازی مجدد می‌شود.</string>
+  <string name="merge_progress_text">وقتی به‌روزرسانی کامل شد، یک اعلان به شما ارسال می‌کنیم</string>
+  <string name="merge_progress_title">پایان به‌روزرسانی…</string>
+  <string name="merge_restart_text">به‌روزرسانی بعد از راه‌اندازی مجدد تلفن کامل خواهد شد</string>
+  <string name="merge_restart_title">لطفاً مجدداً راه‌اندازی کنید</string>
+  <string name="merge_update_fail_notify_text">ما به چند اشکال سیستمی برخورد کردیم. لطفاً برای حل این مشکلات از مرکز خدمات بازدید فرمایید</string>
+  <string name="merge_update_fail_notify_title">به‌روزرسانی ناموفق بود</string>
+  <string name="merge_update_fail_text">ما به چند اشکال سیستمی برخورد کردیم که شما را از دریافت به‌روزرسانی‌ها باز می‌دارند. لطفاً برای حل این مشکل از مرکز خدمات بازدید فرمایید.‏
+
+در این فاصله می‌توانید طبق معمول به استفاده از تلفن ادامه دهید.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">انتخاب حساب</string>
+  <string name="multiple_account_alert">برای ادامه به‌روزرسانی سیستم، حساب %1$s را انتخاب کنید.</string>
+  <string name="no_thanks">خیر ممنون</string>
+  <string name="no_thanks_message">اگر می‌خواهید این نسخه به‌روز را بعداً دریافت کنید، به تنظیمات &gt; به‌روزرسانی سیستم بروید.</string>
+  <string name="no_updates_applied">هیچ به‌روزرسانی‌ای اعمال نشد</string>
+  <string name="not_now">اکنون نه</string>
+  <string name="ok">تایید</string>
+  <string name="otaservice_perm_desc">مجوزی که برنامه‌ها برای ارتباط با otaservice نیاز دارند</string>
+  <string name="package_size">اندازه دانلود: %1$s</string>
+  <string name="personalInfo_instruction">هیچ اطلاعات شخصی را از دست نخواهید داد</string>
+  <string name="picker_cell_radio">‏Wi-Fi و اینترنت همراه</string>
+  <string name="picker_title">انتخاب کنید چگونه می‌خواهید این نسخه به‌روز را دانلود کنید:</string>
+  <string name="picker_wifi_only_radio">‏فقط Wi-Fi</string>
+  <string name="please_restart">اکنون راه‌اندازی مجدد شود</string>
+  <string name="policy_set">به‌روزرسانی سیستم مسدود شد. لطفاً برای اطلاعات بیشتر با مدیر دستگاه خود تماس بگیرید.</string>
+  <string name="press_back_again_to_exit">برای خروج، برگشت را دوباره فشار دهید</string>
+  <string name="progress_copying_sd">کپی کردن نسخه به‌روز</string>
+  <string name="progress_deffered">دانلود در شبکه تلفن همراه/ Wi-Fi شروع می‌شود.</string>
+  <string name="progress_downloading_ota">دانلود نسخه به‌روز سیستم</string>
+  <string name="progress_downloading_security">دانلود به‌روزرسانی امنیتی</string>
+  <string name="progress_retried">دانلود نرم‌افزار متوقف شده است. ما به سعی خود ادامه می‌دهیم…</string>
+  <string name="progress_suspended">انتظار برای اتصال اینترنت همراه جهت ازسرگیری دانلود</string>
+  <string name="progress_suspended_datasaver">برای ازسرگیری دانلود، صرفه‌جویی در مصرف داده را خاموش کنید</string>
+  <string name="progress_suspended_no_adminapn">انتظار برای اتصال Wi-Fi یا شبکه Zero Rated جهت ازسرگیری دانلود</string>
+  <string name="progress_suspended_roaming">دانلود به دلیل شبکه رومینگ، موقتا متوقف شد، لطفاً Wi-Fi را برای ازسرگیری دانلود روشن کنید.</string>
+  <string name="progress_suspended_wifi">در حال انتظار برای Wi-Fi جهت ازسرگیری دانلود...</string>
+  <string name="progress_verify">در حال تایید آماده بودن دستگاه برای به‌روزرسانی…</string>
+  <string name="progress_verify_allocate_space">در حال بررسی کافی بودن حافظه</string>
+  <string name="relative_date_time">‏%1$s ساعت %2$s</string>
+  <string name="release_note_battery_desc">به‌روزرسانی‌ها برای بهبود مصرف و عمر باتری</string>
+  <string name="release_note_battery_title">باتری</string>
+  <string name="release_note_camera_desc">این پیشرفت‌ها به شما کمک می‌کنند با دقت و جزئیات بیشتر عکس بگیرید</string>
+  <string name="release_note_camera_title">دوربین</string>
+  <string name="release_note_cellular_desc">تغییرات به بهبود قابلیت اتصال داده‌های دستگاه کمک می‌کنند</string>
+  <string name="release_note_cellular_title">تلفن همراه</string>
+  <string name="release_note_charging_desc">این به‌روزرسانی قابلیت شارژ شما را تقویت می‌کند</string>
+  <string name="release_note_charging_title">شارژ کردن</string>
+  <string name="release_note_generic_desc">تغییرات به بهبود عملکرد کلی دستگاه کمک می‌کنند</string>
+  <string name="release_note_os_update_desc">طرح‌های زمینه تک‌رنگ جدید به گوشی شما یک ظاهر شیک می‌دهند و کاغذ دیواری شما را برجسته می‌کنند. بررسی کنید چگونه برنامه‌ها قبل از آنکه مجوزهای برنامه را ارائه دهید، از اطلاعات شما استفاده می‌کنند و آن را به اشتراک می‌گذارند و با ویژگی‌های دیداری و شنیداری جدید Android 14، آن را قابل دسترس‌تر می‌کنند.</string>
+  <string name="release_note_os_update_title">‏Android %1$s</string>
+  <string name="release_note_performance_desc">تغییرات به بهبود عملکرد دستگاه کمک می‌کنند</string>
+  <string name="release_note_performance_title">کارکرد</string>
+  <string name="release_note_security_desc">شامل نسخه‌های اصلاحی امنیتی تا %1$s می‌باشد</string>
+  <string name="release_note_security_title">به‌روزرسانی امنیتی</string>
+  <string name="release_note_stability_desc">شامل پیشرفت و رفع اشکال‌ها است که تلفن شما را قابل اطمینان‌تر از قبل می‌کند</string>
+  <string name="release_note_stability_title">ثبات</string>
+  <string name="release_note_title">این به‌روزرسانی شامل موارد زیر است</string>
+  <string name="release_note_wifi_desc">شامل موارد به‌روز در قابلیت اتصال Wi-Fi</string>
+  <string name="release_note_wifi_title">‏Wi-Fi</string>
+  <string name="release_notes_string">همه ویژگی‌های جدید را در Android %1$s بررسی کنید</string>
+  <string name="request_suspended_datasaver">برای شروع دانلود، صرفه‌جویی در مصرف داده را خاموش کنید</string>
+  <string name="request_suspended_no_network">هیچ پوشش شبکه‌ای برای شروع دانلود وجود ندارد</string>
+  <string name="restart_after_one_hour">راه‌اندازی مجدد ۱ ساعت دیگر</string>
+  <string name="restart_instruction_title">آنچه باید قبل از راه‌اندازی مجدد بدانید</string>
+  <string name="restart_later">بعداً</string>
+  <string name="restart_message">راه‌اندازی مجدد کنید تا به‌روز شود</string>
+  <string name="restart_notification">راه‌اندازی مجدد</string>
+  <string name="restart_notification_text">راه‌اندازی مجدد کنید تا به‌روز شود. به‌روزرسانی %1$d روز به حالت تعلیق بوده است.</string>
+  <string name="restart_notify_sanity_call_msg">راه‌اندازی مجدد دستگاه ممکن نیست چون تماس در حال انجام است</string>
+  <string name="restart_notify_sanity_maps_msg">راه‌اندازی مجدد دستگاه ممکن نیست چون ناوبری روشن است</string>
+  <string name="restart_now">اکنون راه‌اندازی مجدد شود</string>
+  <string name="restart_postponed">راه‌اندازی مجدد به تعویق افتاد</string>
+  <string name="restart_title">دستگاهتان را راه‌اندازی مجدد کنید</string>
+  <string name="resume_download_on_cellular">استفاده از اینترنت همراه</string>
+  <string name="retrieving_token">صحت اعتبار...</string>
+  <string name="sdcard_predownload_text">
+در این مرحله، نسخه به‌روز را در حافظه سیستم کپی کنید. نسخه به‌روز در مرحله بعد نصب می‌شود. 
+
+تلفن را به برق وصل کنید تا مطمئن شوید باتری تلفن تمام نمی‌شود.</string>
+  <string name="search_menu_title">جستجو</string>
+  <string name="secure_instruction">این فرایند امن است</string>
+  <string name="security_download_notification_title">امنیت خود را افزایش دهید</string>
+  <string name="security_install_notification_text">یک نسخه به‌روز امنیتی جدید برای نصب آماده است</string>
+  <string name="security_install_title">یک به‌روزرسانی امنیتی آماده است</string>
+  <string name="security_patch">نسخه اصلاحی امنیتی:</string>
+  <string name="security_update_low_storage_title">به‌روزرسانی امنیتی</string>
+  <string name="security_update_notification_text">جدیدترین به‌روزرسانی امنیتی را دریافت کنید</string>
+  <string name="security_update_paused">مکث به‌روزرسانی امنیتی</string>
+  <string name="security_update_pending_notification_text">جدیدترین به‌روزرسانی امنیتی را دریافت کنید. به‌روزرسانی %1$d روز به حالت تعلیق بوده است.</string>
+  <string name="security_update_title">به‌روزرسانی امنیتی</string>
+  <string name="select_account">یک حساب %1$s انتخاب کنید</string>
+  <string name="selected_later_time_os_mr">نسخه به روز سیستم نصب خواهد شد در </string>
+  <string name="selected_later_time_smr">نصب به‌روزرسانی امنیتی در</string>
+  <string name="setting_sw_summary">به‌روزرسانی به جدیدترین نرم‌افزار </string>
+  <string name="setting_sw_title">به‌روزرسانی‌های سیستم</string>
+  <string name="smart_cancel_update_toast_msg">برنامه زمانی به‌روزرسانی روی %1$s تنظیم شد</string>
+  <string name="smart_end_time">پایان</string>
+  <string name="smart_install_message_popup">از آنجا که به‌روزرسانی هوشمند را فعال کرده‌اید، اگر تا %1$s به‌روزرسانی را نصب نکنید، دستگاهتان به طور خودکار آن را نصب می‌کند. مطمئن شوید باتری برای نصب کافی باشد.</string>
+  <string name="smart_restart_message_popup">از آنجا که به‌روزرسانی هوشمند را فعال کرده‌اید، اگر تا %1$s دستگاهتان را راه‌اندازی مجدد نکنید، به طور خودکار راه‌اندازی مجدد می‌شود.</string>
+  <string name="smart_settings_string">به محض آنکه به Wi-Fi متصل شدید، به‌روزرسانی‌ها به‌طور خودکار دانلود و نصب می‌شوند</string>
+  <string name="smart_settings_string_Softbank">به محض آنکه به Wi-Fi یا اینترنت همراه متصل شدید، به‌روزرسانی‌ها به‌طور خودکار دانلود و نصب می‌شوند</string>
+  <string name="smart_settings_string_vzw">به‌روزرسانی‌ها به‌طور خودکار دانلود و نصب می‌شوند</string>
+  <string name="smart_start_time">شروع</string>
+  <string name="smart_to_string">تا</string>
+  <string name="smart_update_advanced">پیشرفته</string>
+  <string name="smart_update_note">برای ایمنی شما، تمام به‌روزرسانی‌های امنیتی به طور خودکار دانلود می‌شوند، چه این ویژگی روشن و چه خاموش باشد</string>
+  <string name="smart_update_note_vzw">برای ایمنی شما، تمام به‌روزرسانی‌های مهم به طور خودکار دانلود و نصب می‌شوند، چه این ویژگی روشن و چه خاموش باشد.</string>
+  <string name="smart_update_pop_up_text">با به‌روزرسانی خودکار، از دستگاهتان به طور ایمن محافظت می‌شود</string>
+  <string name="smart_update_recommendation">به‌روزرسانی هوشمند را امتحان کنید</string>
+  <string name="smart_update_suggestion_text">با به‌روزرسانی خودکار، ایمن بمانید</string>
+  <string name="smart_update_text_AB">با نصب خودکار همه موارد به‌روز امنیتی جدید و رفع اشکال‌ها باعث می‌شوید دستگاهتان همیشه ایمن و کارآمد عمل کند.</string>
+  <string name="smart_update_text_AB_vzw">به‌روزرسانی هوشمند به دستگاه شما کمک می‌کند ایمن و موثر کار کند. اگر آنها را روشن کنید، تمام <b>به‌روزرسانی‌های امنیتی</b> به طور خودکار دانلود می‌شوند. بعد از دانلود، دستگاه در زمانی که انتخاب می‌کنید راه‌اندازی مجدد می‌شود.</string>
+  <string name="smart_update_text_classic">به‌روزرسانی هوشمند به دستگاه شما کمک می‌کند ایمن و موثر کار کند. اگر آنها را روشن کنید، تمام <b>به‌روزرسانی‌های امنیتی و رفع اشکال‌ها</b> به طور خودکار دانلود می‌شوند. بعد از دانلود، دستگاه در زمانی که انتخاب می‌کنید راه‌اندازی مجدد و نصب می‌شود.</string>
+  <string name="smart_update_text_classic_vzw">به‌روزرسانی هوشمند به دستگاه شما کمک می‌کند ایمن و موثر کار کند. اگر آنها را روشن کنید، تمام <b>به‌روزرسانی‌های امنیتی</b> به طور خودکار دانلود می‌شوند. بعد از دانلود، دستگاه در زمانی که انتخاب می‌کنید راه‌اندازی مجدد و نصب می‌شود.</string>
+  <string name="smart_update_time_slot_text_AB">یک زمان برای شروع انتخاب کنید</string>
+  <string name="smart_update_time_slot_text_classic">یک زمان برای نصب انتخاب کنید</string>
+  <string name="smart_update_title">به‌روزرسانی هوشمند</string>
+  <string name="software_not_update_to">نرم‌افزار هنوز به نسخه زیر به‌روزرسانی نشده است</string>
+  <string name="software_update_in_progress">سیستم شما در حال به‌روزرسانی به نسخه زیر است</string>
+  <string name="software_update_planned_summary">بررسی شده - %1$s</string>
+  <string name="software_update_planned_title">به‌روزرسانی نرم‌افزار برنامه‌ریزی شد</string>
+  <string name="software_update_to">سیستم شما به نسخه زیر به‌روزرسانی شد</string>
+  <string name="sofware_version">نسخه نرم‌افزار:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">ایجاد فضا برای به‌روزرسانی</string>
+  <string name="su_btn">تنظیمات</string>
+  <string name="su_text_off">وقتی نرم‌افزار جدید در دسترس بود، باید به‌روزرسانی را به صورت دستی در دستگاهتان انجام دهید. برای آنکه این کار به صورت خودکار انجام شود، به‌روزرسانی هوشمند را روشن کنید. برای جزئیات بیشتر ضربه بزنید.</string>
+  <string name="su_text_on">به طور پیش‌فرض، به‌روزرسانی هوشمند بین ۱ تا ۳ صبح اجرا می‌شود. می‌توانید زمان به‌روزرسانی را در تنظیمات تغییر دهید یا به‌روزرسانی هوشمند را خاموش کنید. برای جزئیات بیشتر ضربه بزنید.</string>
+  <string name="su_title_off">به‌روزرسانی هوشمند خاموش است</string>
+  <string name="su_title_on">به‌روزرسانی هوشمند روشن است</string>
+  <string name="system_download_notification_title">به‌روزرسانی سیستم</string>
+  <string name="system_install_notification_text">به‌روزرسانی سیستم برای نصب آماده است</string>
+  <string name="system_install_title">یک به‌روزرسانی آماده است</string>
+  <string name="system_pdl_notification_mr_title">دریافت رفع اشکال‌ها و موارد دیگر</string>
+  <string name="system_pdl_notification_os_title">‏Android %1$s اینجاست!</string>
+  <string name="system_update">به‌روزرسانی سیستم</string>
+  <string name="system_update_desc">از دستگاه خود در برابر تهدیدهای امنیتی محافظت کنید و جدیدترین ویژگی‌های Motorola و Android را دریافت کنید</string>
+  <string name="system_update_info_not_available">در دسترس نیست</string>
+  <string name="system_update_low_storage_text">برای بررسی حافظه اینجا ضربه زده و ادامه دهید.</string>
+  <string name="system_update_low_storage_title">به‌روزرسانی سیستم</string>
+  <string name="system_update_notification_os_text">‏Android جدید را تجربه کنید</string>
+  <string name="system_update_notification_text">دانلود نرم‌افزار جدید</string>
+  <string name="system_update_paused">به‌روزرسانی سیستم متوقف شد</string>
+  <string name="system_update_pending_notification_os_text">‏Android جدید را تجربه کنید. به‌روزرسانی %1$d روز به حالت تعلیق بوده است.</string>
+  <string name="system_update_pending_notification_text">نرم‌افزار جدید را دانلود کنید. به‌روزرسانی %1$d روز به حالت تعلیق بوده است.</string>
+  <string name="system_update_settings_list_item_title">به‌روزرسانی‌های سیستم</string>
+  <string name="system_update_status">وضعیت به‌روزرسانی</string>
+  <string name="system_update_title">به‌روزرسانی سیستم</string>
+  <string name="tethered_permission_desc">ارسال نتایج به‌روزرسانی 3c</string>
+  <string name="tethered_update_result">نتایج به‌روزرسانی اتصال اینترنت</string>
+  <string name="time_picker_text">شروع نصب بدون یادآوری</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">دوباره امتحان کنید</string>
+  <string name="turn_it_off">خاموش شود</string>
+  <string name="turn_it_on">روشن کنید</string>
+  <string name="turn_on_smart_updates">روشن کردن به‌روزرسانی هوشمند</string>
+  <string name="update">به‌روزرسانی</string>
+  <string name="update_blocked_by_policy">بر اساس سیاست مدیر سیستم، به‌روزرسانی مسدود شد </string>
+  <string name="update_cancelled_status">دانلود نرم‌افزار لغو شد در</string>
+  <string name="update_fail_desc">مشکلی پیش آمد</string>
+  <string name="update_fail_status">به‌روزرسانی ناموفق بود</string>
+  <string name="update_fail_sucancel_dm_status">به‌روزرسانی توسط سرور لغو شد</string>
+  <string name="update_fail_title">به‌روزرسانی ناموفق بود</string>
+  <string name="update_history_blank">تاریخچه‌ای وجود ندارد</string>
+  <string name="update_history_src_target">به‌روزرسانی از%1$s به %2$s</string>
+  <string name="update_history_time">به‌روزرسانی‌شده در%1$s</string>
+  <string name="update_history_title">تاریخچه به‌روزرسانی</string>
+  <string name="update_history_version">نسخه نرم‌افزار %1$s</string>
+  <string name="update_info">در حال به‌روزرسانی...</string>
+  <string name="update_postpone_policy">بر اساس سیاست مدیر سیستم، به‌روزرسانی به تعویق افتاد </string>
+  <string name="update_preference">اولویت‌های به‌روزرسانی</string>
+  <string name="update_success_desc">نسخه نرم‌افزار فعلی: %1$s</string>
+  <string name="update_success_desc_os">تبریک! شما با موفقیت Android %1$s را نصب کردید. حال آماده‌اید از یک تجربه Android بهتر، هوشمندتر و ایمن‌تر لذت ببرید.</string>
+  <string name="update_success_status">به‌روزرسانی موفق بود</string>
+  <string name="update_title">به‌روزرسانی کامل شد</string>
+  <string name="update_title_text">از نرم‌افزار جدیدتان لذت ببرید!</string>
+  <string name="upto_date_title">همه چیز خوب به نظر می‌رسد!</string>
+  <string name="urgent_channel_name">هشدار به‌روزرسانی نرم‌افزار</string>
+  <string name="use_smart_updates">استفاده از به‌روزرسانی هوشمند</string>
+  <string name="vab_validation_update_failure_desc">به‌روزرسانی تایید اعتبار VAB ناموفق بود</string>
+  <string name="vab_validation_update_failure_title">تایید اعتبار VAB ناموفق</string>
+  <string name="vab_validation_update_success_desc">تبریک! به‌روزرسانی تایید اعتبار VAB موفق بود</string>
+  <string name="vab_validation_update_success_title">تایید اعتبار VAB موفق</string>
+  <string name="verifying_patch">به‌روزرسانی اجرا شد. در حال تایید موفق بودن درخواست… (مرحله ۴ از ۶)  </string>
+  <string name="verity_disabled_msg">دستگاهتان ممکن است در معرض خطرهای امنیتی باشد. برای ادامه به‌روزرسانی‌ها، فرمان
+
+adb verity فعال زیر را اجرا کنید</string>
+  <string name="verity_disabled_title">دستگاه شما دیگر به‌روزرسانی‌ها را دریافت نمی‌کند</string>
+  <string name="verizon_failure_notification_text"> دستگاهتان قادر به نصب این به‌روزرسانی نبود. از ابزار کمکی ارتقای نرم‌افزار برای نصب استفاده کنید. برای اطلاعات بیشتر ضربه بزنید.</string>
+  <string name="verizon_failure_text">متاسفانه هنگام به‌روزرسانی دستگاهتان مشکلی رخ داد. تغییری انجام نشد. برای به‌روزرسانی نرم‌افزار خود، از ابزار دستیار ارتقای نرم‌افزار استفاده کنید.‏
+
+برای نصب ابزار دستیار ارتقای نرم‌افزار:
+
+۱. با یک کابل USB دستگاهتان را به کامپیوتر متصل کنید.
+۲. وقتی منوی USB در دستگاهتان باز شد، نماد تنظیمات را در سمت راست بالا انتخاب کنید
+۳. از تنظیمات USB، نصب نرم‌افزار را انتخاب کنید
+۴. به رایانه بروید و برنامه جادویی نصب را پیدا کنید
+۵. در برنامه جادویی نصب جلو بروید
+
+ابزار دستیار ارتقای نرم‌افزار به شما کمک می‌کند به‌روزرسانی‌های نرم‌افزار را در دستگاهتان دانلود و نصب کنید.</string>
+  <string name="vital_applying_updates">در حال اعمال به‌روزرسانی‌ها...</string>
+  <string name="vital_bg_text">ممکن است چند دقیقه به طول بیانجامد.</string>
+  <string name="vital_check_for_updates">در حال جستجوی به‌روزرسانی‌ها...</string>
+  <string name="vital_check_for_updates_desc">به‌روزرسانی‌ها ایمنی دستگاهتان را حفظ کرده و عملکرد آن را بهبود می‌بخشند.</string>
+  <string name="vital_done">انجام شد!</string>
+  <string name="vital_error_fail">خطایی در به‌روزرسانی رخ داد. تغییری انجام نشد.</string>
+  <string name="vital_go_back">واقعاً می‌خواهید نصب را متوقف کنید</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">برای ادامه راه‌اندازی مجدد کنید</string>
+  <string name="vital_skip">رد شدن</string>
+  <string name="vital_stop">توقف</string>
+  <string name="wifi_setting">تنظیمات Wi-Fi</string>
+</resources>

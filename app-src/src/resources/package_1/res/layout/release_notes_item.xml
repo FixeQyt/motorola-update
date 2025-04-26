@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android">
+  <TextView android:id="@id/expandedListItem"
+            android:paddingBottom="@dimen/list_item_padding_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="?android:attr/expandableListPreferredChildPaddingLeft"
+            style="@style/TextAppearance.MaterialComponents.Body2" />
+</LinearLayout>

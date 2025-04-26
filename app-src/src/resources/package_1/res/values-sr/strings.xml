@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Ажурирај касније</string>
+  <string name="ab_download_now">Ажурирај сада</string>
+  <string name="ab_install_notification_paused_text">Инсталација у позадини је паузирана</string>
+  <string name="ab_install_notification_text">Инсталација у позадини</string>
+  <string name="ab_restart_fullscreen_text">Скоро сте готови! Потребно је око 90 секунди да се уређај поново покрене. Ажурирање је доступно %1$d дана.</string>
+  <string name="ab_restart_text">Скоро сте готови! Потребно је свега око 90 секунди да се уређај поново покрене</string>
+  <string name="ab_restart_warning_os_mr">Ажурирање система је скоро завршено. Уређај ће се  </string>
+  <string name="ab_restart_warning_smr">Сигурносно ажурирање је скоро довршено. Уређај ће се </string>
+  <string name="ab_warning_continues"> да бисте довршили ажурирање.</string>
+  <string name="abc_action_bar_home_description">Идите на почетну</string>
+  <string name="abc_action_bar_up_description">Идите нагоре</string>
+  <string name="abc_action_menu_overflow_description">Још опција</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Прикажи све</string>
+  <string name="abc_activitychooserview_choose_application">Изаберите апликацију</string>
+  <string name="abc_capital_off">ИСКЉУЧЕНО</string>
+  <string name="abc_capital_on">УКЉУЧЕНО</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">тастер за размак</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Претражите…</string>
+  <string name="abc_searchview_description_clear">Обришите упит</string>
+  <string name="abc_searchview_description_query">Претражите упит</string>
+  <string name="abc_searchview_description_search">Претражите</string>
+  <string name="abc_searchview_description_submit">Пошаљите упит</string>
+  <string name="abc_searchview_description_voice">Гласовна претрага</string>
+  <string name="abc_shareactionprovider_share_with">Делите помоћу</string>
+  <string name="abc_shareactionprovider_share_with_application">Делите помоћу апликације %s</string>
+  <string name="abc_toolbar_collapse_description">Скупи</string>
+  <string name="abupdate_in_progress_status">Ажурирање софтвера је у току</string>
+  <string name="additional_charges_message">Преузимање ће се наставити помоћу мобилних података. Може да дође до трошкова за податке.</string>
+  <string name="alertSubText">Ово се користи за проверу, преузимање и инсталирање пакета за ажурирање</string>
+  <string name="alertText">Дозволите мрежне операције за ажурирања софтвера</string>
+  <string name="alertTitle">Ажурирања захтевају следећу дозволу</string>
+  <string name="alert_dialog_cancel">Заустави инсталацију</string>
+  <string name="alert_dialog_continue">Настави инсталацију</string>
+  <string name="alert_dialog_no">Не</string>
+  <string name="alert_dialog_ok">Важи</string>
+  <string name="alert_dialog_yes">Да</string>
+  <string name="allocate_space_success">Доступна је потребна количина меморије за ажурирање</string>
+  <string name="allow">Дозволи</string>
+  <string name="android_latest_sw_text">Користите најновији софтвер</string>
+  <string name="android_version">Верзија Android-а:</string>
+  <string name="app_name">Ажурирање Motorola софтвера</string>
+  <string name="applied">Укључено</string>
+  <string name="apply_bug_fix">Примени на исправке грешака</string>
+  <string name="apply_os_update">Примени на сва ажурирања софтвера</string>
+  <string name="applying_patch">Примена ажурирања (Корак %1$d од %2$d)  </string>
+  <string name="are_you_sure">Искључити паметна ажурирања?</string>
+  <string name="are_you_sure_pop_up_text">Желите ли стварно да искључите паметна ажурирања? </string>
+  <string name="asc_campaign_assigned">Кампања је додељена</string>
+  <string name="asc_campaign_is_allowed">Ажурирање фирмвера</string>
+  <string name="asc_campaign_is_blocked">Закључавање фирмвера</string>
+  <string name="asc_campaign_not_assigned">Уређај тренутно није у кампањи</string>
+  <string name="asc_campaign_status_prefix">
+Статус: </string>
+  <string name="asc_campaign_window_period_status">
+Прозор за ажурирање: Од %s до %s</string>
+  <string name="asc_sw_up_to_date">2 до најновије верзије</string>
+  <string name="asc_target_version"> до верзије </string>
+  <string name="auth_title">Ажурирање система</string>
+  <string name="auto_download_cellualr_charges_warn">При преузимању ажурирања помоћу мобилне мреже могу постојати додатни трошкови.</string>
+  <string name="auto_download_enable_cellular_future_updates">Желите ли да дате пристанак за коришћење мобилних података и за будућа преузимања?</string>
+  <string name="auto_download_settings_title">Подешавања аутоматског преузимања</string>
+  <string name="auto_download_wifi_cellular">Аутоматски се преузима преко мобилне и Wi-Fi мреже</string>
+  <string name="auto_download_wifi_cellular_desc">Аутоматски се преузима преко мобилне и Wi-Fi мреже. Wi-Fi мрежа ће се користити прва када је доступна. </string>
+  <string name="auto_download_wifi_only">Аутоматско преузмање само путем Wi-Fi везе</string>
+  <string name="auto_download_wifi_only_desc">Аутоматско преузимање само преко Wi-Fi мреже</string>
+  <string name="auto_install_notification_text">Уређај ће га аутоматски инсталирати на дан %1$s</string>
+  <string name="auto_time_set">Почетак:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Услед важности, ово ажурирање ће се аутоматски инсталирати помоћу мобилних података за %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Услед важности, ово ажурирање ће бити аутоматски преузето помоћу мобилних података %1$s</string>
+  <string name="background_install_msg">Ово ажурирање ће се наставити ако се вратите или затворите овај прозор</string>
+  <string name="background_install_text">Ажурирање се преузима и инсталира. Можете да наставите да користите уређај.</string>
+  <string name="bad_connection">Нема интернет везе</string>
+  <string name="bad_connection_text">Изгледа да уређај тренутно није повезан на интернет. Додирните доње дугме да бисте пробали поново.</string>
+  <string name="bg_install_cancel_confirm">Желите ли стварно да зауставите инсталацију?</string>
+  <string name="bg_retried">Преузимање софтвера је прекинуто. Наставићемо да покушавамо…</string>
+  <string name="bg_suspended">Чека се веза за пренос података да би се наставило преузимање и инсталација у позадини</string>
+  <string name="bg_suspended_non_adminapn">Чека се Wi-Fi или мрежа са бесплатним приступом да би се наставило преузимање и инсталација у позадини…</string>
+  <string name="bg_suspended_roaming">Инсталација у позадини је паузирана услед роминг мреже, укључите Wi-Fi да бисте наставили са инсталацијом у позадини.</string>
+  <string name="bg_suspended_wifi">Чека се Wi-Fi да би се наставили преузимање и инсталација у позадини</string>
+  <string name="bootloader_unlock_msg">Ваш уређај више не прима ажурирања и подложан је безбедносним ризицима.</string>
+  <string name="bootloader_unlock_title">НЕМА ДОСТУПНИХ АЖУРИРАЊА</string>
+  <string name="call_notification_answer_action">Одговори</string>
+  <string name="call_notification_answer_video_action">Видео</string>
+  <string name="call_notification_decline_action">Одбиј</string>
+  <string name="call_notification_hang_up_action">Прекини везу</string>
+  <string name="call_notification_incoming_text">Долазни позив</string>
+  <string name="call_notification_ongoing_text">Позив је у току</string>
+  <string name="call_notification_screening_text">Проверава се долазни позив</string>
+  <string name="cancel">Откажи</string>
+  <string name="cancel_download_notification">Откажи</string>
+  <string name="cancel_install">Откажи</string>
+  <string name="cancel_update_notification">Откажи</string>
+  <string name="check_for_updates_title">Потражите ажурирања</string>
+  <string name="check_update_badparam">Покушај надоградње је наишао на грешку услед неуспешног пријављивања.
+
+Покушајте поново касније.</string>
+  <string name="check_update_checking">Траже се ажурирања…</string>
+  <string name="check_update_disabled_admin">Ажурирања уређаја контролише ИТ администратор</string>
+  <string name="check_update_downloading">У току је преузимање ажурирања.
+
+Добићете обавештење када се преузимање заврши.</string>
+  <string name="check_update_fail">Дошло је до неочекиване грешке.
+
+Уређај ће покушати поново да ажурира у позадини.</string>
+  <string name="check_update_internal">Није могуће проверити да ли постоје ажурирања. Покушајте поново касније.</string>
+  <string name="check_update_net">Проверите интернет везу и покушајте поново</string>
+  <string name="check_update_net_vzw">Потребна је веза за пренос података да бисте потражили ажурирања. Да бисте проверили Wi-Fi везу, изаберите Подешавања &gt; Мрежа и интернет &gt; Интернет &gt; Wi-Fi.
+
+Такође можете да посетите motorola.com/systemupdates да бисте видели друге опције за ажурирање.</string>
+  <string name="check_update_not_sys_user">Тражење ажурирања није дозвољено за профиле гостију</string>
+  <string name="check_update_processing">Контактирање са нашим сервером…
+Сачекајте</string>
+  <string name="check_update_roaming">Системско ажурирање је доступно само у кућној мрежи. 
+
+Изаберите Подешавања &gt; Мрежа и интернет &gt; Wi-Fi да бисте подесили везу.</string>
+  <string name="check_update_storage_low">Ажурирање није могуће због недовољне количине простора у меморији уређаја.</string>
+  <string name="check_update_temperror">Тренутно није могуће завршити преузимање ажурирања.
+
+Покушајте поново.</string>
+  <string name="check_update_text">Повремено проверавајте да ли постоје ажурирања да би уређај био безбеднији и да бисте му побољшали перформансе.</string>
+  <string name="check_update_title_downloading">Преузимање је у току…</string>
+  <string name="check_update_vab_validation">Провера статуса ажурирања VAB валидације
+Сачекајте</string>
+  <string name="check_update_wifi_only">Системско ажурирање је доступно само преко Wi-Fi везе.</string>
+  <string name="check_wifi_settings">Проверите Wi-Fi подешавања</string>
+  <string name="clear_space">Ослободи простор</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Апликација захтева ажурирање апликације Android Wear.</string>
+  <string name="common_android_wear_update_text">Ова апликација не може да се покрене ако не ажурирате апликацију Android Wear.</string>
+  <string name="common_android_wear_update_title">Ажурирајте Android Wear</string>
+  <string name="common_google_play_services_enable_button">Омогући Google Play услуге</string>
+  <string name="common_google_play_services_enable_text">Ова апликација неће функционисати ако не омогућите Google Play услуге.</string>
+  <string name="common_google_play_services_enable_title">Омогућавање Google Play услуга</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Захтева %1$s</string>
+  <string name="common_google_play_services_install_button">Преузми Google Play услуге</string>
+  <string name="common_google_play_services_install_text_phone">Ова апликација не може да се покрене без Google Play услуга, које недостају на телефону.</string>
+  <string name="common_google_play_services_install_text_tablet">Ова апликација не може да се покрене без Google Play услуга, које недостају на таблету.</string>
+  <string name="common_google_play_services_install_title">Преузимање Google Play услуга</string>
+  <string name="common_google_play_services_invalid_account_text">Наведени налог не постоји на овом уређају. Одаберите други налог.</string>
+  <string name="common_google_play_services_invalid_account_title">Неважећи налог</string>
+  <string name="common_google_play_services_needs_enabling_title">Апликација захтева да Google Play услуге буду омогућене.</string>
+  <string name="common_google_play_services_network_error_text">За повезивање са Google Play услугама потребна је веза за пренос података.</string>
+  <string name="common_google_play_services_network_error_title">Грешка на мрежи</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Апликација захтева инсталацију Google Play услуга.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Апликација захтева ажурирање Google Play услуга.</string>
+  <string name="common_google_play_services_notification_ticker">Грешка Google Play услуга</string>
+  <string name="common_google_play_services_unknown_issue">Непознат проблем са Google Play услугама.</string>
+  <string name="common_google_play_services_unsupported_text">Google Play услуге, које су потребне за функционисање неких од апликација, нису подржане на уређају. Контактирајте произвођача да бисте добили помоћ.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play услуге</string>
+  <string name="common_google_play_services_update_button">Ажурирај</string>
+  <string name="common_google_play_services_update_text">Ова апликација не може да се покрене ако не ажурирате Google Play услуге.</string>
+  <string name="common_google_play_services_update_title">Ажурирање Google Play услуга</string>
+  <string name="common_open_on_phone">Отвори на телефону</string>
+  <string name="common_signin_button_text">Пријави ме</string>
+  <string name="common_signin_button_text_long">Пријави ме преко Google-а</string>
+  <string name="compatibility_failed_title">Верификација пакета није успела</string>
+  <string name="compatibility_verification_failure">Пакет ажурирања који се преузима није компатибилан са тренутном верзијом софтвера на уређају.</string>
+  <string name="compatibility_verification_failure_df">
+
+Проверите са координатором за тестирање.</string>
+  <string name="compatibility_verification_success">Успешно је верификовано</string>
+  <string name="completed"> Инсталација је довршена. Биће затражено да рестартујете телефон (Корак %1$d од %2$d)</string>
+  <string name="completed_install">%s завршено</string>
+  <string name="connect_to_wifi">Повежите се на Wi-Fi</string>
+  <string name="continue_button">Настави</string>
+  <string name="critical_install_message_popup_os_mr">Доступно је важно ажурирање система. Изаберите Инсталирај да бисте применили ажурирање. У супротном ће се ажурирање аутоматски применити %1$s.</string>
+  <string name="critical_install_message_popup_smr">Доступно је важно сигурносно ажурирање. Изаберите Инсталирај да бисте применили ажурирање. У супротном ће се ажурирање аутоматски применити %1$s.</string>
+  <string name="critical_install_message_screen">Ово важно ажурирање ће бити аутоматски инсталирано на дан %1$s. Проверите да ли је батерија довољно напуњена за инсталацију.</string>
+  <string name="critical_install_notification">Пошто је ово важно ажурирање, уређај ће га аутоматски инсталирати на дан %1$s.
+Трајање инсталације: %2$d мин</string>
+  <string name="critical_restart_message_popup">Што пре поново покрените уређај да бисте применили ово важно ажурирање. Ако не можете, уређај ће се аутоматски поново покренути %1$s.</string>
+  <string name="critical_restart_message_screen">Пошто је ово ажурирање важно, уређај ће се аутоматски поново покренути на дан %1$s ако га ви поново не покренете до тада.</string>
+  <string name="critical_restart_notification">Ово ажурирање је важно. Ако не покренете поново сада, уређај ће се аутоматски поново покренути %1$s.</string>
+  <string name="critical_update_notification_title">Важно ажурирање</string>
+  <string name="current_version">Тренутна верзија софтвера:</string>
+  <string name="custom_slot">Прилагођено</string>
+  <string name="custom_time">Прилагођено време</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s у %s</string>
+  <string name="defer_count_expired">Важи</string>
+  <string name="deny">Одбиј</string>
+  <string name="details">Детаљи</string>
+  <string name="device_corrupted_msg">Пронашли смо неке системске проблеме. Знамо да је напорно, али морате посетити свој локални сервисни центар да бисте их решили.
+
+Након што вам поправе телефон, поново ћемо моћи да вршимо ажурирања на вашем телефону.</string>
+  <string name="device_corrupted_title">Немогуће ажурирати телефон</string>
+  <string name="dialog_alert_net_message">Проверите Wi-Fi или везу за мобилне податке и покушајте поново.</string>
+  <string name="dialog_alert_net_title">Уређај је офлајн</string>
+  <string name="dialog_alert_title">Батерија је скоро испражњена</string>
+  <string name="dialog_progress">Учитава се…</string>
+  <string name="dl_options_mobile_only_warning">Препоручује се да користите Wi-Fi. Преузимање помоћу мобилних података или коришћење мобилних података у ромингу може да доведе до додатних трошкова.
+
+Преузимање овог софтвера нема утицај на рад уређаја.</string>
+  <string name="done">Готово</string>
+  <string name="dont_show_this_again">Немој ово више да приказујеш</string>
+  <string name="download_cancelled_title">Преузимање је отказано</string>
+  <string name="download_deferred_status">Преузимање софтвера је одложено на дан</string>
+  <string name="download_failed_status">Није успело преузимање ажурирања</string>
+  <string name="download_in_progress_status">Преузимање софтвера је у току</string>
+  <string name="download_later_button">Преузми касније</string>
+  <string name="download_no_button">Не, хвала</string>
+  <string name="download_note">Можете да наставите да користите уређај док се ажурирање инсталира</string>
+  <string name="download_now">Преузми</string>
+  <string name="download_now_button">Преузми</string>
+  <string name="download_options">Опције за преузимање</string>
+  <string name="download_progress_cancel_message">Ако желите касније да преузмете ово ажурирање, изаберите Подешавања &gt; Ажурирања система</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s је преостало (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% је преузето (паузирано)</string>
+  <string name="download_progress_text">Ово преузимање ће се наставити ако се вратите или затворите овај прозор</string>
+  <string name="download_subtitle">Шта треба да знате пре преузимања</string>
+  <string name="download_text_whats_new">Погледајте шта је ново</string>
+  <string name="download_time_left">%1$s је преостало</string>
+  <string name="download_version">Верзија %1$s – %2$s</string>
+  <string name="download_wifi_only_error">Wi-Fi веза је потребна за преузимање овог ажурирања. Преузимање ће се наставити када се веза поново успостави.</string>
+  <string name="downloaded_percentage">%1$s је преузето</string>
+  <string name="emergency_call_btn_txt">Хитне службе</string>
+  <string name="emergency_call_text">Током инсталације нећете моћи да обављате позиве, укључујући хитне позиве током поновног покретања!</string>
+  <string name="enable_wifi_error_txt">Повежите се на Wi-Fi да бисте преузели ово ажурирање.</string>
+  <string name="eol_explore">Истражите нове уређаје</string>
+  <string name="eol_last_update_text">Безбедносна закрпа:</string>
+  <string name="eol_promote">Погледајте најновије промоције</string>
+  <string name="eol_title">Ваш уређај користи најновији доступни софтвер.</string>
+  <string name="err_title_contact_server">Контактирање са сервером…</string>
+  <string name="err_title_memory_low">Меморија је скоро попуњена…</string>
+  <string name="err_title_temp_error">Привремена грешка</string>
+  <string name="err_title_update">Грешка при ажурирању</string>
+  <string name="error_code">Кôд грешке: </string>
+  <string name="error_copyfail">Није успело копирање са SD картице.</string>
+  <string name="error_disabled">Преузимање ажурирања није успело. Пакет ажурирања тренутно није доступан. 
+
+Не морате више ништа да предузимате.</string>
+  <string name="error_fail">Нажалост, дошло је до проблема при ажурирању уређаја %1$s. Нису направљене никакве промене. Посетите Подешавања &gt; Ажурирање система да бисте покушали поново.</string>
+  <string name="error_in_call_msg">Уређај не може сада да ажурира пошто је у току позив</string>
+  <string name="error_in_call_title">Позив је у току</string>
+  <string name="error_install_title">Инсталација није успела</string>
+  <string name="error_mismatch">Дошло је до неподударања верзија. Ажурирање ће се поновити. Ако је доступно, добићете упит.</string>
+  <string name="error_mismatch_sd">Ажурирање није успело. Верзија ажурирања не подудара се са телефоном. 
+
+Преузмите исправну верзију за телефон и покушајте поново.</string>
+  <string name="error_network">Веза је прекинута. Покушајте поново тако што ћете ручно проверити да ли постоје ажурирања у подешавањима телефона.</string>
+  <string name="error_reboot">Нисмо могли да преузмемо ово ажурирање. Ако желите да га преузмете касније, поново покрените уређај, а затим изаберите Подешавања &gt; Ажурирања система.</string>
+  <string name="error_resources">Нисмо успели да преузмемо ово ажурирање. Ако желите касније да га преузмете, изаберите Подешавања &gt; Ажурирања система.</string>
+  <string name="error_sdcard_resources_fail_removal">SD картица је уклоњена. Процес преузимања није довршен. 
+
+Поново убаците SD картицу и изаберите Подешавања &gt; Ажурирања система да бисте покушали поново.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Није могуће завршити преузимање. Нема довољно простора на SD картици. 
+
+Ослободите простор и изаберите Подешавања &gt; Ажурирања система да бисте покушали поново.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Уметните SD картицу да бисте започели преузимање.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Монтирајте SD картицу да бисте започели преузимање. 
+
+Изаберите Подешавања &gt; Меморија &gt; Монтирајте SD картицу.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Нема довољно простора на SD картици да би се завршило преузимање. 
+
+Ослободите %1$s простора и изаберите Подешавања &gt; Ажурирања система да бисте поново покушали да преузмете.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Грешка</string>
+  <string name="error_sdcard_resources_warning">Ажурирање софтвера се преузима на SD картицу. 
+
+Немојте да уклањате SD картицу док се инсталација не заврши.
+
+
+</string>
+  <string name="error_server">Дошло је до грешке на серверу. Покушајте поново касније.</string>
+  <string name="error_space">Ово ажурирање захтева %1$s доступне меморије на уређају. 
+
+Избришите апликације које се не користе или преместите фотографије и видео снимке на други меморијски уређај да бисте ослободили %2$s простора. 
+
+Када то обавите, можете да изаберете Подешавања &gt; Ажурирања система да бисте започели ажурирање.</string>
+  <string name="error_space_retry">Ово ажурирање захтева %1$s доступне меморије на уређају. 
+
+Избришите апликације које се не користе или преместите фотографије и видео снимке на други меморијски уређај да бисте ослободили %2$s простора.</string>
+  <string name="error_space_vab">Ово ажурирање захтева %1$s доступног слободног простора на уређају. Ослободите простор у меморији ради успешног ажурирања</string>
+  <string name="error_space_vab_make_room_popup">Потребно је да ослободите %1$s простора пре ажурирања. Пробајте да избришете некоришћене апликације или да преместите фотографије и видео снимке на други меморијски уређај.</string>
+  <string name="error_title">Преузимање није успело</string>
+  <string name="error_verify">Није могуће исправно проверити ово ажурирање. Покушајте поново.</string>
+  <string name="failed">Није успело</string>
+  <string name="failed_in_roaming">Wi-Fi је неопходан за ажурирање</string>
+  <string name="failure_process">Информације су доступне</string>
+  <string name="finalizing_patch">Финализирање ажурирања… (Корак 5 од 6)  </string>
+  <string name="first_net_text">Инсталирајте ажурирање или ће га уређај аутоматски инсталирати при следећем поновном покретању. Проверите да ли је ниво батерије виши од %s</string>
+  <string name="forceInstallMessage">Ово ажурирање ће бити аутоматски инсталирано на дан %1$s.</string>
+  <string name="force_install_message_screen">Ово је важно ажурирање, па га инсталирајте до %1$s. У супротном ће се аутоматски инсталирати у време када се уређај најмање користи. Проверите да ли је трајање батерије довољно за инсталацију.</string>
+  <string name="force_install_notification_message">Инсталирајте до %1$s. У супротном ће га уређај аутоматски инсталирати у време када се најмање користи.
+Трајање инсталације: %2$d мин</string>
+  <string name="force_restart_notification_message">Поново покрените до %1$s. У супротном ће се уређај аутоматски поново покренути у време када се најмање користи.</string>
+  <string name="force_restart_screen_message">Ако не покренете поново до %1$s, уређај ће се аутоматски поново покренути када се најмање користи.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Важи</string>
+  <string name="important_update_install_overdue_message">Прошло је време заказано за инсталацију. Инсталација ће започети када ваш уређај испуни критеријуме.</string>
+  <string name="important_update_restart_overdue_message">Прошло је време заказано за поновно покретање. Уређај ће се поново покренути када испуни критеријуме.</string>
+  <string name="initiating_ota_service_msg">Сачекајте...</string>
+  <string name="initiating_ota_service_title">Покретање процеса ажурирања софтвера</string>
+  <string name="install">Инсталирај</string>
+  <string name="install_after_one_hour">Инсталирај за 1 сат</string>
+  <string name="install_cancelled_title">Инсталација је отказана</string>
+  <string name="install_deferred_status">Ажурирање је одложено</string>
+  <string name="install_later">Инсталирај касније</string>
+  <string name="install_notify_sanity_call_msg">Уређај не може тренутно да инсталира зато што је у току позив</string>
+  <string name="install_notify_sanity_maps_msg">Уређај не може тренутно да инсталира зато што је укључена навигација</string>
+  <string name="install_now">Инсталирај сада</string>
+  <string name="install_postponed">Инсталација је одложена</string>
+  <string name="install_progress_cancel_message">Ако желите касније да инсталирате ово ажурирање, изаберите Подешавања &gt; Ажурирања система</string>
+  <string name="install_progress_paused_message">%s довршено (паузирано)</string>
+  <string name="install_time">Трајање инсталације: %1$d мин</string>
+  <string name="install_warning">Шта треба да знате пре инсталације</string>
+  <string name="just_one_more_step">Само још један корак</string>
+  <string name="keep_it_on">Остави их укључена</string>
+  <string name="later_button">Подсети ме касније</string>
+  <string name="learn_more_online_link">Сазнајте више онлајн</string>
+  <string name="low_battery_bg_install">Инсталација је паузирана услед скоро испражњене батерије. Инсталација ће се наставити када батерија буде напуњена преко 20%.</string>
+  <string name="low_battery_download">Преузимање је паузирано зато што је батерија скоро празна. Наставиће се када се уређај напуни.</string>
+  <string name="low_battery_install">Напуните уређај бар до %s да бисте инсталирали ово ажурирање</string>
+  <string name="make_space">Ослободите простор</string>
+  <string name="mandatory_install_notification">Ако ускоро не инсталирате ово ажурирање система, пропустићете важна безбедносна ажурирања, као и нове функције и поправке грешака.</string>
+  <string name="mandatory_restart_notification">Пошто је ово важно ажурирање, поново покрените. У супротном ћете пропустити безбедносна ажурирања, као и нове функције и поправке грешака.</string>
+  <string name="medium_channel_name">Обавештавање о преузимању софтвера</string>
+  <string name="merge_emergency_call_text">Током поновног покретања нећете моћи да обављате нити примате позиве, укључујући хитне позиве.</string>
+  <string name="merge_force_restart_text">Ако не желите одмах да поново покренете, ваш телефон ће се аутоматски поново покренути када постане неактиван.</string>
+  <string name="merge_progress_text">Када се ажурирање заврши, послаћемо вам обавештење.</string>
+  <string name="merge_progress_title">Завршавамо ажурирање…</string>
+  <string name="merge_restart_text">Ажурирање ће се завршити након што поново покренете свој телефон.</string>
+  <string name="merge_restart_title">Поново покрените</string>
+  <string name="merge_update_fail_notify_text">Пронашли смо неке системске проблеме. Посетите наш сервисни центар да их решите.</string>
+  <string name="merge_update_fail_notify_title">Ажурирање није успело</string>
+  <string name="merge_update_fail_text">Пронашли смо неке системске проблеме који ће вас спречити да примате ажурирања. Посетите свој сервисни центар да их решите.
+
+У међувремену, можете користити свој телефон као и уобичајено.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Избор налога</string>
+  <string name="multiple_account_alert">Изаберите %1$s налог да бисте наставили са ажурирањем система.</string>
+  <string name="no_thanks">Не, хвала</string>
+  <string name="no_thanks_message">Ако желите касније да преузмете ово ажурирање, изаберите Подешавања &gt; Ажурирања система.</string>
+  <string name="no_updates_applied">Ажурирања нису примењена</string>
+  <string name="not_now">Не сада</string>
+  <string name="ok">Потврди</string>
+  <string name="otaservice_perm_desc">Дозвола која је потребна апликацијама за интеракцију са otaservice</string>
+  <string name="package_size">Величина преузимања: %1$s</string>
+  <string name="personalInfo_instruction">Нећете изгубити личне информације</string>
+  <string name="picker_cell_radio">Wi-Fi и мобилни подаци</string>
+  <string name="picker_title">Изаберите како желите да преузмете ово ажурирање:</string>
+  <string name="picker_wifi_only_radio">Само Wi-Fi</string>
+  <string name="please_restart">Поново покрените сада</string>
+  <string name="policy_set">Ажурирање система је блокирано. Обратите се администратору уређаја за више информација.</string>
+  <string name="press_back_again_to_exit">Поново притисните дугме за назад да бисте изашли</string>
+  <string name="progress_copying_sd">Копирање ажурирања</string>
+  <string name="progress_deffered">Преузимање ће започети преко Wi-Fi/мобилне мреже.</string>
+  <string name="progress_downloading_ota">Преузимање системског ажурирања</string>
+  <string name="progress_downloading_security">Преузимање безбедносног ажурирања</string>
+  <string name="progress_retried">Преузимање софтвера је прекинуто. Наставићемо да покушавамо…</string>
+  <string name="progress_suspended">Чека се веза за податке да би се преузимање наставило</string>
+  <string name="progress_suspended_datasaver">Искључите чување података да бисте наставили преузимање</string>
+  <string name="progress_suspended_no_adminapn">Чека се Wi-Fi или мрежа са бесплатним приступом да би се преузимање наставило</string>
+  <string name="progress_suspended_roaming">Преузимање је паузирано услед роминг мреже, укључите Wi-Fi да бисте наставили са преузимањем.</string>
+  <string name="progress_suspended_wifi">Чека се Wi-Fi ради наставка преузимања…</string>
+  <string name="progress_verify">Провера да ли је уређај спреман за ажурирање…</string>
+  <string name="progress_verify_allocate_space">Провера да ли је количина простора у меморији довољна</string>
+  <string name="relative_date_time">%1$s у %2$s</string>
+  <string name="release_note_battery_desc">Ажурирања за побољшање трајања батерије и коришћења</string>
+  <string name="release_note_battery_title">Батерија</string>
+  <string name="release_note_camera_desc">Ова побољшања вам омогућавају да снимате прецизније и детаљније фотографије</string>
+  <string name="release_note_camera_title">Камера</string>
+  <string name="release_note_cellular_desc">Промене доприносе побољшању везе за пренос података уређаја</string>
+  <string name="release_note_cellular_title">Мобилна мрежа</string>
+  <string name="release_note_charging_desc">Ова ажурирања побољшавају могућности пуњења</string>
+  <string name="release_note_charging_title">Пуњење</string>
+  <string name="release_note_generic_desc">Промене ће допринети побољшању општих перформанси уређаја</string>
+  <string name="release_note_os_update_desc">Нове монохроматске теме дају телефону елегантан изглед и омогућавају истицање позадине. Прегледајте како апликације користе и деле податке пре давања дозвола и побољшајте приступачност помоћу нових функција за слух и вид у оперативном систему Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Ове промене доприносе побољшању перформанси уређаја</string>
+  <string name="release_note_performance_title">Перформансе</string>
+  <string name="release_note_security_desc">Укључује безбедносне закрпе до датума %1$s</string>
+  <string name="release_note_security_title">Безбедносно ажурирање</string>
+  <string name="release_note_stability_desc">Укључује побољшања и исправке грешака које побољшавају поузданост телефона</string>
+  <string name="release_note_stability_title">Стабилност</string>
+  <string name="release_note_title">Ово ажурирање укључује</string>
+  <string name="release_note_wifi_desc">Укључује ажурирања Wi-Fi везе</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Погледајте све нове функције у оперативном систему Android %1$s</string>
+  <string name="request_suspended_datasaver">Искључите чување података да бисте започели преузимање</string>
+  <string name="request_suspended_no_network">Преузимање не може да почне јер нема мрежног сигнала</string>
+  <string name="restart_after_one_hour">Поново покрени за 1 сат</string>
+  <string name="restart_instruction_title">Шта треба да знате пре поновног покретања</string>
+  <string name="restart_later">Касније</string>
+  <string name="restart_message">Поново покрените сада да бисте ажурирали</string>
+  <string name="restart_notification">Поново покрени</string>
+  <string name="restart_notification_text">Поново покрените сада да бисте ажурирали. Ажурирање је на чекању %1$d дана.</string>
+  <string name="restart_notify_sanity_call_msg">Уређај не може поново да се покрене зато што је у току позив</string>
+  <string name="restart_notify_sanity_maps_msg">Уређај не може поново да се покрене зато што је укључена навигација</string>
+  <string name="restart_now">Поново покрени сада</string>
+  <string name="restart_postponed">Поновно покретање је одложено</string>
+  <string name="restart_title">Поново покрените уређај</string>
+  <string name="resume_download_on_cellular">Користи мобилне податке</string>
+  <string name="retrieving_token">Провера идентитета...</string>
+  <string name="sdcard_predownload_text">
+У овом кораку ћете копирати ажурирање у системску меморију. Ажурирање ће бити инсталирано у следећем кораку. 
+
+Повежите телефон на извор напајања да бисте били сигурни да се батерија неће испразнити.</string>
+  <string name="search_menu_title">Претражите</string>
+  <string name="secure_instruction">Овај процес је безбедан</string>
+  <string name="security_download_notification_title">Унапредите безбедност</string>
+  <string name="security_install_notification_text">Ново ажурирање безбедности је спремно за инсталацију</string>
+  <string name="security_install_title">Безбедносно ажурирање је спремно</string>
+  <string name="security_patch">Безбедносна закрпа:</string>
+  <string name="security_update_low_storage_title">Безбедносно ажурирање</string>
+  <string name="security_update_notification_text">Добијте најновије безбедносно ажурирање</string>
+  <string name="security_update_paused">Безбедносно ажурирање је паузирано</string>
+  <string name="security_update_pending_notification_text">Преузмите најновије безбедносно ажурирање. Ажурирање је на чекању %1$d дана.</string>
+  <string name="security_update_title">Безбедносно ажурирање</string>
+  <string name="select_account">Изаберите %1$s налог</string>
+  <string name="selected_later_time_os_mr">Системско ажурирање ће бити инсталирано у </string>
+  <string name="selected_later_time_smr">Безбедносно ажурирање ће бити инсталирано </string>
+  <string name="setting_sw_summary">Ажурирање на најновији софтвер </string>
+  <string name="setting_sw_title">Ажурирања система</string>
+  <string name="smart_cancel_update_toast_msg">Ажурирање је поново заказано за %1$s</string>
+  <string name="smart_end_time">Крај</string>
+  <string name="smart_install_message_popup">Пошто сте омогућили Паметно ажурирање, уређај ће аутоматски инсталирати ажурирање на %1$s ако га до тада не будете инсталирали. Проверите да ли имате довољно батерије за инсталацију.</string>
+  <string name="smart_restart_message_popup">Пошто сте омогућили Паметно ажурирање, уређај ће се аутоматски поново покренути %1$s ако га до тада не будете поново покренули.</string>
+  <string name="smart_settings_string">Ажурирања се аутоматски преузимају и инсталирају када сте повезани на Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Ажурирања се аутоматски преузимају и инсталирају када сте повезани на Wi-Fi или када користите мобилне податке</string>
+  <string name="smart_settings_string_vzw">Ажурирања се аутоматски преузимају и инсталирају</string>
+  <string name="smart_start_time">Почетак</string>
+  <string name="smart_to_string">до</string>
+  <string name="smart_update_advanced">Напредно</string>
+  <string name="smart_update_note">Ради ваше безбедности, сва важна безбедносна ажурирања се аутоматски преузимају, без обзира на то да ли је ова функција укључена или искључена.</string>
+  <string name="smart_update_note_vzw">Ради ваше безбедности, сва критична ажурирања ће се аутоматски преузети и инсталирати, без обзира на то да ли је ова функција укључена или искључена.</string>
+  <string name="smart_update_pop_up_text">Нека ваш уређај увек буде безбедан уз аутоматска ажурирања</string>
+  <string name="smart_update_recommendation">Пробајте паметна ажурирања</string>
+  <string name="smart_update_suggestion_text">Останите безбедни уз аутоматска ажурирања</string>
+  <string name="smart_update_text_AB">Помозите да ваш уређај безбедно и ефикасно ради тако што ћете аутоматски инсталирати сва нова безбедносна ажурирања и поправке грешака.</string>
+  <string name="smart_update_text_AB_vzw">Паметна ажурирања помажу уређају да ради безбедно и ефикасно. Када их укључите, сва нова <b>безбедносна ажурирања</b> ће се аутоматски преузимати. После преузимања, уређај ће се поново покренути у време које изаберете.</string>
+  <string name="smart_update_text_classic">Паметна ажурирања помажу уређају да ради безбедно и ефикасно. Када их укључите, сва нова <b>безбедносна ажурирања и поправке грешака</b> ће се аутоматски преузимати. После преузимања, уређај ће се поново покренути и инсталирати у време које изаберете.</string>
+  <string name="smart_update_text_classic_vzw">Паметна ажурирања помажу уређају да ради безбедно и ефикасно. Када их укључите, сва нова <b>безбедносна ажурирања</b> ће се аутоматски преузимати. После преузимања, уређај ће се поново покренути и инсталирати у време које изаберете.</string>
+  <string name="smart_update_time_slot_text_AB">Изаберите време за покретање</string>
+  <string name="smart_update_time_slot_text_classic">Изаберите време за инсталацију</string>
+  <string name="smart_update_title">Паметна ажурирања</string>
+  <string name="software_not_update_to">Софтвер још увек није ажуриран на</string>
+  <string name="software_update_in_progress">Систем се ажурира на верзију</string>
+  <string name="software_update_planned_summary">Проверено – %1$s</string>
+  <string name="software_update_planned_title">Планирано је ажурирање софтвера</string>
+  <string name="software_update_to">Систем је ажуриран на</string>
+  <string name="sofware_version">Верзија софтвера:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Ослободите простор за ажурирање</string>
+  <string name="su_btn">Подешавања</string>
+  <string name="su_text_off">Биће потребно да ручно ажурирате уређај када нови софтвер буде доступан. Укључите паметна ажурирања да бисте овај процес учинили аутоматским. Додирните за више детаља.</string>
+  <string name="su_text_on">Паметна ажурирања подразумевано се покрећу између 1.00 и 3.00. У подешавањима можете да промените време ажурирања или да искључите паметна ажурирања. Додирните за више детаља.</string>
+  <string name="su_title_off">Паметна ажурирања су искључена</string>
+  <string name="su_title_on">Паметна ажурирања су укључена</string>
+  <string name="system_download_notification_title">Ажурирање система</string>
+  <string name="system_install_notification_text">Ажурирање система је спремно за инсталацију</string>
+  <string name="system_install_title">Ажурирање је спремно</string>
+  <string name="system_pdl_notification_mr_title">Добијте поправке грешака и још тога</string>
+  <string name="system_pdl_notification_os_title">Android %1$s је стигао!</string>
+  <string name="system_update">Ажурирање система</string>
+  <string name="system_update_desc">Заштитите свој уређај од безбедносних претњи и набавите најновије Motorola и Android функције</string>
+  <string name="system_update_info_not_available">Није доступно</string>
+  <string name="system_update_low_storage_text">Додирните овде да бисте проверили меморију и наставили.</string>
+  <string name="system_update_low_storage_title">Ажурирање система</string>
+  <string name="system_update_notification_os_text">Испробајте нови Android</string>
+  <string name="system_update_notification_text">Преузмите нови софтвер</string>
+  <string name="system_update_paused">Ажурирање система је паузирано</string>
+  <string name="system_update_pending_notification_os_text">Искусите нови Android. Ажурирање је на чекању %1$d дана.</string>
+  <string name="system_update_pending_notification_text">Преузмите нови софтвер. Ажурирање је на чекању %1$d дана.</string>
+  <string name="system_update_settings_list_item_title">Ажурирања система</string>
+  <string name="system_update_status">Статус ажурирања</string>
+  <string name="system_update_title">Ажурирање система</string>
+  <string name="tethered_permission_desc">Пошаљи резултате 3c ажурирања</string>
+  <string name="tethered_update_result">Резултат ажурирања са дељењем</string>
+  <string name="time_picker_text">Покрени инсталацију без подсетника</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Покушај поново</string>
+  <string name="turn_it_off">Искључи их</string>
+  <string name="turn_it_on">Укључи</string>
+  <string name="turn_on_smart_updates">Укључи паметна ажурирања</string>
+  <string name="update">Ажурирај</string>
+  <string name="update_blocked_by_policy">Смернице администратора блокирају ажурирање </string>
+  <string name="update_cancelled_status">Преузимање софтвера је отказано</string>
+  <string name="update_fail_desc">Нешто није у реду</string>
+  <string name="update_fail_status">Ажурирање није успело</string>
+  <string name="update_fail_sucancel_dm_status">Сервер је отказао ажурирање</string>
+  <string name="update_fail_title">Ажурирање није успело</string>
+  <string name="update_history_blank">Још нема историје</string>
+  <string name="update_history_src_target">Ажурирања од %1$s до %2$s</string>
+  <string name="update_history_time">Датум ажурирања: %1$s</string>
+  <string name="update_history_title">Историја ажурирања</string>
+  <string name="update_history_version">Верзија софтвера: %1$s</string>
+  <string name="update_info">Ажурирање…</string>
+  <string name="update_postpone_policy">Смернице администратора су одложиле ажурирање </string>
+  <string name="update_preference">Подешавања ажурирања</string>
+  <string name="update_success_desc">Тренутна верзија софтвера: %1$s</string>
+  <string name="update_success_desc_os">Честитамо! Успешно сте инсталирали Android %1$s. Сада сте спремни да уживате у бољем, паметнијем и безбеднијем Android искуству.</string>
+  <string name="update_success_status">Ажурирање је успело</string>
+  <string name="update_title">Ажурирање је завршено</string>
+  <string name="update_title_text">Уживајте у новом софтверу!</string>
+  <string name="upto_date_title">Све изгледа добро!</string>
+  <string name="urgent_channel_name">Обавештење о ажурирању софтвера</string>
+  <string name="use_smart_updates">Користите паметна ажурирања</string>
+  <string name="vab_validation_update_failure_desc">Ажурирање VAB валидације није успело</string>
+  <string name="vab_validation_update_failure_title">VAB валидација није успела</string>
+  <string name="vab_validation_update_success_desc">Честитамо! Ажурирање VAB валидације је успело</string>
+  <string name="vab_validation_update_success_title">VAB валидација је успела</string>
+  <string name="verifying_patch">Ажурирање је примењено. Потврда да је примена била успешна… (Корак 4 од 6)  </string>
+  <string name="verity_disabled_msg">Ваш уређај може да буде изложен безбедносним ризицима. Извршите доњу команду да бисте наставили да добијате ажурирања
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Ваш уређај више не прима ажурирања</string>
+  <string name="verizon_failure_notification_text"> Уређај не може да инсталира ово ажурирање. Употребите алатку Software Upgrade Assistant да бисте инсталирали. Додирните за више информација.</string>
+  <string name="verizon_failure_text">Дошло је до проблема при ажурирању уређаја. Нису направљене промене. Да бисте ажурирали софтвер, можете да употребите алатку Software Upgrade Assistant.
+
+Да бисте инсталирали алатку Software Upgrade Assistant:
+
+1. USB каблом повежите уређај са рачунаром
+2. Када се појави USB мени на уређају, изаберите икону подешавања у горњем десном углу
+3. Из USB подешавања изаберите Инсталирање софтвера
+4. Пређите на рачунар и потражите чаробњак за инсталацију
+5. Прођите кроз чаробњак
+
+Алатка Software Upgrade Assistant ће вам помоћи са преузимањем и инсталирањем ажурирања софтвера на уређају.</string>
+  <string name="vital_applying_updates">Примењују се ажурирања…</string>
+  <string name="vital_bg_text">Ово може да потраје неколико минута.</string>
+  <string name="vital_check_for_updates">Траже се ажурирања…</string>
+  <string name="vital_check_for_updates_desc">Ажурирања одржавају безбедност уређаја и побољшавају перформансе.</string>
+  <string name="vital_done">Готово!</string>
+  <string name="vital_error_fail">Дошло је до грешке при ажурирању. Нису направљене промене.</string>
+  <string name="vital_go_back">Желите ли стварно да зауставите инсталацију</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Поново покрените да бисте наставили</string>
+  <string name="vital_skip">Прескочи</string>
+  <string name="vital_stop">Заустави</string>
+  <string name="wifi_setting">Wi-Fi подешавања</string>
+</resources>

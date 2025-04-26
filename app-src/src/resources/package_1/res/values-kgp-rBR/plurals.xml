@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Vin fã vỹ %1$dsegũno ki vẽsỹ róm kej mũ ti tã vẽ sa tãg ke kãn jé.</item>
+    <item quantity="other">Vin fã vỹ %1$dsegũno ki vẽsỹ róm kej mũ ti tã vẽ sa tãg ke kãn jé.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">Ki rã mãn ja %1$d sigũno ki</item>
+    <item quantity="other">ki rã mãn ja %1$d sigũno ki</item>
+  </plurals>
+</resources>

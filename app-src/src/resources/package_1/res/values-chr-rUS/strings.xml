@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">ᏗᎪᏒᎯᏌᏅᎯ ᎣᏂᏯᎨᏍᏗ</string>
+  <string name="ab_download_now">ᏗᎪᏒᎯᏌᏅᎯ Ꭷ</string>
+  <string name="ab_install_notification_paused_text">ᎣᎾᏗᏢ ᏄᏍᏗᏓᏅ ᎦᏘᏅᏔᏅ ᎠᏲᎯᏍᏔᏅ</string>
+  <string name="ab_install_notification_text">ᎣᎾᏗᏢ ᏄᏍᏗᏓᏅ ᎦᏘᏅᏛᏍᏗ</string>
+  <string name="ab_restart_fullscreen_text">ᏂᏨᎤᎢ ᎾᎥᏂᎨᏍᏗ ᎤᎿᎢ! ᎨᎡᎢ ᎠᏎ ᎤᏅᏒ ᎯᏫᏓ ᎢᎸᏨ 90 ᏓᏓᎾᏩᏍᎬ ᎾᎿᎢ ᏥᎭᏂᎩᏍᏓ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ. ᏥᎭᏂᎩᏍᏓ ᏂᎦᎵᏍᏓ ᎠᏛᏅᎢᏍᏔᏅ ᎾᏍᎩᎾ %1$d ᏧᏒᎯᏓ.</string>
+  <string name="ab_restart_text">ᏂᏨᎤᎢ ᎾᎥᏂᎨᏍᏗ ᎤᎿᎢ! ᎨᎡᎢ ᎠᏎ ᎤᏅᏒ ᎯᏫᏓ ᎢᎸᏨ 90 ᏓᏓᎾᏩᏍᎬ ᎾᎿᎢ ᏥᎭᏂᎩᏍᏓ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ.</string>
+  <string name="ab_restart_warning_os_mr">ᏂᏨᎤᎢ ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎾᎥᏂᎨᏍᏗ ᎠᏍᏆᏛᏃᏅ.ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓ ᎠᏎ  </string>
+  <string name="ab_restart_warning_smr">ᏂᏨᎤᎢ ᏧᎾᎦᏎᏍᏗ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎾᎥᏂᎨᏍᏗ ᎠᏍᏆᏛᏃᏅ.ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓ ᎠᏎ  </string>
+  <string name="ab_warning_continues"> ᎾᎿᎢ ᎠᏍᏆᏛᏃᏅ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ.</string>
+  <string name="abupdate_in_progress_status">ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎪᏢᎯᏐᏗ ᏄᏍᏛ ᎾᎿᎢ ᎠᎵᏱᎵᏒ</string>
+  <string name="additional_charges_message">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᏎ ᎠᎯᎸᏍᏗ ᎾᎿᎢ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ. ᎦᏘᏍᎩᏌᏅᎯ ᏓᎬᏩᎶᏗᏍᎬ ᏰᎵᏉ ᎨᎡᎢ ᏗᏓᏂᎸᎩ.</string>
+  <string name="alertSubText">ᎯᎠ ᎨᎡᎢ ᎬᏔᏅᎢ ᎾᎿᎢ ᎪᏪᎶᏗ, ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᎴ ᎯᏘᏅᎦ ᏗᎪᏒᎯᏌᏅᎯ ᎦᏇᏅᏛ</string>
+  <string name="alertText">ᎠᎵᏍᎪᎸᏗᏍᎬ ᏧᎾᏚᏓᎵ ᏓᏂᏱᎵᏒᎢ ᎾᏍᎩᎾ ᎦᎾᏗᏅᏗ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="alertTitle">ᏗᎪᏢᎯᏐᏗ ᎠᏎᏯᏛᏁᏗ ᏥᎩ ᎠᏍᏓᏩᏓ ᎠᏓᎵᏍᎪᎸᏓᏁᎯ</string>
+  <string name="alert_dialog_cancel">ᎭᎴᏫᏍᏓ ᎦᏘᏅᏛᏍᏗ</string>
+  <string name="alert_dialog_continue">ᎠᏍᏆᏂᎪᏙᏗᎢ ᎦᏘᏅᏛᏍᎦ</string>
+  <string name="alert_dialog_no">Ꮭ</string>
+  <string name="alert_dialog_ok">ᎪᎵᎦ</string>
+  <string name="alert_dialog_yes">ᎥᎥ</string>
+  <string name="allocate_space_success">ᎢᏯᏛᏁᏗ ᎠᏅᏓᏗᏍᏙ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅ ᎤᎬᏩᏟ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="allow">ᎠᎵᏍᎪᎸᏗᏍᎬ</string>
+  <string name="android_latest_sw_text">ᏂᎯ ᎾᏍᎩ ᎬᏗᏍᎬ ᎢᏤᎯᎨᎢᏍᏗ ᎦᎾᏗᏅᏗ</string>
+  <string name="android_version">Android ᏄᏓᎴᏒᎢ:</string>
+  <string name="app_name">Motorola ᎦᎾᏗᏅᏗ ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="applied">ᎤᎾᎢ</string>
+  <string name="apply_bug_fix">ᏱᏂᎦᎵᏍᏓ ᎾᎿᎢ ᏍᎪᏯ ᎪᏢᎯᏐᏗ</string>
+  <string name="apply_os_update">ᎲᏓ ᎾᎿᎢ ᏂᎦᏓ ᎦᎾᏗᏅᏗ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="applying_patch">ᎠᏂᏔᏲᎯᎮᏍᏗ ᏙᏢᎯᏌ (ᎠᎳᏍᎬᏓ %1$d ᎾᎿ %2$d)  </string>
+  <string name="are_you_sure">ᎠᏍᏚᏗ ᎠᏌᎹᏗ ᏗᎪᏢᎯᏐᏗ?</string>
+  <string name="are_you_sure_pop_up_text">ᎨᎡᎩ ᏂᎯ ᎤᏙᎯᏳ ᏂᎯ ᎤᏚᎵᎭ ᎾᎿᎢ ᎠᏍᏚᏗ ᎠᏌᎹᏗ ᏗᎪᏢᎯᏐᏗ? </string>
+  <string name="asc_campaign_assigned">ᎠᎲᏏᏓᏍᏗ ᏓᏥᏲᎯᏎᎸ</string>
+  <string name="asc_campaign_is_allowed">ᎠᏍᏓᏯᎪᏢᏅᎯ ᏙᏢᎯᏌ</string>
+  <string name="asc_campaign_is_blocked">ᎠᏍᏓᏯᎪᏢᏅᎯ ᏍᏓᏯ ᎠᏍᏚᏓ</string>
+  <string name="asc_campaign_not_assigned">ᏥᏂᎬᏅᏗᏓᎾ ᎥᏝ ᏃᏊᎨᏒᎢ ᎾᎿᎢ ᎠᎲᏏᏓᏍᏗ</string>
+  <string name="asc_campaign_status_prefix">
+ᏄᏛᎿᏕᎬᎢ: </string>
+  <string name="asc_campaign_window_period_status">
+ᏙᏢᎯᏌ ᏦᎳᏂ: ᎾᏍᎩᎾ %s ᎾᎿᎢ %s</string>
+  <string name="asc_sw_up_to_date"> ᎾᎢ ᎢᏤᎯᎨᎢᏍᏗ ᏄᏓᎴᏒᎢ</string>
+  <string name="asc_target_version"> ᎾᎢ ᏄᏓᎴᏒᎢ </string>
+  <string name="auth_title">ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ</string>
+  <string name="auto_download_cellualr_charges_warn">ᎢᏳᏃ ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ ᏗᎪᏢᎯᏐᏗ ᎤᎶᏒ ᎠᏂᎩᏍᎩ ᎤᏚᏓᎵ, ᏧᎬᏩᎶᏗ ᏓᎬᏩᎶᏗᏍᎬ ᏰᎵᏉ ᎲᏓ.</string>
+  <string name="auto_download_enable_cellular_future_updates">ᏣᏚᎵᎭᏍ ᎠᏑᏰᏍᏗ ᏗᎫᎪᏙᏗ ᏫᏚᏍᏗᎬᎢ ᎦᏟᏌᏅᎯ ᎠᏑᏰᏍᏗ ᎾᏍᎩᎾ ᎤᏩᎫᏗᏗᏒ ᎡᎳᏗᏟ ᏕᎦᏢᏍᎬᎢ ᎾᏍᏉ?</string>
+  <string name="auto_download_settings_title">ᎤᏩᏒ-ᎡᎳᏓᎪᏘ ᏕᎦᎧᎲᎢ</string>
+  <string name="auto_download_wifi_cellular">ᎤᏩᏒ ᎡᎳᏓᎪᏘ ᎦᏢᏍᎬᎢ ᎢᏴᏛ ᏫᏚᏍᏗᎬᎢ ᎠᎴ Wi-Fi.</string>
+  <string name="auto_download_wifi_cellular_desc">ᎤᏩᏒ ᎡᎳᏓᎪᏘ ᎦᏢᏍᎬᎢ ᎢᏴᏛ ᏫᏚᏍᏗᎬᎢ ᎠᎴ Wi-Fi. Wi-Fi ᏰᎵᏉ ᎨᏎᏍᏗ ᎬᏔᏅᎯ ᎠᎬᏱ ᎢᏳᏃ ᎠᏛᏅᎢᏍᏔᏅ. </string>
+  <string name="auto_download_wifi_only">ᎤᏩᏌ-ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏄᏢᎥᏍᎩ Wi-Fi ᎤᏩᏌ</string>
+  <string name="auto_download_wifi_only_desc">ᎤᏩᏒ ᎡᎳᏓᎪᏘ ᎦᏢᏍᎬᎢ ᎢᏴᏛ Wi-Fi ᎤᏩᏌ</string>
+  <string name="auto_install_notification_text">ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᎤᏩᏒ ᎯᏘᏅᎦ ᎤᎿᎢ %1$s</string>
+  <string name="auto_time_set">ᎭᎴᎾ ᎤᎿᎢ:</string>
+  <string name="automatic_bg_install_on_cellular_warning">ᏅᏗᎦᎵᏍᏙᏗᏍᎬᏃ ᎾᎿ ᎨᎡᎢ ᏭᎵᏍᎨᏗᏴ, ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎯᏘᏅᎦ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎬᏗᎭ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ ᎤᎿᎢ %1$s</string>
+  <string name="automatic_download_on_cellular_warning">ᏅᏗᎦᎵᏍᏙᏗᏍᎬᏃ ᎾᎿ ᎨᎡᎢ ᏭᎵᏍᎨᏗᏴ, ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎬᏗᎭ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ ᎤᎿᎢ %1$s</string>
+  <string name="background_install_msg">ᎯᎠ ᏙᏢᎯᏌ ᏰᎵᏉ ᎬᎵᏱᎵᏒ ᎢᏳᏃ ᏂᎯ ᏥᏫᎭᎦᏔᎲᎾ ᎠᎴ ᎯᏍᏚᎲᎦ ᏦᎳᏂ</string>
+  <string name="background_install_text">Ꭰ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ &amp; ᎦᏘᏅᏛᏍᎬ. ᏂᎯ ᏰᎵᏯ ᎠᎯᎸᏍᏗ ᎬᏗᎭ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ.</string>
+  <string name="bad_connection">ᎠᏏᎳᏕᏫᏒᎢ</string>
+  <string name="bad_connection_text">ᎠᎦᏘᎭ ᏣᎸᏉᏛ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᏃᏊ ᏥᎩ ᎫᏓᎴᏓᏃ ᎬᏗ ᎠᏏᎳᏕᏫᏒᎢ. ᎤᏟᏍᏓ ᎠᏒᏂᎸ ᏥᎩ ᎭᏫᏂ ᎡᏙᎯ ᎦᏛᏗ ᎾᎿᎢ ᏏᏊ ᏥᎭᏁᎸᏓ.</string>
+  <string name="bg_install_cancel_confirm">ᎨᎡᎩ ᏂᎯ ᎤᏙᎯᏳ ᏂᎯ ᎤᏚᎵᎭ ᎾᎿᎢ ᎭᎴᏫᏍᏓ ᎦᏘᏅᏛᏍᏗ?</string>
+  <string name="bg_retried">ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏓᏲᏍᏓᏁᎸᎩ ᏂᎦᎵᏍᏓ. ᏂᎦᏛᏉ ᎠᏎ ᏣᎮᏍᏗ ᎠᏁᏟᏗᎭ...</string>
+  <string name="bg_suspended">ᎠᎦᏘᏯ ᎤᎬᏩᏟ Ꭰ ᎦᏘᏍᎩᏌᏅᎯ ᎫᏓᎸᎢ ᎾᎿᎢ ᎠᎴᏂᏐᏗᏍᎩ ᎣᎾᏗᏢ ᏄᏍᏗᏓᏅ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏃᎴ ᎦᏘᏅᏛᏍᏗ</string>
+  <string name="bg_suspended_non_adminapn">ᎠᎦᏘᏯ ᎤᎬᏩᏟ Wi-Fi ᏃᎴ ᎧᏂᎩᏗ ᎠᏟᎶᏓ ᏧᎾᏚᏓᎵ ᎾᎿᎢ ᎠᎴᏂᏐᏗᏍᎩ ᎣᎾᏗᏢ ᏄᏍᏗᏓᏅ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏃᎴ ᎦᏘᏅᏛᏍᏗ...</string>
+  <string name="bg_suspended_roaming">ᎣᎾᏗᏢ ᏄᏍᏗᏓᏅ ᎦᏘᏅᏛᏍᏗ ᎠᏲᎯᏍᏔᏅ ᏂᏗᎦᎵᏍᏙᏗᏍᎬ ᎾᎿᎢ ᎡᏙᎵᏙᎲ ᏧᎾᏚᏓᎵ, ᎰᏩᏊ ᎯᏍᏚᎢ Wi-Fi ᎾᎿᎢ ᎠᎴᏂᏐᏗᏍᎩ ᎣᎾᏗᏢ ᏄᏍᏗᏓᏅ ᎦᏘᏅᏛᏍᏗ.</string>
+  <string name="bg_suspended_wifi">ᎠᎦᏘᏯ ᎤᎬᏩᏟ Ꭰ Wi-Fi ᎾᎿᎢ ᎠᎴᏂᏐᏗᏍᎩ ᎣᎾᏗᏢ ᏄᏍᏗᏓᏅ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏃᎴ ᎦᏘᏅᏛᏍᏗ</string>
+  <string name="bootloader_unlock_msg">ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎨᎡᎢ Ꮭ ᎦᏅᎯᏓᎨ ᏕᎯᏁᎢ ᏗᎪᏢᎯᏐᏗ ᎠᎴ ᎡᎵᏊ ᎠᏞᏴᏍᏙᏗ ᎾᎿᎢ ᏧᎾᎦᏎᏍᏗ ᏗᎦᎾᏰᎩ.</string>
+  <string name="bootloader_unlock_title">Ꮭ ᎠᏛᏅᎢᏍᏔᏅ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="cancel">ᎠᏎᏒᏗ</string>
+  <string name="cancel_download_notification">ᎠᏎᏒᏗ</string>
+  <string name="cancel_install">ᎠᏎᏒᏗ</string>
+  <string name="cancel_update_notification">ᎠᏎᏒᏗ</string>
+  <string name="check_for_updates_title">ᎪᏪᎶᏗ ᎤᎬᏩᏟ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="check_update_badparam">ᏥᎩ ᏦᏢᎯᏐᏗ ᎤᏁᎸᏙᏗ ᏂᏚᏩᎿ ᏗᏠᎯᏍᏗ Ꭰ ᏓᏓᎴᎬᎢ ᎠᎵᏍᎪᏗᏍᏗ ᎢᏴᎢ ᎾᎿᎢ ᎤᏄᎸᏅᎢᎯᏴᏍᏗ.
+
+ᎰᏩᏊ ᏏᏊ ᎪᎯᏴ ᎯᎭᏁᎵᏔᏅᎢ.</string>
+  <string name="check_update_checking">ᎠᎪᎵᏰᎠ ᎤᎬᏩᏟ ᏗᎪᏒᎯᏌᏅᎯ…</string>
+  <string name="check_update_disabled_admin">ᏥᏂᎬᏅᏗᏓᎾ ᏗᎪᏢᎯᏐᏗ ᎬᏱᎸᏍᏗ ᎬᏗ IT ᎤᎦᏎᏍᏗᏕᎩ</string>
+  <string name="check_update_downloading">Ꭰ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᏃᏊ ᏥᎩ ᎠᎴᏂᏙᎲ ᎡᎳᏗᎬᏘ ᏫᎦᏢᏅᎯ.
+
+ᏂᎯ ᎠᏎ ᎨᎡᎢ ᎤᏓᏃᎯᏎᎸ ᎢᏳᏃ ᏥᎩ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎨᎡᎢ ᎧᎵᎢ.</string>
+  <string name="check_update_fail">Ꭰ ᏅᎦᏖᏃᎲᎾ ᏓᏓᎴᎬᎢ ᏂᏚᏩᎿ ᏄᎵᏍᏔᏅᎩ.
+
+ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᏏᏊ ᏥᎭᏁᎸᏓ ᎤᎬᏩᏟ Ꭰ ᏗᎪᏒᎯᏌᏅᎯ ᎾᎿᎢ ᎣᏂᏗᏨ ᏄᏍᏗᏓᏅ.</string>
+  <string name="check_update_internal">ᎤᏓᏄᎸᏅ ᎾᎿᎢ ᎪᏪᎶᏗ ᎤᎬᏩᏟ ᏗᎪᏢᎯᏐᏗ ᏏᏊ ᎪᎯᏴ ᎯᎭᏁᎵᏔᏅᎢ.</string>
+  <string name="check_update_net">ᎰᏩᏊ ᏣᎦᏛᎲᎦ ᏣᏤᎵ ᎠᏏᎳᏕᏫᏒᎢ ᎫᏓᎸᎢ ᎠᎴ ᏏᏊ ᏥᎭᏁᎵᏓ.</string>
+  <string name="check_update_net_vzw">ᏂᎯ ᎤᏚᎸᏓ ᎦᏟᏌᏅᎯ ᎫᏓᎸᎢ ᎪᎯᏳᏔᏅ ᎾᏍᎩᎾ ᏗᎪᏢᎯᏐᏗ. ᎪᎯᏳᏔᏅ ᏣᏤᎵ Wi-Fi ᎫᏓᎸᎢ, Ꭷ ᏕᎦᎧᎲᎢ &gt; ᎤᏚᏓᎵ &amp; ᎠᏏᎳᏕᏫᏒᎢ &gt; ᎠᏏᎳᏕᏫᏒᎢ &gt; Wi-Fi.
+
+ᏂᎯ ᏰᎵᏊ ᎾᏍᏊ ᎠᏩᏛᎯᏓᏍᏗ motorola.com/systemupdates ᎠᎪᏩᏛᏗ ᏐᎢ ᏙᏢᎯᏌ ᎠᏑᏰᏍᏗᎢ.</string>
+  <string name="check_update_not_sys_user">ᎪᎯᏳᏔᏅ ᏙᏢᎯᏌ ᎥᏝ ᎠᎵᏍᎪᎸᏔᏅ ᎾᏍᎩᎾ ᎠᏓᏩᏛᎯᏙᎯ ᏧᏓᏟᎶᏍᏔᏅᎢ</string>
+  <string name="check_update_processing">ᏩᏩᏛᏗ ᎣᎦᏤᎵ ᎠᏯᏙᎯᎯ…
+ᎰᏩᏊ ᎯᎦᏘᏓ</string>
+  <string name="check_update_roaming">ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅ ᎾᎿ ᎣᏪᏅᏒ ᏧᎾᏚᏓᎵ ᎤᏅᏒ. 
+
+Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏧᎾᏚᏓᎵ &amp; ᎠᏏᎳᏕᏫᏒᎢ &gt; Wi-Fi ᎾᎿᎢ ᎦᎧᎲᏍᎬᎢ Ꭰ ᎫᏓᎸᎢ Ꭷ.</string>
+  <string name="check_update_storage_low">ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎥᏝ ᎡᎵᏊ ᎠᎵᏍᎪᏗᏍᏗ ᎢᏴᎢ ᎾᎿᎢ ᎦᏲᏟᎢ ᎠᏍᏆᏂᎪᏙᏗ ᎤᏜᏅᏛ ᎤᎿᎢ ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ.</string>
+  <string name="check_update_temperror">Ꭰ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎾᎿᎢ ᏥᎩ ᏗᎪᏢᎯᏐᏗ ᏝᏍᏗ ᎨᎡᎢ ᎠᏍᏆᏙᎾ ᎤᎿᎢ ᏥᎩ ᏩᏎᎯᎯ.
+
+ᎰᏩᏊ ᏏᏊ ᏥᎭᏁᎵᏓ.</string>
+  <string name="check_update_text">ᎠᏍᏆᏂᎪᏙᏗᎢ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᏂᎦᎾᏰᎬᎾ ᏃᎴ ᏄᎾᏰᎯᏍᏛᎾᏉ ᎬᏗ ᎤᏩᏌ ᏱᎬᏁᎯ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="check_update_title_downloading">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎾᎿ ᎠᎵᏱᎵᏒ</string>
+  <string name="check_update_vab_validation">ᎠᎪᎵᏰᎠ ᎾᏍᎩᎾ VAB ᎤᏙᎯᏳᏒᎢ ᏗᎪᏒᎯᏌᏅᎯ ᏄᏛᎿᏕᎬᎢ
+ᎰᏩᏊ ᎯᎦᏘᏓ</string>
+  <string name="check_update_wifi_only">ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅ ᎾᎿ ᎢᏗᏨ Wi-Fi ᎤᏅᏒ.</string>
+  <string name="check_wifi_settings">ᎠᎦᏎᏍᏓ Wi-Fi ᏕᎦᎧᎲᎢ</string>
+  <string name="clear_space">ᎯᎵᎦᎵᏯ ᎤᏜᏅᏛ</string>
+  <string name="cloud_picker_title">ᎤᏩᎩᎸ ᎠᏑᏰᏍᎩ</string>
+  <string name="compatibility_failed_title">ᎦᏇᏅᏛ ᎪᎯᏳᏗᏍᎩ ᎤᏄᎸᏅᎢ</string>
+  <string name="compatibility_verification_failure">ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎦᏇᏅᏛ ᎠᎴᏂᏙᎲ ᎡᎳᏗᎬᏘ ᏫᎦᏢᏅᎯ ᎨᎡᎢ ᎥᏝ ᏗᏙᎸᎩ ᎬᏗ ᏥᎩ ᏃᏊ ᏥᎩ ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᏄᏓᎴᏒᎢ ᎤᎿᎢ ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ.</string>
+  <string name="compatibility_verification_failure_df">
+
+ᎰᏩᏊ ᎪᏪᎶᏗ ᎬᏗ ᏂᏨᎤᎢ ᎩᏟ ᎤᎾᎵᏍᏓᏴᏗ ᎠᎵᎪᏗᎢ.</string>
+  <string name="compatibility_verification_success">ᎤᏬᎯᏳᏔᏅᎢ ᏄᏓᏄᎸᏅᎾᏊ</string>
+  <string name="completed"> ᎦᏘᏅᏛᏍᏗ ᎧᎵᎢ. ᏂᎯᏊᏃ ᎨᏒᎢ ᎦᏅᏫᏍᏗᏍᎩ ᏥᎭᏂᎩᏍᏓ ᏣᏤᎵ ᏗᎳᏃᎮᏗ (ᎠᎳᏍᎬᏓ %1$d ᎾᎿ %2$d)</string>
+  <string name="completed_install">%s ᎧᎵᎢ</string>
+  <string name="connect_to_wifi">ᎫᏓᎸᎢ ᎾᎢ Wi-Fi</string>
+  <string name="continue_button">ᎠᎯᎸᏍᏗ</string>
+  <string name="critical_install_message_popup_os_mr">Ꭰ ᎤᎵᏍᎨᏓ ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅ. ᎰᏩᏊ ᎠᏑᏰᏍᏗ ᎯᏘᏅᎦ ᎾᎿᎢ ᎲᏓ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ. ᎨᎡᎢ ᎥᏝ, ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎨᎡᎢ ᎬᎾᏔᏅᎯ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎤᎿᎢ %1$s.</string>
+  <string name="critical_install_message_popup_smr">Ꭰ ᎤᎵᏍᎨᏓ ᏧᎾᎦᏎᏍᏗ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅ. ᎰᏩᏊ ᎠᏑᏰᏍᏗ ᎯᏘᏅᎦ ᎾᎿᎢ ᎲᏓ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ. ᎨᎡᎢ ᎥᏝ, ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎨᎡᎢ ᎬᎾᏔᏅᎯ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎤᎿᎢ %1$s.</string>
+  <string name="critical_install_message_screen">ᎯᎠ ᎤᎵᏍᎨᏓ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎯᏘᏅᎦ ᎾᎿᎢ %1$s. ᏙᏳᎢ ᏚᏳᎪᏛ ᎨᏎᏍᏗ ᏂᎯ ᎤᎭ ᏰᎵᏉ ᎠᎾᎦᎵᏍᎩ ᎤᎬᏩᏟ ᎦᏘᏅᏛᏍᏗ.</string>
+  <string name="critical_install_notification">ᏅᏗᎦᎵᏍᏙᏗᏍᎬᏃ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎤᎵᏍᎨᏓ, ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏙ ᎯᏘᏅᎦ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎤᎿᎢ %1$s
+ᎯᏘᏅᎦ ᎠᏟᎵᏒᎢ: %2$d ᎢᏯᏔᏬᏍᏔᏅᎯ</string>
+  <string name="critical_restart_message_popup">ᎲᏓ ᎤᎵᏍᎨᏓ ᏙᏢᎯᏌ, ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓᏄᎵᏍᏛᏉ ᎨᏒᎢ. ᎢᏳᏃ ᏂᎯ ᏝᏰᎵ, ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᏰᎵᏉ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᏥᎭᏂᎩᏍᏓ %1$s.</string>
+  <string name="critical_restart_message_screen">ᏅᏗᎦᎵᏍᏙᏗᏍᎬᏃ ᎯᎠ ᎨᎡᎢ Ꭰ ᎤᎵᏍᎨᏓ ᏗᎪᏒᎯᏌᏅᎯ, ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᏥᎭᏂᎩᏍᏓ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎤᎿᎢ %1$s ᎨᎡᎢ ᏂᎯ ᎤᎭ ᎥᏝ ᏥᎭᏂᎩᏍᏓ by ᎾᏉᏃ.</string>
+  <string name="critical_restart_notification">ᎯᎠ ᏙᏢᎯᏌ ᎤᎵᏍᎨᏓ. ᎢᏳᏃ ᏂᎯ ᏝᏰᎵ ᏥᎭᏂᎩᏍᏓ ᏃᏊ, ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᏰᎵᏉ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᏥᎭᏂᎩᏍᏓ %1$s</string>
+  <string name="critical_update_notification_title">ᎤᏢᏲᎵᏍᏗ ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="current_version">ᏃᏊ ᏥᎩ ᎦᎾᏗᏅᏗ ᏄᏓᎴᏒᎢ:</string>
+  <string name="custom_slot">ᏄᏍᏛ ᎢᏯᏛᏁᏗ</string>
+  <string name="custom_time">ᏄᏍᏛ ᎢᏯᏛᏁᏗ ᎠᏟᎵᏒᎢ</string>
+  <string name="dash"> —</string>
+  <string name="date_time">%s ᎤᎿᎢ %s</string>
+  <string name="defer_count_expired">ᎪᎵᎦ</string>
+  <string name="deny">ᎠᏓᏯᏍᏗ</string>
+  <string name="details">ᏂᏕᎬᎿᏅᎢ</string>
+  <string name="device_corrupted_msg">ᎤᏩᏛᎲᎢ ᏄᏍᏗᏓᏅᎢ ᏓᏓᎴᎬᎢ ᎢᏥᎵᏍᏗᏱ ᎠᎩᎵᏱ, ᏂᎯᏊᏃ ᎤᏪᏓᏍᏗ ᎡᏍᎦᏂ ᎢᏯᏓᏛᏁᏗ ᎠᏰᏟ ᎠᏎᎸᎯ.
+
+ᎤᎶᏐᏅ ᏗᎳᏃᎮᏗ ᎠᏎᎸᎯ, ᎬᎵᏱᎵᏒ ᎤᏂᎩᏍᏗ ᏗᎳᏃᎮᏗ ᏗᎪᏢᎯᏐᏗ.</string>
+  <string name="device_corrupted_title">ᏝᏰᎵ ᏙᏢᎯᏌ ᏗᎳᏃᎮᏗ</string>
+  <string name="dialog_alert_net_message">ᎪᏪᎶᏗ ᏂᏨᎤᎢ Wi-Fi ᏃᎴ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ ᎫᏓᎸᎢ ᏃᎴ ᏏᏊ ᏥᎭᏁᎸᏓ</string>
+  <string name="dialog_alert_net_title">ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᏂᎫᏓᎸᎾ</string>
+  <string name="dialog_alert_title">ᎠᎾᎦᎵᏍᎩ ᎧᏃᎮᏍᎩ</string>
+  <string name="dialog_progress">ᎦᏢᏍᎬ…</string>
+  <string name="dl_options_mobile_only_warning">ᎬᏗᎭ Wi-Fi ᎨᎡᎢ ᎦᎸᏉᏔᏅ. ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ ᎬᏗ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ ᏃᎴ ᎬᏗᎭ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ ᎾᎯᏳᎢ ᎡᏙᎵᏙᎲ ᏰᎵᏯ ᏄᎵᏍᏔᏅ ᎾᎿ ᏗᎧᏁᏉᏍᏙᏔᏅ ᏓᎬᏩᎶᏗᏍᎬ.
+
+ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ ᎯᎠ ᎦᎾᏗᏅᏗ ᏝᏍᏗ ᏓᏓᏛᏅᏍᏗᏍᎬ ᏥᎩ ᎠᎢᏒᎢ ᎾᎿ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ.</string>
+  <string name="done">ᎠᎵᏍᏆᏓ</string>
+  <string name="dont_show_this_again">ᏞᏍᏗ ᏔᎵᏁ ᎬᏂᎨᏒ ᏥᏂᎲᏁᎵ</string>
+  <string name="download_cancelled_title">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᏎᏒᏓ</string>
+  <string name="download_deferred_status">ᎾᏍᎩᏃ ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎨᏍᏒ ᏚᏲᎯᏎᎸᎩ ᎤᎾᎢ </string>
+  <string name="download_failed_status">ᎾᏍᎩᏃ ᎪᏢᎯᏐᏗ ᎠᏓᏄᎸᎲᎩ ᎾᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᎾᎢ</string>
+  <string name="download_in_progress_status">ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏄᏍᏛ ᎾᎿᎢ ᎠᎵᏱᎵᏒ</string>
+  <string name="download_later_button">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎪᎯᏴᎢ</string>
+  <string name="download_no_button">Ꮭ ᎠᎾᎵᎮᎵᎬ</string>
+  <string name="download_note">ᏂᎯ ᏰᎵᏯ ᎠᎯᎸᏍᏗ ᎬᏗᎭ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎾᎯᏳᎢ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎯᏘᏅᎦ </string>
+  <string name="download_now">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ Ꭷ</string>
+  <string name="download_now_button">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ</string>
+  <string name="download_options">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏧᎾᏑᏰᏍᏗᏍ</string>
+  <string name="download_progress_cancel_message">ᎾᎿ ᏂᎯ ᏯᏓᎯᏗᏏ ᏣᎸᏉᏛ ᎾᎿᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎪᎯᏴᎢ, Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s ᎠᏍᎦᏂ (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ (ᎠᏲᎯᏍᏔᏅ)</string>
+  <string name="download_progress_text">ᎯᎠ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏰᎵᏉ ᎬᎵᏱᎵᏒ ᎢᏳᏃ ᏂᎯ ᏥᏫᎭᎦᏔᎲᎾ ᎠᎴ ᎯᏍᏚᎲᎦ ᏦᎳᏂ</string>
+  <string name="download_subtitle">ᎦᏙᎨᏃ ᎾᎿᎢ ᎣᎾᏛ ᎠᏏᏅ ᏂᎯ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ</string>
+  <string name="download_text_whats_new">ᎠᎪᏩᏛᏗ ᎦᏙᎤᏍᏗ ᎢᏤᎢ</string>
+  <string name="download_time_left">%1$s ᎠᏍᎦᏂ</string>
+  <string name="download_version">ᎸᏓᎴᏒᎢ %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Wi-Fi ᎨᎡᎢ ᎤᏚᎸᏛ ᎾᎿᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ. ᏥᎩ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᏎ ᎠᎴᏂᏐᏗᏍᎩ ᏌᏊᏊ ᏂᏨᎤᎢ ᎫᏓᎸᎢ ᎨᎡᎢ ᎪᏢᎯᏌᏅ.</string>
+  <string name="downloaded_percentage">%1$s ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ</string>
+  <string name="emergency_call_btn_txt">ᎤᎵᏍᎨᏛ ᏯᎵᏱᎵᏙᎭ</string>
+  <string name="emergency_call_text">ᏂᎯ ᎠᏎ ᎥᏝ ᎨᎡᎢ ᏰᎵ ᎢᏯᏛᏁᏗ ᎤᎾᎢ ᎤᏙᏢᏒ ᎠᎴᏃ ᏗᎩᏍᏗ ᏚᏓᏳᏅᏔᏅᎢ, ᎤᏠᏯᏍᏗ ᎤᏟᏍᏓ ᎢᎦᎵᏍᏗᏍᎩ ᏚᏓᏳᏅᏔᏅᎢ ᎾᎯᏳ ᏥᎭᏂᎩᏍᏗ!</string>
+  <string name="enable_wifi_error_txt">ᎫᏓᎸᎢ ᎾᎿᎢ Wi-Fi ᎾᎿᎢ ᎡᎳᏓᎪᏘ ᎦᏢᏍᎬᎢ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ.</string>
+  <string name="eol_explore">ᏫᏣᎦᏛᏂᏗ ᏗᏤ ᏥᏂᏕᎬᏅᏗᏓᎾ</string>
+  <string name="eol_last_update_text">ᏧᎾᎦᏎᏍᏗ ᎦᎵᏍᏜᎥ: </string>
+  <string name="eol_promote">ᎠᎪᏩᏛᏗ ᏥᎩ ᎢᏤᎯᎨᎢᏍᏗ ᏗᎾᏓᏌᎳᏗᏍᎩ</string>
+  <string name="eol_title">ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎨᎡᎢ ᎠᏂᎩᏍᏓ ᏥᎩ ᎢᏤᎯᎨᎢᏍᏗ ᎠᏛᏅᎢᏍᏔᏅ ᎦᎾᏗᏅᏗ.</string>
+  <string name="err_title_contact_server">ᏩᏩᏛᏗ ᎠᏯᏙᎯᎯ…</string>
+  <string name="err_title_memory_low">ᎠᏅᏓᏗᏍᏙ ᎡᎳᏗ…</string>
+  <string name="err_title_temp_error">ᏞᎦᏊ ᏓᏓᎴᎬᎢ</string>
+  <string name="err_title_update">ᏗᎪᏒᎯᏌᏅᎯ ᏓᏓᎴᎬᎢ</string>
+  <string name="error_code">ᏓᏓᎴᎬᎢ ᎠᏍᏓᏩᏛᏍᏙᏗ: </string>
+  <string name="error_copyfail">ᎤᏄᎸᏅᎢ ᎾᎿᎢ ᏗᏟᎶᏍᏔᏅᎯ ᏅᏓᏳᏓᎴᏅᎯ SD ᏆᎾᏲᏍᏗ ᎤᏙᏢᏒᎢ.</string>
+  <string name="error_disabled">ᎤᏄᎸᏅᎢ ᎾᎿᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏗᎪᏒᎯᏌᏅᎯ. ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎦᏇᏅᏛ ᎨᎡᎢ ᎥᏝ ᎠᏛᏅᎢᏍᏔᏅ ᎤᎿᎢ ᎯᎠ ᎠᏥᎢᎵᏒ. 
+
+Ꮭ ᎤᏗᏗᏢ ᎢᏯᏛᏁᎵᏓᏍᏗ ᎨᎡᎢ ᎢᏯᏛᏁᏗ.</string>
+  <string name="error_fail">ᎤᏲ ᎤᏰᎸᏁᎢ, ᏓᏓᎴᎬ ᎠᏤᎲᏍᏗᏍᎬ ᏣᏤᎵ %1$s. ᎨᏍᏗ ᏗᎦᏁᏟᏴᏓ ᏱᎨᏎᎢ. ᎰᏩᏊ ᏏᏊ ᏥᎭᏁᎵᏓ ᏓᏰᏏ Settings &gt; System ᏙᏢᎯᏌ.</string>
+  <string name="error_in_call_msg">ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ ᎨᏍᏗ ᏰᎵ ᏗᎪᏒᎯᏌᏅᎯ Ꭷ ᎤᎿᎢ ᏥᎩ ᏪᏯᎾ ᎨᎡᎢ ᎾᎿ ᎠᎵᏱᎵᏒ</string>
+  <string name="error_in_call_title">ᎦᏘᏅᏛᏍᎬ ᎨᎡᎢ ᎾᎿᎢ ᎠᏂᏱᎵ</string>
+  <string name="error_install_title">ᎦᏘᏅᏛᏍᏗ ᎠᏓᏄᎸᎲᎩ</string>
+  <string name="error_mismatch">Ꭰ ᏄᏓᎴᏒᎢ ᏂᏓᏙᎵᎬᎾ ᏂᏚᏩᎿ ᏄᎵᏍᏔᏅᎩ. Ꭰ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᏄᎵᏍᏔᏅ ᏏᏊ. ᎨᎡᎢ ᏌᏇ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅ, ᏂᎯ ᎠᏎ ᎨᎡᎢ ᏄᎵᏍᏛᏊ.</string>
+  <string name="error_mismatch_sd">ᎤᏄᎸᏅᎢ ᎾᎿᎢ ᏗᎪᏒᎯᏌᏅᎯ. ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᏄᏓᎴᏒᎢ ᏝᏍᏗ ᏗᏙᎵᎩ ᏂᏨᎤᎢ ᏗᏟᏃᎮᏗ. 
+
+ᎰᏩᏊ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏥᎩ ᏚᏳᎪᏛᎢ ᏄᏓᎴᏒᎢ ᎤᎬᏩᏟ ᏂᏨᎤᎢ ᏗᏟᏃᎮᏗ ᏃᎴ ᏏᏊ ᏥᎭᏁᎸᏓ.</string>
+  <string name="error_network">ᏗᎫᏓᎸᏗᎢ ᏂᎦᎵᏍᏓ ᎤᏂᏲᎱᏎᎸ. ᎰᏩᏊ ᏏᏊ ᏥᎭᏁᎸᏓ ᎬᏗ ᎣᏩᏌ ᏱᎬᏁᏗ ᎠᎪᎵᏰᎠ ᎤᎬᏩᏟ ᏗᎪᏢᎯᏐᏗ ᎤᎶᏒ ᏗᏟᏃᎮᏗ ᏕᎦᎧᎲᎢ.</string>
+  <string name="error_reboot">ᎠᏴ ᎨᏒᎩ ᎥᏝ ᏰᎵ ᎢᏯᏛᏁᏗ ᎾᎿᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ. ᎨᎡᎢ ᏯᏓᎯᏗᏏ ᏣᎸᏉᏛ ᎾᎿᎢ ᎠᎩᏍᏗ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎣᏂᏯᎨᏍᏗ, ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᏃᎴ ᎾᏉᏃ Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ.</string>
+  <string name="error_resources">ᎠᏴ ᎨᏒᎩ ᎥᏝ ᏰᎵ ᎢᏯᏛᏁᏗ ᎾᎿᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ. ᎨᎡᎢ ᏂᎯ ᏯᏓᎯᏗᏏ ᏣᎸᏉᏛ to ᎠᎩᏍᏗ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎪᎯᏴᎢ, Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="error_sdcard_resources_fail_removal">ᏥᎩ SD ᏆᎾᏲᏍᏗ ᎨᏎᎢ ᎠᎲᏍᏓ. ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᏱᎵᏒ ᎨᏎᎢ ᎥᏝ ᎠᏍᏆᏙᎾ. 
+
+ᎰᏩᏊ ᎰᏣᎸᎥᎦ ᏥᎩ SD ᏆᎾᏲᏍᏗ ᏃᎴ Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ ᎾᎿᎢ ᏏᏊ ᏥᎭᏁᎸᏓ.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">ᎤᏓᏄᎸᏅ ᎾᎿᎢ ᎠᏍᏆᏛᏃᏅ ᏥᎩ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ. ᏓᎭᎢ ᎥᏝ ᏰᎵᏉ ᎤᏜᏅᏛ ᎤᎿᎢ ᏥᎩ SD ᏆᎾᏲᏍᏗ. 
+
+ᏚᏓᎴᎩ ᎢᎦᏓ ᎤᏜᏅᏛ ᏃᎴ Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ ᎾᎿᎢ ᏏᏊ ᏥᎭᏁᎸᏓ.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">ᎰᏩᏊ ᎰᏣᎸᎥᎦ ᏥᎩ SD ᏆᎾᏲᏍᏗ ᎾᎿᎢ ᎭᎴᎾ ᏥᎩ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">ᎰᏩᏊ ᎤᏌᎯᎸ ᏥᎩ SD ᏆᎾᏲᏍᏗ ᎾᎿᎢ ᎭᎴᎾ ᏥᎩ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ. 
+
+Ꭷ ᏕᎦᎧᎲᎢ &gt; ᎠᏍᏆᏂᎪᏙᏗ &gt; ᎤᏌᎯᎸ SD ᏆᎾᏲᏍᏗ.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">ᏓᎭᎢ ᎥᏝ ᏰᎵᏉ ᎤᏜᏅᏛ ᎤᎿᎢ ᏥᎩ SD ᏆᎾᏲᏍᏗ ᎾᎿᎢ ᎧᎵᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ 
+
+ᎰᏩᏊ ᏚᏓᎴᎩ ᎢᎦᏓ%1$s ᎤᏜᏅᏛ ᏃᎴ Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ ᎾᎿᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏥᎭᏁᎸᏓ.
+
+
+</string>
+  <string name="error_sdcard_resources_title">ᏓᏓᎴᎬᎢ</string>
+  <string name="error_sdcard_resources_warning">ᎦᎾᏗᏅᏗ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ ᎾᎿᎢ SD ᏆᎾᏲᏍᏗ. 
+
+ᎰᏩᏊ ᏝᏍᏗ ᏱᎬᎾᏕᏍᏗ ᏥᎩ SD ᏆᎾᏲᏍᏗ ᎩᎳ ᎦᏘᏅᏔᏅ ᎨᎡᎢ ᎧᎵᎢ.
+
+
+</string>
+  <string name="error_server">Ꭰ ᏓᏓᎴᎬᎢ ᏂᏚᏩᎿ ᏄᎵᏍᏔᏅᎩ ᎤᎿᎢ ᏥᎩ ᎠᏯᏙᎯᎯ. ᎰᏩᏊ ᏏᏊ ᎪᎯᏴ ᎯᎭᏁᎵᏔᏅᎢ.</string>
+  <string name="error_space">ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎᏳᎾᏛᏁᏗ %1$s ᎾᎿ ᎠᏛᏅᎢᏍᏔᏅ ᎠᏍᏆᏂᎪᏙᏗ ᎤᎿᎢ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ. 
+
+ᎰᏩᏊ ᎠᏍᎪᎸᏗᏍᏗ ᎬᏔᏅᏂᎨᏒᎾ ᏗᎬᏙᏗ ᏃᎴ ᎠᎲᏍᏗ ᏂᏨᎤᎢ ᏗᏥᎶᏍᏔᏅᎯ ᏃᎴ ᏗᏓᏴᎳᏛᏍᎩ ᎤᎿᎢ ᎠᏍᏆᏂᎪᏙᏗ ᏥᏂᎬᏅᏗᏓᎾ ᎾᎿᎢ ᎤᏚᏓᎴᏗ %2$s ᎾᎿ ᎤᏜᏅᏛᎯ. 
+
+ᏌᏊᏊ ᎠᏍᏆᏛᎯ, ᏂᎯ ᏰᎵᏯ Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ ᎾᎿᎢ ᎭᎴᎾ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎾᏂᎥᏉ ᎠᏥᎢᎵᏒ.</string>
+  <string name="error_space_retry">ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎᏳᎾᏛᏁᏗ %1$s ᎾᎿ ᎠᏛᏅᎢᏍᏔᏅ ᎠᏍᏆᏂᎪᏙᏗ ᎤᎿᎢ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ. 
+
+ᎰᏩᏊ ᎠᏍᎪᎸᏗᏍᏗ ᎬᏔᏅᏂᎨᏒᎾ ᏗᎬᏙᏗ ᏃᎴ ᎠᎲᏍᏗ ᏂᏨᎤᎢ ᏗᏥᎶᏍᏔᏅᎯ ᏃᎴ ᏗᏓᏴᎳᏛᏍᎩ ᎤᎿᎢ ᎠᏍᏆᏂᎪᏙᏗ ᏥᏂᎬᏅᏗᏓᎾ ᎾᎿᎢ ᎤᏚᏓᎴᏗ %2$sᎾᎿ ᎤᏜᏅᏛᎯ.</string>
+  <string name="error_space_vab">ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎᏳᎾᏛᏁᏗ %1$s ᎾᎿ ᎠᏛᏅᎢᏍᏔᏅ ᎤᏚᏓᎴᏗ ᎤᏜᏅᏛᎯ ᎤᎿᎢ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ. ᎤᏓᏅᏘᏴ ᏚᏓᎴᎩ ᏥᎩ ᎠᏅᏓᏗᏍᏙ ᎤᎬᏩᏟ ᏄᏓᏄᎸᏅᎾ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="error_space_vab_make_room_popup">ᏂᎯ ᎤᏚᎸᏓ ᎾᎿᎢ ᎯᎵᎦᎵᏯ %1$s ᎾᎿ ᎤᏜᏅᏛ ᎠᏏᏅ ᎠᏤᎲᏍᏗᏍᎬ. ᏣᏁᎸᏙᏗ ᎠᏍᎪᎸᏗᏍᏗ ᎬᏔᏅᏂᎨᏒᎾ ᏗᎬᏙᏗ ᏃᎴ ᏩᎲᏍᎩ ᏗᏥᎶᏍᏔᏅᎯ &amp; ᏗᏓᏴᎳᏛᏍᎩ ᎾᎿᎢ ᏄᏓᎴ ᎠᏍᏆᏂᎪᏙᏗ ᏥᏂᎬᏅᏗᏓᎾ.</string>
+  <string name="error_title">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏓᏄᎸᏅᎢ</string>
+  <string name="error_verify">ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎨᏍᏗ ᏰᎵ ᎨᎡᎢ ᏗᏙᎳᏤᎩ ᎪᎯᏳᏙᏗ. ᎰᏩᏊ ᏏᏊ ᏥᎭᏁᎵᏓ.</string>
+  <string name="failed">ᎤᏓᏄᎸᏅᎢ</string>
+  <string name="failed_in_roaming">Wi-Fi ᎤᏚᎸᏛ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="failure_process">ᎧᏃᎮᏢᏗ Ꮭ ᎬᏙᏗ ᏱᎩ Ꮭ ᎠᏛᏅᎢᏍᏔᏅ ᏱᎩ</string>
+  <string name="finalizing_patch">ᎤᎵᏍᏆᏛᎯ ᏙᏢᎯᏌ… (ᎠᎳᏍᎬᏓ 5 ᎾᎿ 6)  </string>
+  <string name="first_net_text">ᎰᏩᏊ ᎯᏘᏅᎦ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᏃᎴ ᏰᎨᏎᏍᏗ ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᎯᏘᏅᎦ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎾᎿ ᏥᎩ ᏐᎢ ᏥᎭᏂᎩᏍᏗ. ᏙᏳᎢ ᏚᏳᎪᏛ ᎨᏎᏍᏗ ᏥᎩ ᎠᎾᎦᎵᏍᎩ ᏄᏟᏂᎬᎬ ᎧᏃᎮᏍᎩ ᎨᎡᎢ ᎤᏥ ᎢᎦᎢ ᎡᏍᎦᏉ %s</string>
+  <string name="forceInstallMessage">ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎦᏘᏅᏔᏅ ᎾᎿᎢ %1$s.</string>
+  <string name="force_install_message_screen">ᎯᎠ ᎨᎡᎢ Ꭰ ᎤᎵᏍᎨᏓ ᏗᎪᏒᎯᏌᏅᎯ, ᏓᏛ ᎰᏩᏊ ᎯᏘᏅᎦ ᎬᏗ %1$s. ᎢᏳᏃ ᏰᎵ, ᎨᎡᎢ ᎠᏎ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎯᏘᏅᎦ ᎤᎿᎢ Ꭰ ᎠᏟᎵᏒᎢ ᎢᏳᏃ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎨᎡᎢ ᎤᏍᏗᎧᏂ ᎬᏔᏅᎢ. ᏙᏳᎢ ᏚᏳᎪᏛ ᎨᏎᏍᏗ ᏂᎯ ᎤᎭ ᏰᎵᏉ ᎠᎾᎦᎵᏍᎩ ᎠᎴᏂᏙᎲᎢ ᎤᎬᏩᏟ ᎦᏘᏅᏛᏍᏗ.</string>
+  <string name="force_install_notification_message">ᎰᏩᏊ ᎯᏘᏅᎦ ᎬᏗ %1$s. ᎢᏳᏃ ᏰᎵ, ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎯᏘᏅᎦ ᎤᎿᎢ Ꭰ ᎠᏟᎵᏒᎢ ᎢᏳᏃ ᎨᎡᎢ ᎤᏍᏗᎧᏂ ᎬᏔᏅᎢ.
+ᎯᏘᏅᎦ ᎠᏟᎵᏒᎢ: %2$d ᎢᏯᏔᏬᏍᏔᏅᎯ</string>
+  <string name="force_restart_notification_message">ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓ ᎬᏗ %1$s. ᎢᏳᏃ ᏰᎵ, ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᏥᎭᏂᎩᏍᏓ ᎤᎿᎢ Ꭰ ᎠᏟᎵᏒᎢ ᎢᏳᏃ ᎨᎡᎢ ᎤᏍᏗᎧᏂ ᎬᏔᏅᎢ.</string>
+  <string name="force_restart_screen_message">ᎾᎿ ᏂᎯ ᏝᏍᏗ ᏥᎭᏂᎩᏍᏓ ᎬᏗ %1$s, ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᏥᎭᏂᎩᏍᏓ ᎤᎿᎢ Ꭰ ᎠᏥᎢᎵᏒ ᎢᏳᏃ ᎨᎡᎢ ᎤᏍᏗᎧᏂ ᎬᏔᏅᎢ.</string>
+  <string name="google">Google</string>
+  <string name="got_it">ᎪᎵᎦ</string>
+  <string name="important_update_install_overdue_message">ᏥᎩ ᎠᏟᎵᏒᎢ ᏓᏒᏍᏓ ᎤᎬᏩᏟ ᎦᏘᏅᏛᏍᏗ ᏂᏚᏩᎿ ᎢᎤᎶᏐᏅᏉ. ᎦᏘᏅᏛᏍᏗ ᎠᏎ ᎠᎴᏅᏗ ᏌᏊᏊ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᏓᎾᏠᏍᎬ ᏥᎩ ᏗᎫᎪᏙᏗ.</string>
+  <string name="important_update_restart_overdue_message">ᏥᎩ ᎠᏟᎵᏒᎢ ᏓᏒᏍᏓ ᎤᎬᏩᏟ ᏥᎭᏂᎩᏍᏓ ᏂᏚᏩᎿ ᎢᎤᎶᏐᏅᏉ. ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᏥᎭᏂᎩᏍᏓ ᏌᏊᏊ ᎨᎡᎢ ᏓᎾᏠᏍᎬ ᏥᎩ ᏗᎫᎪᏙᏗ.</string>
+  <string name="initiating_ota_service_msg">ᎰᏩᏊ ᏘᎧᎲᎦᏃ...</string>
+  <string name="initiating_ota_service_title">ᎠᏓᎴᏂᏍᎬᎩ ᎦᎾᏗᏅᏗ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏱᎵᏒ</string>
+  <string name="install">ᎯᏘᏅᏛᎦ</string>
+  <string name="install_after_one_hour">ᎯᏘᏅᎦ ᎾᎿ 1 ᏑᏟᎶᏛ</string>
+  <string name="install_cancelled_title">ᎠᏎᏒᏓ ᎦᏘᏅᏛᏍᏗ </string>
+  <string name="install_deferred_status">ᎪᏢᎯᏐᏗ ᎨᏍᏒ ᏚᏲᎯᏎᎸᎩ ᎥᎿᎢ</string>
+  <string name="install_later">ᎯᏘᏅᎦ ᎣᏂᏯᎨᏍᏗ</string>
+  <string name="install_notify_sanity_call_msg">ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ ᎨᏍᏗ ᏰᎵ ᎯᏘᏅᎦ Ꭷ ᎤᎿᎢ ᏥᎩ ᏪᏯᎾ ᎨᎡᎢ ᎾᎿ ᎠᎵᏱᎵᏒ</string>
+  <string name="install_notify_sanity_maps_msg">ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ ᎨᏍᏗ ᏰᎵ ᎯᏘᏅᎦ Ꭷ ᎤᎿᎢ ᏥᎩ ᎠᏱᎴᎩ ᎨᎡᎢ ᎤᎿᎢ</string>
+  <string name="install_now">ᎯᏘᏅᎦ Ꭷ</string>
+  <string name="install_postponed">ᎯᏘᏅᎦ ᎪᎯᏛᎯ</string>
+  <string name="install_progress_cancel_message">ᎨᎡᎢ ᏂᎯ ᏯᏓᎯᏗᏏ ᏣᎸᏉᏛ ᎾᎿᎢ ᎯᏘᏅᎦ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎪᎯᏴᎢ, Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="install_progress_paused_message">%s ᎠᏍᏆᏙᏅᎯ (ᎠᏲᎯᏍᏔᏅ)</string>
+  <string name="install_time">ᎯᏘᏅᎦ ᎠᏟᎵᏒᎢ: %1$d ᎢᏯᏔᏬᏍᏔᏅᎯ</string>
+  <string name="install_warning">ᎦᏙᎨᏃ ᎾᎿᎢ ᎣᎾᏛ ᎠᏏᏅ ᏂᎯ ᎯᏘᏅᎦ</string>
+  <string name="just_one_more_step">ᏚᏳᎪᏛᏉ ᏌᏇ ᎤᏥ ᎢᎦᎢ ᎠᎳᏏᏗ</string>
+  <string name="keep_it_on">ᏂᎦᏯᎢᏒᎢ ᎠᎢᏎᏍᏗ</string>
+  <string name="later_button">ᎠᏓᏅᏓᏗᏍᏙᏗ ᎠᏯ ᎣᏂᏯᎨᏍᏗ</string>
+  <string name="learn_more_online_link">ᎤᏥ ᎢᎦᎢ ᎠᏕᎶᏆᏍᏗ ᏓᏏᎳᏕᏫᏒ</string>
+  <string name="low_battery_bg_install">ᎦᏘᏅᏛᏍᏗ ᎠᏲᎯᏍᏔᏅ ᏂᎦᎵᏍᏙᏗᏃ ᎡᎳᏗ ᎠᎾᎦᎵᏍᎩ. ᎦᏘᏅᏛᏍᏗ ᎠᏎᎢ ᎠᎴᏂᏐᏗᏍᎩ ᎢᏳᏃ ᏣᏤᎵ ᎠᎾᎦᎵᏍᎩ ᎢᏴᏛ 20%.</string>
+  <string name="low_battery_download">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎨᎡᎢ ᎠᏲᎯᏍᏔᏅ ᎠᎵᏍᎪᏗᏍᏗ ᎢᏴᎢ ᎾᎿᎢ ᎡᎳᏗ ᎠᎾᎦᎵᏍᎩ. ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᏎ ᎠᎴᏂᏐᏗᏍᎩ ᎢᏳᏃ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ is ᎠᎫᏍᏗ.</string>
+  <string name="low_battery_install">ᎰᏩᏊ ᎬᏂᏗᏍᏔᏅᎢ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎾᎿᎢ ᎤᎿᎢ ᎤᏍᏗᎧᏂ %s ᎠᏏᏅ ᎦᏘᏅᏛᏍᎬ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="make_space">ᎪᏢᏗ ᎤᏜᏅᏛ</string>
+  <string name="mandatory_install_notification">ᎾᎿ ᏂᎯ ᏝᏍᏗ ᎯᏘᏅᎦ ᎯᎠ ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᎾᏞᎬᏉ, ᏂᎯ ᎠᏎ ᎦᏅᏗᏍᏗ ᎦᏅᎪᏫᏛ ᎤᎿᎢ ᎤᎵᏍᎨᏓ ᏧᎾᎦᏎᏍᏗ ᏗᎪᏢᎯᏐᏗ, ᎤᎿᎢ ᎣᏍᏓ ᎤᎿᎢ ᏗᏤ ᏗᎦᏎᏍᏙᏗ ᎠᎴ ᏍᎪᏯ ᎣᏍᏓ ᏱᏨᏁᏗ.</string>
+  <string name="mandatory_restart_notification">ᎤᎿᎢ ᎾᎿ ᎨᎡᎢ Ꭰ ᎤᎵᏍᎨᏓ ᎪᏢᎯᏐᏗ, ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓ Ꭷ. ᎢᏳᏃ ᏰᎵ ᏂᎯ ᎠᏎ ᎦᏅᏗᏍᏗ ᎦᏅᎪᏫᏛ ᎤᎿᎢ ᏧᎾᎦᏎᏍᏗ ᏗᎪᏢᎯᏐᏗ, ᎤᎿᎢ ᎣᏍᏓ ᎤᎿᎢ ᏗᏤ ᏗᎦᏎᏍᏙᏗ ᎠᎴ ᏍᎪᏯ ᎣᏍᏓ ᏱᏨᏁᏗ.</string>
+  <string name="medium_channel_name">ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢᏗᎧᏃᎯᏎᎯ</string>
+  <string name="merge_emergency_call_text">ᎾᎯᏳᎢ ᏥᎭᏂᎩᏍᏓ, ᏂᎯ ᎠᏎ ᎥᏝ ᎨᎡᎢ ᏰᎵ ᎢᏯᏛᏁᏗ ᎤᎾᎢ ᎤᏙᏢᏒ ᎠᎴᏃ ᏗᎩᏍᏗ ᏚᏓᏳᏅᏔᏅᎢ, ᎤᏠᏯᏍᏗ ᎤᏟᏍᏓ ᎢᎦᎵᏍᏗᏍᎩ ᏚᏓᏳᏅᏔᏅᎢ!</string>
+  <string name="merge_force_restart_text">ᎾᎯᏳᎢ ᏥᎭᏂᎩᏍᏓ, ᏂᎯ ᎠᏎ ᎥᏝ ᎨᎡᎢ ᏰᎵ ᎢᏯᏛᏁᏗ ᎤᎾᎢ ᎤᏙᏢᏒ ᎠᎴᏃ ᏗᎩᏍᏗ ᏚᏓᏳᏅᏔᏅᎢ, ᎤᏠᏯᏍᏗ ᎤᏟᏍᏓ</string>
+  <string name="merge_progress_text">ᏙᏢᎯᏌ ᎧᎵᎢ, ᏂᎦᏛᏉ ᎠᏎ ᏫᎦᏅᏗ ᏗᏓᏃᏣᎳᏁᎯ</string>
+  <string name="merge_progress_title">ᎠᏂᏍᏆᏗᏍᎬ ᏙᏢᎯᏌ</string>
+  <string name="merge_restart_text">ᏙᏢᎯᏌ ᎧᎵᎢ ᎤᎶᏐᏅ ᏥᎭᏂᎩᏍᏓ ᏗᎳᏃᎮᏗ</string>
+  <string name="merge_restart_title">ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓ ᏏᏊ</string>
+  <string name="merge_update_fail_notify_text">ᎤᏩᏛᎲᎢ ᏄᏍᏗᏓᏅᎢ ᏓᏓᎴᎬᎢ ᎰᏩᏊ ᎤᏪᏓᏍᏗ ᎢᏯᏓᏛᏁᏗ ᎠᏰᏟ ᎣᏍᏛ ᎢᎬᏁᏗ.</string>
+  <string name="merge_update_fail_notify_title">ᎪᏢᎯᏐᏗ ᎠᏓᏄᎸᎲᎩ</string>
+  <string name="merge_update_fail_text">ᎠᏩᏛᏓ ᏄᏍᏗᏓᏅᎢ ᏓᏓᎴᎬᎢ ᎤᏲᏍᏙᏗ ᏕᎯᏁᎢ ᏗᎪᏢᎯᏐᏗ. ᎰᏩᏊ ᎤᏪᏓᏍᏗ ᎢᏯᏓᏛᏁᏗ ᎠᏰᏟ ᎣᏍᏛ ᎢᎬᏁᏗ.
+
+ᎾᎯᏳᏃ, ᎬᎵᏱᎵᏒ ᎬᏗᏍᎬ ᏗᎳᏃᎮᏗ ᎤᏠᏱ.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">ᏣᏑᏰᏍᏗ ᎠᏚᏓᎸᏗ</string>
+  <string name="multiple_account_alert">ᏣᏑᏰᏍᏗ %1$s ᎠᏚᏓᎸᏗ to ᎠᎯᎸᏍᏗ ᎬᏗ ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ.</string>
+  <string name="no_thanks">Ꮭ ᎠᎾᎵᎮᎵᎬ</string>
+  <string name="no_thanks_message">ᎾᎿ ᏂᎯ ᏯᏓᎯᏗᏏ ᏣᎸᏉᏛ ᎾᎿᎢ ᎠᎩᏍᏗ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ ᎪᎯᏴᎢ, Ꭷ ᏕᎦᎧᎲᎢ &gt; ᏄᏍᏗᏓᏅᎢ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="no_updates_applied">Ꮭ ᏗᎪᏢᎯᏐᏗ ᎤᏒᎦᎵ ᏱᎨᏎ ᎬᎾᏔᏅᎯ</string>
+  <string name="not_now">ᎭᏗ ᏆᏊ</string>
+  <string name="ok">ᎭᏩ</string>
+  <string name="otaservice_perm_desc">ᎠᏓᎵᏍᎪᎸᏓᏁᎯ ᏗᎬᏙᏗ ᎤᏚᎸᏓ ᎾᎿᎢ ᎤᎭ ᎾᎿᎢ ᎤᏪᎳᏗᏓᏍᏗ ᎬᏗ otaservice</string>
+  <string name="package_size">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎢᎩᏓ ᎨᏒ: %1$s</string>
+  <string name="personalInfo_instruction">ᏂᎯ ᏝᏍᏗ ᎠᏓᏲᎱᏎᎲ ᎾᏂᎥᏉ ᎠᏋᏌᏊ ᎧᏃᎮᏢᏗ</string>
+  <string name="picker_cell_radio">Wi-Fi ᏃᎴ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ</string>
+  <string name="picker_title">ᏣᏑᏰᏍᏗ ᏙᎡᎵ ᏂᎯ ᏯᏓᎯᏗᏏ ᏣᎸᏉᏛ ᎾᎿᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi ᎤᏅᏒ</string>
+  <string name="please_restart">ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓ ᏃᏊ</string>
+  <string name="policy_set">ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎦᏐᎭᎾᎳᏓ. ᎰᏩᏊ ᎠᏟᏃᎮᏙᏗ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎤᎦᏎᏍᏗᏕᎩ ᎤᎬᏩᏟ ᎤᏥ ᎢᎦᎢ ᎧᏃᎮᏢᏗ.</string>
+  <string name="press_back_again_to_exit">ᎭᏐᏅᏍᏓ ᎠᏨᏍᏗ ᏏᏊ ᎾᎿᎢ ᎦᏅᎪᎢᏍᏗ</string>
+  <string name="progress_copying_sd">ᏗᏟᎶᏍᏔᏅᎯ ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="progress_deffered">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᏎ ᎭᎴᎾ ᎾᎿ Wi-Fi/ᏫᏚᏍᏗᎬᎢ ᏧᎾᏚᏓᎵ.</string>
+  <string name="progress_downloading_ota">ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ</string>
+  <string name="progress_downloading_security">ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ ᏧᎾᎦᏎᏍᏗ ᎪᏢᎯᏐᏗ</string>
+  <string name="progress_retried">ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏓᏲᏍᏓᏁᎸᎩ ᏂᎦᎵᏍᏓ. ᏂᎦᏛᏉ ᎠᏎ ᏣᎮᏍᏗ ᎠᏁᏟᏗᎭ...</string>
+  <string name="progress_suspended">ᎠᎦᏘᏗᏍᏗ ᎾᏍᎩᎾ ᎦᏘᏍᎩᏌᏅᎯ ᎫᏓᎸᎢ ᏂᎦᏯᎯᏒᏊ ᏥᎭᎴᎾ ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ</string>
+  <string name="progress_suspended_datasaver">ᎠᏍᏚᏓ ᎠᎵᏏᏅᏗᏍᎩ ᏂᎦᏯᎯᏒᏊ ᏥᎭᎴᎾ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ</string>
+  <string name="progress_suspended_no_adminapn">ᎠᎦᏘᏯ ᎤᎬᏩᏟ Wi-Fi ᎠᎴ ᎧᏂᎩᏗ ᎠᏟᎶᏓ ᏧᎾᏚᏓᎵ ᎾᎿᎢ ᎠᎴᏂᏐᏗᏍᎩ ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ</string>
+  <string name="progress_suspended_roaming">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᏲᎯᏍᏔᏅ ᏂᏗᎦᎵᏍᏙᏗᏍᎬ to ᎡᏙᎵᏙᎲ ᏧᎾᏚᏓᎵ, ᎰᏩᏊ ᎯᏍᏚᎢ Wi-Fi to ᎠᎴᏂᏐᏗᏍᎩ ᎣᎾᏗᏢb ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ.</string>
+  <string name="progress_suspended_wifi">ᎠᎦᏘᏯ ᎤᎬᏩᏟ Wi-Fi ᎾᎿᎢ ᎠᎴᏂᏐᏗᏍᎩ ᎡᎳᏗᎬᏘ ᎦᏢᏗᏍᎬᎢ...</string>
+  <string name="progress_verify">ᎰᎯᏳᏓ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᏄᏍᏛ ᎠᏛᏅᎢᏍᏔᏅᎢ ᎾᎿ ᎨᏒᎩ ᎪᏢᎯᏌᏅᎢ…</string>
+  <string name="progress_verify_allocate_space">ᎠᎪᎵᏰᎠ ᎾᎿ ᏥᎩ ᎠᏅᏓᏗᏍᏙ ᎨᎡᎢ ᏰᎵ ᏂᎦᎡᏍᏗ</string>
+  <string name="relative_date_time">%1$s ᎤᎿᎢ %2$s</string>
+  <string name="release_note_battery_desc">ᏗᎪᏢᎯᏐᏗ ᏓᏤᏞᏍᏗ ᎠᎾᎦᎵᏍᎩ ᎬᏅᎢ ᎠᎴ ᎬᏙᏗᎢ</string>
+  <string name="release_note_battery_title">ᎠᎾᎦᎵᏍᎩ</string>
+  <string name="release_note_camera_desc">ᎯᎠᏃ ᎠᏔᏃᎯᏍᏔᏅᎩ ᎠᏓᏍᏕᎵᏍᎩ ᏂᎯ ᎦᏂᏱᏍᎩ ᏧᏓᏟᎶᏍᏔᏅᎯ ᎬᏗ ᎤᏟ ᎢᎦᎢ ᏚᏳᎪᏛ ᎦᎾᏄᎪᏫᏍᏒ ᎠᎴ ᏚᏍᏗᎬᎢ</string>
+  <string name="release_note_camera_title">ᏗᏓᏟᎶᏍᏙᏗ</string>
+  <string name="release_note_cellular_desc">ᏗᎦᏁᏟᏴᏓ ᎠᏍᏕᎸᏗᎢ ᎪᏢᎯᏐᏗ ᎦᏟᏌᏅᎯ ᏗᎫᏓᎸᏗᎢ ᎥᎿᎢ ᏥᏂᎬᏅᏗᏓᎾ</string>
+  <string name="release_note_cellular_title">ᏫᏚᏍᏗᎬᎢ</string>
+  <string name="release_note_charging_desc">ᎯᎠᏃ ᏙᏢᎯᏌ ᎧᏁᏉᏍᏓ ᏣᏤᎵ ᎬᏂᏗᏍᏗᏍᎬᎢ ᏰᎵ ᎢᏯᏛᏁᎯ</string>
+  <string name="release_note_charging_title">ᏓᎬᏩᎶᏗᏍᎬ</string>
+  <string name="release_note_generic_desc">ᏗᎦᏁᏟᏴᏓ ᎠᏍᏕᎸᏗᎢ ᏂᎦᎥᏉᏃ ᏧᎸᏫᏍᏓᏁᎯ ᎾᎿ ᏥᏂᎬᏅᏗᏓᎾ</string>
+  <string name="release_note_os_update_desc">ᎢᏤ ᏌᏉᏃᎯᏓ ᏧᏓᏤᏟᏓ ᏗᎧᏃᏗᏱ ᎠᏓᏁᏗ ᏣᏤᎵ ᏗᎳᏃᎮᏗ ᎣᏍᏛ ᏩᎦᏔ ᎠᎴ ᎪᏢᏗ ᏣᏤᎵ ᎠᏍᏆᏚᎸ ᎤᏍᎪᏍᏗ ᏘᎪᎵᏯ ᏗᎬᏙᏗ ᎲᏗᏍᎬ ᎠᎴ ᎠᏯᏙᏍᏗᎢ ᏣᏤᎵ ᎦᏟᏌᏅᎯ ᎤᏓᎷᎸ ᏂᎯ ᎠᏓᏁᏗ ᎬᏙᏗ ᏗᏓᎵᏍᎪᎸᏓᏁᏗ ᎠᎴ ᎪᏢᏗ ᎤᏟ ᎢᎦᎢ ᎠᎯᏓ ᎠᎩᏍᏗ ᎬᏗ Android 14’s ᎢᏤ ᏓᏄᎪᏗᏍᎬ ᎠᎴ ᎠᎪᏩᏛᏗᎢ ᏗᎦᏎᏍᏙᏗ.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">ᏗᎦᏁᏟᏴᏓ ᎠᏍᏕᎸᏗᎢ ᎪᏢᎯᏏᏍᎬ ᏧᎸᏫᏍᏓᏁᎯ ᎾᎿ ᏥᏂᎬᏅᏗᏓᎾ</string>
+  <string name="release_note_performance_title">ᎾᎾᏛᏁᎲ</string>
+  <string name="release_note_security_desc">ᏓᏠᏯᏍᏗ ᎪᏪᎵ ᏫᏗᎦᏅᏗ ᏗᎦᏯᎸᏗ ᏬᎶᎯᏍᏗ %1$s</string>
+  <string name="release_note_security_title">ᎤᎦᏎᏍᏗ ᎪᏢᎯᏐᏗ</string>
+  <string name="release_note_stability_desc">ᏓᏠᏯᏍᏛ ᏗᎪᏢᎯᏌᏅᎯ ᎠᎴ ᏍᎪᏯ ᎪᏢᎯᏏᏍᎨᏍᏗ ᎪᏢᏗ ᏣᏤᎵ ᏗᎳᏃᎮᏗ ᎤᏟ ᎢᎦᎢ ᎬᎵᏍᎦᏍᏙᏗ</string>
+  <string name="release_note_stability_title">ᏂᎦᏰᎵᏒ ᏂᎪᎯᎸ</string>
+  <string name="release_note_title">ᎯᎠ ᎪᏢᎯᏐᏗ ᏚᏠᏯᏍᏗ</string>
+  <string name="release_note_wifi_desc">ᏓᏠᏯᏍᏗ ᏗᎪᏢᎯᏐᏗ ᎾᎿᎢ ᏣᏤᎵ Wi-Fi ᏗᎫᏓᎸᏗᎢ</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">ᏥᏁᏏᎦᏩ ᏂᎦᏓ ᏥᎩ ᏗᏤ ᏗᎦᏎᏍᏙᏗ ᎾᎿ Android %1$s</string>
+  <string name="request_suspended_datasaver">ᎠᏍᏚᏓ ᎠᎵᏏᏅᏗᏍᎩ ᏂᎦᏯᎯᏒᏊ ᎭᎴᎾ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ</string>
+  <string name="request_suspended_no_network">Ꮭ ᏧᎾᏚᏓᎵ ᏓᏁᏃᏣᏢᏍᎦ ᎾᎿᎢ ᎭᎴᎾ ᏥᎩ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ</string>
+  <string name="restart_after_one_hour">ᏥᎭᏂᎩᏍᏓ ᎾᎿ 1 ᎢᏳᏟᎶᏓ</string>
+  <string name="restart_instruction_title">ᎦᏙᎤᏍᏗ ᎾᎿᎢ ᎠᎦᏙᎥᏒ ᎠᏏᏅ ᏂᎯ ᏥᎭᏂᎩᏍᏓ</string>
+  <string name="restart_later">ᎣᏂᏯᎨᏍᏗ</string>
+  <string name="restart_message">ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓ ᏃᏊ ᎾᎿᎢ ᎯᏩᏔ</string>
+  <string name="restart_notification">ᏥᎭᏂᎩᏍᏓ</string>
+  <string name="restart_notification_text">ᎰᏩᏊ ᏥᎭᏂᎩᏍᏓ ᏃᏊ ᎾᎿᎢ ᎯᏩᏔ ᏥᎭᏂᎩᏍᏓ ᏂᎦᎵᏍᏓ ᎠᎵᏱᎵᏙᎲ ᎾᏍᎩᎾ %1$d ᏧᏒᎯᏓ.</string>
+  <string name="restart_notify_sanity_call_msg">ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ ᎨᏍᏗ ᏰᎵ ᏥᎭᏂᎩᏍᏗ Ꭷ ᎤᎿᎢ ᏥᎩ ᏪᏯᎾ ᎨᎡᎢ ᎾᎿ ᎠᎵᏱᎵᏒ</string>
+  <string name="restart_notify_sanity_maps_msg">ᏥᎩ ᏥᏂᎬᏅᏗᏓᎾ ᎨᏍᏗ ᏰᎵ ᏥᎭᏂᎩᏍᏗ Ꭷ ᎤᎿᎢ ᏥᎩ ᎠᏱᎴᎩ ᎨᎡᎢ ᎤᎿᎢ</string>
+  <string name="restart_now">ᏥᎭᏂᎩᏍᏓ Ꭷ</string>
+  <string name="restart_postponed">ᏥᎭᏂᎩᏍᏓ ᎪᎯᏛᎯ</string>
+  <string name="restart_title">ᏥᎭᏂᎩᏍᏓ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ</string>
+  <string name="resume_download_on_cellular">ᎬᏔᏂᏓᏍᏗ ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ?</string>
+  <string name="retrieving_token">ᎠᏓᏙᏟᏍᏙᏗ...</string>
+  <string name="sdcard_predownload_text">
+ᎾᎿ ᎯᎠ ᎠᎳᏏᏗ, ᏂᎯ ᎠᏎ ᏗᏟᎶᏍᏔᏅᎯ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎾᎿᎢ ᏄᏍᏗᏓᏅᎢ ᎠᏅᏓᏗᏍᏙ. ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎨᎡᎢ ᎦᏘᏅᏔᏅ ᎾᎿᎢ ᏥᎩ ᏐᎢ ᎠᎳᏏᏗ. 
+
+ᎫᏓᎸᎢ ᏂᏨᎤᎢ ᏗᏟᏃᎮᏗ ᎾᎿᎢ Ꭰ ᎤᎵᏂᎩᏗ ᏧᏓᎴᏅᎲᎢ ᎾᎿᎢ ᏦᎯᏳᏙᏗᏊ ᏂᎯ ᏝᏍᏗ ᎠᏓᎾᏫᏍᏗ ᎾᎿ ᎠᎾᎦᎵᏍᎩ ᎤᎵᏂᎩᏗ.</string>
+  <string name="secure_instruction">ᎯᎠ ᎠᏱᎵᏒ ᎨᎡᎢ ᏄᎾᏰᎯᏍᏛᎾᏉ</string>
+  <string name="security_download_notification_title">ᏦᎦᏤᎳᏍᏙᏗ ᏂᏨᎤᎢ ᏧᎾᎦᏎᏍᏗ</string>
+  <string name="security_install_notification_text">Ꭰ ᏗᏤ ᏧᎾᎦᏎᏍᏗ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅᎢ ᎾᎿᎢ ᎯᏘᏅᎦ</string>
+  <string name="security_install_title">Ꭰ ᏧᎾᎦᏎᏍᏗ ᎪᏢᎯᏐᏗ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅᎢ</string>
+  <string name="security_patch">ᏧᎾᎦᏎᏍᏗ ᎦᎵᏍᏜᎥ:</string>
+  <string name="security_update_low_storage_title">ᎤᎦᏎᏍᏗ ᎪᏢᎯᏐᏗ</string>
+  <string name="security_update_notification_text">ᎠᎩᏍᏗ ᏥᎩ ᎢᏤᎯᎨᎢᏍᏗ ᏧᎾᎦᏎᏍᏗ ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="security_update_paused">ᎤᎦᏎᏍᏗ ᎪᏢᎯᏐᏗ ᎠᏲᎯᏍᏔᏅ</string>
+  <string name="security_update_pending_notification_text">ᎠᎩᏍᏗᏱ ᎢᏤᎯᎨᎢᏍᏗ ᎪᏪᎵ ᏫᏗᎦᏅᏗ ᏥᎭᏂᎩᏍᏓ. ᏥᎭᏂᎩᏍᏓ ᏂᎦᎵᏍᏓ ᎠᎵᏱᎵᏙᎲ ᎾᏍᎩᎾ %1$d ᏧᏒᎯᏓ.</string>
+  <string name="security_update_title">ᎤᎦᏎᏍᏗ ᎪᏢᎯᏐᏗ</string>
+  <string name="select_account">ᏣᏑᏰᏍᏗ Ꭰ %1$s ᎠᏚᏓᎸᏗ</string>
+  <string name="selected_later_time_os_mr">ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎨᎡᎢ ᎦᏘᏅᏔᏅ ᎤᎿᎢ </string>
+  <string name="selected_later_time_smr">ᏧᎾᎦᏎᏍᏗ ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎ ᎨᎡᎢ ᎦᏘᏅᏔᏅ ᎤᎿᎢ </string>
+  <string name="setting_sw_summary">ᏗᎪᏒᎯᏌᏅᎯ ᎾᎿᎢ ᏥᎩ ᎢᏤᎯᎨᎢᏍᏗ ᏩᏂᎨ ᎦᎾᏗᏅᏗ </string>
+  <string name="setting_sw_title">ᏄᏍᏗᏓᏅᎢ ᎪᏒᎯᏐᏗ</string>
+  <string name="smart_cancel_update_toast_msg">ᏥᎩ ᎪᏢᎯᏐᏗ ᎨᎡᎢ ᏓᏒᏍᏛ ᎾᎿᎢ %1$s</string>
+  <string name="smart_end_time">ᎠᎵᏍᏆᏓ</string>
+  <string name="smart_install_message_popup">ᎾᎯᏳᎢ ᏥᎭᏂᎩᏍᏓ, ᏂᎯ ᎠᏎ ᎥᏝ ᎨᎡᎢ ᏰᎵ ᎢᏯᏛᏁᏗ ᎤᎾᎢ ᎤᏙᏢᏒ ᎠᎴᏃ ᏗᎩᏍᏗ ᏚᏓᏳᏅᏔᏅᎢ, ᎤᏠᏯᏍᏗ %1$s ᎤᏟᏍᏓ ᎢᎦᎵᏍᏗᏍᎩ ᏚᏓᏳᏅᏔᏅᎢ! ᏙᏳᎢ ᏚᏳᎪᏛ ᎨᏎᏍᏗ ᏰᎵᏉ ᎠᎾᎦᎵᏍᎩ ᎾᏍᎩᎾ ᎦᏘᏅᏛᏍᏗ</string>
+  <string name="smart_restart_message_popup">ᎾᎯᏳᎢ ᏥᎭᏂᎩᏍᏓ, ᏂᎯ ᎠᏎ ᎥᏝ ᎨᏥᎭᏂᎩᏍᏓ ᎡᎢ ᏰᎵ ᎢᏯᏛᏁᏗ ᎤᎾᎢ ᎤᏙᏢᏒ ᎠᎴᏃ ᏗᎩᏍᏗ ᏚᏓᏳᏅᏔᏅᎢ, ᎤᏠᏯᏍᏗ %1$s ᎤᏟᏍᏓ ᎢᎦᎵᏍᏗᏍᎩ ᏚᏓᏳᏅᏔᏅᎢ!</string>
+  <string name="smart_settings_string">ᏗᎪᏢᎯᏐᏗ ᎨᎡᎩ ᎡᎳᏗᎬᏘ ᏫᎦᏢᏅᎯ ᏃᎴ ᎦᏘᏅᏔᏅ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎢᏳᏃ ᏂᎯ ᎨᎡᎩ ᎫᏓᎸᏅᎯ ᎾᎿᎢ Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">ᏗᎪᏢᎯᏐᏗ ᎨᎡᎩ ᎡᎳᏗᎬᏘ ᏫᎦᏢᏅᎯ ᏃᎴ ᎦᏘᏅᏔᏅ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎢᏳᏃ ᏂᎯ ᎨᎡᎩ ᎫᏓᎸᏅᎯ ᎾᎿᎢ Wi-Fi ᎾᏍᎩᎾ ᎬᏗᏍᎬ ᎠᏂᎩᏍᎩ ᎦᏟᏌᏅᎯ</string>
+  <string name="smart_settings_string_vzw">ᏗᎪᏢᎯᏐᏗ ᎨᎡᎩ ᎡᎳᏗᎬᏘ ᏫᎦᏢᏅᎯ ᏃᎴ ᎦᏘᏅᏔᏅ ᎤᏩᏌᏊ ᏱᎬᏁᎯ</string>
+  <string name="smart_start_time">ᎭᎴᎾ</string>
+  <string name="smart_to_string">ᎾᎢ </string>
+  <string name="smart_update_advanced">ᎢᏴᏛ ᎠᏱᎸᏛ</string>
+  <string name="smart_update_note">ᎤᎬᏩᏟ ᏂᏨᎤᎢ ᎤᎾᏓᎵᏏᏅᏙᏗ, ᏂᎦᏓ ᎤᎵᏍᎨᏓ ᏧᎾᎦᏎᏍᏗ ᏗᎪᏢᎯᏐᏗ ᎠᏎ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎢᏳᏃ ᎯᎠ ᎤᏩᎬᏗᏗᏒ ᎨᎡᎢ ᎤᎿᎢ ᏃᎴ ᎠᏍᏚᎭ.</string>
+  <string name="smart_update_note_vzw">ᎤᎬᏩᏟ ᏂᏨᎤᎢ ᎤᎾᏓᎵᏏᏅᏙᏗ, ᏂᎦᏓ ᎤᏢᏲᎵᏍᏗ ᏗᎪᏢᎯᏐᏗ ᎠᏎ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏃᎴ ᎯᏘᏅᎦ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎢᏳᏃ ᎯᎠ ᎤᏩᎬᏗᏗᏒ ᎨᎡᎢ ᎤᎿᎢ ᏃᎴ ᎠᏍᏚᎭ.</string>
+  <string name="smart_update_pop_up_text">ᎠᏍᏆᏂᎪᏙᏗᎢ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᏂᎦᎾᏰᎬᎾ ᏃᎴ ᏄᎾᏰᎯᏍᏛᎾᏉ ᎬᏗ ᎤᏩᏌ ᏱᎬᏁᎯ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="smart_update_recommendation">ᏣᏁᎸᏙᏗ ᎠᏌᎹᏗ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="smart_update_suggestion_text">ᎡᏙᎮᏍᏗ ᏂᎦᎾᏰᎬᎾ ᎬᏗ ᎤᏩᏌ ᏱᎬᏁᎯ ᏗᎪᏒᎯᏐᏗ</string>
+  <string name="smart_update_text_AB">ᎠᏍᏕᎸᏗᎢ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎤᏂᎩᏍᏗ ᎤᏓᎵᏏᏅᏓ ᎠᎴ ᏓᏤᏢ ᎢᏳᎵᏍᏙᏗᎢ ᎤᏩᏌᏊ ᏱᎬᏁᎯ ᎦᏘᏅᏛᏍᎬ ᎢᏤ ᎪᏪᎵ ᏫᏗᎦᏅᏗ ᏗᎪᏢᎯᏐᏗ ᎠᎴ ᏍᎪᏯ ᎪᏢᎯᏏᏍᎨᏍᏗ.</string>
+  <string name="smart_update_text_AB_vzw">ᎠᏌᏑᏗ ᏗᎪᏢᎯᏐᏗ ᎠᏍᏕᎸᏗᎢ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎠᎢᏎᏍᏗ ᎤᏓᎵᏏᏅᏓ ᎠᎴ ᎠᏏᎾᏍᏏ. ᎢᏳᏃ ᎯᏍᏚᎢ, ᏂᎦᎥ ᎢᏤ <b>ᎤᎦᏎᏍᏗ ᏗᎪᏢᎯᏐᏗ</b> ᎠᏎᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏩᏌᏊ ᏱᎬᏁᎯ. ᎤᎶᏐᏅ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ, ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎᎢ ᏥᎭᏂᎩᏍᏓ ᎾᏳᎢ ᎠᏟᎢᎵᏒ ᏂᎯᏃ ᎭᏑᏯᎩ.</string>
+  <string name="smart_update_text_classic">ᎠᏌᏑᏗ ᏗᎪᏢᎯᏐᏗ ᎠᏍᏕᎸᏗᎢ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎠᎢᏎᏍᏗ ᎤᏓᎵᏏᏅᏓ ᎠᎴ ᎠᏏᎾᏍᏏ. ᎢᏳᏃ ᎯᏍᏚᎢ, ᏂᎦᎥ ᎢᏤ <b>ᎤᎦᏎᏍᏗ ᏗᎪᏢᎯᏐᏗ ᎠᎴ ᏍᎪᏯ ᎣᏍᏓ ᏱᏨᏁᏗ</b> ᎠᏎᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏩᏌᏊ ᏱᎬᏁᎯ. ᎤᎶᏐᏅ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ, ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎᎢ ᏥᎭᏂᎩᏍᏓ ᎾᏳᎢ ᎠᏟᎢᎵᏒ ᏂᎯᏃ ᎭᏑᏯᎩ.</string>
+  <string name="smart_update_text_classic_vzw">ᎠᏌᏑᏗ ᏗᎪᏢᎯᏐᏗ ᎠᏍᏕᎸᏗᎢ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎠᎢᏎᏍᏗ ᎤᏓᎵᏏᏅᏓ ᎠᎴ ᎠᏏᎾᏍᏏ. ᎢᏳᏃ ᎯᏍᏚᎢ, ᏂᎦᎥ ᎢᏤ <b>ᎤᎦᏎᏍᏗ ᏗᎪᏢᎯᏐᏗ</b> ᎠᏎᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎤᏩᏌᏊ ᏱᎬᏁᎯ. ᎤᎶᏐᏅ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ, ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎠᎴ ᎯᏘᏅᎦ ᎠᏎᎢ ᏥᎭᏂᎩᏍᏓ ᎾᏳᎢ ᎠᏟᎢᎵᏒ ᏂᎯᏃ ᎭᏑᏯᎩ.</string>
+  <string name="smart_update_time_slot_text_AB">ᏣᏑᏰᏍᏗ Ꭰ ᎭᎴᎾ ᎠᏥᎢᎵᏒ</string>
+  <string name="smart_update_time_slot_text_classic">ᏣᏑᏰᏍᏗ Ꭰ ᎯᏘᏅᎦ ᎠᏥᎢᎵᏒ</string>
+  <string name="smart_update_title">ᎠᏌᎹᏗ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="software_not_update_to">ᏣᏤᎵ ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎾᏍᎩ ᏝᏏᏃ ᎾᎢ ᎪᏢᎯᏐᏗ ᏄᎵᏍᏔᏅ ᏱᎩ</string>
+  <string name="software_update_in_progress">ᏣᏤᎵ ᏄᏍᏗᏓᏅᎢ ᎾᏍᎩ ᎠᏤᎲᏍᏗᏍᎬ ᎾᎢ ᏄᏓᎴᏒᎢ </string>
+  <string name="software_update_planned_summary">ᎠᎦᏎᏍᏔᏅ - %1$s</string>
+  <string name="software_update_planned_title">ᎦᎾᏗᏅᏗ ᏗᎪᏒᎯᏌᏅᎯ ᎤᏓᏅᏖᏗ</string>
+  <string name="software_update_to">ᏣᏤᎵ ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ ᎦᏳᎵ ᏄᎵᏍᏔᏅ ᎾᎢ</string>
+  <string name="sofware_version">ᎦᎾᏗᏅᏗ ᏄᏓᎴᏒᎢ:</string>
+  <string name="storage_low">ᎪᏢᏗ ᎧᏅᏑᎸ ᎤᎬᏩᏟ Ꭰ ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="su_btn">ᏕᎦᎧᎲᎢ</string>
+  <string name="su_text_off">ᏂᎯᏊᏃ ᎤᏚᎸᏓ ᎣᏩᏌ ᏱᎬᏁᏗ ᏙᏢᎯᏌ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎢᏳᏃ ᎢᏤ ᎦᎾᏗᏅᏗ ᎠᏛᏅᎢᏍᏔᏅ. ᎯᏍᏚᎢ Smart ᏗᎪᏢᎯᏐᏗ ᎪᏢᏗ ᎠᏂᎯᎵᏒ ᎤᏩᏌ ᏱᎬᏁᎯ. ᎤᏟᏍᏓ ᎭᏐᏅᏍᏓ ᎤᎬᏩᏟ ᎤᏟ ᎢᎦᎢ ᏂᏕᎬᎿᏅᎢ.</string>
+  <string name="su_text_on">ᎠᏓᏁᏟᏴᏍᏗᏍᎩ ᎨᏒ ᎢᏳᏍᏗ, Smart ᏗᎪᏢᎯᏐᏗ ᎢᏲᎯᏓ ᎠᏰᎵ 1 AM - 3 AM. ᏂᎯ ᎯᏁᏟᏴᎾ ᏙᏢᎯᏌ ᏓᏟᎢᎵᏒ ᎠᎴ ᎠᏍᏚᏗ Smart ᎾᎿᎢ ᏕᎦᎧᎲᎢ. ᎤᏟᏍᏓ ᎭᏐᏅᏍᏓ ᎤᎬᏩᏟ ᎤᏟ ᎢᎦᎢ ᏂᏕᎬᎿᏅᎢ.</string>
+  <string name="su_title_off">Smart ᎪᏢᎯᏐᏗ ᎠᏍᏚᏗ</string>
+  <string name="su_title_on">Smart ᎪᏢᎯᏐᏗ ᎯᏍᏚᎢ</string>
+  <string name="system_download_notification_title">ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ</string>
+  <string name="system_install_notification_text">Ꭰ ᏄᏍᏗᏓᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅᎢ ᎾᎿᎢ ᎯᏘᏅᎦ</string>
+  <string name="system_install_title">Ꭰ ᏗᎪᏒᎯᏌᏅᎯ ᎨᎡᎢ ᎠᏛᏅᎢᏍᏔᏅᎢ</string>
+  <string name="system_pdl_notification_mr_title">ᎠᎩᏍᏗ ᏍᎪᏯ ᎣᏍᏓ ᏱᏨᏁᏗ &amp; ᎤᏥ ᎢᎦᎢ</string>
+  <string name="system_pdl_notification_os_title">Android %1$s ᎨᎡᎢ ᎠᎭᏂ!</string>
+  <string name="system_update">ᏄᏍᏗᏓᏅᎢ ᎪᏒᎯᏐᏗ</string>
+  <string name="system_update_desc">ᎠᏓᎦᏎᏍᏙᏗ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎾᏍᎩᎾ ᎪᏪᎵ ᏫᏗᎦᏅᏗ ᎦᏁᏄᎵᏍᎩ ᎠᎴ ᎠᎩᏍᏗᏱ ᎢᏤᎯᎨᎢᏍᏗ Motorola &amp; Android ᏗᎦᏎᏍᏙᏗ</string>
+  <string name="system_update_info_not_available">ᎥᏝ ᎠᏛᏅᎢᏍᏔᏅ</string>
+  <string name="system_update_low_storage_text">ᎤᏟᏍᏓ ᎠᏒᏂᎸ ᎠᎭᏂ ᎾᎿᎢ ᏫᏣᎦᏛᎲᎦ ᎠᏅᏓᏗᏍᏙ ᎠᎴ ᎠᎯᎸᏍᏗ.</string>
+  <string name="system_update_low_storage_title">ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ</string>
+  <string name="system_update_notification_os_text">ᎠᎦᏙᎲᏒᎢ ᏥᎩ ᏗᏤ Android</string>
+  <string name="system_update_notification_text">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏥᎩ ᏗᏤ ᎦᎾᏗᏅᏗ</string>
+  <string name="system_update_paused">ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ ᎠᏲᎯᏍᏔᏅ</string>
+  <string name="system_update_pending_notification_os_text">ᏄᎵᏍᏔᏂᏙᎸᎢ ᎢᏤ Android. ᏥᎭᏂᎩᏍᏓ ᏂᎦᎵᏍᏓ ᎠᎵᏱᎵᏙᎲ ᎾᏍᎩᎾ %1$d ᏧᏒᎯᏓ.</string>
+  <string name="system_update_pending_notification_text">ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎢᏤ ᎦᎾᏗᏅᏗ. ᏥᎭᏂᎩᏍᏓ ᏂᎦᎵᏍᏓ ᎠᎵᏱᎵᏙᎲ ᎾᏍᎩᎾ %1$d ᏧᏒᎯᏓ.</string>
+  <string name="system_update_settings_list_item_title">ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ</string>
+  <string name="system_update_status">ᏙᏢᎯᏌ ᏄᏛᎿᏕᎬᎢ</string>
+  <string name="system_update_title">ᏄᏍᏗᏓᏅᎢ ᎪᏢᎯᏐᏗ</string>
+  <string name="tethered_permission_desc">ᏫᏅᎥᎦ 3c ᏗᎪᏒᎯᏌᏅᎯ ᏂᏚᎵᏍᏔᏅ</string>
+  <string name="tethered_update_result">ᏓᎵᎪᏔᏅᎢ ᏗᎪᏒᎯᏌᏅᎯ ᏄᎵᏍᏔᏅ</string>
+  <string name="time_picker_text">ᎭᎴᎾ ᎠᎫᏍᏗ ᎾᏠᏯᏍᏗᏍᎬᎾ Ꭰ ᎠᏓᏅᏓᏗᏍᏗᏍᎩ</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">ᏥᎭᏁᎸᏓ</string>
+  <string name="turn_it_off">hᏍᏚᎲᎦ</string>
+  <string name="turn_it_on">ᎭᏂᎩᏍᏓ</string>
+  <string name="turn_on_smart_updates">ᎯᏍᏚᎢ ᎠᏌᎹᏗ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="update">ᏗᎪᏒᎯᏌᏅᎯ</string>
+  <string name="update_blocked_by_policy">ᎪᏢᎯᏐᏗ ᏄᏍᏛ ᎦᏐᎭᎾᎳᏛᎢ ᏄᎬᏫᏳᏒ ᏗᎳᏏᏙᏗ ᎬᏗ  </string>
+  <string name="update_cancelled_status">ᎾᏍᎩᏃ ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᏄᏍᏛ ᎠᏎᏒᏓ ᎤᎾᎢ</string>
+  <string name="update_fail_desc">ᎪᎱᏍᏓ ᎦᎵᏍᏔᏂᏓ</string>
+  <string name="update_fail_status">ᎪᏢᎯᏐᏗ ᎠᏓᏄᎸᎲᎩ</string>
+  <string name="update_fail_sucancel_dm_status">ᏗᎪᏒᎯᏌᏅᎯ ᎠᏎᏒᏓ ᎬᏗ ᎠᏯᏙᎯᎯ</string>
+  <string name="update_fail_title">ᎪᏢᎯᏐᏗ ᎠᏓᏄᎸᎲᎩ</string>
+  <string name="update_history_blank">Ꮭ ᏂᏧᎵᏍᏔᏅᏒ ᎠᏏ</string>
+  <string name="update_history_src_target">ᏗᎪᏒᎯᏌᏅᎯ ᏅᏓᏳᏓᎴᏅᎯ %1$s ᎾᎿᎢ %2$s</string>
+  <string name="update_history_time">ᎪᏢᎯᏌᏅ ᎤᎿᎢ %1$s</string>
+  <string name="update_history_title">ᏗᎪᏢᎯᏐᏗ ᏂᏧᎵᏍᏔᏅᏒ</string>
+  <string name="update_history_version">ᎦᎾᏗᏅᏗ ᏄᏓᎴᏒᎢ %1$s</string>
+  <string name="update_info">ᎠᏤᎲᏍᏗᏍᎬ...</string>
+  <string name="update_postpone_policy">ᏙᏢᎯᏌ ᎪᎯᏛᎯ ᎬᏗ ᎤᎦᏎᏍᏗᏕᎩ ᏗᎳᏏᏙᏗ </string>
+  <string name="update_preference">ᏗᎪᏒᎯᏌᏅᎯ ᎤᏟ ᎠᏂᏰᎸᏍᎬᎢ</string>
+  <string name="update_success_desc">ᏃᏊ ᏥᎩ ᎦᎾᏗᏅᏗ ᏄᏓᎴᏒᎢ: %1$s</string>
+  <string name="update_success_desc_os">ᏧᎾᏓᎵᎮᎵᏤᏗ! ᏂᎯ ᎤᎭ ᏄᏓᏄᎸᏅᎾᏊ ᎦᏘᏅᏔᏅ Android %1$s. Ꭷ ᏂᎯ ᎠᏛᏅᎢᏍᏔᏅᎢ ᎾᎿᎢ ᎠᎵᎮᎵᏍᏗ Ꭰ ᏓᏤᎳ, ᎠᏌᏑᏗᏰᏍᏗ, ᎠᎴ ᏄᎾᏰᎯᏍᏛᎾᏊ Android ᏄᎵᏍᏔᏂᏙᎸᎢ.</string>
+  <string name="update_success_status">ᏗᎪᏒᎯᏌᏅᎯ ᏄᏓᏄᎸᏅᎾ</string>
+  <string name="update_title">ᏙᏢᎯᏌ ᎯᏍᏆᏓ</string>
+  <string name="update_title_text">ᎠᎵᎮᎵᏍᏗ ᏂᏨᎤᎢ ᏗᏤ ᎦᎾᏗᏅᏗ!</string>
+  <string name="upto_date_title">ᎢᎬᏩᏓᎴᎩ ᎠᎦᏘᎭ ᎤᏍᏓ!</string>
+  <string name="urgent_channel_name">ᏩᏂᎨ ᎦᎾᏗᏅᏗ ᎪᏢᎯᏐᏗ ᎠᏓᏕᏯᏔᎲᏍᎩ</string>
+  <string name="use_smart_updates">ᎬᏙᏗ ᎠᏌᎹᏗ ᏗᎪᏒᎯᏐᏗ</string>
+  <string name="vab_validation_update_failure_desc">VAB ᎤᏙᎯᏳᏒᎢ ᎪᏢᎯᏐᏗ ᎨᏎᎢ ᎤᏄᎸᏅ</string>
+  <string name="vab_validation_update_failure_title">VAB ᎧᎵ ᏱᎬᏁᎯ ᎤᏄᎸᏅᎢ</string>
+  <string name="vab_validation_update_success_desc">ᏧᎾᏓᎵᎮᎵᏤᏗ! VAB ᎤᏙᎯᏳᏒᎢ ᎪᏢᎯᏐᏗ ᎨᏎᎢ ᏄᏓᏄᎸᏅᎾᏊ</string>
+  <string name="vab_validation_update_success_title">VAB ᎤᏙᎯᏳᏒᎢ ᏄᏓᏄᎸᏅᎾᏊ</string>
+  <string name="verifying_patch">ᏙᏢᎯᏌ ᏂᎦᎵᏍᏓ ᎬᎾᏔᏅᎯ. ᎦᎫᏍᏛᏍᎬ ᎠᏔᏲᏍᏙᏗ ᎨᏎᎢ ᏄᏓᏄᎸᏅᎾ… (ᎠᎳᏍᎬᏓ 4 ᎾᎿ 6)  </string>
+  <string name="verity_disabled_msg">ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᏰᎵᏯ ᎨᎡᎢ ᎠᏞᏴᏍᏙᏗ ᎾᎿᎢ ᏧᎾᎦᏎᏍᏗ ᏗᎦᎾᏰᎩ. ᎠᎴᏅᏗᏱ ᏥᎩ ᎡᎳᏗᏨ ᎤᏁᏤᎸᎩ ᎤᎬᏩᏟ ᎤᎵᏱᎸᏛ ᏗᎪᏢᎯᏐᏗ
+
+adb ᎡᎵᏊ ᏱᎬᏛᏁᏗ-ᎤᏙᎯᏳᎯᏯ</string>
+  <string name="verity_disabled_title">ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ Ꮭ ᎦᏅᎯᏓᎨ ᏕᎯᏁᎢ ᏗᎪᏢᎯᏐᏗ</string>
+  <string name="verizon_failure_notification_text"> ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎨᏍᏗ ᏰᎵ ᎯᏘᏅᎦ ᎯᎠ ᏗᎪᏒᎯᏌᏅᎯ. ᎬᏔᏂᏓᏍᏗ ᏥᎩ ᎦᎾᏗᏅᏗ ᏦᏢᎯᏐᏗ ᎠᎵᏍᏕᎵᏍᎩ ᎬᏔᏂᏓᏍᏗ ᎾᎿᎢ ᎯᏘᏅᎦ. ᎤᏟᏍᏓ ᎭᏐᏅᏍᏓ ᎤᎬᏩᏟ ᎤᎪᏗᏊ ᎧᏃᎮᏢᏗ.</string>
+  <string name="verizon_failure_text">ᏓᏓᎴᎬ ᎠᏤᎲᏍᏗᏍᎬ ᏥᏂᎬᏅᏗᏓᎾ ᏣᏤᎵ. ᎨᏍᏗ ᏗᎦᏁᏟᏴᏓ ᏱᎨᏎᎢ. ᏙᏢᎯᏌ ᏣᏤᎵ ᎦᎾᏗᏅᏗ, ᏂᎯ ᏰᎵᏇ ᎲᏗᏍᎬ ᎦᎾᏗᏅᏗ ᏓᏤᏞᏍᏗ ᏅᎦ ᎠᎾᏓᏍᏕᎵᏍᎩ ᎬᏔᏂᏓᏍᏗ.
+
+ᎾᎿᎢ ᎯᏘᏅᎦ ᎦᎾᏗᏅᏗ ᏓᏤᏞᏍᏗ ᏅᎦ ᎠᎾᏓᏍᏕᎵᏍᎩ ᎬᏔᏂᏓᏍᏗ:
+
+1. ᎲᏗᏍᎬ USB ᏔᎷᎩᏍᎩ ᏍᏕᏱᏛ ᎫᏓᎸᎢ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ ᎾᎿᎢ ᏣᏤᎵ ᎠᎦᏙᎥᎯᏍᏗ ᎠᏍᏆᏂᎪᏗᏍᎩ
+2. ᎢᏳᏃ USB ᎪᏪᎳᎾᎥᎢ ᎬᏂᎨᏒ ᏱᎦᎵᏍᏗᏍᎩ ᎤᎾᎢ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ, ᎠᏑᏰᏍᏗ ᏕᎦᎧᎲᎢ ᎠᎢᎧᏂ ᎤᎾᎢ ᎦᎸᎳᏗᏢ ᎠᎦᏘᏏ
+3. ᎾᏍᎩᎾ USB ᎤᏟ ᎠᏂᏰᎸᏍᎬᎢ, ᎠᏑᏰᏍᏗ ᎦᎾᏗᏅᏗ ᎦᏘᏅᏛᏍᏗ
+4. ᎦᏁᏟᏴᏍᏗ ᎾᎿᎢ ᏣᏤᎵ PC ᎠᎴ ᏩᎦᏔ ᎾᏍᎩᎾ ᎦᏘᏅᏛᏍᏗ ᎠᏓᏍᏕᎵᏍᎩ
+5. ᎡᏓᏍᏘ ᏬᎶᎯᏍᏗ ᎠᏓᏍᏕᎵᏍᎩ
+
+ᎦᎾᏗᏅᏗ ᏓᏤᏞᏍᏗ ᏅᎦ ᎠᎾᏓᏍᏕᎵᏍᎩ ᎬᏔᏂᏓᏍᏗ ᎠᏎᎢ ᎠᏍᏕᎸᏗᎢ ᎡᎳᏗᏟ ᎦᏢᏍᎬᎢ ᎠᎴ ᎯᏘᏅᎦ ᎦᎾᏗᏅᏗ ᏗᎪᏢᎯᏐᏗ ᎤᎾᎢ ᏣᏤᎵ ᏥᏂᎬᏅᏗᏓᎾ.</string>
+  <string name="vital_applying_updates">ᎾᏅᎾᏗᏍᎬᎢ ᏗᎪᏢᎯᏐᏗ…</string>
+  <string name="vital_bg_text">ᎯᎠ ᏰᎵᏯ ᎯᏫᏓ Ꭰ ᎢᎸᏍᎩᏉ ᎢᏯᏔᏬᏍᏔᏅᎯ.</string>
+  <string name="vital_check_for_updates">ᎠᎦᏖᏃᎲᎩ ᎤᎬᏩᏟ ᏗᎪᏢᎯᏐᏗ…</string>
+  <string name="vital_check_for_updates_desc">ᏗᎪᏒᎯᏌᏅᎯ ᎠᏍᏆᏂᎪᏙᏗᎢ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᏂᎦᎾᏰᎬᎾ ᎠᎴ ᏦᎦᏤᎳᏍᏙᏗ ᎨᎡᎢ ᎾᎾᏛᏁᎲ.</string>
+  <string name="vital_done">ᎠᎵᏍᏆᏓ!</string>
+  <string name="vital_error_fail">ᎾᎿᎢ Ꭰ ᏗᎪᏒᎯᏌᏅᎯ ᏓᏓᎴᎬᎢ. Ꮭ ᏗᎦᏁᏟᏴᏓ ᎤᏒᎦᎵ ᏱᎨᏎ ᎪᏢᏅᎯ.</string>
+  <string name="vital_go_back">ᎨᎡᎩ ᏂᎯ ᎤᏙᎯᏳ ᏂᎯ ᎤᏚᎵᎭ ᎾᎿᎢ ᎭᎴᏫᏍᏓ ᎦᏘᏅᏛᏍᏗ</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">ᏥᎭᏂᎩᏍᏓ ᎾᎿᎢ ᎠᎯᎸᏍᏗ</string>
+  <string name="vital_skip">ᎠᏓᎾᏫᏓ</string>
+  <string name="vital_stop">ᎭᎴᏫᏍᏓ</string>
+  <string name="wifi_setting">Wi-Fi ᏕᎦᎧᎲᎢ</string>
+</resources>

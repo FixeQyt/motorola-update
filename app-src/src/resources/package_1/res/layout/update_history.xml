@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:fitsSystemWindows="true"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  <LinearLayout android:orientation="horizontal"
+                android:id="@id/update_history_toolbar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingEnd="@dimen/heading_margin">
+    <ImageView android:layout_gravity="center_vertical"
+               android:id="@id/imgBack"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/ic_ab_back_material"
+               android:tint="@color/black"
+               android:paddingHorizontal="@dimen/heading_margin_menu"
+               android:paddingVertical="@dimen/heading_margin_menu" />
+    <TextView android:theme="@style/TextAppearance.TitleBarBlackText"
+              android:layout_gravity="center_vertical"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/update_history_title" />
+  </LinearLayout>
+  <ScrollView android:scrollbarStyle="outsideOverlay"
+              android:id="@id/history_scroll"
+              android:visibility="gone"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:paddingStart="@dimen/bullet_margin_end">
+    <LinearLayout android:orientation="vertical"
+                  android:id="@id/history_parent_layout"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content" />
+  </ScrollView>
+  <LinearLayout android:gravity="center"
+                android:orientation="vertical"
+                android:id="@id/no_history"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+    <ImageView android:layout_gravity="center_horizontal"
+               android:id="@id/imgClock"
+               android:paddingTop="@dimen/list_group_padding_top"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/ic_no_history" />
+    <TextView android:textSize="@dimen/empty_history"
+              android:gravity="center"
+              android:layout_gravity="center_horizontal"
+              android:id="@id/empty_history"
+              android:paddingTop="@dimen/heading_margin"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/update_history_blank"
+              style="@style/TextAppearance.TitleBarBlackText" />
+    <TextView android:theme="@style/TextAppearance.Body.Roboto_Medium"
+              android:textSize="@dimen/sub_text"
+              android:gravity="center"
+              android:layout_gravity="center_horizontal"
+              android:paddingTop="@dimen/switch_padding"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/no_updates_applied" />
+  </LinearLayout>
+</LinearLayout>

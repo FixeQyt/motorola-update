@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Vaše zariadenie sa o %1$d s reštartuje, čím sa aktualizácia dokončí.</item>
+    <item quantity="few">Vaše zariadenie sa o %1$d s reštartuje, čím sa aktualizácia dokončí.</item>
+    <item quantity="many">Vaše zariadenie sa o %1$d s reštartuje, čím sa aktualizácia dokončí.</item>
+    <item quantity="other">Vaše zariadenie sa o %1$d s reštartuje, čím sa aktualizácia dokončí.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">reštartuje o %1$d sekundu</item>
+    <item quantity="few">reštartuje o %1$d sekundy</item>
+    <item quantity="many">reštartuje o %1$d sekúnd</item>
+    <item quantity="other">reštartuje o %1$d sekúnd</item>
+  </plurals>
+</resources>

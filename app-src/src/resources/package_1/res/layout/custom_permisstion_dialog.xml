@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:padding="@dimen/activity_left_margin"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <TextView android:textSize="@dimen/update_text"
+            android:textStyle="bold"
+            android:textColor="@color/switch_track_stroke_color_off_disabled"
+            android:id="@id/alertTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alertTitle"
+            style="@style/TextAppearance.MaterialComponents.Headline6" />
+  <TextView android:textColor="@color/switch_track_stroke_color_off_disabled"
+            android:id="@id/alertText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_left_margin"
+            android:text="@string/alertText" />
+  <TextView android:id="@id/alertSubText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alertSubText" />
+  <LinearLayout android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/button_left_padding">
+    <Button android:id="@id/btnDeny"
+            android:layout_width="0.0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/deny"
+            android:layout_weight="1.0"
+            android:layout_marginEnd="@dimen/layout_margin_padding"
+            style="@style/MaterialButtonNoStyle" />
+    <com.google.android.material.button.MaterialButton android:gravity="center"
+                          android:id="@id/btnAllow"
+                          android:layout_width="0.0dp"
+                          android:layout_height="wrap_content"
+                          android:text="@string/allow"
+                          android:layout_weight="1.0"
+                          ota:cornerRadius="@dimen/button_corner_radius"
+                          style="@style/MaterialButtonColoredStyle" />
+  </LinearLayout>
+</LinearLayout>

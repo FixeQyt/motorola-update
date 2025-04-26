@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">আপডেটটি সম্পূর্ণ করতে আপনার ডিভাইসটি %1$d সেকেন্ডে পুনঃশুরু হবে।</item>
+    <item quantity="other">আপডেটটি সম্পূর্ণ করতে আপনার ডিভাইসটি %1$d সেকেন্ডে পুনঃশুরু হবে।</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d সেকেন্ডে পুনঃশুরু</item>
+    <item quantity="other">%1$d সেকেন্ডে পুনঃশুরু</item>
+  </plurals>
+</resources>

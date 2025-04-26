@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Уредот ќе се рестартира за %1$d секунда за да го заврши ажурирањето.</item>
+    <item quantity="other">Уредот ќе се рестартира за %1$d секунди за да го заврши ажурирањето.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">се рестартира за %1$d секунда</item>
+    <item quantity="other">се рестартира за %1$d секунди</item>
+  </plurals>
+</resources>

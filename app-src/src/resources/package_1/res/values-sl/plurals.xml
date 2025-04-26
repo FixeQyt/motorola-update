@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Naprava se bo znova zagnala čez %1$d sekundo za dokončanje posodobitve.</item>
+    <item quantity="two">Naprava znova zagnala čez %1$d sekundi za dokončanje posodobitve.</item>
+    <item quantity="few">Naprava znova zagnala čez %1$d sekunde za dokončanje posodobitve.</item>
+    <item quantity="other">Naprava se bo znova zagnala čez %1$d sekund za dokončanje posodobitve.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">znova zagnala čez %1$d sekundo</item>
+    <item quantity="two">znova zagnala čez %1$d sekund</item>
+    <item quantity="few">znova zagnala čez %1$d sekund</item>
+    <item quantity="other">znova zagnala čez %1$d sekund</item>
+  </plurals>
+</resources>

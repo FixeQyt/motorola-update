@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">อุปกรณ์ของคุณจะรีสตาร์ทใน %1$d วินาที เพื่อทำการอัปเดตให้เสร็จสมบูรณ์</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">รีสตาร์ทใน %1$d วินาที</item>
+  </plurals>
+</resources>

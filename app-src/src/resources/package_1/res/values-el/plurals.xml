@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Η συσκευή θα κάνει επανεκκίνηση σε %1$d δευτερόλεπτο για να ολοκληρώσει την ενημέρωση.</item>
+    <item quantity="other">Η συσκευή θα κάνει επανεκκίνηση σε %1$d δευτερόλεπτα για να ολοκληρώσει την ενημέρωση.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">κάνει επανεκκίνηση σε %1$d δευτερόλεπτο</item>
+    <item quantity="other">κάνει επανεκκίνηση σε %1$d δευτερόλεπτα</item>
+  </plurals>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <ScrollView android:scrollbarStyle="outsideOverlay"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginStart="@dimen/activity_left_margin"
+                  android:layout_marginEnd="@dimen/activity_right_margin">
+      <TextView android:textStyle="bold"
+                android:id="@id/title"
+                android:paddingTop="@dimen/headline_padding_top"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/download_options"
+                android:layout_marginStart="@dimen/switch_padding"
+                style="?android:attr/textAppearanceLarge" />
+      <TextView android:id="@id/download_size"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/list_starting_padding_top"
+                android:layout_marginStart="@dimen/switch_padding"
+                style="@style/TextAppearance.Caption" />
+      <TextView android:id="@id/picker_title"
+                android:layout_width="@dimen/alert_dialog_width"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/list_starting_padding_top"
+                android:text="@string/picker_title"
+                android:layout_marginStart="@dimen/switch_padding"
+                style="@style/TextAppearance.Body" />
+      <RadioGroup android:theme="@style/TextAppearance.Body"
+                  android:id="@id/picker_radio_group"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="@dimen/list_starting_padding_top"
+                  android:layout_marginStart="@dimen/layout_margin_padding">
+        <RadioButton android:id="@id/picker_wifi_only_radio"
+                     android:layout_width="fill_parent"
+                     android:layout_height="wrap_content"
+                     android:text="@string/picker_wifi_only_radio" />
+        <RadioButton android:id="@id/picker_cell_radio"
+                     android:layout_width="fill_parent"
+                     android:layout_height="wrap_content"
+                     android:text="@string/picker_cell_radio" />
+      </RadioGroup>
+      <TextView android:id="@id/dloptionsnotes"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/textview_margin_top"
+                android:text="@string/dl_options_mobile_only_warning"
+                android:layout_marginStart="@dimen/switch_padding"
+                android:layout_marginEnd="@dimen/activity_right_margin"
+                style="@style/TextAppearance.Body" />
+      <RelativeLayout android:layout_gravity="end"
+                      android:orientation="horizontal"
+                      android:paddingTop="@dimen/button_top_padding"
+                      android:paddingBottom="@dimen/button_bottom_padding"
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_marginStart="@dimen/activity_left_margin"
+                      android:layout_marginEnd="@dimen/activity_right_margin"
+                      android:elevation="@dimen/elevation_size">
+        <com.google.android.material.button.MaterialButton android:gravity="center"
+                              android:id="@id/done"
+                              android:layout_width="fill_parent"
+                              android:layout_height="wrap_content"
+                              android:text="@string/continue_button"
+                              android:layout_alignParentEnd="true"
+                              ota:cornerRadius="@dimen/button_corner_radius"
+                              style="@style/MaterialButtonColoredStyle" />
+      </RelativeLayout>
+    </LinearLayout>
+  </ScrollView>
+</LinearLayout>

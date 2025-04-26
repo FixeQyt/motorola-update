@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">နောက်မှ Update လုပ်ပါ</string>
+  <string name="ab_download_now">ယခု Update လုပ်ပါ</string>
+  <string name="ab_install_notification_paused_text">နောက်ခံတပ်ဆင်မှုဆိုင်းငံ့မှု</string>
+  <string name="ab_install_notification_text">နောက်ခံတပ်ဆင်</string>
+  <string name="ab_restart_fullscreen_text">ရောက်လုနီးပါပြီ။ သင့်စက်ကို ပြန်လည်စတင်ရန် စက္ကန့် 90 ခန့်သာ ကြာပါမည်။ အပ်ဒိတ်ကို %1$d ရက်ကြာအောင် ရနိုင်ပါပြီ။</string>
+  <string name="ab_restart_text">ရောက်လုနီးပါပြီ။ သင့်စက်ကို ပြန်လည်စတင်ရန် စက္ကန့် 90 ခန့်သာ ကြာပါမည်။</string>
+  <string name="ab_restart_warning_os_mr">သင့် system update သည်ပြည့်စုံနေပြီ will </string>
+  <string name="ab_restart_warning_smr">သင်၏လုံခြုံရေး update သည်ပြည့်စုံနေပြီ။ သင်၏ကိရိယာသည် will </string>
+  <string name="ab_warning_continues"> အပ်ဒိတ်ပြီးစီးရန်။</string>
+  <string name="abupdate_in_progress_status">ဆော့ဖ်ဝဲအပ်ဒိတ်ကို လုပ်ဆောင်နေပါသည်။</string>
+  <string name="additional_charges_message">မိုဘိုင်းဒေတာပေါ်တွင်ဒေါင်းလုပ်ချသည်။ ဒေတာအခကြေးငွေသက်ဆိုင်နိုင်ပါသည်။</string>
+  <string name="alertSubText">၄ င်းကို update package ကိုစစ်ဆေးရန်၊ download လုပ်ရန်နှင့် install လုပ်ရန်အတွက်အသုံးပြုသည်</string>
+  <string name="alertText">ဆော့ဖ်ဝဲမွမ်းမံမှုများအတွက်ကွန်ယက်လုပ်ဆောင်မှုကိုခွင့်ပြုပါ</string>
+  <string name="alertTitle">အဆင့်မြှင့်တင်မှုများသည်အောက်ပါခွင့်ပြုချက်လိုအပ်သည်</string>
+  <string name="alert_dialog_cancel">တပ်ဆင်ခြင်းကိုရပ်ပါ</string>
+  <string name="alert_dialog_continue">install လုပ်ပါ</string>
+  <string name="alert_dialog_no">မလို</string>
+  <string name="alert_dialog_ok">ရပြီ</string>
+  <string name="alert_dialog_yes">ဟုတ်ကဲ့</string>
+  <string name="allocate_space_success">အသစ်ပြောင်းရန်အတွက်လိုအပ်သောမှတ်ဥာဏ်ကိုရနိုင်သည်</string>
+  <string name="allow">ခွင့်ပြု</string>
+  <string name="android_latest_sw_text">သင်သည် နောက်ဆုံးပေါ်ဆော့ဖ်ဝဲကို အသုံးပြုနေပါသည်။</string>
+  <string name="android_version">အန်းဒရွိုက်ဗားရှင်း-</string>
+  <string name="app_name">Motorola က Software များ Update ကို</string>
+  <string name="applied">ဖွင့်ပါ</string>
+  <string name="apply_bug_fix">အမှားပြင်ဆင်မှုများကို Apply</string>
+  <string name="apply_os_update">ဆော့ (ဖ်) ဝဲမွမ်းမံမှုများအားလုံးကိုလျှောက်ထားပါ</string>
+  <string name="applying_patch">အပ်ဒိတ်ကို အသုံးပြုနေသည် (အဆင့် %1$d ၏ %2$d)  </string>
+  <string name="are_you_sure">Smart updates များကိုပိတ်ပါ။</string>
+  <string name="are_you_sure_pop_up_text">စမတ်အသစ်ပြောင်းခြင်းများကိုသင်ပိတ်လိုပါသလား။ </string>
+  <string name="asc_campaign_assigned">မဲဆွယ်စည်းရုံးရေးတာဝန်ပေးအပ်</string>
+  <string name="asc_campaign_is_allowed">Firmware Update</string>
+  <string name="asc_campaign_is_blocked">Firmware Lock</string>
+  <string name="asc_campaign_not_assigned">စက်ပစ္စည်းသည် လောလောဆယ်တွင် ကမ်ပိန်းတစ်ခုတွင် မရှိပါ။</string>
+  <string name="asc_campaign_status_prefix">
+အခြေအနေ: </string>
+  <string name="asc_campaign_window_period_status">
+အပ်ဒိတ်ဝင်းဒိုး- %s မှ %s</string>
+  <string name="asc_sw_up_to_date"> နောက်ဆုံးထွက်ဗားရှင်း</string>
+  <string name="asc_target_version"> ဗားရှင်း </string>
+  <string name="auth_title">စနစ် မွမ်းမံမှု</string>
+  <string name="auto_download_cellualr_charges_warn">မိုဘိုင်းကွန်ရက်မှတစ်ဆင့် အပ်ဒိတ်များကို ဒေါင်းလုဒ်လုပ်သည့်အခါ အပိုကောက်ခံမှုများ ရှိလာနိုင်သည်။</string>
+  <string name="auto_download_enable_cellular_future_updates">နောင်ဒေါင်းလုဒ်များအတွက် ဆယ်လူလာဒေတာရွေးချယ်မှုကိုလည်း သင်ရွေးချယ်လိုပါသလား။</string>
+  <string name="auto_download_settings_title">အလိုအလျောက်ဒေါင်းလုဒ် ဆက်တင်များ</string>
+  <string name="auto_download_wifi_cellular">ဆယ်လူလာနှင့် Wi-Fi မှတဆင့် အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ။</string>
+  <string name="auto_download_wifi_cellular_desc">ဆယ်လူလာနှင့် Wi-Fi မှတဆင့် အလိုအလျောက် ဒေါင်းလုဒ်လုပ်ပါ။ ရနိုင်သည့်အခါ Wi-Fi ကို ဦးစွာအသုံးပြုပါမည်။ </string>
+  <string name="auto_download_wifi_only">Wi-Fi ဖြင့်သာ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ။</string>
+  <string name="auto_download_wifi_only_desc">Wi-Fi ဖြင့်သာ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ။</string>
+  <string name="auto_install_notification_text">Device ကိုအလိုအလျောက်ပေါ် install လုပ်ပါလိမ့်မယ် %1$s</string>
+  <string name="auto_time_set">မှာ Start:</string>
+  <string name="automatic_bg_install_on_cellular_warning">သောကြောင့်ယင်း၏အရေးပါမှု, ဒီ update ကိုအပေါ်မိုဘိုင်းဒေတာကို အသုံးပြု. အလိုအလျှောက် install လုပ်ပါလိမ့်မယ် %1$s</string>
+  <string name="automatic_download_on_cellular_warning">သောကြောင့်ယင်း၏အရေးပါမှု, ဒီ update ကိုအပေါ်မိုဘိုင်းဒေတာကို အသုံးပြု. အလိုအလျှောက် download လုပ်ပါလိမ့်မယ် %1$s</string>
+  <string name="background_install_msg">သင်ပြန်သွားလျှင် သို့မဟုတ် ဤဝင်းဒိုးကိုပိတ်ပါက ဤအပ်ဒိတ်သည် ဆက်လက်ရှိနေမည်ဖြစ်သည်။</string>
+  <string name="background_install_text">update တစ်ခု download လုပ်နေတယ် &amp; ထည့်သွင်း။ သင်၏ကိရိယာကို ဆက်၍ အသုံးပြုနိုင်သည်။</string>
+  <string name="bad_connection">အဘယ်သူမျှမအင်တာနက်</string>
+  <string name="bad_connection_text">သင်၏စက်သည်အင်တာနက်နှင့်အဆက်ပြတ်နေသည် ထပ်မံကြိုးစားရန်အောက်ခြေခလုတ်ကိုနှိပ်ပါ။</string>
+  <string name="bg_install_cancel_confirm">တပ်ဆင်မှုကိုရပ်တန့်ရန်သင်သေချာပါသလား။</string>
+  <string name="bg_retried">ဆော့ဖ်ဝဲဒေါင်းလုဒ် ပြတ်တောက်သွားသည်။ ဆက်ကြိုးစားပါ့မယ်...</string>
+  <string name="bg_suspended">နောက်ခံစနစ်ထည့်သွင်းမှုကို ပြန်စရန် ဒေတာချိတ်ဆက်မှုကိုစောင့်နေသည်</string>
+  <string name="bg_suspended_non_adminapn">နောက်ခံဒေါင်းလုပ်ချခြင်းနှင့်တပ်ဆင်ခြင်းပြန်လည်စတင်ရန် Wi-Fi သို့မဟုတ်သုညအဆင့်သတ်မှတ်ထားသောကွန်ယက်ကိုစောင့်နေသည်။</string>
+  <string name="bg_suspended_roaming">ကွန်ရက်ပြင်ပ ဖုန်းဒေတာသုံးစွဲမှုကြောင့် နောက်ခံထည့်သွင်းမှုရပ်ထားပါတယ်။ ၎င်းကို ဆက်လုပ်နိုင်ရန် Wi-Fi ဖွင့်ပါ။</string>
+  <string name="bg_suspended_wifi">နောက်ခံစနစ်ထည့်သွင်းမှုကို ပြန်စရန် ဝိုင်−ဖိုင်ကိုစောင့်နေသည်</string>
+  <string name="bootloader_unlock_msg">သင်၏ကိရိယာသည်နောက်ဆုံးသတင်းများကိုလက်ခံရရှိခြင်းမရှိတော့ဘဲလုံခြုံရေးအန္တရာယ်များကိုကြုံတွေ့ရနိုင်သည်။</string>
+  <string name="bootloader_unlock_title">ရရှိနိုင်မွမ်းမံမှုများမရှိပါ</string>
+  <string name="cancel">ပယ်ဖျက်ရန်</string>
+  <string name="cancel_download_notification">ပယ်ဖျက်ရန်</string>
+  <string name="cancel_install">ပယ်ဖျက်ရန်</string>
+  <string name="cancel_update_notification">ပယ်ဖျက်ရန်</string>
+  <string name="check_for_updates_title">နောက်ဆုံးသတင်းများကိုစစ်ဆေးပါ</string>
+  <string name="check_update_badparam">လော့ဂ်အင် မဝင်နိုင်သောကြောင့် အဆင့်မြှင့်တင်ရန်ကြိုးပမ်းရာတွင် အမှားတွေ့ကြံုနေရပါသည်။
+
+နောက်မှ ထပ်ကြိုးစားပေးပါ။</string>
+  <string name="check_update_checking">နောက်ဆုံးသတင်းများကိုစစ်ဆေးသည်…</string>
+  <string name="check_update_disabled_admin">IT စီမံခန့်ခွဲသူမှ ထိန်းချုပ်ထားသော စက်အပ်ဒိတ်များ</string>
+  <string name="check_update_downloading">အပ်ဒိတ်ကို ယခု ဒေါင်းလုဒ်လုပ်နေပါသည်။
+
+ထိုဒေါင်းလုဒ်ပြီးသွားသောအခါ သင့်အား အသိပေးပါမည်။</string>
+  <string name="check_update_fail">မျှော်လင့်မထားသော အမှား ဖြစ်ပေါ်လာသည်။
+
+စက်ပစ္စည်းသည် နောက်ခံတွင် အပ်ဒိတ်အတွက် ပြန်ကြိုးစားပါလိမ့်မည်။</string>
+  <string name="check_update_internal">အသစ်ပြောင်းခြင်းများကိုစစ်ဆေး။ မရပါ။ နောက်မှထပ်ကြိုးစားပါ</string>
+  <string name="check_update_net">အင်တာနက် ချိတ်ဆက်မှုကို စစ်ဆေးပါ</string>
+  <string name="check_update_net_vzw">အပ်ဒိတ်များကို စစ်ဆေးရန် ဒေတာချိတ်ဆက်မှု လိုအပ်ပါသည်။ သင်၏ Wi-Fi ချိတ်ဆက်မှုကို စစ်ဆေးရန် ဆက်တင်များသို့ သွားပါ။ &gt; ကွန်ရက် &amp; အင်တာနက် &gt; အင်တာနက် &gt; ဝိုင်ဖိုင်။
+
+သွားရောက်ကြည့်ရှုနိုင်သည်။ motorola.com/systemupdates အခြားသော အပ်ဒိတ်ရွေးချယ်စရာများကို ကြည့်ရန်။</string>
+  <string name="check_update_not_sys_user">ဧည့်သည်ပရိုဖိုင်အတွက် စစ်ဆေးမွမ်းမံမှုကို ခွင့်မပြုပါ။</string>
+  <string name="check_update_processing">ကျွန်ုပ်တို့၏ဆာဗာကိုဆက်သွယ်ခြင်း…
+ကျေးဇူးပြု၍ ခဏစောင့်ပါ</string>
+  <string name="check_update_roaming">စနစ္ပုိင္းအပ္ဒိတ္ကို အိမ္ကြန္ရက္တြင္သာ ျပဳလုပ္ႏိုင္သည္။ 
+
+ချိန်ညှိချက်များသို့သွားပါ &gt; ကွန်ယက် &amp; အင်တာနက် &gt; Wi-Fi ဆက်သွယ်မှုတစ်ခုကိုယခုတည်ဆောက်ရန်</string>
+  <string name="check_update_storage_low">ကိရိယာပေါ်တွင်သိုလှောင်ရန်နေရာမလုံလောက်မှုကြောင့်အသစ်ပြောင်းခြင်းမဖြစ်နိုင်ပါ။</string>
+  <string name="check_update_temperror">အပ်ဒိတ်များကို ဒေါင်းလုဒ်လုပ်ခြင်း မပြီးမြောက်နိုင်ပါ။
+
+ထပ်ကြိုးစားပေးပါ။</string>
+  <string name="check_update_text">အပ်ဒိတ်များကို အခါအားလျော်စွာ စစ်ဆေးခြင်းသည် သင့်စက်ပစ္စည်းကို လုံခြုံစေပြီး စွမ်းဆောင်ရည်ကို မြှင့်တင်ပေးပါသည်။</string>
+  <string name="check_update_title_downloading">ကူးယူပြီးပါပြီ</string>
+  <string name="check_update_vab_validation">VAB သက်တမ်းတိုးခြင်းအခြေအနေကိုစစ်ဆေးခြင်း
+ကျေးဇူးပြု၍ ခဏစောင့်ပါ</string>
+  <string name="check_update_wifi_only">စနစ်ပိုင်းအပ်ဒိတ်ကို ဝိုင်-ဖိုင် တွင်သာ ပြုလုပ်နိုင်သည်။</string>
+  <string name="check_wifi_settings">ဝိုင်ဖိုင်ဆက်တင်များကိုစစ်ဆေးပါ</string>
+  <string name="clear_space">နေရာလွတ်</string>
+  <string name="cloud_picker_title">Cloud ရွေးချယ်သည့်အရာ</string>
+  <string name="common_android_wear_notification_needs_update_text">အပလီကေးရှင်း တစ်ခုက အန်ဒရွိုက် ဆောင်စရာ appကို မွမ်းမံပေးရန်ကို တောင်းဆိုနေသည်။</string>
+  <string name="common_android_wear_update_text">သင်က အန်ဒရွိုက် ဆောင်စရာ appကို မွမ်းမံ မပေးမချင်း ဒီapp အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+  <string name="common_android_wear_update_title">အန်ဒရွိုက် ဆောင်စရာကို မွမ်းမံရန်</string>
+  <string name="common_google_play_services_enable_button">Google ပလေး ၀န်ဆောင်မှုများ ဖွင့်ရန်</string>
+  <string name="common_google_play_services_enable_text">သင်က Google ပလေး ဝန်ဆောင်မှုများ မဖွင့်သရွေ့  ဤapp အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+  <string name="common_google_play_services_enable_title">Google ပလေး ၀န်ဆောင်မှုများ ဖွင့်ရန်</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">%1$s က တောင်းဆိုခဲ့သည်</string>
+  <string name="common_google_play_services_install_button">Google ပလေး ဝန်ဆောင်မှုများကို ရယူရန်</string>
+  <string name="common_google_play_services_install_text_phone">ဤappသည် သင့်ဖုန်းထဲတွင် မရှိသည့် Google ပလေး ဝန်ဆောင်မှုများ မရှိလျှင် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+  <string name="common_google_play_services_install_text_tablet">သင် တက်ဘလက် ထဲတွင် မရှိသည့် Google ပလေး ဝန်ဆောင်မှုများ မရှိလျှင် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+  <string name="common_google_play_services_install_title">Google ပလေး ဝန်ဆောင်မှုများကို ရယူပါ။</string>
+  <string name="common_google_play_services_invalid_account_text">ဤကိရိယာမှာ ဖေါ်ပြပါ အကောင့်မရှိပါ။ ကျေးဇူးပြု၍ အခြား အကောင့်ကို ရွေးပါ။</string>
+  <string name="common_google_play_services_invalid_account_title">မမှန်သည့် အကောင့်</string>
+  <string name="common_google_play_services_needs_enabling_title">အပလီကေးှရင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုကို ဖွင့်ပေးရန် လိုအပ်သည်။</string>
+  <string name="common_google_play_services_network_error_text">Google ပလေး ဝန်ဆောင်မှုများသို့ ဆက်သွယ်ရန် ဒေတာ ချိတ်ဆက်မှု လိုအပ်သည်။</string>
+  <string name="common_google_play_services_network_error_title">ကွန်ရက် အမှား</string>
+  <string name="common_google_play_services_notification_needs_installation_title">အပလီကေးရှင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုများကို တပ်ဆင်ပေးရန် လိုသည်။</string>
+  <string name="common_google_play_services_notification_needs_update_title">အပလီကေးရှင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုကို မွမ်းမံပေးရန် လိုသည်။</string>
+  <string name="common_google_play_services_notification_ticker">Google ပလေး ဝန်ဆောင်မှုများ အမှား</string>
+  <string name="common_google_play_services_unknown_issue">Google ပလေး ဝန်ဆောင်မှုတွင် မသိရ ပြဿနာ ရှိနေသည်။</string>
+  <string name="common_google_play_services_unsupported_text">သင်၏ အပလီကေးရှင်း အချို့က အားကိုးကြသည့် Google ပလေး ဝန်ဆောင်မှုများကို  သင်၏ ကိရိယာက မပံ့ပိုးပါ။ အကူအညီရယူရန် ကျေးဇူးပြုပြီး ထုတ်လုပ်သူကို ဆက်သွယ်ပါ။</string>
+  <string name="common_google_play_services_unsupported_title">Google ပလေး ဝန်ဆောင်မှုများ</string>
+  <string name="common_google_play_services_update_button">မွမ်းမံရန်</string>
+  <string name="common_google_play_services_update_text">သင်သည် Google ပလေး ဝန်ဆောင်မှုများကို မမွမ်းမံသရွေ့ ဤ app အလုပ် လုပ်မည် မဟုတ်ပါ။</string>
+  <string name="common_google_play_services_update_title">Google ပလေး ၀န်ဆောင်မှုများကို မွမ်းမံရန်</string>
+  <string name="common_open_on_phone">ဖုန်းထဲ ဖွင့်ရန်</string>
+  <string name="common_signin_button_text">လင်မှတ်ထိုး ဝင်</string>
+  <string name="common_signin_button_text_long">Google ဖြင့် လက်မှတ်ထို ဝင်</string>
+  <string name="compatibility_failed_title">package အတည်ပြုခြင်းမအောင်မြင်ပါ</string>
+  <string name="compatibility_verification_failure">ဒေါင်းလုပ်လုပ်ခံရအဆိုပါ update ကိုအထုပ် device ကိုပေါ်ရှိလက်ရှိဆော့ဖျဝဲဗားရှင်းနဲ့ကိုက်ညီမှုမရှိပါ။</string>
+  <string name="compatibility_verification_failure_df">
+
+ သင့်ရဲ့စမ်းသပ်ပရိုဂရမ်ညှိနှိုင်းရေးမှူးနှင့်အတူစစ်ဆေးပါ။</string>
+  <string name="compatibility_verification_success">အတည်ပြုမှု အောင်မြင်ပါသည်</string>
+  <string name="completed"> တပ်ဆင်မှု ပြီးပါပြီ။ သင့်ဖုန်းကို ပြန်လည်စတင်ရန် သင့်အား အကြောင်းကြားပါမည် (Step %1$d of %2$d)</string>
+  <string name="completed_install">%s ပြီးပါပြီ။</string>
+  <string name="connect_to_wifi">Wi-Fi သို့ချိတ်ဆက်ပါ</string>
+  <string name="continue_button">ရှေ့ဆက်မည်</string>
+  <string name="critical_install_message_popup_os_mr">အရေးကြီးသော system update ကိုရရှိနိုင်သည်။ ကျေးဇူးပြု၍ အသစ်ပြောင်းခြင်းကိုအသုံးပြုရန်ထည့်သွင်းပါ။ မရရှိလျှင်, update ကို %1$sအပေါ်အလိုအလျောက်လျှောက်ထားပါလိမ့်မည်။</string>
+  <string name="critical_install_message_popup_smr">အရေးကြီးသောလုံခြုံရေး update ကိုရရှိနိုင်သည်။ ကျေးဇူးပြု၍ အသစ်ပြောင်းခြင်းကိုအသုံးပြုရန်ထည့်သွင်းပါ။ မရရှိလျှင်, update ကို %1$sအပေါ်အလိုအလျောက်လျှောက်ထားပါလိမ့်မည်။</string>
+  <string name="critical_install_message_screen">ဤအရေးကြီးသောအပ်ဒိတ်သည် %1$sတွင်အလိုအလျောက်ထည့်သွင်းလိမ့်မည်။ သင်တပ်ဆင်ရန်လုံလောက်သောဘက္ထရီရှိသည်ကိုသေချာပါစေ။</string>
+  <string name="critical_install_notification">ဤအသစ်ပြောင်းခြင်းသည်အရေးကြီးသောကြောင့်သင်၏စက်သည် %1$sတွင်အလိုအလျောက်ထည့်သွင်းလိမ့်မည်။
+အချိန်တပ်ဆင်ပါ - %2$d မိနစ်</string>
+  <string name="critical_restart_message_popup">ဤအရေးကြီးသောအပ်ဒိတ်ကိုအသုံးပြုရန်၊ ကျေးဇူးပြု၍ အမြန်ဆုံးပြန်လည်စတင်ပါ။ သင်မလုပ်နိုင်ပါက သင့်စက်ပစ္စည်းသည် %1$sတွင် အလိုအလျောက်ပြန်လည်စတင်မည်ဖြစ်သည်။</string>
+  <string name="critical_restart_message_screen">ဤအရာသည်အရေးကြီးသောအသစ်ပြောင်းခြင်းဖြစ်သောကြောင့်သင်ပြန်ဖွင့်ခြင်းမပြုပါကသင်၏စက်သည် %1$s တွင်အလိုအလျောက်ပြန်လည်စတင်လိမ့်မည်။</string>
+  <string name="critical_restart_notification">ဤအပ်ဒိတ်သည် အရေးကြီးပါသည်။ ယခု ပြန်လည်စတင်၍မရပါက၊ သင့်စက်ပစ္စည်းသည် အလိုအလျောက် ပြန်လည်စတင်မည်ဖြစ်သည်။ %1$s</string>
+  <string name="critical_update_notification_title">ဝေဖန်မွမ်းမံမှု</string>
+  <string name="current_version">လက်ရှိဆော့ဗ်ဝဲဗားရှင်း:</string>
+  <string name="custom_slot">စိတ္ႀကိဳက္</string>
+  <string name="custom_time">မိမိစိတ်ကြိုက်အချိန်</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s တြင္ %s</string>
+  <string name="defer_count_expired">ရပြီ</string>
+  <string name="deny">ငြင်းပယ်</string>
+  <string name="details">အသေးစိတ်</string>
+  <string name="device_corrupted_msg">စနစ်ဆိုင်ရာ ပြဿနာအချို့ကို ကျွန်ုပ်တို့ တွေ့ရှိခဲ့သည်။ နာကျင်မှုတစ်ခုဖြစ်ကြောင်း ကျွန်ုပ်တို့သိပါသည်၊ သို့သော် ၎င်းတို့ကို ပြုပြင်ရန် သင့်ဒေသခံဝန်ဆောင်မှုစင်တာသို့ သွားရောက်ရန် လိုအပ်ပါသည်။
+
+သင့်ဖုန်းအား ပြင်ဆင်ပြီးပါက၊ ကျွန်ုပ်တို့သည် သင့်ဖုန်းတွင် အပ်ဒိတ်များကို ဆက်လက်လုပ်ဆောင်နိုင်ပါသည်။</string>
+  <string name="device_corrupted_title">ဖုန်းကို အပ်ဒိတ်လုပ်၍မရပါ။</string>
+  <string name="dialog_alert_net_message">သင့် Wi-Fi (သို့) မိုဘိုင်းဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
+  <string name="dialog_alert_net_title">သင့်စက်က အော့ဖ်လိုင်းဖြစ်နေသည်</string>
+  <string name="dialog_alert_title">ဘက်ထရီအားနည်းနေသည်</string>
+  <string name="dialog_progress">Loading ...</string>
+  <string name="dl_options_mobile_only_warning">အသုံးပြုခြင်း Wi-Fi အကြံပြုသည်။ မိုဘိုင်းဒေတာနှင့်အတူဒေါင်းလုဒ်လုပ်ခြင်းသို့မဟုတ်ပါ Roaming နောက်ထပ်စွဲချက်ကိုဖြစ်စေနိုင်တယ်စဉ်မိုဘိုင်းဒေတာကိုသုံးနိုင်သည်။
+
+ ဒီဆော့ဗ်ဝဲကိုဒေါင်းလုဒ်သင့်ကိရိယာ၏စစ်ဆင်ရေး impact လိမ့်မည်မဟုတ်ပါ။</string>
+  <string name="done">ပြီးပါပြီ</string>
+  <string name="dont_show_this_again">ဒီဟာကိုနောက်တစ်ကြိမ်မပြပါနှင့်</string>
+  <string name="download_cancelled_title">ဒေါင်းလုဒ်ကို ပယ်ဖျက်လိုက်ပါပြီ</string>
+  <string name="download_deferred_status">ဆော့ဖ်ဝဲလ်ဒေါင်းလုဒ်ကို ရွှေ့ဆိုင်းထားသည်။</string>
+  <string name="download_failed_status">အပ်ဒိတ်ကို ဖွင့်၍မရပါ။</string>
+  <string name="download_in_progress_status">ဆော့ဖ်ဝဲလ်ဒေါင်းလုဒ်လုပ်နေပါသည်။</string>
+  <string name="download_later_button">နောက်မှ ဒေါင်းလုဒ်လုပ်ပါ</string>
+  <string name="download_no_button">မလိုတော့ပါ</string>
+  <string name="download_note">အသစ်ပြောင်းခြင်းတပ်ဆင်နေစဉ်အတွင်းသင့်ကိရိယာကို ဆက်၍ အသုံးပြုနိုင်သည်</string>
+  <string name="download_now">ယခုဒေါင်းလုပ်ဆွဲပါ</string>
+  <string name="download_now_button">ဒေါင်းလုဒ်လုပ်ပါ</string>
+  <string name="download_options">ဒေါင်းလုဒ် ရွေးချယ်စရာများ</string>
+  <string name="download_progress_cancel_message">နောင်တွင်ဤ update ကို download လုပ်လိုပါကချိန်ညှိချက်များသို့သွားပါ &gt; စနစ်အသစ်ပြောင်းခြင်းများ</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s လက်ဝဲ (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% download လုပ် (ခေတ္တရပ်)</string>
+  <string name="download_progress_text">သင်ပြန်သွား သို့မဟုတ် ဤဝင်းဒိုးကိုပိတ်ပါက ဤဒေါင်းလုဒ်ကို ဆက်လက်လုပ်ဆောင်ပါမည်။</string>
+  <string name="download_subtitle">download မလုပ်ခင်ဘာသိရမလည်း</string>
+  <string name="download_text_whats_new">အသစ်သောအရာကိုကြည့်ပါ</string>
+  <string name="download_time_left">%1$s လက်ဝဲ</string>
+  <string name="download_version">ဗားရှင်း %1$s — %2$s</string>
+  <string name="download_wifi_only_error">ဒီ update ကို download လုပ်ရန် Wi-Fi လိုအပ်သည်။ သင်၏ဆက်သွယ်မှုကိုပြန်လည်ထည့်ပြီးသည်နှင့်ဒေါင်းလုပ်သည်ပြန်လည်စတင်ပါမည်</string>
+  <string name="downloaded_percentage">%1$s download လုပ်ယူ</string>
+  <string name="emergency_call_btn_txt">အရေးပေါ်</string>
+  <string name="emergency_call_text">ပြန်လည်စတင်ချိန်အတွင်း အရေးပေါ်ဖုန်းခေါ်ဆိုခြင်းအပါအဝင် ဖုန်းခေါ်ဆိုမှုပြုလုပ်ခြင်းနှင့် လက်ခံခြင်းကို မဆောင်ရွက်နိုင်ပါ!</string>
+  <string name="enable_wifi_error_txt">ချိတ်ဆက်ပါ Wi-Fi ဒီ update ကို download လုပ်ပါ။</string>
+  <string name="eol_explore">ကိရိယာအသစ်များကိုရှာဖွေပါ</string>
+  <string name="eol_last_update_text">လုံခြုံရေး patch:</string>
+  <string name="eol_promote">နောက်ဆုံးပေါ်ပရိုမိုးရှင်းကိုကြည့်ပါ</string>
+  <string name="eol_title">သင်၏ကိရိယာသည်နောက်ဆုံးရရှိနိုင်သည့်ဆော့ဖ်ဝဲကိုအသုံးပြုနေသည်။</string>
+  <string name="err_title_contact_server">ဆာဗာကိုဆက်သွယ်နေသည်။</string>
+  <string name="err_title_memory_low">မှတ်ဉာဏ်နည်းသည်…</string>
+  <string name="err_title_temp_error">ယာယီအမှား</string>
+  <string name="err_title_update">အဆင့်မြှင့်အမှား</string>
+  <string name="error_code">အမှားကုဒ် -</string>
+  <string name="error_copyfail">SD ကတ် တည်နေရာထဲမှ ကူးယူလို့မရပါ။</string>
+  <string name="error_disabled">အပ်ဒိတ်လုပ်လို့ မရပါ။ အပ်ဒိတ်ပက်ကေ့ဂ်ျကို ယခုအချိန်တွင် မရနိုင်ပါ။ 
+
+နောက်ထပ် မည်သည့်လုပ်ဆောင်ချက်မှ မလိုအပ်ပါ။</string>
+  <string name="error_fail">ဝမ်းနည်းပါသည်၊ သင်၏ %1$sကို အပ်ဒိတ်လုပ်ရာတွင် ပြဿနာရှိခဲ့သည်။ အဘယ်သူမျှမအပြောင်းအလဲများကိုလုပ်ခဲ့ကြသည်။ ဆက်တင်များသို့ သွားခြင်းဖြင့် ထပ်စမ်းကြည့်ပါ။ &gt; စနစ်အပ်ဒိတ်။</string>
+  <string name="error_in_call_msg">ခေါ်ဆိုမှုတိုးတက်နေပြီဖြစ်သောကြောင့်စက်သည်ယခု update မလုပ်နိုင်ပါ</string>
+  <string name="error_in_call_title">ခေါ်ဆိုမှုတိုးတက်နေပြီ</string>
+  <string name="error_install_title">တပ်ဆင်မှုမအောင်မြင်ပါ။</string>
+  <string name="error_mismatch">ဗားရှင်းမကိုက်ညီမှုတစ်ခု ဖြစ်ပွားခဲ့ပါသည်။ အပ်ဒိတ်ထပ်လုပ်ပေးပါမည်။ ရနိုင်သည့်အရာရှိလျှင် သင့်အား အချက်ပြပါမည်။</string>
+  <string name="error_mismatch_sd">အပ်ဒိတ်လုပ်ခြင်း မအောင်မြင်ပါ။ အပ်ဒိတ်ဗားရှင်းသည် သင့်ဖုန်းနှင့် မကိုက်ညီပါ။ 
+
+သင့်ဖုန်းအတွက် ဗားရှင်းမှန်ကို ဒေါင်းလုဒ်လုပ်၍ ထပ်ကြိုးစားပါ။</string>
+  <string name="error_network">ချိတ်ဆက်မှု ပြုတ်သွားသည်။ ဖုန်းဆက်တင်များမှတဆင့် အပ်ဒိတ်များကို ကိုယ်တိုင်စစ်ဆေးခြင်းဖြင့် ထပ်ကြိုးစားပါ။</string>
+  <string name="error_reboot">ဒီအပ်ဒိတ်ကိုကျွန်တော် download လုပ်လို့မရပါ ဤနောက်ဆုံးအခြေအနေကိုသင်ရလိုလျှင်၊ သင်၏စက်ကိုပြန်လည်စတင်ပြီးချိန်ညှိချက်များသို့သွားပါ &gt; စနစ်အသစ်ပြောင်းခြင်းများ</string>
+  <string name="error_resources">ဒီအပ်ဒိတ်ကိုကျွန်တော် download လုပ်လို့မရပါ သင်ဤ update ကိုနောက်မှရယူလိုပါက Settings သို့သွားပါ &gt; စနစ်အသစ်ပြောင်းခြင်းများ</string>
+  <string name="error_sdcard_resources_fail_removal">အဆိုပါ SD ကတ်ကိုဖယ်ရှားခံခဲ့ရသည်။ ဒေါင်းလုပ်ဖြစ်စဉ်ကိုအပြီးသတ်မခံခဲ့ရပါဘူး။ 
+
+ကျေးဇူးပြု re-insert အဆိုပါ SD ကတ်နဲ့ Settings မှသွားလာရင်း &gt; System ကိုထပ်ကြိုးစားကြည့်ဖို့ update ။
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">ဒေါင်းလုဒ်ဖြည့်စွက်ရန် လုပ်. မရပါ။ အဆိုပါ SD ကတ်အပေါ်လုံလောက်သောနေရာမရှိပါပါပဲ။ 
+
+တချို့နေရာလွတ်နဲ့ Settings ကိုသွား &gt; System ကိုထပ်ကြိုးစားကြည့်ဖို့ update ။
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">ဒေါင်းလုဒ်စတင်ရန် ကျေးဇူးပြု၍ SD ကတ်ထည့်ပါ။
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">ဒေါင်းလုဒ်စတင်ရန် ကျေးဇူးပြု၍ SD ကတ် ထည့်ပါ။ 
+
+ဆက်တင်များ &gt; သိုလှောင်မှု &gt; SD ကတ်ထည့်ပါ သို့ သွားပါ။
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">ဒေါင်းလုပ်ပြီးသွားပြီဆိုလျှင် SD Card တွင်နေရာလွတ်မရှိပါ။ 
+
+ကျေးဇူးပြု၍ %1$s အာကာသကိုလွှတ်ပြီးဒေါင်းလုပ်ဆွဲရန်ထပ်မံကြိုးစားရန် Settings&gt; System updates သို့သွားပါ။
+
+
+</string>
+  <string name="error_sdcard_resources_title">အမှား</string>
+  <string name="error_sdcard_resources_warning">ဆော့ဖ်ဝဲအပ်ဒိတ်ကို SD ကတ်ထဲသို့ ဒေါင်းလုဒ် လုပ်နေပါသည်။ 
+
+ထည့်သွင်းခြင်း မြ့ပီးမြောက်မီအထိ SD ကတ်ကို မဖယ်ရှားပါနှင့်။
+
+
+</string>
+  <string name="error_server">ဆာဗာတွင်အမှားတစ်ခုဖြစ်ပွားခဲ့သည် နောက်တခါထပ်ကြိုးစားကြည့်ပါ။</string>
+  <string name="error_space">ဤအပ်ဒိတ်သည်သင်၏ကိရိယာတွင်ရရှိနိုင်သည့်သိုလှောင်မှု %1$s လိုအပ်သည်။ 
+
+ကျေးဇူးပြု၍ အသုံးမပြုသောအက်ပ်များကိုဖျက်ပါ၊ သို့မဟုတ်သင်၏ဓါတ်ပုံများနှင့်ဗွီဒီယိုများကိုအခြားသိုလှောင်ရေးကိရိယာသို့ရွှေ့ပြောင်း %2$sပါ ။ 
+
+ပြီးတာနဲ့သင် Settings သို့သွားနိုင်သည် &gt; update ကိုအချိန်မရွေးစတင်နိုင်ရန် system updates များကို။</string>
+  <string name="error_space_retry">ဤအပ်ဒိတ်သည်သင်၏ကိရိယာတွင်ရရှိနိုင်သည့်သိုလှောင်မှု %1$s လိုအပ်သည်။ 
+
+ကျေးဇူးပြု၍ အသုံးမပြုသောအက်ပ်များကိုဖျက်ပါ၊ သို့မဟုတ်သင်၏ဓါတ်ပုံများနှင့်ဗွီဒီယိုများကိုအခြားသိုလှောင်ရေးကိရိယာသို့ရွှေ့ပြောင်း %2$sပါ ။</string>
+  <string name="error_space_vab">ဒါက update ကိုလိုအပ်ပါတယ် %1$s သင့်ရဲ့ device ကိုပေါ်ရရှိနိုင်နေရာလွတ်ဖြစ်သည်။ အောင်မြင်သောမွမ်းမံမှုများအတွက်မှတ်ဉာဏ်ကိုကြင်နာစွာလွှတ်လိုက်ပါ</string>
+  <string name="error_space_vab_make_room_popup">သငျသညျကိုရှင်းလင်းဖို့လိုအပ် %1$s မွမ်းမံမတိုင်မီအာကာသ၏။ အသုံးမပြုသည့်အက်ပ်များသို့မဟုတ်ရွေ့လျားနေသောဓါတ်ပုံများကိုဖျက်ပစ်ပါ &amp; ဗွီဒီယိုများကိုအခြားသိုလှောင်ရေးကိရိယာသို့</string>
+  <string name="error_title">ဒေါင်းလုဒ်လုပ်လို့မရပါ</string>
+  <string name="error_verify">အပ်ဒိတ်ကို အဆင်ပြေပြေ အတည်မပြုနိုင်ခဲ့ပါ။ ထပ်ကြိုးစားပေးပါ။</string>
+  <string name="failed">မအောင်မြင်ခဲ့</string>
+  <string name="failed_in_roaming">အပ်ဒိတ်များအတွက် Wi-Fi လိုအပ်သည်။</string>
+  <string name="failure_process">သတင်းအချက်အလက်မရနိုင်ပါ</string>
+  <string name="finalizing_patch">အပ်ဒိတ်ကို အပြီးသတ်နေသည်… (အဆင့် 6 မှ 5)  </string>
+  <string name="first_net_text">အပ်ဒိတ်ကိုထည့်သွင်းခြင်းမပြုပါက နောက်တစ်ခေါက်ပိတ်ပြီးပြန်ပွင့်သည့်အခါ စက်သည် ၎င်းအပ်ဒိတ်ကို အော်တိုထည့်သွင်းပါမည်။ ဘက်ထရီအားကို %sအထက်တွင် ရှိအောင် ထားပေးပါ။</string>
+  <string name="forceInstallMessage">ဤအသစ်ပြောင်းခြင်းကို %1$sတွင်အလိုအလျောက်ထည့်သွင်းလိမ့်မည်။</string>
+  <string name="force_install_message_screen">ဒါဟာအရေးပါတဲ့ update ကိုဖြစ်တယ်, ဒါများက install ကျေးဇူးပြုပြီး %1$s။ သို့မဟုတ်ပါက၎င်းစက်သည်သင်၏ကိရိယာအနည်းဆုံးအသုံးပြုသည့်အချိန်တွင်အလိုအလျောက်ထည့်သွင်းလိမ့်မည်။ သင်တပ်ဆင်ရန်လုံလောက်သောဘက္ထရီသက်တမ်းကိုသေချာအောင်လုပ်ပါ။</string>
+  <string name="force_install_notification_message">အားဖြင့် install ကျေးဇူးပြုပြီး %1$s။ သို့မဟုတ်ပါက၎င်းစက်သည်အနည်းဆုံးအသုံးပြုသည့်အချိန်တွင်အလိုအလျောက်တပ်ဆင်လိမ့်မည်။
+အချိန်တပ်ဆင်ပါ - %2$d မိနစ်</string>
+  <string name="force_restart_notification_message">ကျေးဇူးပြု၍ %1$sမှပြန်လည်စတင်ပါ။ သို့မဟုတ်ပါကအနည်းဆုံးအသုံးပြုသည့်အချိန်တွင်သင်၏စက်သည်အလိုအလျောက်ပြန်လည်စတင်လိမ့်မည်။</string>
+  <string name="force_restart_screen_message">သင် %1$sမှပြန်မဖွင့်ပါက၎င်းသည်အနည်းဆုံးအသုံးပြုသောအချိန်တွင်သင်၏စက်သည်အလိုအလျောက်ပြန်လည်စတင်လိမ့်မည်။</string>
+  <string name="google">Google</string>
+  <string name="got_it">ရပြီ</string>
+  <string name="important_update_install_overdue_message">တပ်ဆင်ဘို့စီစဉ်ထားအချိန်လွန်ပြီ။ သင့်ရဲ့ device ကိုစံတွေ့ဆုံတစ်ချိန်က installation စတင်ပါလိမ့်မယ်။</string>
+  <string name="important_update_restart_overdue_message">ပြန်ဖွင့်အဘို့စီစဉ်ထားအချိန်လွန်ပြီ။ ကသတ်မှတ်ချက်နှင့်ကိုက်ညီတစ်ချိန်က device ကို restart လုပ်ပါလိမ့်မယ်။</string>
+  <string name="initiating_ota_service_msg">ကျေးဇူးပြုပြီးခဏစောင့်ပါ...</string>
+  <string name="initiating_ota_service_title">software ကို update ကိုဖြစ်စဉ်ကိုစတင်</string>
+  <string name="install">ထည့်သွင်းရန်</string>
+  <string name="install_after_one_hour">1 နာရီအတွင်း install လုပ်ပါ</string>
+  <string name="install_cancelled_title">ထည့်သွင်းခြင်း ပယ်ဖျက်လိုက်ပါပြီ</string>
+  <string name="install_deferred_status">အပ်ဒိတ်ကျာင်းမှာ</string>
+  <string name="install_later">နောက်မှ ထည့်သွင်းပါ</string>
+  <string name="install_notify_sanity_call_msg">ဖုန်းခေါ်ဆိုနေစဉ်ဖုန်းကိုတပ်ဆင်။ မရပါ</string>
+  <string name="install_notify_sanity_maps_msg">လမ်းညွှန်သည်ဖွင့်ထားသည့်အတိုင်းကိရိယာကိုယခုတပ်ဆင်။ မရပါ</string>
+  <string name="install_now">ယခု ထည့်သွင်းပါ</string>
+  <string name="install_postponed">ရွှေ့ဆိုင်း Install လုပ်ပါ</string>
+  <string name="install_progress_cancel_message">ဒီ update ကိုနောက်မှ install လုပ်ချင်တယ်ဆိုရင် Settings သို့သွားပါ &gt; စနစ်အသစ်ပြောင်းခြင်းများ</string>
+  <string name="install_progress_paused_message">%s ပြီးပါပြီ (ရပ်ထားသည်)</string>
+  <string name="install_time">အချိန်ထည့်သွင်းပါ: %1$d မိနစ်</string>
+  <string name="install_warning">သင်မထည့်သွင်းမီမည်သည့်အရာကိုသိရမည်နည်း</string>
+  <string name="just_one_more_step">နောက်ထပ်ခြေလှမ်းတစ်ခုပဲ</string>
+  <string name="keep_it_on">ဒါကြောင့်အပေါ်ကိုသိမ်းဆည်းထားပါ</string>
+  <string name="later_button">နောက်မှ သတိပေးပါ</string>
+  <string name="learn_more_online_link">အွန်လိုင်းပိုမိုလေ့လာပါ</string>
+  <string name="low_battery_bg_install">ဘက်ထရီအားနည်းခြင်းကြောင့် ထည့်သွင်းမှုကို ခေတ္တရပ်ထားသည်။ သင့်ဘက်ထရီသည် 20%ကျော်သောအခါတွင် တပ်ဆင်မှုကို ပြန်လည်စတင်ပါမည်။</string>
+  <string name="low_battery_download">ဘက်ထရီအားနည်းသောကြောင့်ဒေါင်းလုပ်သည်ခေတ္တဆိုင်းငံ့ထားသည်။ သင့်စက်အားသွင်းသည့်အခါ download လုပ်ပါ။</string>
+  <string name="low_battery_install">အနည်းဆုံးအားရန်သင့် device ကိုအားသွင်းပေးပါ %s ဒီ update ကို install မလုပ်ခင်</string>
+  <string name="make_space">နေရာလုပ်ပါ</string>
+  <string name="mandatory_install_notification">သငျသညျမကြာမီဒီစနစ် update ကို install လုပ် dont လျှင်, သင်အရေးကြီးသောလုံခြုံရေးမွမ်းမံမှုများအပေါ်ထွက်လက်လွတ်အဖြစ်အသစ်သောအင်္ဂါရပ်များနှင့်အဘာဂ်ပါလိမ့်မယ်။</string>
+  <string name="mandatory_restart_notification">ဒါဟာအရေးပါတဲ့ update ကိုသည်အတိုင်း, ယခုပြန်လည်စတင်ရန်ပေးပါ။ ဒီလိုမှမဟုတ်ရင်သင်လုံခြုံရေးမွမ်းမံမှုများအပေါ်ထွက်လက်လွတ်အဖြစ်အသစ်သောအင်္ဂါရပ်များနှင့်အဘာဂ်ပါလိမ့်မယ်။</string>
+  <string name="medium_channel_name">ဆော့ဖ်ဝဲဒေါင်းလုဒ် အသိပေးစနစ်</string>
+  <string name="merge_emergency_call_text">ပြန်လည်စတင်စဉ်တွင် သင်သည် အရေးပေါ်ခေါ်ဆိုမှုများအပါအဝင် ဖုန်းခေါ်ဆိုမှုများ သို့မဟုတ် လက်ခံနိုင်မည်မဟုတ်ပေ။</string>
+  <string name="merge_force_restart_text">ယခု ပြန်လည်စတင်ခြင်းမပြုလိုပါက၊ သင့်ဖုန်းသည် လှုပ်ရှားမှုမရှိသည့်အခါ အလိုအလျောက် ပြန်လည်စတင်ပါမည်။</string>
+  <string name="merge_progress_text">အပ်ဒိတ် ပြီးမြောက်သောအခါ၊ ကျွန်ုပ်တို့ သင့်အား အကြောင်းကြားချက် ပေးပို့ပါမည်။</string>
+  <string name="merge_progress_title">အပ်ဒိတ်ကို အပြီးသတ်နေသည်…</string>
+  <string name="merge_restart_text">သင့်ဖုန်းကို ပြန်လည်စတင်ပြီးနောက် အပ်ဒိတ် ပြီးမြောက်မည်ဖြစ်သည်။</string>
+  <string name="merge_restart_title">ကျေးဇူးပြု၍ ပြန်လည်စတင်ပါ။</string>
+  <string name="merge_update_fail_notify_text">စနစ်ဆိုင်ရာ ပြဿနာအချို့ကို ကျွန်ုပ်တို့ တွေ့ရှိခဲ့သည်။ ၎င်းတို့ကို ပြင်ဆင်ရန် သင့်ဝန်ဆောင်မှုစင်တာသို့ သွားရောက်ပါ။</string>
+  <string name="merge_update_fail_notify_title">အပ်ဒိတ် မအောင်မြင်ပါ</string>
+  <string name="merge_update_fail_text">အပ်ဒိတ်များ လက်ခံရရှိခြင်းမှ တားဆီးမည့် စနစ်ဆိုင်ရာ ပြဿနာအချို့ကို ကျွန်ုပ်တို့ တွေ့ရှိခဲ့သည်။ ဒါကိုဖြေရှင်းရန် သင့်ဝန်ဆောင်မှုစင်တာသို့ သွားရောက်ပါ။
+
+ဤအတောအတွင်း သင့်ဖုန်းကို ပုံမှန်အတိုင်း ဆက်လက်အသုံးပြုနိုင်ပါသည်။</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">အကောင့် တစ်ခု ရွေးပါ</string>
+  <string name="multiple_account_alert">system update ကိုဆက်လက်လုပ်ဆောင်ရန် %1$s အကောင့်ကိုရွေးချယ်ပါ။</string>
+  <string name="no_thanks">မလိုတော့ပါ</string>
+  <string name="no_thanks_message">သင်ဤ update ကိုနောက်မှရယူလိုပါက Settings သို့သွားပါ &gt; စနစ်အသစ်ပြောင်းခြင်းများ</string>
+  <string name="no_updates_applied">အပ်ဒိတ်များကို အသုံးပြုထားခြင်းမရှိပါ။</string>
+  <string name="not_now">ယခုမဟုတ်ပါ</string>
+  <string name="ok">ကောင်းပြီ</string>
+  <string name="otaservice_perm_desc">otaservice နှင့် ပြန်လှန်တုံ့ပြန်ဆောင်ရွက်နိုင်အောင် ထိုအက်ပ်တွင် ရှိရန်လိုသည့် ခွင့်ပြုချက်</string>
+  <string name="package_size">ဒေါင်းလုပ်အရွယ်အစား: %1$s</string>
+  <string name="personalInfo_instruction">သင်မည်သည့်ကိုယ်ရေးကိုယ်တာအချက်အလက်ကိုမှမဆုံးရှုံးနိုင်ပါ</string>
+  <string name="picker_cell_radio">Wi-Fi နှင့်မိုဘိုင်းဒေတာ</string>
+  <string name="picker_title">သင်ဤ update ကိုဒေါင်းလုတ်လုပ်ချင်ပါတယ်ဘယ်လို Choose:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi သာ</string>
+  <string name="please_restart">ကျေးဇူးပြု၍ ပြန်လည်စတင်ပါ</string>
+  <string name="policy_set">System ကို update ကိုပိတ်ထားသည်။ ပိုပြီးအင်ဖိုအတွက်သင့်ရဲ့ device admin ရဲ့ဆက်သွယ်ပါ။</string>
+  <string name="press_back_again_to_exit">ထွက်ရန် BACK ကိုထပ်နှိပ်ပါ</string>
+  <string name="progress_copying_sd">အပ်ဒိတ်ကို ကူးယူနေပါသည်</string>
+  <string name="progress_deffered">ဝိုင်-ဖိုင်/ဆယ်လူလာ ကွန်ရက်တွင် ဒေါင်းလုဒ် စလုပ်ပါမည်။</string>
+  <string name="progress_downloading_ota">စနစ်ပိုင်းအပ်ဒိတ်ကို ဒေါင်းလုဒ် လုပ်နေပါသည်</string>
+  <string name="progress_downloading_security">လုံခြုံရေးအပ်ဒိတ်ကို ဒေါင်းလုဒ်လုပ်နေသည်။</string>
+  <string name="progress_retried">ဆော့ဖ်ဝဲဒေါင်းလုဒ် ပြတ်တောက်သွားသည်။ ဆက်ကြိုးစားပါ့မယ်...</string>
+  <string name="progress_suspended">ဒေါင်းလုဒ်ဆက်လုပ်ရန် ဒေတာချိတ်ဆက်မှုကို စောင့်နေပါသည်</string>
+  <string name="progress_suspended_datasaver">ဒေါင်းလုဒ်ဆက်လုပ်ရန် ဒေတာသိမ်းပရိုဂရမ်ကို ပိတ်ပါ</string>
+  <string name="progress_suspended_no_adminapn">ဒေါင်းလုဒ်ပြန်စရန် ဝိုင်−ဖိုင် သို့မဟုတ် အခမဲ့ကွန်ရက်ကိုစောင့်ဆိုင်းနေပါသည်</string>
+  <string name="progress_suspended_roaming">ကွန်ရက်ပြင်ပ ဖုန်းဒေတာသုံးစွဲမှုကြောင့် ဒေါင်းလုဒ်ရပ်ထားပါတယ်။ ၎င်းကို ဆက်လုပ်နိုင်ရန် Wi-Fi ဖွင့်ပါ။</string>
+  <string name="progress_suspended_wifi">ဒေါင်းလုပ် လုပ်၍ ပြန်လည်စတင်ရန် Wi-Fi ကိုစောင့်နေသည်…</string>
+  <string name="progress_verify">သင့်စက်ပစ္စည်းကို အပ်ဒိတ်လုပ်ရန် အသင့်ဖြစ်နေကြောင်း အတည်ပြုနေသည်...</string>
+  <string name="progress_verify_allocate_space">မှတ်ဉာဏ်အလုံအလောက်ရှိမရှိစစ်ဆေးပါ</string>
+  <string name="relative_date_time">%1$s တွင် %2$s</string>
+  <string name="release_note_battery_desc">ဘက်ထရီသက်တမ်းနှင့် အသုံးပြုမှုကို မြှင့်တင်ရန် အပ်ဒိတ်များ</string>
+  <string name="release_note_battery_title">ဘက်ထရီ</string>
+  <string name="release_note_camera_desc">ဤအဆင့်မြှင့်တင်မှုများသည် ဓာတ်ပုံများကို ပိုမိုတိကျပြီး အသေးစိတ်ကျကျ ရိုက်ကူးနိုင်ရန် ကူညီပေးပါသည်။</string>
+  <string name="release_note_camera_title">ကင်မရာ</string>
+  <string name="release_note_cellular_desc">အပြောင်းအလဲများသည် စက်ပစ္စည်း၏ ဒေတာချိတ်ဆက်မှုကို ပိုမိုကောင်းမွန်အောင် ကူညီပေးသည်။</string>
+  <string name="release_note_cellular_title">ဆယ်လူလာ</string>
+  <string name="release_note_charging_desc">ဤအပ်ဒိတ်များသည် သင်၏အားသွင်းနိုင်စွမ်းကို မြှင့်တင်ပေးပါသည်။</string>
+  <string name="release_note_charging_title">အားသွင်းခြင်း</string>
+  <string name="release_note_generic_desc">ပြောင်းလဲမှုများသည် စက်ပစ္စည်း၏ အလုံးစုံစွမ်းဆောင်ရည်ကို မြှင့်တင်ပေးပါသည်။</string>
+  <string name="release_note_os_update_desc">အသစ်သော monochromatic အပြင်အဆင်များသည် သင့်ဖုန်းကို ပြောင်လက်တောက်ပသောအသွင်အပြင်နှင့် သင့်နောက်ခံပုံပေါ်လာစေသည်။ အက်ပ်ခွင့်ပြုချက်များမပေးမီ သင့်ဒေတာကို အက်ပ်များအသုံးပြုပုံနှင့် မျှဝေပုံကို ပြန်လည်သုံးသပ်ပြီး Android 14 ၏ အကြားအာရုံနှင့် အမြင်အာရုံအင်္ဂါရပ်အသစ်များဖြင့် ၎င်းကို ပိုမိုအသုံးပြုနိုင်စေပါသည်။</string>
+  <string name="release_note_os_update_title">Android ပါ။ %1$s</string>
+  <string name="release_note_performance_desc">အပြောင်းအလဲများသည် စက်ပစ္စည်း၏ စွမ်းဆောင်ရည်ကို ပိုမိုကောင်းမွန်အောင် ကူညီပေးသည်။</string>
+  <string name="release_note_performance_title">စွမ်းဆောင်ရည်</string>
+  <string name="release_note_security_desc">လုံခြုံရေး ဖာထေးခြင်းများ ပါဝင်သည်။ %1$s</string>
+  <string name="release_note_security_title">လုံခြုံရေးအပ်ဒိတ်</string>
+  <string name="release_note_stability_desc">သင့်ဖုန်းကို ပိုမိုစိတ်ချရစေမည့် တိုးတက်မှုများနှင့် ချွတ်ယွင်းချက်ပြင်ဆင်မှုများ ပါဝင်သည်။</string>
+  <string name="release_note_stability_title">တည်ငြိမ်မှု</string>
+  <string name="release_note_title">ဤအပ်ဒိတ်တွင် ပါဝင်သည်။</string>
+  <string name="release_note_wifi_desc">သင်၏ Wi-Fi ချိတ်ဆက်မှုဆိုင်ရာ အပ်ဒိတ်များ ပါဝင်သည်။</string>
+  <string name="release_note_wifi_title">ဝိုင်ဖိုင်</string>
+  <string name="release_notes_string">အန်းဒရွိုက်အတွက်အပေါငျးတို့သ features အသစ်ထုတ်စစ်ဆေး %1$s</string>
+  <string name="request_suspended_datasaver">ဒေါင်းလုဒ်စလုပ်ရန် ဒေတာချွေတာကို ပိတ်ပါ</string>
+  <string name="request_suspended_no_network">ဒေါင်းလုဒ်စတင်ရန်အဘယ်သူမျှမ network ကိုလွှမ်းခြုံ</string>
+  <string name="restart_after_one_hour">1 နာရီအတွင်းပြန်လည်စတင်ပါ</string>
+  <string name="restart_instruction_title">သင်မစတင်မီဘာတွေသိထားရမလဲ</string>
+  <string name="restart_later">နောက်မှ</string>
+  <string name="restart_message">အပ်ဒိတ်လုပ်ရန် ယခုပြန်စပါ။</string>
+  <string name="restart_notification">ပြန်စတင်သည်</string>
+  <string name="restart_notification_text">အပ်ဒိတ်လုပ်ရန် ယခုပြန်စပါ။ အပ်ဒိတ်ကို %1$d ရက်ကြာ ဆိုင်းငံ့ထားသည်။</string>
+  <string name="restart_notify_sanity_call_msg">ဖုန်းခေါ်ဆိုနေစဉ်ဖုန်းသည်ယခုပြန်လည်ဖွင့ ်၍ မရပါ</string>
+  <string name="restart_notify_sanity_maps_msg">လမ်းညွှန်သည်ဖွင့်ထားသည့်အတိုင်းစက်သည်ယခုပြန်လည်ဖွင့ ်၍ မရပါ</string>
+  <string name="restart_now">ယခု ပိတ်ပြီးပြန်ဖွင့်ပါ</string>
+  <string name="restart_postponed">ရွှေ့ဆိုင်းပြန်လည်စတင်ပါ</string>
+  <string name="restart_title">သင့်စက်ကိုပြန်လည်စတင်ပါ</string>
+  <string name="resume_download_on_cellular">မိုဘိုင်းဒေတာသုံးမည်</string>
+  <string name="retrieving_token">စစ်မှန်ကြောင်းအထောက်အထားပြနေပါသည်…</string>
+  <string name="sdcard_predownload_text">ဤအဆင့်တွင် အပ်ဒိတ်ကို စနစ်ပိုင်းမှတ်ဉာဏ်သို့ ကူးယူရပါမည်။ နောက်တစ်ဆင့်တွင် အပ်ဒိတ်ကို သင့်စက်တွင် အင်စတောလုပ်မည်။ 
+
+ဘက်ထရီအားမကုန်မစေရန် သင့်ဖုန်းကိုပါဝါရင်းမြစ်နှင့် ချိတ်ထားပါ။</string>
+  <string name="secure_instruction">လုံခြုံစိတ်ချရသော လုပ်ငန်းစဥ်ဖြစ်သည်</string>
+  <string name="security_download_notification_title">သင်၏လုံခြုံရေးကိုတိုးတက်အောင်လုပ်ပါ</string>
+  <string name="security_install_notification_text">အသစ်လုံခြုံရေး update ကို install လုပ်ဖို့အဆင်သင့်ဖြစ်နေပြီ</string>
+  <string name="security_install_title">လုံခြုံရေးအဆင့်မြှင့်တင်မှုတစ်ခုအဆင်သင့်ရှိသည်</string>
+  <string name="security_patch">လုံခြုံရေး patch:</string>
+  <string name="security_update_low_storage_title">လုံခြုံရေး မွမ်းမံခြင်း</string>
+  <string name="security_update_notification_text">နောက်ဆုံးပေါ်လုံခြုံရေး update ကိုရယူပါ</string>
+  <string name="security_update_paused">လုံခြုံရေးအပ်ဒိတ်ကို ရပ်ထားသည်။</string>
+  <string name="security_update_pending_notification_text">နောက်ဆုံးပေါ် လုံခြုံရေးအပ်ဒိတ်ကို ရယူပါ။ အပ်ဒိတ်ကို %1$d ရက်ကြာ ဆိုင်းငံ့ထားသည်။</string>
+  <string name="security_update_title">လုံခြုံရေး မွမ်းမံခြင်း</string>
+  <string name="select_account">တစ်ဦးကိုရွေးချယ်ပါ %1$s အကောင့်</string>
+  <string name="selected_later_time_os_mr">စနစ်ပိုင်း အပ်ဒိတ်ကို ထည့်သွင်းမည့်နေ့မှာ </string>
+  <string name="selected_later_time_smr">လုံခြုံရေး update ကို install လုပ်လိမ့်မည်</string>
+  <string name="setting_sw_summary">နောက်ဆုံးပေါ်ဆော့ဖ်ဝဲကိုအပ်ဒိတ်လုပ်ပါ </string>
+  <string name="setting_sw_title">စနစ်အားတိုးမြင့်ခြင်း</string>
+  <string name="smart_cancel_update_toast_msg">အဆင့်မြှင့်တင်မှုကို သို့ %1$s</string>
+  <string name="smart_end_time">အဆုံး</string>
+  <string name="smart_install_message_popup">Smart Update ကို သင်ဖွင့်ထားသောကြောင့်၊ သင်မထည့်သွင်းရသေးပါက သင့်စက်သည် %1$s တွင် အပ်ဒိတ်ကို အလိုအလျောက် ထည့်သွင်းသွားမည်ဖြစ်ပါသည်။ တပ်ဆင်ရန်အတွက် သင့်တွင် ဘက်ထရီအလုံအလောက်ရှိပါစေ။</string>
+  <string name="smart_restart_message_popup">Smart Update ကို သင်ဖွင့်ထားသောကြောင့်၊ ထိုအချိန်တွင် ပြန်လည်စတင်ခြင်းမပြုပါက သင့်စက်ပစ္စည်းသည် %1$s တွင် အလိုအလျောက်ပြန်လည်စတင်ပါမည်။</string>
+  <string name="smart_settings_string">သင် Wi-Fi နှင့်ချိတ်ဆက်လိုက်သောအခါအပ်ဒိတ်များကိုအလိုအလျောက် download လုပ်ပြီး install လုပ်သည်</string>
+  <string name="smart_settings_string_Softbank">Wi-Fi နှင့် ချိတ်ဆက်ထားသည့်အခါ သို့မဟုတ် မိုဘိုင်းဒေတာကို အသုံးပြုသည့်အခါ အပ်ဒိတ်များကို ဒေါင်းလုဒ်လုပ်ပြီး အလိုအလျောက် ထည့်သွင်းပါသည်။</string>
+  <string name="smart_settings_string_vzw">အပ်ဒိတ်များကိုဒေါင်းလုပ်လုပ်ပြီးအလိုအလျောက်ထည့်သွင်းသည်</string>
+  <string name="smart_start_time">စတင်</string>
+  <string name="smart_to_string">ရန်</string>
+  <string name="smart_update_advanced">အဆင့်မြင့်</string>
+  <string name="smart_update_note">သင့်လုံခြုံရေးအတွက်၊ ဤအင်္ဂါရပ်ကို ဖွင့်သည်ဖြစ်စေ ပိတ်သည်ဖြစ်စေ အရေးကြီးသော လုံခြုံရေးအပ်ဒိတ်များအားလုံးကို အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါမည်။</string>
+  <string name="smart_update_note_vzw">သင့်လုံခြုံရေးအတွက်၊ အရေးကြီးသောအပ်ဒိတ်များအားလုံးကို ဤအင်္ဂါရပ်ကိုဖွင့်သည်ဖြစ်စေ ပိတ်သည်ဖြစ်စေ အလိုအလျောက် ဒေါင်းလုဒ်လုပ်ကာ ထည့်သွင်းသွားပါမည်။</string>
+  <string name="smart_update_pop_up_text">အလိုအလျောက်မွမ်းမံမှုများဖြင့်သင်၏စက်ကိုလုံခြုံစွာထားပါ</string>
+  <string name="smart_update_recommendation">smart updates တွေကိုစမ်းကြည့်ပါ</string>
+  <string name="smart_update_suggestion_text">အလိုအလျှောက်မွမ်းမံမှုများနှင့်အတူလုံခြုံနေဖို့</string>
+  <string name="smart_update_text_AB">လုံခြုံရေးအပ်ဒိတ်အသစ်များနှင့် ချွတ်ယွင်းချက်ပြင်ဆင်မှုများအားလုံးကို အလိုအလျောက်ထည့်သွင်းခြင်းဖြင့် သင့်စက်ပစ္စည်းကို ဘေးကင်းပြီး ထိရောက်စွာ လုပ်ဆောင်နိုင်ရန် ကူညီပေးပါ။</string>
+  <string name="smart_update_text_AB_vzw">စမတ်ကျသော အပ်ဒိတ်များသည် သင့်စက်ပစ္စည်းကို ဘေးကင်းပြီး ထိရောက်စွာ လုပ်ဆောင်နိုင်ရန် ကူညီပေးပါသည်။ ၎င်းတို့ကို သင်ဖွင့်သောအခါ၊ <b>လုံခြုံရေး အပ်ဒိတ်အသစ်များ</b> သည် အလိုအလျောက် ဒေါင်းလုဒ်လုပ်မည်ဖြစ်သည်။ ဒေါင်းလုဒ်လုပ်ပြီးနောက်၊ သင်ရွေးချယ်သည့်အချိန်တွင် သင့်စက်ပစ္စည်းကို ပြန်လည်စတင်ပါမည်။</string>
+  <string name="smart_update_text_classic">စမတ်ကျသော အပ်ဒိတ်များသည် သင့်စက်ပစ္စည်းကို ဘေးကင်းပြီး ထိရောက်စွာ လုပ်ဆောင်နိုင်ရန် ကူညီပေးပါသည်။ ၎င်းတို့ကို သင်ဖွင့်သောအခါ၊ <b>လုံခြုံရေးအပ်ဒိတ်များနှင့် ချွတ်ယွင်းချက်ပြင်ဆင်မှုများ</b> အသစ်များအားလုံး အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါမည်။ ဒေါင်းလုဒ်လုပ်ပြီးနောက်၊ သင်ရွေးချယ်သည့်အချိန်တွင် သင့်စက်ပစ္စည်းကို ပြန်လည်စတင်ပြီး ထည့်သွင်းပါမည်။</string>
+  <string name="smart_update_text_classic_vzw">စမတ်ကျသော အပ်ဒိတ်များသည် သင့်စက်ပစ္စည်းကို ဘေးကင်းပြီး ထိရောက်စွာ လုပ်ဆောင်နိုင်ရန် ကူညီပေးပါသည်။ ၎င်းတို့ကို သင်ဖွင့်သောအခါ၊ <b>လုံခြုံရေး အပ်ဒိတ်အသစ်များ</b> သည် အလိုအလျောက် ဒေါင်းလုဒ်လုပ်မည်ဖြစ်သည်။ ဒေါင်းလုဒ်လုပ်ပြီးနောက်၊ သင်ရွေးချယ်သည့်အချိန်တွင် သင့်စက်ပစ္စည်းကို ပြန်လည်စတင်ပြီး ထည့်သွင်းပါမည်။</string>
+  <string name="smart_update_time_slot_text_AB">စတင်ချိန်ကို ရွေးပါ။</string>
+  <string name="smart_update_time_slot_text_classic">တပ်ဆင်မည့်အချိန်ကိုရွေးပါ</string>
+  <string name="smart_update_title">စမတ်မွမ်းမံမှုများ</string>
+  <string name="software_not_update_to">သင့်ဆော့ဖ်ဝဲကို အပ်ဒိတ်မလုပ်ရသေးပါ။</string>
+  <string name="software_update_in_progress">သင့်စနစ်သည် ဗားရှင်းသို့ အပ်ဒိတ်လုပ်နေပါသည်။</string>
+  <string name="software_update_planned_summary">Checked - %1$s</string>
+  <string name="software_update_planned_title">software ကို update ကိုစီစဉ်ထားသည်</string>
+  <string name="software_update_to">သင့်စနစ်ကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။</string>
+  <string name="sofware_version">software ဗားရှင်း:</string>
+  <string name="storage_low">အပ်ဒိတ်အတွက် နေရာလုပ်ပေးပါ</string>
+  <string name="su_btn">သတ်မှတ်ချက်များ</string>
+  <string name="su_text_off">ဆော့ဖ်ဝဲလ်အသစ်များ ရနိုင်သည့်အခါတွင် သင့်စက်ပစ္စည်းကို ကိုယ်တိုင် အပ်ဒိတ်လုပ်ရန် လိုအပ်ပါသည်။ လုပ်ငန်းစဉ်ကို အလိုအလျောက်ဖြစ်စေရန်အတွက် စမတ်အပ်ဒိတ်များကို ဖွင့်ပါ။ နောက်ထပ်အသေးစိတ်အချက်အလက်များအတွက် တို့ပါ။</string>
+  <string name="su_text_on">ပုံမှန်အားဖြင့်၊ စမတ်အပ်ဒိတ်များသည် နံနက် 1 နာရီမှ 3 နာရီကြားတွင် လုပ်ဆောင်သည်။ သင်သည် အပ်ဒိတ်အချိန်များကို ပြောင်းလဲနိုင်သည် သို့မဟုတ် ဆက်တင်များတွင် စမတ်အပ်ဒိတ်များကို ပိတ်နိုင်သည်။ နောက်ထပ်အသေးစိတ်အချက်အလက်များအတွက် တို့ပါ။</string>
+  <string name="su_title_off">အဆင့်မြင့် အပ်ဒိတ်များကို ပိတ်ထားသည်။</string>
+  <string name="su_title_on">စမတ် အပ်ဒိတ်များကို ဖွင့်ထားသည်။</string>
+  <string name="system_download_notification_title">စနစ် မွမ်းမံမှု</string>
+  <string name="system_install_notification_text">system update ကို install လုပ်ရန်အဆင်သင့်ရှိသည်</string>
+  <string name="system_install_title">အဆင့်မြှင့်တင်မှုတစ်ခုအဆင်သင့်ရှိသည်</string>
+  <string name="system_pdl_notification_mr_title">အမှားပြင်ဆင်ချက်များကိုရယူပါ &amp; နောက်ထပ်</string>
+  <string name="system_pdl_notification_os_title">Android %1$s ကဒီမှာပါ။</string>
+  <string name="system_update">စနစ်အပ်ဒိတ်</string>
+  <string name="system_update_desc">သင့်စက်ပစ္စည်းကို လုံခြုံရေးခြိမ်းခြောက်မှုများမှ ကာကွယ်ပြီး နောက်ဆုံးထွက် Motorola ကို ရယူလိုက်ပါ။ &amp; Android အင်္ဂါရပ်များ</string>
+  <string name="system_update_info_not_available">မရရှိနိုင်ပါ</string>
+  <string name="system_update_low_storage_text">မှတ်ဉာဏ်ကိုစစ်ဆေးရန် ဤနေရာကို ထိပြီး ဆက်လက်ဆောင်ရွက်ပါ။</string>
+  <string name="system_update_low_storage_title">စနစ်အပ်ဒိတ်</string>
+  <string name="system_update_notification_os_text">Android အသစ်ကိုတွေ့ကြုံခံစားပါ</string>
+  <string name="system_update_notification_text">software အသစ်ကို download လုပ်ပါ</string>
+  <string name="system_update_paused">စနစ်ပိုင်းအပ်ဒိတ်ကို ခဏရပ်လိုက်ပါသည်</string>
+  <string name="system_update_pending_notification_os_text">Android အသစ်ကို ခံစားလိုက်ပါ။ အပ်ဒိတ်ကို %1$d ရက်ကြာ ဆိုင်းငံ့ထားသည်။</string>
+  <string name="system_update_pending_notification_text">ဆော့ဖ်ဝဲအသစ်ကို ဒေါင်းလုဒ်လုပ်ပါ။ အပ်ဒိတ်ကို %1$d ရက်ကြာ ဆိုင်းငံ့ထားသည်။</string>
+  <string name="system_update_settings_list_item_title">စနစ်အားတိုးမြင့်ခြင်း</string>
+  <string name="system_update_status">အခြေအနေအသစ်တင်သည်</string>
+  <string name="system_update_title">စနစ်အပ်ဒိတ်</string>
+  <string name="tethered_permission_desc">3c အပ်ဒိတ်ရလဒ်များကို ပို့ပါ</string>
+  <string name="tethered_update_result">အပ်ဒိတ်ရလဒ်များကို မျှဝေထားသည်</string>
+  <string name="time_picker_text">သတိပေးစရာမလိုဘဲ installation ကိုစတင်ပါ</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">ထပ်စမ်းကြည့်ရန်</string>
+  <string name="turn_it_off">ပိတ်ပါ</string>
+  <string name="turn_it_on">ဖွင့်မည်</string>
+  <string name="turn_on_smart_updates">Smart updates များကိုဖွင့်ပါ</string>
+  <string name="update">Update ကို</string>
+  <string name="update_blocked_by_policy">အပ်ဒိတ်ကို စီမံခန့်ခွဲသူမူဝါဒဖြင့် ပိတ်ဆို့ထားသည်။ </string>
+  <string name="update_cancelled_status">ဆော့ဖ်ဝဲဒေါင်းလုဒ်ကို ဖျက်သိမ်းလိုက်ပါပြီ။</string>
+  <string name="update_fail_desc">တစ်ခုခုမှားသွားတယ်</string>
+  <string name="update_fail_status">အပ္ဒိတ္လုပ္လုိ႔ မရပါ</string>
+  <string name="update_fail_sucancel_dm_status">Update ကိုဆာဗာမှဖျက်သိမ်း</string>
+  <string name="update_fail_title">အပ်ဒိတ် မအောင်မြင်ပါ</string>
+  <string name="update_history_blank">သမိုင်းကြောင်း မရှိသေးပါဘူး။</string>
+  <string name="update_history_src_target">ကနေ Update ကို %1$s မှ %2$s</string>
+  <string name="update_history_time">အပေါ်နောက်ဆုံးရေးသားချိန် %1$s</string>
+  <string name="update_history_title">အသစ်ပြောင်းခြင်းရာဇဝင်</string>
+  <string name="update_history_version">ဆော့ဗ်ဝဲဗားရှင်း %1$s</string>
+  <string name="update_info">အပ်ဒိတ်လုပ်နေသည်...</string>
+  <string name="update_postpone_policy">အပ်ဒိတ်ကို စီမံခန့်ခွဲသူမူဝါဒအရ ရွှေ့ဆိုင်းထားသည်။ </string>
+  <string name="update_preference">preferences များကိုအသစ်ပြောင်းပါ</string>
+  <string name="update_success_desc">လက်ရှိဆော့ဖ်ဝဲဗားရှင်း- %1$s</string>
+  <string name="update_success_desc_os">ဂုဏ်ယူပါတယ်။ သငျသညျကိုအောင်မြင်စွာက Android ကို install ပြီးပြီ %1$s။ ယခုတွင်သင်သည်ပိုမိုကောင်းမွန်သော၊ စမတ်ကျပြီးပိုမိုလုံခြုံသော Android အတွေ့အကြုံကိုခံစားရန်အဆင်သင့်ဖြစ်နေပြီ။</string>
+  <string name="update_success_status">Update ကိုအောင်မြင်စွာလုပ်</string>
+  <string name="update_title">အပ်ဒိတ် လုပ်ပြီးသွားပါပြီ</string>
+  <string name="update_title_text">သင်၏ဆော့ဝဲအသစ်ကိုခံစားပါ။</string>
+  <string name="upto_date_title">အားလုံးကြည့်ကောင်းပါတယ်</string>
+  <string name="urgent_channel_name">ဆော့ဖ်ဝဲအပ်ဒိတ် သတိပေးချက်</string>
+  <string name="use_smart_updates">Smart Updates ကိုသုံးပါ။</string>
+  <string name="vab_validation_update_failure_desc">VAB အတည်ပြုမှုမအောင်မြင်ပါ</string>
+  <string name="vab_validation_update_failure_title">VAB အတည်ပြုမှုမအောင်မြင်ပါ</string>
+  <string name="vab_validation_update_success_desc">ဂုဏ်ယူပါတယ်။ VAB အတည်ပြုချက်သည်အောင်မြင်ပါသည်</string>
+  <string name="vab_validation_update_success_title">VAB အတည်ပြုခြင်းအောင်မြင်မှု</string>
+  <string name="verifying_patch">အပ်ဒိတ်ကို အသုံးပြုထားသည်။ လျှောက်လွှာ အောင်မြင်ကြောင်း အတည်ပြုနေသည်... (အဆင့် 6 မှ 4)  </string>
+  <string name="verity_disabled_msg">သင်၏စက်ပစ္စည်းသည်လုံခြုံရေးအန္တရာယ်များဖြစ်နိုင်သည်။ ဆက်လက်မွမ်းမံမှုများအတွက်အောက်ပါ command ကိုလုပ်ဆောင်ပါ။
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">သင်၏ကိရိယာသည်အသစ်ပြောင်းခြင်းများကိုမရတော့ပါ</string>
+  <string name="verizon_failure_notification_text"> သင့်ကိရိယာကဒီအပ်ဒိတ်ကိုတပ်ဆင်။ မရပါ။ ထည့်သွင်းရန်ဆော့ဗ်ဝဲအဆင့်မြှင့်တင်ရေးလက်ထောက်ကိရိယာကိုအသုံးပြုပါ။ ပိုမိုသောအချက်အလက်များကိုအသာပုတ်ပါ။</string>
+  <string name="verizon_failure_text">သင့်စက်ကို အပ်ဒိတ်လုပ်ရာတွင် ပြဿနာရှိနေသည်။ အဘယ်သူမျှမအပြောင်းအလဲများကိုလုပ်ခဲ့ကြသည်။ သင့်ဆော့ဖ်ဝဲကို အပ်ဒိတ်လုပ်ရန်၊ သင်သည် ဆော့ဖ်ဝဲ အဆင့်မြှင့်တင်ရေး လက်ထောက်ကိရိယာကို အသုံးပြုနိုင်သည်။
+
+ဆော့ဖ်ဝဲ အဆင့်မြှင့်တင်ရေး လက်ထောက်ကိရိယာကို ထည့်သွင်းရန်-
+
+၁။ သင့်စက်ကို သင့်ကွန်ပျူတာနှင့် ချိတ်ဆက်ရန် USB ကြိုးကို အသုံးပြုပါ
+၂။ သင့်စက်ပေါ်တွင် USB မီနူး ပေါ်လာသောအခါ၊ အပေါ်ညာဘက်ရှိ ဆက်တင်အိုင်ကွန်ကို ရွေး
+ပါ ။ USB စိတ်ကြိုက်ရွေးချယ်မှုများမှ ဆော့ဖ်ဝဲလ်ထည့်သွင်းခြင်း
+4 ကိုရွေးချယ်ပါ။ သင့် PC သို့ပြောင်းပြီး တပ်ဆင်မှု wizard
+5 ကိုရှာပါ။ wizard
+
+Software Upgrade Assistant tool မှတဆင့် လျှောက်လှမ်းခြင်းဖြင့် သင့်စက်တွင် ဆော့ဖ်ဝဲအပ်ဒိတ်များကို ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းရန် ကူညီပေးပါမည်။</string>
+  <string name="vital_applying_updates">အသစ်ပြောင်းခြင်းများကိုအသုံးပြုနေသည်…</string>
+  <string name="vital_bg_text">ဒီဟာကမိနစ်အနည်းငယ်ကြာနိုင်တယ်။</string>
+  <string name="vital_check_for_updates">နောက်ဆုံးသတင်းများကိုရှာဖွေနေသည်…</string>
+  <string name="vital_check_for_updates_desc">အဆင့်မြှင့်တင်မှုများသည်သင်၏စက်ကိုလုံခြုံစေပြီး၎င်း၏စွမ်းဆောင်ရည်ကိုတိုးတက်စေသည်။</string>
+  <string name="vital_done">ပြီးပြီ</string>
+  <string name="vital_error_fail">အဆင့်မြှင့်မှုအမှားတစ်ခုရှိခဲ့သည် အပြောင်းအလဲမရှိပါ</string>
+  <string name="vital_go_back">သင်တပ်ဆင်မှုကိုရပ်တန့်ရန်သေချာသည်</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">ဆက်လုပ်ရန်ပြန်လည်စတင်ပါ</string>
+  <string name="vital_skip">ကြိုးခုန်</string>
+  <string name="vital_stop">ရပ်</string>
+  <string name="wifi_setting">ဝိုင်-ဖိုင် ဆက်တင်များ</string>
+</resources>

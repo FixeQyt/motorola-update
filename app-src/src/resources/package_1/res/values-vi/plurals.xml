@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">Thiết bị của bạn sẽ khởi động lại trong %1$d giây để hoàn tất cập nhật.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">khởi động lại sau %1$d giây</item>
+  </plurals>
+</resources>

@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Posodobi pozneje</string>
+  <string name="ab_download_now">Posodobi zdaj</string>
+  <string name="ab_install_notification_paused_text">Nameščanje v ozadju je začasno ustavljeno</string>
+  <string name="ab_install_notification_text">Nameščanje v ozadju</string>
+  <string name="ab_restart_fullscreen_text">Skoraj ste že končali! Ponovni zagon naprave bo trajal le približno 90 sekund. Posodobitev je na voljo že toliko dni: %1$d.</string>
+  <string name="ab_restart_text">Skoraj ste že končali! Ponovni zagon naprave bo trajal le približno 90 sekund</string>
+  <string name="ab_restart_warning_os_mr">Posodobitev sistema je skoraj končana. Naprava se bo  </string>
+  <string name="ab_restart_warning_smr">Varnostna posodobitev je skoraj končana. Naprava se bo  </string>
+  <string name="ab_warning_continues"> za dokončanje posodobitve.</string>
+  <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+  <string name="abc_action_bar_up_description">Pomik navzgor</string>
+  <string name="abc_action_menu_overflow_description">Več možnosti</string>
+  <string name="abc_action_mode_done">Končano</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+  <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+  <string name="abc_capital_off">IZKLOP</string>
+  <string name="abc_capital_on">VKLOP</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_space_shortcut_label">preslednica</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Meni +</string>
+  <string name="abc_search_hint">Iskanje …</string>
+  <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+  <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+  <string name="abc_searchview_description_search">Iskanje</string>
+  <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+  <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+  <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+  <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+  <string name="abc_toolbar_collapse_description">Strnitev</string>
+  <string name="abupdate_in_progress_status">Posodobitev programske opreme je v teku</string>
+  <string name="additional_charges_message">Prenos se bo nadaljeval z uporabo mobilnih podatkov. Lahko se zaračuna prenos podatkov.</string>
+  <string name="alertSubText">Uporablja se za iskanje, prenos in namestitev posodobitvenega paketa</string>
+  <string name="alertText">Dovoli omrežne operacije za posodobitve programske opreme</string>
+  <string name="alertTitle">Posodobitve potrebujejo naslednje dovoljenje</string>
+  <string name="alert_dialog_cancel">Ustavi namestitev</string>
+  <string name="alert_dialog_continue">Nadaljuj nameščanje</string>
+  <string name="alert_dialog_no">Ne</string>
+  <string name="alert_dialog_ok">Razumem</string>
+  <string name="alert_dialog_yes">Da</string>
+  <string name="allocate_space_success">Za posodobitev je na voljo dovolj pomnilnika</string>
+  <string name="allow">Dovoli</string>
+  <string name="android_latest_sw_text">Uporabljate najnovejšo programsko opremo</string>
+  <string name="android_version">Različica operacijskega sistema Android:</string>
+  <string name="app_name">Posodobitev Motoroline programske opreme</string>
+  <string name="applied">Vklopljeno</string>
+  <string name="apply_bug_fix">Uveljavi za popravke napak</string>
+  <string name="apply_os_update">Uporabi za vse posodobitve programske opreme</string>
+  <string name="applying_patch">Uporaba posodobitve (%1$d. korak od %2$d)  </string>
+  <string name="are_you_sure">Ali želite izklopiti Pametne posodobitve?</string>
+  <string name="are_you_sure_pop_up_text">Ali res želite izklopiti Pametne posodobitve? </string>
+  <string name="asc_campaign_assigned">Akcija dodeljena</string>
+  <string name="asc_campaign_is_allowed">Posodobitev vdelane programske opreme</string>
+  <string name="asc_campaign_is_blocked">Zaklep vdelane programske opreme</string>
+  <string name="asc_campaign_not_assigned">Naprava trenutno ni v akciji</string>
+  <string name="asc_campaign_status_prefix">
+Stanje: </string>
+  <string name="asc_campaign_window_period_status">
+Časovno okno za posodobitev: od %s do %s</string>
+  <string name="asc_sw_up_to_date"> do najnovejše različice</string>
+  <string name="asc_target_version"> do različice </string>
+  <string name="auth_title">Sistemska posodobitev</string>
+  <string name="auto_download_cellualr_charges_warn">Pri prenosu posodobitev prek mobilnega omrežja se lahko zaračunajo dodatni stroški</string>
+  <string name="auto_download_enable_cellular_future_updates">Ali želite izbrati možnost podatkov v mobilnem omrežju tudi za prihodnje prenose?</string>
+  <string name="auto_download_settings_title">Nastavitve samodejnega prenosa</string>
+  <string name="auto_download_wifi_cellular">Samodejno prenesi v mobilnem omrežju in omrežju Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Samodejno prenašajte prek mobilnega omrežja in omrežja Wi-Fi. Wi-Fi bo uporabljen, takoj ko bo mogoče. </string>
+  <string name="auto_download_wifi_only">Samodejno prenesi samo v omrežju Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Samodejni prenos samo prek omrežja Wi-Fi</string>
+  <string name="auto_install_notification_text">Naprava bo izvedla samodejno namestitev dne %1$s</string>
+  <string name="auto_time_set">Začni ob:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Ta posodobitev je pomembna, zato se bo samodejno namestila z uporabo mobilnih podatkov dne %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Ta posodobitev je pomembna, zato se bo samodejno prenesla z uporabo mobilnih podatkov dne %1$s</string>
+  <string name="background_install_msg">Ta posodobitev se bo nadaljevala, če se boste vrnili ali zaprli to okno</string>
+  <string name="background_install_text">Posodobitev se prenaša in namešča. Napravo lahko še naprej uporabljate.</string>
+  <string name="bad_connection">Ni internetne povezave</string>
+  <string name="bad_connection_text">Kaže, da naprava trenutno nima vzpostavljene internetne povezave. Tapnite spodnji gumb, da poskusite znova.</string>
+  <string name="bg_install_cancel_confirm">Ali res želite ustaviti namestitev?</string>
+  <string name="bg_retried">Prenos programske opreme je bil prekinjen. Še naprej bomo poskušali …</string>
+  <string name="bg_suspended">Čakanje na podatkovno povezavo za nadaljevanje prenosa in namestitve v ozadju</string>
+  <string name="bg_suspended_non_adminapn">Čakanje na povezavo Wi-Fi ali omrežje z ničelno tarifo za nadaljevanje prenosa ali namestitve v ozadju …</string>
+  <string name="bg_suspended_roaming">Nameščanje v ozadju začasno ustavljeno zaradi gostujočega omrežja. Če želite nadaljevati z nameščanjem v ozadju, vklopite Wi-Fi.</string>
+  <string name="bg_suspended_wifi">Čakanje na povezavo Wi-Fi za nadaljevanje prenosa in namestitve v ozadju</string>
+  <string name="bootloader_unlock_msg">Naprava ne prejema več posodobitev in je lahko izpostavljena varnostnim tveganjem.</string>
+  <string name="bootloader_unlock_title">Na voljo ni nobenih posodobitev</string>
+  <string name="call_notification_answer_action">Sprejmi</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Zavrni</string>
+  <string name="call_notification_hang_up_action">Prekini klic</string>
+  <string name="call_notification_incoming_text">Dohodni klic</string>
+  <string name="call_notification_ongoing_text">Aktivni klic</string>
+  <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
+  <string name="cancel">Prekliči</string>
+  <string name="cancel_download_notification">Prekliči</string>
+  <string name="cancel_install">Prekliči</string>
+  <string name="cancel_update_notification">Prekliči</string>
+  <string name="check_for_updates_title">Iskanje razpoložljivih posodobitev</string>
+  <string name="check_update_badparam">Pri poskusu nadgradnje je prišlo do napake zaradi neuspešne prijave.
+
+Poskusite pozneje.</string>
+  <string name="check_update_checking">Iskanje razpoložljivih posodobitev …</string>
+  <string name="check_update_disabled_admin">Posodobitve naprave upravlja skrbnik za IT</string>
+  <string name="check_update_downloading">Trenutno se prenaša posodobitev.
+
+Ko bo prenos končan, boste prejeli obvestilo.</string>
+  <string name="check_update_fail">Prišlo je do nepričakovane napake.
+
+Naprava bo znova poskusila izvesti posodobitev v ozadju.</string>
+  <string name="check_update_internal">Ni mogoče iskati razpoložljivih posodobitev. Poskusite znova pozneje.</string>
+  <string name="check_update_net">Preverite internetno povezavo in poskusite znova</string>
+  <string name="check_update_net_vzw">Za iskanje razpoložljivih posodobitev potrebujete podatkovno povezavo. Povezavo Wi-Fi lahko preverite v Nastavitvah &gt; Omrežje in internet &gt; Internet &gt; Wi-Fi.
+
+Lahko pa obiščete spletno mesto motorola.com/systemupdates in si ogledate druge možnosti posodobitev.</string>
+  <string name="check_update_not_sys_user">Preverjanje, ali so na voljo posodobitve, ni dovoljeno za profile Gost</string>
+  <string name="check_update_processing">Vzpostavljanje stika z našim strežnikom …
+Počakajte.</string>
+  <string name="check_update_roaming">Posodobitev sistema je na voljo samo v domačem omrežju. 
+
+Pojdite na Nastavitve &gt; Omrežje in internet &gt; Wi-Fi, da zdaj nastavite povezavo.</string>
+  <string name="check_update_storage_low">Posodobitev ni mogoča, ker v napravi ni dovolj prostora za shranjevanje.</string>
+  <string name="check_update_temperror">Prenos posodobitev se trenutno ne more končati.
+
+Poskusite znova pozneje.</string>
+  <string name="check_update_text">Občasno iskanje razpoložljivih posodobitev napravo ohranja varno in izboljša njeno delovanje</string>
+  <string name="check_update_title_downloading">Poteka prenos …</string>
+  <string name="check_update_vab_validation">Preverjanje stanja posodobitve preverjanja VAB
+Počakajte</string>
+  <string name="check_update_wifi_only">Posodobitev sistema je na voljo samo prek povezave Wi-Fi.</string>
+  <string name="check_wifi_settings">Preverite nastavitve povezave Wi-Fi</string>
+  <string name="clear_space">Sprostite prostor</string>
+  <string name="cloud_picker_title">Izbirnik oblaka</string>
+  <string name="common_android_wear_notification_needs_update_text">Aplikacija zahteva posodobitev aplikacije Android Wear.</string>
+  <string name="common_android_wear_update_text">Ta aplikacije ne deluje, če ne posodobite aplikacije Android Wear.</string>
+  <string name="common_android_wear_update_title">Posodobitev aplikacije Android Wear</string>
+  <string name="common_google_play_services_enable_button">Omogočite storitve Google Play</string>
+  <string name="common_google_play_services_enable_text">Aplikacija ne bo delovala, če ne omogočite storitev Google Play.</string>
+  <string name="common_google_play_services_enable_title">Omogočite storitve Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Zahteva aplikacije %1$s</string>
+  <string name="common_google_play_services_install_button">Namestite storitve Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v telefonu.</string>
+  <string name="common_google_play_services_install_text_tablet">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v tabličnem računalniku.</string>
+  <string name="common_google_play_services_install_title">Namestite storitve Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">V tej napravi ne obstaja navedeni račun. Izberite drugega.</string>
+  <string name="common_google_play_services_invalid_account_title">Neveljaven račun</string>
+  <string name="common_google_play_services_needs_enabling_title">Za delovanje aplikacije morate omogočiti storitve Google Play.</string>
+  <string name="common_google_play_services_network_error_text">Za povezavo s storitvami Google Play potrebujete internetno povezavo.</string>
+  <string name="common_google_play_services_network_error_title">Omrežna napaka</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Za delovanje aplikacije morate namestiti storitve Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Za delovanje aplikacije morate posodobiti storitve Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Neznana težava s storitvami Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Vaša naprava na podpira storitev Google Play, ki jih potrebujejo nekatere od vaših aplikacij. Za pomoč se obrnite na izdelovalca.</string>
+  <string name="common_google_play_services_unsupported_title">Storitve Google Play</string>
+  <string name="common_google_play_services_update_button">Posodobi</string>
+  <string name="common_google_play_services_update_text">Ta aplikacija ne deluje, če ne posodobite storitev Google Play.</string>
+  <string name="common_google_play_services_update_title">Posodobite storitve Google Play</string>
+  <string name="common_open_on_phone">Odpiranje v telefonu</string>
+  <string name="common_signin_button_text">Prijava</string>
+  <string name="common_signin_button_text_long">Prijavite se v Google</string>
+  <string name="compatibility_failed_title">Preverjanje paketa ni uspelo</string>
+  <string name="compatibility_verification_failure">Paket posodobitev, ki se prenaša, ni združljiv s trenutno različico programske opreme v napravi.</string>
+  <string name="compatibility_verification_failure_df">
+
+Preverite pri svojem koordinatorju za Dogfood.</string>
+  <string name="compatibility_verification_success">Uspešno preverjeno</string>
+  <string name="completed"> Namestitev je zaključena. Pojavil se bo poziv za ponovni zagon telefona (korak %1$d od %2$d)</string>
+  <string name="completed_install">%s končano</string>
+  <string name="connect_to_wifi">Povezava v omrežje Wi-Fi</string>
+  <string name="continue_button">Nadaljuj</string>
+  <string name="critical_install_message_popup_os_mr">Na voljo je pomembna posodobitev sistema. Za uporabo posodobitve izberite Namesti. Če tega ne boste storili, bo posodobitev samodejno uporabljena %1$s.</string>
+  <string name="critical_install_message_popup_smr">Na voljo je pomembna varnostna posodobitev. Za uporabo posodobitve izberite Namesti. Če tega ne boste storili, bo posodobitev samodejno uporabljena %1$s.</string>
+  <string name="critical_install_message_screen">Ta pomembna posodobitev se bo samodejno namestila %1$s. Prepričajte se, da ima akumulator dovolj energije za namestitev.</string>
+  <string name="critical_install_notification">Ta posodobitev je pomembna, zato jo bo naprava samodejno namestila dne %1$s.
+Trajanje namestitve (v minutah): %2$d</string>
+  <string name="critical_restart_message_popup">Čim prej znova zaženite napravo, da uporabite to pomembno posodobitev. Če je ne morete, se bo samodejno znova zagnala dne %1$s.</string>
+  <string name="critical_restart_message_screen">Ta posodobitev je pomembna, zato se bo naprava samodejno znova zagnala dne %1$s, če je do takrat ne boste znova zagnali.</string>
+  <string name="critical_restart_notification">Ta posodobitev je pomembna. Če naprave ne morete znova zagnati zdaj, se bo samodejno znova zagnala dne %1$s.</string>
+  <string name="critical_update_notification_title">Nujna posodobitev</string>
+  <string name="current_version">Trenutna različica programske opreme:</string>
+  <string name="custom_slot">Po meri</string>
+  <string name="custom_time">Čas po meri</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s ob %s</string>
+  <string name="defer_count_expired">Razumem</string>
+  <string name="deny">Zavrni</string>
+  <string name="details">Podrobnosti</string>
+  <string name="device_corrupted_msg">Odkrili smo nekaj težav s sistemom. Vemo, da je nadležno, vendar morate za odpravo obiskati lokalni servisni center.
+
+Ko bo telefon popravljen, bomo lahko nadaljevali z izvajanjem posodobitev v telefonu.</string>
+  <string name="device_corrupted_title">Telefona ni mogoče posodobiti</string>
+  <string name="dialog_alert_net_message">Preverite povezavo Wi-Fi oz. mobilno podatkovno povezavo in poskusite znova.</string>
+  <string name="dialog_alert_net_title">Naprava nima vzpostavljene povezave</string>
+  <string name="dialog_alert_title">Baterija je skoraj prazna</string>
+  <string name="dialog_progress">Nalaganje …</string>
+  <string name="dl_options_mobile_only_warning">Priporočamo, da uporabljate Wi-Fi. Prenašanje z mobilnimi podatki ali uporaba mobilnih podatkov med gostovanjem lahko povzroči dodatne stroške.
+
+Prenašanje te programske opreme ne bo vplivalo na delovanje naprave.</string>
+  <string name="done">Končano</string>
+  <string name="dont_show_this_again">Tega ne kaži več</string>
+  <string name="download_cancelled_title">Prenos preklican</string>
+  <string name="download_deferred_status">Prenos programske opreme je bil odložen dne</string>
+  <string name="download_failed_status">Posodobitev posodobitve ni uspela dne</string>
+  <string name="download_in_progress_status">Prenos programske opreme je v teku</string>
+  <string name="download_later_button">Prenesi pozneje</string>
+  <string name="download_no_button">Ne, hvala</string>
+  <string name="download_note">Med nameščanjem posodobitve lahko še naprej uporabljate napravo</string>
+  <string name="download_now">Prenesi zdaj</string>
+  <string name="download_now_button">Prenesi</string>
+  <string name="download_options">Možnosti prenosa</string>
+  <string name="download_progress_cancel_message">Če želite to posodobitev prenesti pozneje, pojdite v Nastavitve &gt; Posodobitve sistema</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Še %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">Preneseno: %s%% (začasno ustavljeno)</string>
+  <string name="download_progress_text">Ta prenos se bo nadaljeval, če se boste vrnili ali zaprli to okno</string>
+  <string name="download_subtitle">Kaj morate vedeti pred prenosom</string>
+  <string name="download_text_whats_new">Oglejte si, kaj je novega</string>
+  <string name="download_time_left">Še %1$s</string>
+  <string name="download_version">Različica %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Za prenos te posodobitve je potrebna povezava Wi-Fi. Prenos se bo nadaljeval, ko bo povezava znova vzpostavljena.</string>
+  <string name="downloaded_percentage">Preneseno: %1$s</string>
+  <string name="emergency_call_btn_txt">Nujni primeri</string>
+  <string name="emergency_call_text">Med ponovnim zagonom ne boste mogli klicati in prejemati klicev. To velja tudi za klice v sili.</string>
+  <string name="enable_wifi_error_txt">Za prenos te posodobitve se povežite z omrežjem Wi-Fi.</string>
+  <string name="eol_explore">Raziščite nove naprave</string>
+  <string name="eol_last_update_text">Varnostni popravek: </string>
+  <string name="eol_promote">Oglejte si najnovejše promocije</string>
+  <string name="eol_title">V napravi se izvaja najnovejša razpoložljiva programska oprema.</string>
+  <string name="err_title_contact_server">Vzpostavljanje stika s strežnikom ...</string>
+  <string name="err_title_memory_low">Pomnilnik je skoraj poln ...</string>
+  <string name="err_title_temp_error">Začasna napaka</string>
+  <string name="err_title_update">Napaka pri posodobitvi</string>
+  <string name="error_code">Koda napake: </string>
+  <string name="error_copyfail">Kopiranje s kartice SD ni uspelo.</string>
+  <string name="error_disabled">Prenos posodobitve ni uspel. Posodobitveni paket trenutno ni na voljo. 
+
+Nobeno dejanje ni potrebno.</string>
+  <string name="error_fail">Pri posodobitvi naprave %1$s je prišlo do napake. Izvedena ni bila nobena sprememba. Poskusite znova tako, da se pomaknete v Nastavitve &gt; Posodobitev sistema.</string>
+  <string name="error_in_call_msg">Naprave se trenutno ne more posodobiti, ker poteka klic</string>
+  <string name="error_in_call_title">Klic poteka</string>
+  <string name="error_install_title">Nameščanje ni uspelo</string>
+  <string name="error_mismatch">Različica se ne ujema. Prišlo bo do ponovne posodobitve. Obveščeni boste, ko bo na voljo.</string>
+  <string name="error_mismatch_sd">Posodobitev ni uspela. Različica posodobitve ne ustreza vašemu telefonu. 
+
+Prenesite ustrezno različico za svoj telefon in poskusite znova.</string>
+  <string name="error_network">Povezava je prekinjena. Poskusite znova, tako da ročno preverite posodobitve prek nastavitev telefona.</string>
+  <string name="error_reboot">Te posodobitve nismo uspeli prenesti. Če želite to posodobitev prejeti pozneje, znova zaženite napravo in nato pojdite v Nastavitve &gt; Posodobitve sistema.</string>
+  <string name="error_resources">Te posodobitve nismo uspeli prenesti. Če želite to posodobitev prejeti pozneje, pojdite v Nastavitve &gt; Posodobitve sistema.</string>
+  <string name="error_sdcard_resources_fail_removal">Kartica SD je bila odstranjena. Prenos ni bil dokončan. 
+
+Ponovno vstavite kartico SD, pojdite na Nastavitve &gt; Posodobitve sistema in poskusite znova.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Prenosa ni mogoče dokončati. Na kartici SD je premalo prostora. 
+
+Sprostite nekaj prostora, pojdite na Nastavitve &gt; Posodobitve sistema in poskusite znova.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Za začetek prenosa vstavite kartico SD.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Za začetek prenosa vpnite kartico SD. 
+
+Pojdite na Nastavitve &gt; Pomnilnik &gt; Vpni kartico SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Na kartici SD ni dovolj prostora za dokončanje prenosa. 
+
+Sprostite %1$s prostora in pojdite na Nastavitve &gt; Posodobitve sistema, da poskusite znova prenesti.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Napaka</string>
+  <string name="error_sdcard_resources_warning">Posodobitev programske opreme se prenaša na kartico SD. 
+
+Kartice SD ne smete odstraniti, dokler namestitev ni dokončana.
+
+
+</string>
+  <string name="error_server">Prišlo je do napake v strežniku. Poskusite znova pozneje.</string>
+  <string name="error_space">Za to posodobitev potrebujete %1$s prostega pomnilnika naprave. 
+
+Izbrišite aplikacije, ki jih ne uporabljate, ali premaknite fotografije in videe v drugo pomnilniško napravo, da sprostite %2$s prostora. 
+
+Nato lahko kadar koli začnete s posodobitvijo tako, da se pomaknete na Nastavitve &gt; Posodobitve sistema.</string>
+  <string name="error_space_retry">Za to posodobitev potrebujete %1$s prostega pomnilnika naprave. 
+
+Izbrišite aplikacije, ki jih ne uporabljate, ali premaknite fotografije in videe v drugo pomnilniško napravo, da sprostite %2$s prostora.</string>
+  <string name="error_space_vab">Za to posodobitev morate imeti v napravi %1$s nezasedenega prostora. Za uspešne posodobitve sprostite pomnilnik</string>
+  <string name="error_space_vab_make_room_popup">Pred posodobitvijo sprostite %1$s prostora. Izbrišete lahko aplikacije, ki jih ne uporabljate, ali premaknete fotografije in videe v drugo pomnilniško napravo.</string>
+  <string name="error_title">Prenos ni uspel</string>
+  <string name="error_verify">Posodobitve ni bilo mogoče ustrezno preveriti. Poskusite znova.</string>
+  <string name="failed">Ni uspelo</string>
+  <string name="failed_in_roaming">Za posodobitve potrebujete povezavo Wi-Fi</string>
+  <string name="failure_process">Informacije niso na voljo</string>
+  <string name="finalizing_patch">Zaključevanje posodobitve … (korak 5 od 6)  </string>
+  <string name="first_net_text">Namestite posodobitev, sicer jo bo naprava samodejno namestila ob naslednjem vnovičnem zagonu. Prepričajte se, da je raven akumulatorja višja od %s</string>
+  <string name="forceInstallMessage">Ta posodobitev bo samodejno nameščena %1$s.</string>
+  <string name="force_install_message_screen">Ta posodobitev je pomembna, zato jo namestite do dne %1$s. Drugače jo bo vaša naprava samodejno namestila, ko bo najmanj uporabljena. Prepričajte se, da ima akumulator dovolj energije za namestitev.</string>
+  <string name="force_install_notification_message">Namestite do %1$s. Drugače jo bo vaša naprava samodejno namestila, ko bo najmanj uporabljena.
+Trajanje namestitve (v minutah): %2$d</string>
+  <string name="force_restart_notification_message">Znova zaženite do dne %1$s. Drugače se bo naprava samodejno znova zagnala, ko bo najmanj uporabljena.</string>
+  <string name="force_restart_screen_message">Če naprave ne boste znova zagnali do dne %1$s, se bo samodejno znova zagnala, ko bo najmanj uporabljena.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Razumem</string>
+  <string name="important_update_install_overdue_message">Načrtovan čas za namestitev je potekel. Namestitev se bo začela, ko bo naprava izpolnjevala merila.</string>
+  <string name="important_update_restart_overdue_message">Načrtovan čas za ponovni zagon je potekel. Naprava se bo ponovno zagnala, ko bo izpolnjevala merila.</string>
+  <string name="initiating_ota_service_msg">Počakajte ...</string>
+  <string name="initiating_ota_service_title">Inicializiranje postopka posodobitve programske opreme</string>
+  <string name="install">Namesti</string>
+  <string name="install_after_one_hour">Namesti čez 1 uro</string>
+  <string name="install_cancelled_title">Namestitev je bila preklicana</string>
+  <string name="install_deferred_status">Posodobitev je bila odložena na dan</string>
+  <string name="install_later">Namesti pozneje</string>
+  <string name="install_notify_sanity_call_msg">Trenutno ni mogoče namestiti, ker se izvaja klic</string>
+  <string name="install_notify_sanity_maps_msg">Trenutno ni mogoče namestiti, ker je vklopljena navigacija</string>
+  <string name="install_now">Namesti zdaj</string>
+  <string name="install_postponed">Namestitev je odložena</string>
+  <string name="install_progress_cancel_message">Če želite to posodobitev namestiti pozneje, pojdite v Nastavitve &gt; Posodobitve sistema</string>
+  <string name="install_progress_paused_message">%s končano (začasno ustavljeno)</string>
+  <string name="install_time">Trajanje namestitve (v minutah): %1$d</string>
+  <string name="install_warning">Kaj morate vedeti pred namestitvijo</string>
+  <string name="just_one_more_step">Le še en korak</string>
+  <string name="keep_it_on">Naj ostane vklopljen</string>
+  <string name="later_button">Opomni me pozneje</string>
+  <string name="learn_more_online_link">Več o tem na spletu</string>
+  <string name="low_battery_bg_install">Namestitev je začasno ustavljena, ker je akumulator skoraj prazen. Namestitev se bo nadaljevala, ko bo napolnjenost akumulatorja višja od 20 %.</string>
+  <string name="low_battery_download">Prenos je začasno ustavljen, ker je akumulator skoraj prazen. Prenos se bo nadaljeval, ko bo naprava napolnjena.</string>
+  <string name="low_battery_install">Pred nameščanjem te posodobitve napravo napolnite na vsaj %s</string>
+  <string name="make_space">Sprosti prostor</string>
+  <string name="mandatory_install_notification">Če posodobitve sistema ne boste namestili kmalu, boste zamudili pomembne varnostne posodobitve ter nove funkcije in popravke napak.</string>
+  <string name="mandatory_restart_notification">Ta posodobitev je pomembna, zato napravo zdaj znova zaženite, sicer boste zamudili varnostne posodobitve ter nove funkcije in popravke napak.</string>
+  <string name="medium_channel_name">Obveščevalnik o prenosu programske opreme</string>
+  <string name="merge_emergency_call_text">Med ponovnim zagonom ne boste mogli klicati in prejemati klicev, kar velja tudi za klice v sili.</string>
+  <string name="merge_force_restart_text">Če telefona ne želite znova zagnati zdaj, se bo samodejno znova zagnal, ko bo postal neaktiven.</string>
+  <string name="merge_progress_text">Ko bo posodobitev dokončana, vam bomo poslali obvestilo</string>
+  <string name="merge_progress_title">Zaključevanje posodobitve …</string>
+  <string name="merge_restart_text">Posodobitev se bo dokončala po ponovnem zagonu telefona</string>
+  <string name="merge_restart_title">Znova zaženi</string>
+  <string name="merge_update_fail_notify_text">Odkrili smo nekaj težav s sistemom. Za odpravo obiščite servisni center.</string>
+  <string name="merge_update_fail_notify_title">Posodobitev ni uspela</string>
+  <string name="merge_update_fail_text">Odkrili smo nekaj težav s sistemom, zaradi katerih ne boste mogli prejemati posodobitev. Za odpravo obiščite servisni center.
+
+Do takrat lahko telefon uporabljate kot običajno.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Izberite račun</string>
+  <string name="multiple_account_alert">Izberite račun %1$s, da nadaljujete s posodobitvijo sistema.</string>
+  <string name="no_thanks">Ne, hvala</string>
+  <string name="no_thanks_message">Če želite to posodobitev prejeti pozneje, pojdite v Nastavitve &gt; Posodobitve sistema.</string>
+  <string name="no_updates_applied">Uporabljena ni bila nobena posodobitev</string>
+  <string name="not_now">Ne zdaj</string>
+  <string name="ok">V redu</string>
+  <string name="otaservice_perm_desc">Dovoljenje, ki ga potrebujejo programi za komunikacijo s storitvijo OTA</string>
+  <string name="package_size">Velikost prenosa: %1$s</string>
+  <string name="personalInfo_instruction">Izgubili ne boste nobenih osebnih podatkov</string>
+  <string name="picker_cell_radio">Wi-Fi in mobilni podatki</string>
+  <string name="picker_title">Izberite način prenosa posodobitve:</string>
+  <string name="picker_wifi_only_radio">Samo Wi-Fi</string>
+  <string name="please_restart">Znova zaženi zdaj</string>
+  <string name="policy_set">Posodobitev sistema je blokirana. Za več informacij se obrnite na skrbnika naprave.</string>
+  <string name="press_back_again_to_exit">Za izhod znova pritisnite NAZAJ</string>
+  <string name="progress_copying_sd">Kopiranje posodobitve</string>
+  <string name="progress_deffered">Prenos se bo začel ob povezavi z Wi-Fi-/mobilnim omrežjem.</string>
+  <string name="progress_downloading_ota">Prenašanje posodobitve sistema</string>
+  <string name="progress_downloading_security">Prenašanje varn. posodobitve</string>
+  <string name="progress_retried">Prenos programske opreme je bil prekinjen. Še naprej bomo poskušali …</string>
+  <string name="progress_suspended">Čakanje na podatkovno povezavo za nadaljevanje prenosa</string>
+  <string name="progress_suspended_datasaver">Če ČeČe želite nadaljevati prenos, izklopite shranjevalnik podatkov</string>
+  <string name="progress_suspended_no_adminapn">Čakanje na povezavo Wi-Fi ali omrežje z ničelno tarifo za nadaljevanje prenosa</string>
+  <string name="progress_suspended_roaming">Prenos začasno ustavljen zaradi gostujočega omrežja. Če želite nadaljevati prenos, vklopite Wi-Fi.</string>
+  <string name="progress_suspended_wifi">Čakanje na Wi-Fi za nadaljevanje prenosa …</string>
+  <string name="progress_verify">Preverjanje, ali je vaša naprava pripravljena za posodobitev …</string>
+  <string name="progress_verify_allocate_space">Preverjanje, ali je na voljo dovolj pomnilnika</string>
+  <string name="relative_date_time">%1$s ob %2$s</string>
+  <string name="release_note_battery_desc">Posodobitve za izboljšanje porabe akumulatorja in časa delovanja z akumulatorjem</string>
+  <string name="release_note_battery_title">Akumulator</string>
+  <string name="release_note_camera_desc">Te izboljšave pripomorejo, da so fotografije natančnejše in podrobnejše</string>
+  <string name="release_note_camera_title">Fotoaparat</string>
+  <string name="release_note_cellular_desc">Spremembe pomagajo izboljšati podatkovno povezljivost naprave</string>
+  <string name="release_note_cellular_title">Mobilno omrežje</string>
+  <string name="release_note_charging_desc">Ta posodobitev poveča zmožnost polnjenja</string>
+  <string name="release_note_charging_title">Polnjenje</string>
+  <string name="release_note_generic_desc">Spremembe pomagajo izboljšati splošno delovanje naprave</string>
+  <string name="release_note_os_update_desc">Nove, monokromatične teme dajo telefonu eleganten videz in poskrbijo, da slika za ozadje izstopa. Preglejte, kako aplikacije uporabljajo vaše podatke in jih delijo z drugimi, preden jim dodelite dovoljenja, in izboljšajte dostopnost z novimi funkcijami za sluh in vid sistema Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Spremembe pomagajo izboljšati delovanje naprave</string>
+  <string name="release_note_performance_title">Zmogljivost</string>
+  <string name="release_note_security_desc">Vključuje varnostne popravke do %1$s</string>
+  <string name="release_note_security_title">Varnostna posodobitev</string>
+  <string name="release_note_stability_desc">Vključuje izboljšave in popravke napak, s katerimi bo telefon še zanesljivejši</string>
+  <string name="release_note_stability_title">Stabilnost</string>
+  <string name="release_note_title">Ta posodobitev vključuje</string>
+  <string name="release_note_wifi_desc">Vključuje posodobitve povezljivosti Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Preverite vse nove funkcije sistema Android %1$s</string>
+  <string name="request_suspended_datasaver">Če želite začeti prenos, izklopite shranjevalnik podatkov</string>
+  <string name="request_suspended_no_network">Prenosa ni mogoče začeti, ker območje ni pokrito z omrežjem</string>
+  <string name="restart_after_one_hour">Vnovični zagon čez 1 uro</string>
+  <string name="restart_instruction_title">Kaj morate vedeti pred ponovnim zagonom</string>
+  <string name="restart_later">Pozneje</string>
+  <string name="restart_message">Za posodobitev znova zaženite zdaj</string>
+  <string name="restart_notification">Znova zaženi</string>
+  <string name="restart_notification_text">Za posodobitev znova zaženite zdaj. Posodobitev čaka že toliko dni: %1$d.</string>
+  <string name="restart_notify_sanity_call_msg">Naprava se trenutno ne more znova zagnati, ker se izvaja klic</string>
+  <string name="restart_notify_sanity_maps_msg">Naprava se trenutno ne more znova zagnati, ker je vklopljena navigacija</string>
+  <string name="restart_now">Znova zaženi zdaj</string>
+  <string name="restart_postponed">Vnovični zagon je prestavljen</string>
+  <string name="restart_title">Znova zaženite napravo</string>
+  <string name="resume_download_on_cellular">Uporabi mobilne podatke</string>
+  <string name="retrieving_token">Preverjanje pristnosti ...</string>
+  <string name="sdcard_predownload_text">
+V tem koraku kopirate posodobitev v sistemski pomnilnik. Posodobitev bo nameščena v naslednjem koraku. 
+
+Telefon priklopite na vir napajanja, da se akumulator ne bo izpraznil.</string>
+  <string name="search_menu_title">Iskanje</string>
+  <string name="secure_instruction">Postopek je varen</string>
+  <string name="security_download_notification_title">Izboljšajte varnost</string>
+  <string name="security_install_notification_text">Nova varnostna posodobitev je pripravljena za namestitev</string>
+  <string name="security_install_title">Na voljo je varnostna posodobitev</string>
+  <string name="security_patch">Varnostni popravek:</string>
+  <string name="security_update_low_storage_title">Varnostna posodobitev</string>
+  <string name="security_update_notification_text">Pridobite najnovejšo varnostno posodobitev</string>
+  <string name="security_update_paused">Varn.posod.začas.ustavl.</string>
+  <string name="security_update_pending_notification_text">Pridobite najnovejšo varnostno posodobitev. Posodobitev čaka že toliko dni: %1$d.</string>
+  <string name="security_update_title">Varnostna posodobitev</string>
+  <string name="select_account">Izberite račun %1$s</string>
+  <string name="selected_later_time_os_mr">Posodobitev sistema bo nameščena v </string>
+  <string name="selected_later_time_smr">Varnostna posodobitev se bo namestila dne</string>
+  <string name="setting_sw_summary">Posodobite na najnovejšo programsko opremo </string>
+  <string name="setting_sw_title">Sistemske posodobitve</string>
+  <string name="smart_cancel_update_toast_msg">Posodobitev je prestavljena na dan %1$s</string>
+  <string name="smart_end_time">Konec</string>
+  <string name="smart_install_message_popup">Omogočili ste funkcijo Pametne posodobitve, zato bo naprava samodejno namestila posodobitev dne %1$s, če je do takrat ne boste namestili. Prepričajte se, da ima akumulator dovolj energije za namestitev.</string>
+  <string name="smart_restart_message_popup">Omogočili ste funkcijo Pametne posodobitve, zato se bo naprava samodejno znova zagnala dne %1$s, če je do takrat ne boste znova zagnali.</string>
+  <string name="smart_settings_string">Posodobitve se samodejno prenesejo in namestijo, kadar ste povezani v omrežje Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Posodobitve se samodejno prenesejo in namestijo, kadar ste povezani v omrežje Wi-Fi ali uporabljate mobilne podatke</string>
+  <string name="smart_settings_string_vzw">Posodobitve se samodejno prenesejo in namestijo</string>
+  <string name="smart_start_time">Začni</string>
+  <string name="smart_to_string">Za</string>
+  <string name="smart_update_advanced">Dodatno</string>
+  <string name="smart_update_note">Za vašo varnost se bodo vse pomembne varnostne posodobitve samodejno prenesle, ne glede na to, ali je ta funkcija vklopljena ali izklopljena</string>
+  <string name="smart_update_note_vzw">Za vašo varnost se bodo vse nujne posodobitve samodejno prenesle in namestile, ne glede na to, ali je ta funkcija vklopljena ali izklopljena</string>
+  <string name="smart_update_pop_up_text">Ohranjajte napravo varno in zaščiteno s samodejnimi posodobitvami</string>
+  <string name="smart_update_recommendation">Preskusite pametne posodobitve</string>
+  <string name="smart_update_suggestion_text">Ostanite zaščiteni s samodejnimi posodobitvami</string>
+  <string name="smart_update_text_AB">S samodejno namestitvijo vseh novih varnostnih posodobitev in popravkov napak pripomorete k varnemu in učinkovitemu delovanju naprave.</string>
+  <string name="smart_update_text_AB_vzw">Pametne posodobitve pripomorejo k varnemu in učinkovitemu delovanju naprave. Če jih boste vklopili, se bodo vse nove <b>varnostne posodobitve</b> samodejno prenesle. Po prenosu se bo naprava znova zagnala ob času, ki ga izberete.</string>
+  <string name="smart_update_text_classic">Pametne posodobitve pripomorejo k varnemu in učinkovitemu delovanju naprave. Če jih boste vklopili, se bodo vse nove <b>varnostne posodobitve in popravki napak</b> samodejno prenesli. Po prenosu se bo naprava znova zagnala in elemente namestila ob času, ki ga izberete.</string>
+  <string name="smart_update_text_classic_vzw">Pametne posodobitve pripomorejo k varnemu in učinkovitemu delovanju naprave. Če jih boste vklopili, se bodo vse nove <b>varnostne posodobitve</b> samodejno prenesle. Po prenosu se bo naprava znova zagnala in elemente namestila ob času, ki ga izberete.</string>
+  <string name="smart_update_time_slot_text_AB">Izberite čas začetka</string>
+  <string name="smart_update_time_slot_text_classic">Izberite čas za namestitev</string>
+  <string name="smart_update_title">Pametne posodobitve</string>
+  <string name="software_not_update_to">Programska oprema še ni posodobljena na</string>
+  <string name="software_update_in_progress">Sistem se posodablja na različico</string>
+  <string name="software_update_planned_summary">Preverjeno – %1$s</string>
+  <string name="software_update_planned_title">Načrtovana je posodobitev programske opreme</string>
+  <string name="software_update_to">Sistem je bil posodobljen na</string>
+  <string name="sofware_version">Različica programske opreme:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Sprosti prostor za posodobitev</string>
+  <string name="su_btn">Nastavitve</string>
+  <string name="su_text_off">Ko bo na voljo nova programska oprema, boste napravo morali ročno posodobiti. Vklopite Pametne posodobitve, da bo postopek samodejen. Tapnite za več podrobnosti.</string>
+  <string name="su_text_on">Privzeto se Pametne posodobitve izvajajo med 1. in 3. uro. Čase posodobitev lahko spremenite ali Pametne posodobitve izklopite v nastavitvah. Tapnite za več podrobnosti.</string>
+  <string name="su_title_off">Pametne posodobitve so izklopljene</string>
+  <string name="su_title_on">Pametne posodobitve so vklopljene</string>
+  <string name="system_download_notification_title">Sistemska posodobitev</string>
+  <string name="system_install_notification_text">Posodobitev sistema je pripravljena za namestitev</string>
+  <string name="system_install_title">Na voljo je posodobitev</string>
+  <string name="system_pdl_notification_mr_title">Pridobite popravke napak in še več</string>
+  <string name="system_pdl_notification_os_title">Android %1$s je na voljo!</string>
+  <string name="system_update">Sistemska posodobitev</string>
+  <string name="system_update_desc">Zaščitite napravo pred varnostnimi grožnjami in pridobite najnovejše Motoroline in Androidove funkcije</string>
+  <string name="system_update_info_not_available">Ni na voljo</string>
+  <string name="system_update_low_storage_text">Tapnite tukaj, da preverite pomnilnik in nadaljujete.</string>
+  <string name="system_update_low_storage_title">Sistemska posodobitev</string>
+  <string name="system_update_notification_os_text">Izkusite novi Android</string>
+  <string name="system_update_notification_text">Prenesite novo programsko opremo</string>
+  <string name="system_update_paused">Posodobitev sistema je začasno ustavljena</string>
+  <string name="system_update_pending_notification_os_text">Izkusite novi Android. Posodobitev čaka že toliko dni: %1$d.</string>
+  <string name="system_update_pending_notification_text">Prenesite novo programsko opremo. Posodobitev čaka že toliko dni: %1$d.</string>
+  <string name="system_update_settings_list_item_title">Sistemske posodobitve</string>
+  <string name="system_update_status">Stanje posodobitve</string>
+  <string name="system_update_title">Sistemska posodobitev</string>
+  <string name="tethered_permission_desc">Pošlji rezultate posodobitev 3c</string>
+  <string name="tethered_update_result">Rezultat posodobitve prek internetne povezave</string>
+  <string name="time_picker_text">Zaženi namestitev brez opomnika</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Poskusi znova</string>
+  <string name="turn_it_off">Izklopite ga</string>
+  <string name="turn_it_on">Vklopi</string>
+  <string name="turn_on_smart_updates">Vklopi pametne posodobitve</string>
+  <string name="update">Posodobi</string>
+  <string name="update_blocked_by_policy">Posodobitev je blokirana zaradi pravilnika skrbnika </string>
+  <string name="update_cancelled_status">Prenos programske opreme je bil preklican dne</string>
+  <string name="update_fail_desc">Nekaj je šlo narobe</string>
+  <string name="update_fail_status">Posodobitev ni uspela</string>
+  <string name="update_fail_sucancel_dm_status">Strežnik je preklical posodobitev</string>
+  <string name="update_fail_title">Posodobitev ni uspela</string>
+  <string name="update_history_blank">Zgodovine še ni</string>
+  <string name="update_history_src_target">Posodobite z %1$s na %2$s</string>
+  <string name="update_history_time">Posodobljeno dne %1$s</string>
+  <string name="update_history_title">Zgodovina posodobitev</string>
+  <string name="update_history_version">Različica programske opreme %1$s</string>
+  <string name="update_info">Posodabljanje …</string>
+  <string name="update_postpone_policy">Posodobitev je odložena zaradi pravilnika skrbnika </string>
+  <string name="update_preference">Nastavitve posodobitev</string>
+  <string name="update_success_desc">Trenutna različica programske opreme: %1$s</string>
+  <string name="update_success_desc_os">Čestitamo! Uspešno ste namestili Android %1$s. Zdaj lahko uživate v boljši, pametnejši in varnejši izkušnji Androida.</string>
+  <string name="update_success_status">Posodobitev je uspela</string>
+  <string name="update_title">Posodobitev je končana</string>
+  <string name="update_title_text">Uživajte v novi programski opremi!</string>
+  <string name="upto_date_title">Vse je videti v redu.</string>
+  <string name="urgent_channel_name">Opozorilo o posodobitvi programske opreme</string>
+  <string name="use_smart_updates">Uporaba Pametnih posodobitev</string>
+  <string name="vab_validation_update_failure_desc">Posodobitev preverjanja VAB ni uspela</string>
+  <string name="vab_validation_update_failure_title">Preverjanje VAB ni uspelo</string>
+  <string name="vab_validation_update_success_desc">Čestitamo! Posodobitev preverjanja VAB je uspela</string>
+  <string name="vab_validation_update_success_title">Preverjanje VAB je uspelo</string>
+  <string name="verifying_patch">Posodobitev je uporabljena. Potrjevanje, da je uporaba uspešna … (korak 4 od 6)  </string>
+  <string name="verity_disabled_msg">Naprava je lahko izpostavljena varnostnim tveganjem. Za nadaljnje posodobitve izvedite spodnji ukaz
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Naprava ne prejema več posodobitev</string>
+  <string name="verizon_failure_notification_text"> Naprava ni uspela namestiti te posodobitve. Za namestitev uporabite orodje za pomoč pri nadgradnji programske opreme. Tapnite za več informacij.</string>
+  <string name="verizon_failure_text">Pri posodobitvi naprave je prišlo do napake. Izvedena ni bila nobena sprememba. Programsko opremo lahko posodobite z orodjem Pomočnik za nadgradnjo programske opreme.
+
+Namestitev orodja Pomočnik za nadgradnjo programske opreme:
+
+1. Napravo povežite z računalnikom s kablom USB
+2. Ko se v napravi pojavi meni USB, izberite ikono nastavitev zgoraj desno
+3. V Nastavitvah povezave USB izberite Nastavitev programske opreme
+4. Preklopite na računalnik in poiščite čarovnika za namestitev
+5. Pomaknite se skozi čarovnika
+
+Orodje Pomočnik za nadgradnjo programske opreme vam bo pomagalo prenesti in namestiti posodobitve programske opreme v napravo.</string>
+  <string name="vital_applying_updates">Uporaba posodobitev ...</string>
+  <string name="vital_bg_text">To lahko traja nekaj minut.</string>
+  <string name="vital_check_for_updates">Iskanje posodobitev ...</string>
+  <string name="vital_check_for_updates_desc">Posodobitve ohranjajo napravo varno in izboljšajo njeno delovanje.</string>
+  <string name="vital_done">Končano.</string>
+  <string name="vital_error_fail">Prišlo je do napake pri posodobitvi. Izvedena ni bila nobena sprememba.</string>
+  <string name="vital_go_back">Ali ste prepričani, da želite ustaviti namestitev?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Za nadaljevanje znova zaženite</string>
+  <string name="vital_skip">Preskoči</string>
+  <string name="vital_stop">Ustavi</string>
+  <string name="wifi_setting">Nastavitve povezave Wi-Fi</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Das Gerät wird in %1$d Sekunden neu gestartet, um das Update abzuschließen.</item>
+    <item quantity="other">Das Gerät wird in %1$d Sekunden neu gestartet, um das Update abzuschließen.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">in %1$d Sekunde neu gestartet</item>
+    <item quantity="other">in %1$d Sekunden neu gestartet</item>
+  </plurals>
+</resources>

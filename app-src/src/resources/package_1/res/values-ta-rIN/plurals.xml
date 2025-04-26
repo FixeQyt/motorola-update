@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">புதுப்பிப்பை நிறைவுசெய்ய, உங்கள் சாதனம் %1$d வினாடியில் மீண்டும் துவங்கும்.</item>
+    <item quantity="other">புதுப்பிப்பை நிறைவுசெய்ய, உங்கள் சாதனம் %1$d வினாடிகளில் மறுதொடக்கம் செய்யப்படும்.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d விநாடியில் மறுதொடக்கமாகும்</item>
+    <item quantity="other">%1$d விநாடிகளில் மறுதொடக்கமாகும்</item>
+  </plurals>
+</resources>

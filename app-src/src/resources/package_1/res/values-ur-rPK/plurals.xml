@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">تازہ کاری مکمل کرنے کے لیے آپ کا آلہ ⁦%1$d⁩ سیکنڈ میں ری اسٹارٹ ہو گا۔</item>
+    <item quantity="other">تازہ کاری مکمل کرنے کے لیے آپ کا آلہ ⁦%1$d⁩ سیکنڈز میں ری اسٹارٹ ہوگا۔</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d سیکنڈ میں دوبارہ شروع کریں</item>
+    <item quantity="other">%1$d سیکنڈز میں دوبارہ شروع کریں</item>
+  </plurals>
+</resources>

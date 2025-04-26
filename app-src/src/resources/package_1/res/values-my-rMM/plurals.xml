@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">%1$d အဆင့်မြှင့်တင်မှုပြီးဆုံးရန်သင်၏စက်သည် စက္ကန့်ပိုင်းအတွင်းပြန်လည်စတင်ပါလိမ့်မည်။</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">%1$d စက္ကန့်အတွင်း ပြန်လည်စတင်ပါမည်</item>
+  </plurals>
+</resources>

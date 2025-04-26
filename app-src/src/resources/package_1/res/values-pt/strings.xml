@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Atualizar mais tarde</string>
+  <string name="ab_download_now">Atualizar agora</string>
+  <string name="ab_install_notification_paused_text">Instalação em segundo plano pausada</string>
+  <string name="ab_install_notification_text">Instalação em segundo plano</string>
+  <string name="ab_restart_fullscreen_text">Falta pouco! Levará cerca de 90 segundos para reiniciar o dispositivo. A atualização está disponível há %1$d dias.</string>
+  <string name="ab_restart_text">Falta pouco! Levará cerca de 90 segundos para reiniciar o dispositivo.</string>
+  <string name="ab_restart_warning_os_mr">A atualização do sistema está quase concluída. O dispositivo será  </string>
+  <string name="ab_restart_warning_smr">A instalação de segurança está quase concluída. O dispositivo será </string>
+  <string name="ab_warning_continues"> para concluir a atualização.</string>
+  <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+  <string name="abc_action_bar_up_description">Navegar para cima</string>
+  <string name="abc_action_menu_overflow_description">Mais opções</string>
+  <string name="abc_action_mode_done">Concluído</string>
+  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+  <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+  <string name="abc_capital_off">DESATIVADO</string>
+  <string name="abc_capital_on">ATIVADO</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">espaço</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Pesquisar…</string>
+  <string name="abc_searchview_description_clear">Limpar consulta</string>
+  <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+  <string name="abc_searchview_description_search">Pesquisar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+  <string name="abc_toolbar_collapse_description">Recolher</string>
+  <string name="abupdate_in_progress_status">A atualização do software está em andamento</string>
+  <string name="additional_charges_message">O download continuará com o uso de dados móveis. Cobrança de dados pode ser aplicável.</string>
+  <string name="alertSubText">Ela é usada para verificar, baixar e instalar o pacote de atualização</string>
+  <string name="alertText">Permitir operações de rede em atualizações do software</string>
+  <string name="alertTitle">As atualizações exigem a seguinte permissão</string>
+  <string name="alert_dialog_cancel">Parar instalação</string>
+  <string name="alert_dialog_continue">Continuar instalação</string>
+  <string name="alert_dialog_no">Não</string>
+  <string name="alert_dialog_ok">Entendi</string>
+  <string name="alert_dialog_yes">Sim</string>
+  <string name="allocate_space_success">A memória necessária para a atualização está disponível</string>
+  <string name="allow">Permitir</string>
+  <string name="android_latest_sw_text">Você está usando o software mais recente.</string>
+  <string name="android_version">Versão do Android:</string>
+  <string name="app_name">Atualização do software da Motorola</string>
+  <string name="applied">Data da aplicação</string>
+  <string name="apply_bug_fix">Aplicar a correções de problemas</string>
+  <string name="apply_os_update">Aplicar a todas as atualizações do software</string>
+  <string name="applying_patch">Aplicando atualização (etapa %1$d de %2$d)  </string>
+  <string name="are_you_sure">Desativar as atualizações inteligentes?</string>
+  <string name="are_you_sure_pop_up_text">Tem certeza de que você quer desativar as atualizações inteligentes? </string>
+  <string name="asc_campaign_assigned">Campanha atribuída</string>
+  <string name="asc_campaign_is_allowed">Atualização de firmware</string>
+  <string name="asc_campaign_is_blocked">Bloqueio de firmware</string>
+  <string name="asc_campaign_not_assigned">O dispositivo não está em uma campanha no momento.</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Janela de atualização: de %s até %s</string>
+  <string name="asc_sw_up_to_date"> até a versão mais recente</string>
+  <string name="asc_target_version"> até a versão </string>
+  <string name="auth_title">Atualização do sistema</string>
+  <string name="auto_download_cellualr_charges_warn">Taxas adicionais poderão ser aplicadas se você baixar atualizações com a rede móvel.</string>
+  <string name="auto_download_enable_cellular_future_updates">Deseja ativar a opção de dados móveis para os próximos downloads também?</string>
+  <string name="auto_download_settings_title">Configurações do download automático</string>
+  <string name="auto_download_wifi_cellular">Download automático via dados móveis e Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">O download automático será feito via dados móveis e Wi-Fi. O Wi-Fi terá preferência quando disponível. </string>
+  <string name="auto_download_wifi_only">Download automático somente via Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Download automático somente via Wi-Fi</string>
+  <string name="auto_install_notification_text">Instalação automática em %1$s</string>
+  <string name="auto_time_set">Horário de início:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Por ser importante, esta atualização será instalada automaticamente com dados móveis em %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Por ser importante, esta atualização será baixada automaticamente com dados móveis em %1$s</string>
+  <string name="background_install_msg">A atualização continuará mesmo se você voltar ou fechar esta janela.</string>
+  <string name="background_install_text">Uma atualização está sendo baixada e instalada. Você pode continuar usando o dispositivo.</string>
+  <string name="bad_connection">Sem internet</string>
+  <string name="bad_connection_text">O dispositivo se desconectou da internet. Toque no botão inferior para tentar novamente.</string>
+  <string name="bg_install_cancel_confirm">Tem certeza de que quer parar a instalação?</string>
+  <string name="bg_retried">O download do software foi interrompido. Continuaremos tentando…</string>
+  <string name="bg_suspended">Aguardando conexão de dados para retomar o download e a instalação em segundo plano.</string>
+  <string name="bg_suspended_non_adminapn">Aguardando conexão Wi-Fi ou rede gratuita para retomar o download e instalação em segundo plano…</string>
+  <string name="bg_suspended_roaming">Instalação em segundo plano interrompida devido à rede de roaming. Ligue o Wi-Fi para continuar.</string>
+  <string name="bg_suspended_wifi">Aguardando conexão do Wi-Fi para retomar o download e a instalação em segundo plano.</string>
+  <string name="bootloader_unlock_msg">Seu dispositivo não recebe mais atualizações e pode estar exposto a riscos de segurança.</string>
+  <string name="bootloader_unlock_title">Sem atualizações disponíveis</string>
+  <string name="call_notification_answer_action">Atender</string>
+  <string name="call_notification_answer_video_action">Vídeo</string>
+  <string name="call_notification_decline_action">Recusar</string>
+  <string name="call_notification_hang_up_action">Desligar</string>
+  <string name="call_notification_incoming_text">Chamada recebida</string>
+  <string name="call_notification_ongoing_text">Chamada em andamento</string>
+  <string name="call_notification_screening_text">Filtrando uma ligação recebida</string>
+  <string name="cancel">Cancelar</string>
+  <string name="cancel_download_notification">Cancelar</string>
+  <string name="cancel_install">Cancelar</string>
+  <string name="cancel_update_notification">Cancelar</string>
+  <string name="check_for_updates_title">Verificação de atualizações</string>
+  <string name="check_update_badparam">Ocorreu um erro na tentativa de atualização devido a uma falha de log in.
+
+Tente novamente depois.</string>
+  <string name="check_update_checking">Procurando atualizações…</string>
+  <string name="check_update_disabled_admin">Atualizações do dispositivo controladas pelo administrador de TI</string>
+  <string name="check_update_downloading">Uma atualização está sendo baixada.
+
+Você será notificado(a) quando o download for concluído.</string>
+  <string name="check_update_fail">Ocorreu um erro inesperado.
+
+O dispositivo tentará novamente uma atualização em segundo plano.</string>
+  <string name="check_update_internal">Não foi possível verificar se há atualizações. Tente novamente mais tarde.</string>
+  <string name="check_update_net">Verifique a conexão de internet e tente outra vez.</string>
+  <string name="check_update_net_vzw">É necessária uma conexão de dados para verificar se há atualizações. Acesse Configurar &gt; Rede e internet &gt; Internet &gt; Wi-Fi e confira sua conexão Wi-Fi.
+
+Você também pode acessar motorola.com/systemupdates para ver outras opções de atualização.</string>
+  <string name="check_update_not_sys_user">A verificação de atualizações não é permitida para perfis de visitante.</string>
+  <string name="check_update_processing">Entrando em contato com o servidor…
+Aguarde</string>
+  <string name="check_update_roaming">A atualização do sistema só está disponível na rede doméstica. 
+
+Acesse Configurar &gt; Rede e internet &gt; Wi-Fi para estabelecer uma conexão.</string>
+  <string name="check_update_storage_low">Não é possível atualizar porque não há espaço suficiente de armazenamento no dispositivo.</string>
+  <string name="check_update_temperror">Não foi possível concluir um download das atualizações.
+
+Tente novamente.</string>
+  <string name="check_update_text">Verificar periodicamente se há atualizações mantém a segurança e melhora o desempenho do dispositivo.</string>
+  <string name="check_update_title_downloading">Download em andamento…</string>
+  <string name="check_update_vab_validation">Verificando o status de atualização da validação VAB.
+Aguarde…</string>
+  <string name="check_update_wifi_only">Atualização do software disponível somente via Wi-Fi.</string>
+  <string name="check_wifi_settings">Verificar as configurações de Wi-Fi</string>
+  <string name="clear_space">Liberar espaço</string>
+  <string name="cloud_picker_title">Coletor em nuvem</string>
+  <string name="common_android_wear_notification_needs_update_text">Um app exige uma atualização do app Android Wear.</string>
+  <string name="common_android_wear_update_text">Este app só funciona com uma versão atualizada do app Android Wear.</string>
+  <string name="common_android_wear_update_title">Atualizar o Android Wear</string>
+  <string name="common_google_play_services_enable_button">Ativar o Google Play Services</string>
+  <string name="common_google_play_services_enable_text">Este app só funciona com o Google Play Services ativado.</string>
+  <string name="common_google_play_services_enable_title">Ative o Google Play Services</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Solicitado por %1$s</string>
+  <string name="common_google_play_services_install_button">Instalar o Google Play Services</string>
+  <string name="common_google_play_services_install_text_phone">Este app não funciona sem o Google Play Services, que não está instalado em seu telefone.</string>
+  <string name="common_google_play_services_install_text_tablet">Este app não funciona sem o Google Play Services, que não está instalado em seu tablet.</string>
+  <string name="common_google_play_services_install_title">Instale o Google Play Services</string>
+  <string name="common_google_play_services_invalid_account_text">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+  <string name="common_google_play_services_invalid_account_title">Conta inválida</string>
+  <string name="common_google_play_services_needs_enabling_title">Um app requer a ativação do Google Play Services.</string>
+  <string name="common_google_play_services_network_error_text">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+  <string name="common_google_play_services_network_error_title">Erro na rede</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Um app requer a instalação do Google Play Services.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Um app requer a atualização do Google Play Services.</string>
+  <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+  <string name="common_google_play_services_unknown_issue">Problema desconhecido com o Google Play Services.</string>
+  <string name="common_google_play_services_unsupported_text">O Google Play Services, necessário para alguns dos apps, não é compatível com seu dispositivo. Entre em contato com o fabricante para obter assistência.</string>
+  <string name="common_google_play_services_unsupported_title">Play Services</string>
+  <string name="common_google_play_services_update_button">Atualizar</string>
+  <string name="common_google_play_services_update_text">Este app só funciona com uma versão atualizada do Google Play Services.</string>
+  <string name="common_google_play_services_update_title">Atualize o Google Play Services</string>
+  <string name="common_open_on_phone">Abrir no smartphone</string>
+  <string name="common_signin_button_text">Login</string>
+  <string name="common_signin_button_text_long">Fazer login com o Google</string>
+  <string name="compatibility_failed_title">Falha na verificação do pacote</string>
+  <string name="compatibility_verification_failure">O pacote de atualização que está sendo baixado não é compatível com a versão atual do software no dispositivo.</string>
+  <string name="compatibility_verification_failure_df">
+
+Verifique com seu coordenador de Dogfood.</string>
+  <string name="compatibility_verification_success">Verificação concluída</string>
+  <string name="completed"> Instalação concluída. Será solicitado que você reinicie o telefone (Etapa %1$d de %2$d).</string>
+  <string name="completed_install">%s concluída</string>
+  <string name="connect_to_wifi">Conectar-se ao Wi-Fi</string>
+  <string name="continue_button">Continuar</string>
+  <string name="critical_install_message_popup_os_mr">Uma atualização importante do sistema está disponível. Selecione Instalar para aplicar a atualização. Caso contrário, a atualização será aplicada automaticamente em %1$s.</string>
+  <string name="critical_install_message_popup_smr">Uma atualização de segurança importante está disponível. Selecione Instalar para aplicar a atualização. Caso contrário, a atualização será aplicada automaticamente em %1$s.</string>
+  <string name="critical_install_message_screen">Esta atualização é importante e será instalada automaticamente em %1$s. Certifique-se de que a carga da bateria seja suficiente para a instalação.</string>
+  <string name="critical_install_notification">Como esta atualização é importante, a instalação será feita automaticamente em %1$s.
+Tempo de instalação: %2$d minutos</string>
+  <string name="critical_restart_message_popup">Reinicie o dispositivo assim que possível para aplicar essa atualização importante. Se você não puder fazer isso, o dispositivo será reiniciado automaticamente em %1$s.</string>
+  <string name="critical_restart_message_screen">Como esta é uma atualização importante, o dispositivo será reiniciado automaticamente em %1$s se você ainda não tiver feito isso.</string>
+  <string name="critical_restart_notification">Esta atualização é importante. Se você não puder reiniciar o dispositivo agora, isso acontecerá automaticamente em %1$s.</string>
+  <string name="critical_update_notification_title">Atualização crítica</string>
+  <string name="current_version">Versão atual do software:</string>
+  <string name="custom_slot">Personalizar</string>
+  <string name="custom_time">Horário personalizado</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s, %s</string>
+  <string name="defer_count_expired">Entendi</string>
+  <string name="deny">Negar</string>
+  <string name="details">Detalhes</string>
+  <string name="device_corrupted_msg">Encontramos alguns problemas do sistema. Sabemos que pode ser uma inconveniência, mas você precisa ir à assistência técnica local para resolver isso.
+
+Após a correção do telefone, poderemos continuar fazendo as atualizações no dispositivo.</string>
+  <string name="device_corrupted_title">Não foi possível atualizar o telefone</string>
+  <string name="dialog_alert_net_message">Verifique a conexão de dados móveis ou Wi-Fi e tente outra vez.</string>
+  <string name="dialog_alert_net_title">Seu dispositivo está off-line</string>
+  <string name="dialog_alert_title">Bateria fraca</string>
+  <string name="dialog_progress">Carregando…</string>
+  <string name="dl_options_mobile_only_warning">É recomendado usar o Wi-Fi para downloads, pois o uso de dados móveis, em roaming ou não, pode gerar cobranças adicionais.
+
+Você poderá usar seu dispositivo durante o download deste software.</string>
+  <string name="done">Concluído</string>
+  <string name="dont_show_this_again">Não exibir novamente</string>
+  <string name="download_cancelled_title">Download cancelado</string>
+  <string name="download_deferred_status">O download do software foi adiado para</string>
+  <string name="download_failed_status">Falha ao baixar a atualização</string>
+  <string name="download_in_progress_status">O download do software está em andamento</string>
+  <string name="download_later_button">Baixar mais tarde</string>
+  <string name="download_no_button">Não, obrigado(a)</string>
+  <string name="download_note">Você pode continuar usando o dispositivo enquanto a atualização é instalada.</string>
+  <string name="download_now">Baixar agora</string>
+  <string name="download_now_button">Baixar</string>
+  <string name="download_options">Opções de download</string>
+  <string name="download_progress_cancel_message">Para baixar a atualização mais tarde, acesse Configurar &gt; Atualizações do sistema.</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s restante(s) (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% baixado (pausado)</string>
+  <string name="download_progress_text">O download continuará se você voltar ou fechar esta janela.</string>
+  <string name="download_subtitle">O que você precisa saber antes de baixar a atualização:</string>
+  <string name="download_text_whats_new">Confira as novidades</string>
+  <string name="download_time_left">%1$s restante(s)</string>
+  <string name="download_version">Versão %1$s – %2$s</string>
+  <string name="download_wifi_only_error">É necessário usar o Wi-Fi para baixar esta atualização. O download será retomado quando a conexão for restaurada.</string>
+  <string name="downloaded_percentage">%1$s do total baixado</string>
+  <string name="emergency_call_btn_txt">Emergência</string>
+  <string name="emergency_call_text">Durante a reinicialização, não será possível realizar ou receber chamadas, inclusive chamadas de emergência.</string>
+  <string name="enable_wifi_error_txt">Conecte-se ao Wi-Fi para baixar a atualização</string>
+  <string name="eol_explore">Descobrir novos dispositivos</string>
+  <string name="eol_last_update_text">Patch de segurança:</string>
+  <string name="eol_promote">Ver as promoções mais recentes</string>
+  <string name="eol_title">Seu dispositivo já usa o software mais recente.</string>
+  <string name="err_title_contact_server">Contatando servidor...</string>
+  <string name="err_title_memory_low">Pouca memória</string>
+  <string name="err_title_temp_error">Erro temporário</string>
+  <string name="err_title_update">Erro de atualização</string>
+  <string name="error_code">Código de erro: </string>
+  <string name="error_copyfail">Falha ao copiar da localização do cartão SD.</string>
+  <string name="error_disabled">Falha ao baixar atualização. O pacote de atualização está indisponível no momento. 
+
+Nenhuma ação é necessária.</string>
+  <string name="error_fail">Ocorreu um problema ao atualizar seu %1$s. Nenhuma alteração foi feita. Para tentar outra vez, acesse Configurar &gt; Atualização do sistema.</string>
+  <string name="error_in_call_msg">Não é possível atualizar o dispositivo porque há uma chamada em andamento.</string>
+  <string name="error_in_call_title">Chamada em andamento</string>
+  <string name="error_install_title">Falha na instalação</string>
+  <string name="error_mismatch">Há incompatibilidade entre as versões. Outra atualização será realizada. Você receberá uma notificação se houver atualização disponível.</string>
+  <string name="error_mismatch_sd">Falha ao atualizar. A versão de atualização não é compatível ao seu telefone. 
+
+Baixe a versão correta no seu telefone e tente novamente.</string>
+  <string name="error_network">A conectividade foi perdida. Para tentar outra vez, verifique as atualizações manualmente nas configurações do telefone.</string>
+  <string name="error_reboot">Não foi possível baixar essa atualização. Se desejar atualizar depois, reinicie o dispositivo e acesse Configurar &gt; Atualizações do sistema.</string>
+  <string name="error_resources">Não foi possível baixar a atualização. Se desejar atualizar depois, acesse Configurar &gt; Atualizações do sistema.</string>
+  <string name="error_sdcard_resources_fail_removal">O cartão SD foi removido. Não foi possível concluir o download. 
+
+Insira novamente o cartão SD e acesse Configurar &gt; para tentar baixar novamente.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Não foi possível concluir o download. Não há espaço suficiente no cartão SD. 
+
+Libere espaço e acesse Configurar &gt; Atualizações do sistema para tentar baixar novamente.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Insira um cartão SD para iniciar o download.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Ative o cartão SD para iniciar o download. 
+
+Vá para "Configurar" &gt; "Armazenamento" &gt; "Ativar cartão SD".
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Não há espaço suficiente no cartão SD para concluir o download. 
+
+Libere %1$s de espaço e acesse Configurar &gt; Atualizações do sistema para tentar novamente.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Erro</string>
+  <string name="error_sdcard_resources_warning">Atualização do software sendo baixada no cartão SD. 
+
+Não remova o cartão SD até que a instalação seja concluída.
+
+
+</string>
+  <string name="error_server">Ocorreu um erro no servidor. Tente novamente mais tarde.</string>
+  <string name="error_space">Esta atualização exige %1$s de espaço de armazenamento do dispositivo. 
+
+Exclua apps que você não usa ou mova fotos e vídeos para outro dispositivo de armazenamento para liberar %2$s de espaço. 
+
+Depois, acesse Configurar &gt; Atualizações do sistema para iniciar a atualização a qualquer momento.</string>
+  <string name="error_space_retry">Esta atualização exige %1$s de espaço de armazenamento do dispositivo. 
+
+Exclua apps que você não usa ou mova fotos e vídeos para outro dispositivo de armazenamento para liberar %2$s de espaço.</string>
+  <string name="error_space_vab">Esta atualização exige %1$s de armazenamento livre no dispositivo. Libere espaço na memória para instalar atualizações.</string>
+  <string name="error_space_vab_make_room_popup">É preciso liberar %1$s de espaço para fazer a atualização. Exclua apps sem uso ou mova fotos e vídeos para outro dispositivo de armazenamento.</string>
+  <string name="error_title">Falha no download</string>
+  <string name="error_verify">Não foi possível validar a atualização corretamente. Tente novamente.</string>
+  <string name="failed">Falha</string>
+  <string name="failed_in_roaming">Wi-Fi necessário para atualizações</string>
+  <string name="failure_process">Informação indisponível</string>
+  <string name="finalizing_patch">Finalizando atualização… (Etapa 5 de 6)  </string>
+  <string name="first_net_text">Instale a atualização ou o dispositivo irá instalar automaticamente na próxima reinicialização. Certifique-se de que o nível da bateria é maior que %s</string>
+  <string name="forceInstallMessage">Esta atualização será instalada automaticamente em %1$s.</string>
+  <string name="force_install_message_screen">Esta atualização é importante e precisa ser instalada até %1$s. Caso contrário, ela será instalada automaticamente em um horário em que o dispositivo é menos usado. Certifique-se de que a duração da bateria seja suficiente para a instalação.</string>
+  <string name="force_install_notification_message">Instale até %1$s. Caso contrário, o dispositivo fará a instalação automaticamente em um horário em que ele é menos usado.
+Tempo de instalação: %2$d minutos</string>
+  <string name="force_restart_notification_message">Reinicie até %1$s. Caso contrário, o dispositivo será reiniciado automaticamente em um horário em que ele é menos usado.</string>
+  <string name="force_restart_screen_message">Se você não reiniciar o dispositivo até %1$s, isso será feito automaticamente em um horário em que ele é menos usado.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Entendi</string>
+  <string name="important_update_install_overdue_message">O horário programado para a instalação já passou. A instalação irá começar assim que o dispositivo atender aos critérios necessários.</string>
+  <string name="important_update_restart_overdue_message">O horário programado para a reinicialização já passou. O dispositivo será reiniciado assim que atender aos critérios necessários.</string>
+  <string name="initiating_ota_service_msg">Aguarde…</string>
+  <string name="initiating_ota_service_title">Iniciando o processo de atualização do software</string>
+  <string name="install">Instalar</string>
+  <string name="install_after_one_hour">Instalar em 1 hora</string>
+  <string name="install_cancelled_title">Instalação cancelada</string>
+  <string name="install_deferred_status">A atualização foi adiada</string>
+  <string name="install_later">Instalar mais tarde</string>
+  <string name="install_notify_sanity_call_msg">Não é possível fazer a instalação no dispositivo porque há uma chamada em andamento</string>
+  <string name="install_notify_sanity_maps_msg">Não é possível fazer a instalação no dispositivo porque a navegação está ativada</string>
+  <string name="install_now">Instalar agora</string>
+  <string name="install_postponed">Instalação adiada</string>
+  <string name="install_progress_cancel_message">Para instalar a atualização mais tarde, acesse Configurar &gt; Atualizações do sistema.</string>
+  <string name="install_progress_paused_message">%s concluída (pausada)</string>
+  <string name="install_time">Tempo de instalação: %1$d minutos</string>
+  <string name="install_warning">O que você precisa saber antes da instalação:</string>
+  <string name="just_one_more_step">Só mais uma etapa</string>
+  <string name="keep_it_on">Manter ativadas</string>
+  <string name="later_button">Lembrar mais tarde</string>
+  <string name="learn_more_online_link">Saiba mais on-line</string>
+  <string name="low_battery_bg_install">A instalação foi pausada devido à bateria fraca e será retomada quando a carga estiver acima de 20%.</string>
+  <string name="low_battery_download">O download foi pausado porque a bateria está fraca. Ele será retomado quando o dispositivo estiver carregado.</string>
+  <string name="low_battery_install">Carregue o dispositivo em pelo menos %s antes de instalar a atualização.</string>
+  <string name="make_space">Liberar espaço</string>
+  <string name="mandatory_install_notification">Se esta atualização do sistema não for realizada em breve, você perderá importantes atualizações de segurança, bem como novos recursos e correções de erros.</string>
+  <string name="mandatory_restart_notification">Como se trata de uma importante atualização, reinicie agora. Caso contrário, você perderá atualizações de segurança, bem como novos recursos e correções de erros.</string>
+  <string name="medium_channel_name">Notificador de download do software</string>
+  <string name="merge_emergency_call_text">Durante a reinicialização, você não poderá fazer nem receber chamadas, inclusive as de emergência.</string>
+  <string name="merge_force_restart_text">Se você não quiser reiniciar agora, o telefone será reiniciado automaticamente quando ele ficar inativo.</string>
+  <string name="merge_progress_text">Quando a atualização for concluída, enviaremos uma notificação.</string>
+  <string name="merge_progress_title">Concluindo a atualização…</string>
+  <string name="merge_restart_text">A atualização será concluída depois que o telefone for reiniciado.</string>
+  <string name="merge_restart_title">Reinicie de novo</string>
+  <string name="merge_update_fail_notify_text">Encontramos alguns problemas do sistema. Vá à assistência técnica para resolver isso.</string>
+  <string name="merge_update_fail_notify_title">Falha na atualização</string>
+  <string name="merge_update_fail_text">Encontramos alguns problemas do sistema que impem as atualizações. Vá à assistência técnica para resolver essas questões.
+
+Enquanto isso, você pode continuar usando o telefone normalmente.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Escolher uma conta</string>
+  <string name="multiple_account_alert">Para continuar a atualização do sistema, escolha uma conta da %1$s.</string>
+  <string name="no_thanks">Não, obrigado(a)</string>
+  <string name="no_thanks_message">Se desejar atualizar depois, acesse Configurar &gt; Atualizações do sistema.</string>
+  <string name="no_updates_applied">Nenhuma atualização foi aplicada.</string>
+  <string name="not_now">Agora não</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Permissão que o aplicativo precisa para interagir com o otaservice</string>
+  <string name="package_size">Tamanho do download: %1$s</string>
+  <string name="personalInfo_instruction">Nenhuma informação pessoal será perdida.</string>
+  <string name="picker_cell_radio">Wi-Fi e dados móveis</string>
+  <string name="picker_title">Escolha como você gostaria de baixar essa atualização:</string>
+  <string name="picker_wifi_only_radio">Somente Wi-Fi</string>
+  <string name="please_restart">Reinicie agora</string>
+  <string name="policy_set">A atualização do sistema está bloqueada. Entre em contato com o administrador do dispositivo para obter mais informações.</string>
+  <string name="press_back_again_to_exit">Para sair, pressione novamente o botão VOLTAR</string>
+  <string name="progress_copying_sd">Copiando atualização...</string>
+  <string name="progress_deffered">O download será iniciado em rede móvel/Wi-Fi.</string>
+  <string name="progress_downloading_ota">Baixando atualização do sistema...</string>
+  <string name="progress_downloading_security">Baixando atualização de segurança...</string>
+  <string name="progress_retried">O download do software foi interrompido. Continuaremos tentando…</string>
+  <string name="progress_suspended">Aguardando conexão de dados para retomar o download…</string>
+  <string name="progress_suspended_datasaver">Desative o modo Economia de dados para retomar o download</string>
+  <string name="progress_suspended_no_adminapn">Aguardando conexão Wi-Fi ou rede gratuita para retomar o download</string>
+  <string name="progress_suspended_roaming">Download interrompido devido à rede de roaming. Ligue o Wi-Fi para continuar.</string>
+  <string name="progress_suspended_wifi">Aguardando conexão Wi-Fi para retomar o download…</string>
+  <string name="progress_verify">Verificando se o dispositivo está pronto para ser atualizado…</string>
+  <string name="progress_verify_allocate_space">Verificando se há memória suficiente…</string>
+  <string name="relative_date_time">%1$s, %2$s</string>
+  <string name="release_note_battery_desc">As atualizações melhoram a duração e o uso da bateria.</string>
+  <string name="release_note_battery_title">Bateria</string>
+  <string name="release_note_camera_desc">Esses aprimoramentos ajudam a tirar fotos com mais detalhes e precisão.</string>
+  <string name="release_note_camera_title">Câmera</string>
+  <string name="release_note_cellular_desc">As mudanças ajudam a melhorar a conectividade de dados do dispositivo.</string>
+  <string name="release_note_cellular_title">Celular</string>
+  <string name="release_note_charging_desc">Essa atualização turbina os recursos de carregamento.</string>
+  <string name="release_note_charging_title">Carregamento</string>
+  <string name="release_note_generic_desc">As mudanças ajudam a melhorar o desempenho geral do dispositivo.</string>
+  <string name="release_note_os_update_desc">Novos temas monocromáticos dão um toque elegante ao telefone e destacam o plano de fundo. Avalie como os apps usam e compartilham seus dados antes de ativar permissões e tenha mais acessibilidade com os novos recursos de visão e audição do Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">As mudanças ajudam a melhorar o desempenho do dispositivo.</string>
+  <string name="release_note_performance_title">Desempenho</string>
+  <string name="release_note_security_desc">Inclui os patches de segurança até %1$s.</string>
+  <string name="release_note_security_title">Atualização de segurança</string>
+  <string name="release_note_stability_desc">Inclui melhorias e correções de erros que deixam seu telefone ainda mais confiável.</string>
+  <string name="release_note_stability_title">Estabilidade</string>
+  <string name="release_note_title">Esta atualização inclui</string>
+  <string name="release_note_wifi_desc">Inclui atualizações para sua conectividade Wi-Fi.</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Confira todos os novos recursos do Android %1$s</string>
+  <string name="request_suspended_datasaver">Desative o modo de Economia de dados para começar a baixar</string>
+  <string name="request_suspended_no_network">Não há cobertura de rede para iniciar o download.</string>
+  <string name="restart_after_one_hour">Reiniciar em 1 hora</string>
+  <string name="restart_instruction_title">O que você precisa saber antes da reinicialização</string>
+  <string name="restart_later">Mais tarde</string>
+  <string name="restart_message">Reinicie agora para atualizar o software.</string>
+  <string name="restart_notification">Reiniciar</string>
+  <string name="restart_notification_text">Reinicie agora para atualizar. A atualização está pendente há %1$d dias.</string>
+  <string name="restart_notify_sanity_call_msg">Não é possível reiniciar o dispositivo porque há uma chamada em andamento</string>
+  <string name="restart_notify_sanity_maps_msg">Não é possível reiniciar o dispositivo porque a navegação está ativada</string>
+  <string name="restart_now">Reiniciar agora</string>
+  <string name="restart_postponed">Reinicialização adiada</string>
+  <string name="restart_title">Reinicie o dispositivo</string>
+  <string name="resume_download_on_cellular">Usar dados móveis</string>
+  <string name="retrieving_token">Autenticando...</string>
+  <string name="sdcard_predownload_text">
+Nesta etapa, você copiará a atualização para a memória do sistema. A atualização será instalada na próxima etapa. 
+
+Conecte seu telefone a uma fonte de energia para evitar que a bateria acabe.</string>
+  <string name="search_menu_title">Pesquisar</string>
+  <string name="secure_instruction">O processo é seguro.</string>
+  <string name="security_download_notification_title">Reforce a segurança</string>
+  <string name="security_install_notification_text">Uma nova atualização de segurança está pronta para instalação</string>
+  <string name="security_install_title">Uma atualização de segurança está pronta</string>
+  <string name="security_patch">Patch de segurança:</string>
+  <string name="security_update_low_storage_title">Atualização de segurança</string>
+  <string name="security_update_notification_text">Instale a atualização de segurança mais recente</string>
+  <string name="security_update_paused">Atualização de segurança pausada</string>
+  <string name="security_update_pending_notification_text">Baixe a atualização de segurança mais recente. A atualização está pendente há %1$d dias.</string>
+  <string name="security_update_title">Atualização de segurança</string>
+  <string name="select_account">Escolher uma conta da %1$s</string>
+  <string name="selected_later_time_os_mr">A atualização do sistema será instalada às </string>
+  <string name="selected_later_time_smr">A atualização de segurança será instalada em</string>
+  <string name="setting_sw_summary">Atualize para a versão mais recente do software </string>
+  <string name="setting_sw_title">Atualizações do sistema</string>
+  <string name="smart_cancel_update_toast_msg">A atualização foi remarcada para %1$s.</string>
+  <string name="smart_end_time">Fim</string>
+  <string name="smart_install_message_popup">Como você ativou o recurso Atualizações inteligentes, o dispositivo instalará a atualização automaticamente em %1$s se você ainda não tiver feito isso. Certifique-se de que a carga da bateria seja suficiente para a instalação.</string>
+  <string name="smart_restart_message_popup">Como você ativou o recurso Atualizações inteligentes, o dispositivo será reiniciado automaticamente em %1$s, se você ainda não tiver feito isso.</string>
+  <string name="smart_settings_string">Baixar e instalar atualizações automaticamente quando houver conexão Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">As atualizações são baixadas e instaladas automaticamente quando você está em uma conexão Wi-Fi ou usando dados móveis.</string>
+  <string name="smart_settings_string_vzw">As atualizações são baixadas e instaladas automaticamente</string>
+  <string name="smart_start_time">Início</string>
+  <string name="smart_to_string">às</string>
+  <string name="smart_update_advanced">Avançado</string>
+  <string name="smart_update_note">Para sua proteção, todas as atualizações de segurança importantes serão baixadas automaticamente mesmo que o recurso esteja desativado.</string>
+  <string name="smart_update_note_vzw">Para sua segurança, todas as atualizações críticas serão baixadas e instaladas automaticamente mesmo que o recurso esteja desativado.</string>
+  <string name="smart_update_pop_up_text">Mantenha seu dispositivo seguro e protegido com as atualizações automáticas.</string>
+  <string name="smart_update_recommendation">Experimente as Atualizações inteligentes</string>
+  <string name="smart_update_suggestion_text">Fique em segurança com as atualizações automáticas</string>
+  <string name="smart_update_text_AB">Instale automaticamente todas as novas atualizações de segurança e correções de erros para ajudar o dispositivo a funcionar com segurança e eficiência.</string>
+  <string name="smart_update_text_AB_vzw">As atualizações inteligentes ajudam o dispositivo a funcionar com segurança e eficiência. Se você ativa esse recurso, todas as novas <b>atualizações de segurança</b> são baixadas automaticamente. Após o download, o dispositivo é reiniciado no horário que você escolher.</string>
+  <string name="smart_update_text_classic">As atualizações inteligentes ajudam o dispositivo a funcionar com segurança e eficiência. Se você ativa esse recurso, todas as novas <b>atualizações de segurança e correções de erros</b> são baixadas automaticamente. Após o download, o dispositivo é reiniciado e faz a instalação no horário que você escolher.</string>
+  <string name="smart_update_text_classic_vzw">As atualizações inteligentes ajudam o dispositivo a funcionar com segurança e eficiência. Se você ativa esse recurso, todas as novas <b>atualizações de segurança</b> são baixadas automaticamente. Após o download, o dispositivo é reiniciado e faz a instalação no horário que você escolher.</string>
+  <string name="smart_update_time_slot_text_AB">Escolha o horário</string>
+  <string name="smart_update_time_slot_text_classic">Escolher horário da instalação</string>
+  <string name="smart_update_title">Atualizações inteligentes</string>
+  <string name="software_not_update_to">Seu software ainda não foi atualizado para</string>
+  <string name="software_update_in_progress">Seu sistema está sendo atualizado para a versão</string>
+  <string name="software_update_planned_summary">Verificado - %1$s</string>
+  <string name="software_update_planned_title">Atualização do software agendada</string>
+  <string name="software_update_to">Seu sistema foi atualizado para</string>
+  <string name="sofware_version">Versão do software:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Obtenha espaço para uma atualização</string>
+  <string name="su_btn">Configurar</string>
+  <string name="su_text_off">Você precisará atualizar manualmente o dispositivo quando um novo software estiver disponível. Ative as atualizações inteligentes para automatizar o processo. Toque para mais detalhes.</string>
+  <string name="su_text_on">Por padrão, as atualizações inteligentes são executadas da 1h às 3h. Você pode alterar o horário ou desativar esse recurso nas configurações. Toque para mais detalhes.</string>
+  <string name="su_title_off">Atualizações inteligentes desativadas</string>
+  <string name="su_title_on">Atualizações inteligentes ativadas</string>
+  <string name="system_download_notification_title">Atualização do sistema</string>
+  <string name="system_install_notification_text">Uma atualização do sistema está pronta para instalação</string>
+  <string name="system_install_title">Uma atualização está pronta</string>
+  <string name="system_pdl_notification_mr_title">Obtenha correções de erros e mais</string>
+  <string name="system_pdl_notification_os_title">Chegou o Android %1$s</string>
+  <string name="system_update">Atualização de Software</string>
+  <string name="system_update_desc">Proteja seu dispositivo contra ameaças de segurança e tenha acesso aos recursos mais recentes da Motorola e do Android.</string>
+  <string name="system_update_info_not_available">Não disponível</string>
+  <string name="system_update_low_storage_text">Toque aqui para verificar a memória e continuar.</string>
+  <string name="system_update_low_storage_title">Atualização do sistema</string>
+  <string name="system_update_notification_os_text">Aproveite o novo Android</string>
+  <string name="system_update_notification_text">Baixe o novo software</string>
+  <string name="system_update_paused">Atualização do sistema pausada</string>
+  <string name="system_update_pending_notification_os_text">Conheça o novo Android. A atualização está pendente há %1$d dias.</string>
+  <string name="system_update_pending_notification_text">Baixe o novo software. A atualização está pendente há %1$d dias.</string>
+  <string name="system_update_settings_list_item_title">Atualizações do sistema</string>
+  <string name="system_update_status">Status da atualização</string>
+  <string name="system_update_title">Atualização de Software</string>
+  <string name="tethered_permission_desc">Enviar resultados atualizados 3c</string>
+  <string name="tethered_update_result">Resultado da atualização vinculada</string>
+  <string name="time_picker_text">Iniciar a instalação sem um lembrete</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Tentar outra vez</string>
+  <string name="turn_it_off">Desativar</string>
+  <string name="turn_it_on">Ativar</string>
+  <string name="turn_on_smart_updates">Ativar atualizações inteligentes</string>
+  <string name="update">Atualizar</string>
+  <string name="update_blocked_by_policy">A atualização foi bloqueada pela política do administrador. </string>
+  <string name="update_cancelled_status">O download do software foi cancelado</string>
+  <string name="update_fail_desc">Ocorreu um erro.</string>
+  <string name="update_fail_status">Falha na atualização</string>
+  <string name="update_fail_sucancel_dm_status">Atualização cancelada pelo servidor</string>
+  <string name="update_fail_title">Falha na atualização</string>
+  <string name="update_history_blank">Sem histórico</string>
+  <string name="update_history_src_target">Atualização da versão %1$s para %2$s</string>
+  <string name="update_history_time">Atualizado em %1$s</string>
+  <string name="update_history_title">Histórico de atualizações</string>
+  <string name="update_history_version">Versão do software: %1$s</string>
+  <string name="update_info">Atualizando…</string>
+  <string name="update_postpone_policy">Atualização adiada pela política do administrador </string>
+  <string name="update_preference">Preferências de atualização</string>
+  <string name="update_success_desc">Versão atual do software: %1$s</string>
+  <string name="update_success_desc_os">Parabéns! Você instalou o Android %1$s. Agora você já pode aproveitar uma experiência Android melhor, mais inteligente e segura.</string>
+  <string name="update_success_status">Atualização concluída</string>
+  <string name="update_title">Atualização concluída</string>
+  <string name="update_title_text">Aproveite o novo software</string>
+  <string name="upto_date_title">Tudo certo!</string>
+  <string name="urgent_channel_name">Alerta de atualização do software</string>
+  <string name="use_smart_updates">Usar as atualizações inteligentes</string>
+  <string name="vab_validation_update_failure_desc">Ocorreu uma falha na atualização da validação VAB.</string>
+  <string name="vab_validation_update_failure_title">Falha na validação VAB</string>
+  <string name="vab_validation_update_success_desc">Parabéns! A atualização da validação VAB foi concluída.</string>
+  <string name="vab_validation_update_success_title">Validação VAB concluída</string>
+  <string name="verifying_patch">A atualização foi aplicada. Confirmando se a aplicação está certa… (Etapa 4 de 6)  </string>
+  <string name="verity_disabled_msg">Ele pode estar exposto a riscos de segurança. Execute o comando abaixo para receber atualizações contínuas
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">O dispositivo não recebe mais atualizações</string>
+  <string name="verizon_failure_notification_text"> Não foi possível instalar a atualização no dispositivo. Use o Assistente de Atualização de Software para fazer isso. Toque para saber mais.</string>
+  <string name="verizon_failure_text">Ocorreu um problema ao atualizar o dispositivo. Nenhuma alteração foi feita. Use a ferramenta Software Upgrade Assistant para atualizar o software.
+
+Para instalar a ferramenta Software Upgrade Assistant, faça o seguinte:
+
+1. Conecte o dispositivo ao computador com um cabo USB.
+2. Quando o menu USB for exibido no dispositivo, selecione o ícone de configurações no canto superior direito.
+3. Em Preferências de USB, selecione Instalação de software.
+4. No computador, procure o assistente de instalação.
+5. Siga as instruções dele.
+
+A ferramenta Software Upgrade Assistant ajuda você a baixar e instalar atualizações de software no dispositivo.</string>
+  <string name="vital_applying_updates">Aplicando atualizações…</string>
+  <string name="vital_bg_text">Isso pode levar alguns minutos.</string>
+  <string name="vital_check_for_updates">Buscando atualizações…</string>
+  <string name="vital_check_for_updates_desc">As atualizações protegem o dispositivo e melhoram o desempenho dele.</string>
+  <string name="vital_done">Pronto!</string>
+  <string name="vital_error_fail">Ocorreu um erro na atualização. Não houve alterações.</string>
+  <string name="vital_go_back">Tem certeza de que você quer parar a instalação?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Reinicie para continuar</string>
+  <string name="vital_skip">Ignorar</string>
+  <string name="vital_stop">Parar</string>
+  <string name="wifi_setting">Configurações do Wi-Fi</string>
+</resources>

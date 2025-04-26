@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Jūsų prietaisas bus iš naujo paleistas po %1$d s, kad atnaujinimas būtų užbaigtas.</item>
+    <item quantity="few">Jūsų prietaisas bus iš naujo paleistas po %1$d s, kad atnaujinimas būtų užbaigtas.</item>
+    <item quantity="many">Jūsų prietaisas bus iš naujo paleistas po %1$d s, kad atnaujinimas būtų užbaigtas.</item>
+    <item quantity="other">Jūsų prietaisas bus iš naujo paleistas po %1$d s, kad atnaujinimas būtų užbaigtas.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">bus paleistas iš naujo po %1$d sek.</item>
+    <item quantity="few">bus paleistas iš naujo po %1$d sek.</item>
+    <item quantity="many">bus paleistas iš naujo po %1$d sek.</item>
+    <item quantity="other">bus paleistas iš naujo po %1$d sek.</item>
+  </plurals>
+</resources>

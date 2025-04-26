@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Kemas kini kemudian</string>
+  <string name="ab_download_now">Kemas kini sekarang</string>
+  <string name="ab_install_notification_paused_text">Pemasangan latar belakang dijeda</string>
+  <string name="ab_install_notification_text">Pemasangan latar belakang</string>
+  <string name="ab_restart_fullscreen_text">Masa selama kira-kira 90 saat diperlukan untuk memulakan semula peranti anda. Kemas kini telah tersedia selama %1$d hari.</string>
+  <string name="ab_restart_text">Masa selama kira-kira 90 saat diperlukan untuk memulakan semula peranti anda.</string>
+  <string name="ab_restart_warning_os_mr">Kemas kini sistem anda hampir selesai. Peranti anda akan  </string>
+  <string name="ab_restart_warning_smr">Kemas kini keselamatan anda hampir selesai. Peranti anda akan </string>
+  <string name="ab_warning_continues"> untuk menyelesaikan kemas kini.</string>
+  <string name="abc_action_bar_home_description">Navigasi laman utama</string>
+  <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+  <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+  <string name="abc_action_mode_done">Selesai</string>
+  <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+  <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+  <string name="abc_capital_off">MATI</string>
+  <string name="abc_capital_on">HIDUP</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Fungsi+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">ruang</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Cari…</string>
+  <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+  <string name="abc_searchview_description_query">Pertanyaan carian</string>
+  <string name="abc_searchview_description_search">Cari</string>
+  <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+  <string name="abc_searchview_description_voice">Carian suara</string>
+  <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+  <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+  <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+  <string name="abupdate_in_progress_status">Kemas kini perisian sedang berjalan</string>
+  <string name="additional_charges_message">Muat turun akan diteruskan pada data mudah alih. Caj data mungkin akan dikenakan.</string>
+  <string name="alertSubText">Ini digunakan untuk menyemak, memuat turun dan memasang pakej kemas kini</string>
+  <string name="alertText">Benarkan operasi rangkaian untuk kemas kini perisian</string>
+  <string name="alertTitle">Kemas kini diperlukan untuk kebenaran berikut</string>
+  <string name="alert_dialog_cancel">Hentikan pemasangan</string>
+  <string name="alert_dialog_continue">Teruskan pemasangan</string>
+  <string name="alert_dialog_no">Tidak</string>
+  <string name="alert_dialog_ok">Saya faham</string>
+  <string name="alert_dialog_yes">Ya</string>
+  <string name="allocate_space_success">Memori diperlukan tersedia untuk kemas kini</string>
+  <string name="allow">Benarkan</string>
+  <string name="android_latest_sw_text">Anda sedang menggunakan perisian terkini.</string>
+  <string name="android_version">Versi Android:</string>
+  <string name="app_name">Kemas Kini Perisian Motorola</string>
+  <string name="applied">Hidup</string>
+  <string name="apply_bug_fix">Gunakan pembaikan pepijat</string>
+  <string name="apply_os_update">Gunakan pada semua kemas kini perisian</string>
+  <string name="applying_patch">Menggunakan kemas kini... (Langkah %1$d daripada %2$d)  </string>
+  <string name="are_you_sure">Matikan kemas kini pintar?</string>
+  <string name="are_you_sure_pop_up_text">Adakah anda pasti ingin mematikan kemas kini pintar? </string>
+  <string name="asc_campaign_assigned">Kempen ditugaskan</string>
+  <string name="asc_campaign_is_allowed">Kemas Kini Perisian Tegar</string>
+  <string name="asc_campaign_is_blocked">Kunci Perisian Tegar</string>
+  <string name="asc_campaign_not_assigned">Kempen tidak ditugaskan</string>
+  <string name="asc_sw_up_to_date">hingga versi terkini</string>
+  <string name="asc_target_version">hingga versi </string>
+  <string name="auth_title">Kemas kini sistem</string>
+  <string name="auto_download_cellualr_charges_warn">Apabila memuat turun pakej muat turun perisian melalui rangkaian mudah alih, caj tambahan mungkin akan dikenakan.</string>
+  <string name="auto_download_enable_cellular_future_updates">Adakah anda ingin memilih masuk pilihan data selular untuk muat turun masa hadapan juga?</string>
+  <string name="auto_download_settings_title">Tetapan auto muat turun</string>
+  <string name="auto_download_wifi_cellular">Auto muat turun melalui selular (domestik sahaja) dan Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Muat turun automatik melalui selular dan Wi-Fi. Wi-Fi akan digunakan dahulu apabila tersedia. </string>
+  <string name="auto_download_wifi_only">Auto muat turun melalui Wi-Fi sahaja</string>
+  <string name="auto_download_wifi_only_desc">Muat turun automatik melalui Wi-Fi sahaja</string>
+  <string name="auto_install_notification_text">Peranti akan membuat pemasangan secara automatik pada %1$s</string>
+  <string name="auto_time_set">Mula pada:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Disebabkan kepentingannya, kemas kini akan dipasang secara automatik menggunakan data mudah alih dalam %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Disebabkan kepentingannya, kemas kini akan dimuat turun secara automatik menggunakan data mudah alih pada %1$s</string>
+  <string name="background_install_msg">Muat turun ini akan diteruskan jika anda kembali atau menutup tetingkap ini.</string>
+  <string name="background_install_text">Kemas kini sedang dimuat turun &amp; dipasang. Anda boleh terus menggunakan peranti anda.</string>
+  <string name="bad_connection">Tiada sambungan</string>
+  <string name="bad_connection_text">Nampaknya peranti anda diputuskan sambungan daripada Internet. Ketik butang bawah untuk cuba lagi.</string>
+  <string name="bg_install_cancel_confirm">Anda pasti ingin menghentikan pemasangan?</string>
+  <string name="bg_retried">Muat turun perisian telah diganggu. Kami akan terus mencuba…</string>
+  <string name="bg_suspended">Menunggu sambungan data untuk menyambung semula muat turun dan pemasangan latar belakang</string>
+  <string name="bg_suspended_non_adminapn">Menunggu Wi-Fi atau rangkaian Berkadar Sifar untuk menyambung semula muat turun dan pemasangan latar belakang...</string>
+  <string name="bg_suspended_roaming">Pemasangan latar belakang dijeda kerana rangkaian perayauan, sila hidupkan Wi-Fi untuk meneruskan pemasangan di latar belakang.</string>
+  <string name="bg_suspended_wifi">Menunggu Wi-Fi untuk menyambung semula muat turun dan pemasangan latar belakang...</string>
+  <string name="bootloader_unlock_msg">Peranti anda tidak lagi menerima kemas kini dan mungkin terdedah kepada risiko keselamatan.</string>
+  <string name="bootloader_unlock_title">Tiada kemas kini tersedia</string>
+  <string name="call_notification_answer_action">Jawab</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Tolak</string>
+  <string name="call_notification_hang_up_action">Tamatkan Panggilan</string>
+  <string name="call_notification_incoming_text">Panggilan masuk</string>
+  <string name="call_notification_ongoing_text">Panggilan sedang berlangsung</string>
+  <string name="call_notification_screening_text">Menyaring panggilan masuk</string>
+  <string name="cancel">Batal</string>
+  <string name="cancel_download_notification">Batal</string>
+  <string name="cancel_install">Batal</string>
+  <string name="cancel_update_notification">Batal</string>
+  <string name="check_for_updates_title">Semak untuk kemas kini</string>
+  <string name="check_update_badparam">Cubaan naik taraf mempunyai ralat kerana gagal mendaftar masuk.
+
+Sila cuba lagi kemudian.</string>
+  <string name="check_update_checking">Menyemak kemas kini...</string>
+  <string name="check_update_disabled_admin">Dikawal oleh pentadbir IT</string>
+  <string name="check_update_downloading">Kemas kini sedang dimuat turun.
+
+Anda akan diberitahu apabila muat turun selesai.</string>
+  <string name="check_update_fail">Ralat tidak dijangka telah berlaku.
+
+Peranti akan cuba semula untuk mengemas kini dalam latar belakang.</string>
+  <string name="check_update_internal">Tidak dapat menyemak kemas kini. Cuba lagi kemudian.</string>
+  <string name="check_update_net">Anda memerlukan sambungan data untuk menyemak kemas kini. Untuk menyemak sambungan Wi-Fi anda, pergi ke Tetapan &gt; Rangkaian &amp; Internet &gt; Internet &gt; Wi-Fi.</string>
+  <string name="check_update_net_vzw">Anda memerlukan sambungan data untuk menyemak kemas kini. Untuk menyemak sambungan Wi-Fi anda, pergi ke Tetapan &gt; Rangkaian &amp; Internet &gt; Internet &gt; Wi-Fi.
+
+Anda juga boleh melawati motorola.com/systemupdates untuk melihat pilihan kemas kini lain.</string>
+  <string name="check_update_processing">Menghubungi pelayan kami…
+Sila tunggu</string>
+  <string name="check_update_roaming">Kemas Kini Sistem tersedia di rangkaian rumah sahaja. 
+
+Pergi ke Tetapan &gt; Rangkaian &amp; Internet &gt; Wi-Fi untuk menyediakan sambungan sekarang.</string>
+  <string name="check_update_storage_low">Kemas kini tidak dapat dilakukan kerana storan tidak mencukupi pada peranti.</string>
+  <string name="check_update_temperror">Muat turun untuk kemas kini tidak dapat dilengkapkan buat masa sekarang.
+
+Sila cuba lagi.</string>
+  <string name="check_update_text">Menyemak kemas kini dari masa ke masa boleh memastikan peranti anda lebih selamat dan meningkatkan prestasinya.</string>
+  <string name="check_update_title_downloading">Muat turun sedang berjalan...</string>
+  <string name="check_update_vab_validation">Menyemak status kemas kini Pengesahan VAB
+Sila tunggu</string>
+  <string name="check_update_wifi_only">Kemas kini Sistem tersedia melalui Wi-Fi sahaja.</string>
+  <string name="check_wifi_settings">Semak tetapan Wi-Fi</string>
+  <string name="clear_space">Kosongkan ruang</string>
+  <string name="cloud_picker_title">Pemilih Awan</string>
+  <string name="compatibility_failed_title">Pengesahan pakej gagal</string>
+  <string name="compatibility_verification_failure">Pakej kemas kini yang sedang dimuat turun tidak serasi dengan versi perisian semasa pada peranti.</string>
+  <string name="compatibility_verification_failure_df">
+
+Sila semak dengan penyelaras Dogfood anda.</string>
+  <string name="compatibility_verification_success">Berjaya disahkan</string>
+  <string name="completed"> Pemasangan selesai. (Langkah %1$d daripada %2$d)</string>
+  <string name="completed_install">%s diselesaikan</string>
+  <string name="continue_button">Teruskan</string>
+  <string name="critical_install_message_popup_os_mr">Kemas kini sistem penting tersedia. Sila pilih Pasang untuk menggunakan kemas kini. Jika tidak, kemas kini akan digunakan secara automatik pada %1$s.</string>
+  <string name="critical_install_message_popup_smr">Kemas kini keselamatan penting tersedia. Sila pilih Pasang untuk menggunakan kemas kini. Jika tidak, kemas kini akan digunakan secara automatik pada %1$s.</string>
+  <string name="critical_install_message_screen">Kemas kini penting ini akan dipasang secara automatik pada %1$s. Pastikan anda memiliki bateri yang mencukupi untuk pemasangan.</string>
+  <string name="critical_install_notification">Oleh sebab ini ialah kemas kini yang penting, peranti anda akan dimulakan semula secara automatik pada %1$s.
+Masa pemasangan: %2$d minit</string>
+  <string name="critical_restart_message_popup">Sila mulakan semula peranti anda untuk menggunakan kemas kini penting ini secepat mungkin. Jika anda tidak memulakan semula secara manual, peranti anda akan dimulakan semula secara automatik pada %1$s.</string>
+  <string name="critical_restart_message_screen">Oleh sebab ini ialah kemas kini yang penting, peranti anda akan dimulakan semula secara automatik pada %1$s jika anda belum memulakan semula sebelum masa tersebut.</string>
+  <string name="critical_restart_notification">Oleh sebab kemas kini ini adalah penting, peranti anda akan dimulakan semula secara automatik pada %1$s</string>
+  <string name="critical_update_notification_title">Kemas kini penting</string>
+  <string name="current_version">Versi perisian semasa:</string>
+  <string name="custom_slot">Tersuai</string>
+  <string name="date_time">%s pada %s</string>
+  <string name="defer_count_expired">Saya faham</string>
+  <string name="deny">Tolak</string>
+  <string name="details">Butiran</string>
+  <string name="dialog_alert_net_message">Semak Wi-Fi atau sambungan data mudah alih anda dan cuba lagi.</string>
+  <string name="dialog_alert_net_title">Peranti anda di luar talian</string>
+  <string name="dialog_alert_title">Bateri lemah</string>
+  <string name="dialog_progress">Memuatkan…</string>
+  <string name="dl_options_mobile_only_warning">Penggunaan Wi-Fi disyorkan. Memuat turun dengan data mudah alih atau menggunakan data mudah alih semasa perayauan boleh menyebabkan caj tambahan.
+
+Memuat turun perisian ini tidak akan memberi kesan terhadap operasi peranti anda.</string>
+  <string name="done">Selesai</string>
+  <string name="dont_show_this_again">Jangan tunjukkan ini lagi</string>
+  <string name="download_cancelled_title">Muat turun dibatalkan</string>
+  <string name="download_deferred_status">Muat turun Perisian telah ditangguhkan pada</string>
+  <string name="download_failed_status">Kemas kini gagal untuk dimuat turun pada</string>
+  <string name="download_in_progress_status">Muat turun perisian sedang berjalan</string>
+  <string name="download_later_button">Muat turun kemudian</string>
+  <string name="download_no_button">Tidak, terima kasih</string>
+  <string name="download_note">Anda boleh terus menggunakan peranti anda semasa mengemas kini pemasangan</string>
+  <string name="download_now">Muat turun sekarang</string>
+  <string name="download_now_button">Muat turun</string>
+  <string name="download_options">Pilihan muat turun</string>
+  <string name="download_progress_cancel_message">Jika anda ingin memuat turun kemas kini ini kemudian, pergi ke Tetapan &gt; Kemas Kini sistem</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Tinggal %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% dimuat turun (Dijeda)</string>
+  <string name="download_progress_text">Muat turun ini akan diteruskan jika anda kembali atau tutup tetingkap ini.</string>
+  <string name="download_subtitle">Perkara yang perlu anda tahu sebelum memuat turun</string>
+  <string name="download_text_whats_new">Lihat perkara terbaru</string>
+  <string name="download_time_left">Tinggal %1$s</string>
+  <string name="download_version">Versi baru: %1$s</string>
+  <string name="download_wifi_only_error">Wi-Fi diperlukan untuk memuat turun kemas kini ini. Muat turun akan disambung semula apabila sambungan anda dipulihkan.</string>
+  <string name="downloaded_percentage">%1$s telah dimuat turun</string>
+  <string name="emergency_call_btn_txt">Kecemasan</string>
+  <string name="emergency_call_text">Anda tidak akan dapat membuat atau menerima panggilan telefon, termasuk panggilan kecemasan!</string>
+  <string name="enable_wifi_error_txt">Sambung kepada Wi-Fi untuk memuat turun kemas kini ini.</string>
+  <string name="eol_explore">Teroka peranti baru</string>
+  <string name="eol_last_update_text">Tampalan keselamatan:</string>
+  <string name="eol_promote">Lihat promosi terkini</string>
+  <string name="eol_title">Peranti anda berjalan pada perisian tersedia yang terkini.</string>
+  <string name="err_title_contact_server">Menghubungi pelayan...</string>
+  <string name="err_title_memory_low">Memori rendah…</string>
+  <string name="err_title_temp_error">Ralat Sementara</string>
+  <string name="err_title_update">Ralat kemas kini</string>
+  <string name="error_code">Kod Ralat: </string>
+  <string name="error_copyfail">Gagal menyalin dari lokasi Kad SD.</string>
+  <string name="error_disabled">Gagal untuk memuat turun kemas kini. Pakej kemas kini tidak tersedia buat masa sekarang. 
+
+Tiada tindakan lanjut diperlukan.</string>
+  <string name="error_fail">Maaf, terdapat masalah mengemas kini %1$s anda. Tiada perubahan dibuat. Sila cuba lagi dengan pergi ke Tetapan &gt; Kemas kini sistem.</string>
+  <string name="error_in_call_msg">Peranti tidak dapat mengemas kini sekarang kerana panggilan sedang berlangsung</string>
+  <string name="error_in_call_title">Panggilan sedang berlangsung</string>
+  <string name="error_install_title">Pemasangan gagal</string>
+  <string name="error_mismatch">Ketakserasian versi telah berlaku. Kemas kini akan muncul lagi. Jika tersedia, anda akan digesa.</string>
+  <string name="error_mismatch_sd">Gagal untuk mengemas kini. Versi kemas kini tidak sepadan dengan telefon anda. 
+
+Sila muat turun versi yang betul untuk telefon anda dan cuba lagi.</string>
+  <string name="error_network">Ketersambungan hilang. Sila cuba lagi dengan menyemak kemas kini melalui tetapan Telefon secara manual.</string>
+  <string name="error_reboot">Kami tidak dapat memuat turun kemas kini ini. Jika anda ingin mendapatkan kemas kini ini kemudian, sila memulakan semula peranti anda dan pergi ke Tetapan &gt; Kemas kini sistem.</string>
+  <string name="error_resources">Kami tidak dapat memuat turun kemas kini ini. Jika anda ingin mendapatkan kemas kini ini kemudian, pergi ke Tetapan &gt; Kemas kini sistem.</string>
+  <string name="error_sdcard_resources_fail_removal">Kad SD telah dialih keluar. Proses muat turun tidak diselesaikan. 
+
+Sila masukkan semula Kad SD dan pergi ke Tetapan &gt; Kemas kini sistem untuk cuba sekali lagi.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Tidak dapat melengkapkan muat turun. Ruang tidak mencukupi pada Kad SD. 
+
+Kosongkan sedikit ruang dan pergi ke Tetapan &gt; Kemas kini sistem untuk cuba lagi.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Sila masukkan Kad SD untuk memulakan muat turun.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Sila pasangkan Kad SD untuk memulakan muat turun. 
+
+Pergi ke Settings &gt; Storage &gt; Mount SD card.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Ruang tidak mencukupi pada Kad SD untuk menyelesaikan muat turun. 
+
+Sila kosongkan %1$s ruang dan pergi ke Tetapan &gt; Kemas kini sistem untuk cuba memuat turun semula.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Ralat</string>
+  <string name="error_sdcard_resources_warning">Kemas kini perisian sedang dimuat turun ke Kad SD. 
+
+Jangan alihkan Kad SD Sehingga pemasangan selesai.
+
+
+</string>
+  <string name="error_server">Ralat telah berlaku pada Pelayan. Sila cuba lagi kemudian.</string>
+  <string name="error_space">Kemas kini ini memerlukan %1$s storan yang tersedia pada peranti anda. 
+
+Sila padamkan apl yang tidak digunakan atau alihkan foto dan video anda kepada peranti storan yang lain untuk mengosongkan ruang %2$s . 
+
+Setelah selesai, anda boleh pergi ke Tetapan &gt; Kemas kini sistem untuk memulakan kemas kini pada bila-bila masa.</string>
+  <string name="error_space_retry">Kemas kini ini memerlukan %1$s storan yang tersedia pada peranti anda. 
+
+Sila padamkan apl yang tidak digunakan atau alihkan foto dan video anda kepada peranti storan yang lain untuk mengosongkan %2$s ruang.</string>
+  <string name="error_space_vab">Kemas kini ini memerlukan %1$s ruang kosong pada peranti anda. Sila kosongkan memori untuk kemas kini yang berjaya</string>
+  <string name="error_space_vab_make_room_popup">Anda perlu mengosongkan %1$s ruang sebelum mengemas kini. Cuba padamkan apl yang tidak digunakan atau cuba mengalihkan foto &amp; video kepada peranti storan lain.</string>
+  <string name="error_title">Muat turun gagal</string>
+  <string name="error_verify">Kemas kini tidak dapat disahkan dengan betul. Sila cuba lagi.</string>
+  <string name="failed">Gagal</string>
+  <string name="failure_process">Maklumat tidak tersedia</string>
+  <string name="first_net_text">Sila pasang kemas kini, jika tidak peranti akan memasang kemas kini secara automatik pada but semula seterusnya. Pastikan tahap bateri adalah lebih daripada %s</string>
+  <string name="forceInstallMessage">Kemas kini ini akan dipasang secara automatik pada %1$s.</string>
+  <string name="force_install_message_screen">Ini ialah kemas kini yang penting, jadi sila pasang sebelum %1$s. Jika tidak, pemasangan akan dibuat secara automatik pada masa peranti anda kurang digunakan. Pastikan anda memiliki hayat bateri yang mencukupi untuk pemasangan.</string>
+  <string name="force_install_notification_message">Sila pasang sebelum %1$s. Jika tidak, peranti anda akan membuat pemasangan secara automatik pada masa peranti anda kurang digunakan.
+Masa pemasangan: %2$d minit</string>
+  <string name="force_restart_notification_message">Sila mulakan semula sebelum %1$s. Jika tidak, peranti akan dimulakan semula secara automatik pada masa peranti anda kurang digunakan.</string>
+  <string name="force_restart_screen_message">Jika anda tidak memulakan semula sebelum %1$s, peranti anda akan dimulakan semula pada masa yang peranti anda kurang digunakan.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Saya faham</string>
+  <string name="important_update_install_overdue_message">Masa dijadualkan untuk pemasangan telah berlalu. Pemasangan akan bermula sebaik sahaja peranti anda memenuhi kriteria.</string>
+  <string name="important_update_restart_overdue_message">Masa dijadualkan untuk memulakan semula telah berlalu. Peranti akan dimulakan semula setelah peranti memenuhi kriteria.</string>
+  <string name="initiating_ota_service_msg">Sila tunggu...</string>
+  <string name="initiating_ota_service_title">Memulakan proses kemas kini perisian</string>
+  <string name="install">Pasang</string>
+  <string name="install_after_one_hour">Pasang dalam 1 jam</string>
+  <string name="install_cancelled_title">Pemasangan dibatalkan</string>
+  <string name="install_deferred_status">Kemas kini ditangguhkan pada</string>
+  <string name="install_later">Pasang kemudian</string>
+  <string name="install_notify_sanity_call_msg">Peranti tidak dapat membuat pemasangan sekarang kerana panggilan sedang berlangsung</string>
+  <string name="install_notify_sanity_maps_msg">Peranti tidak dapat membuat pemasangan sekarang kerana navigasi dihidupkan</string>
+  <string name="install_now">Pasang sekarang</string>
+  <string name="install_postponed">Pemasangan ditangguhkan</string>
+  <string name="install_progress_cancel_message">Jika anda ingin memasang kemas kini ini kemudian, pergi ke Tetapan &gt; Kemas kini sistem</string>
+  <string name="install_progress_paused_message">%s selesai (Dijeda)</string>
+  <string name="install_time">Masa pemasangan: %1$d minit</string>
+  <string name="install_warning">Perkara yang perlu diketahui sebelum anda membuat pemasangan</string>
+  <string name="just_one_more_step">Hanya satu langkah lagi</string>
+  <string name="keep_it_on">Hidupkan</string>
+  <string name="later_button">Ingatkan saya kemudian</string>
+  <string name="learn_more_online_link">Ketahui lebih lanjut dalam talian</string>
+  <string name="low_battery_bg_install">Pemasangan dijeda kerana bateri rendah. Pemasangan akan disambung semula apabila peranti anda dicas.</string>
+  <string name="low_battery_download">Muat turun dijeda kerana bateri rendah. Muat turun akan disambung semula apabila peranti anda dicas.</string>
+  <string name="low_battery_install">Sila cas peranti anda kepada sekurang-kurangnya %s sebelum memasang kemas kini ini</string>
+  <string name="make_space">Buatkan ruang</string>
+  <string name="mandatory_install_notification">Jika anda tidak memasang kemas kini sistem ini lagi, anda akan ketinggalan kemas kini keselamatan yang penting, serta ciri baru dan pembaikan pepijat.</string>
+  <string name="mandatory_restart_notification">Oleh sebab ini ialah kemas kini yang penting, sila mulakan semula sekarang. Jika tidak, anda akan ketinggalan kemas kini keselamatan serta ciri baru dan pembaikan pepijat.</string>
+  <string name="medium_channel_name">Pemberitahu Muat Turun Perisian</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Memilih akaun</string>
+  <string name="multiple_account_alert">Pilih akaun %1$s untuk teruskan dengan kemas kini sistem.</string>
+  <string name="no_thanks">Tidak, terima kasih</string>
+  <string name="no_thanks_message">Jika anda ingin mendapatkan kemas kini ini kemudian, pergi ke Tetapan &gt; Kemas kini sistem.</string>
+  <string name="no_updates_applied">Tiada kemas kini digunakan</string>
+  <string name="not_now">Bukan sekarang</string>
+  <string name="otaservice_perm_desc">Kebenaran yang diperlukan oleh aplikasi untuk berinteraksi dengan otaservice</string>
+  <string name="package_size">Saiz muat turun: %1$s</string>
+  <string name="personalInfo_instruction">Anda tidak akan kehilangan sebarang maklumat peribadi</string>
+  <string name="picker_cell_radio">Wi-Fi dan data mudah alih</string>
+  <string name="picker_title">Pilih cara anda ingin memuat turun kemas kini ini:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi sahaja</string>
+  <string name="please_restart">Sila mulakan semula sekarang</string>
+  <string name="policy_set">Kemas kini sistem telah disekat. Sila hubungi pentadbir peranti anda untuk maklumat lanjut.</string>
+  <string name="press_back_again_to_exit">Tekan KEMBALI untuk keluar</string>
+  <string name="progress_copying_sd">Menyalin kemas kini</string>
+  <string name="progress_deffered">Muat turun akan bermula dalam Rangkaian Wi-Fi/Selular</string>
+  <string name="progress_downloading_ota">Memuat turun kemas kini sistem</string>
+  <string name="progress_downloading_security">Muat turun kemas kini keselamatan</string>
+  <string name="progress_retried">Muat turun perisian telah diganggu. Kami akan terus mencuba…</string>
+  <string name="progress_suspended">Menunggu sambungan data untuk meneruskan muat turun</string>
+  <string name="progress_suspended_datasaver">Matikan penyimpan data untuk menyambung semula muat turun</string>
+  <string name="progress_suspended_no_adminapn">Menunggu Wi-Fi atau Rangkaian berkadar sifar untuk sambung semula muat turun</string>
+  <string name="progress_suspended_roaming">Muat turun dijeda disebabkan perayauan rangkaian, sila hidupkan Wi-Fi untuk meneruskan muat turun.</string>
+  <string name="progress_suspended_wifi">Menunggu Wi-Fi untuk meneruskan muat turun...</string>
+  <string name="progress_verify">Mengesahkan kemas kini...</string>
+  <string name="progress_verify_allocate_space">Menyemak sama ada memori adalah tersedia</string>
+  <string name="relative_date_time">%1$s pada %2$s</string>
+  <string name="release_notes_string">Semak semua ciri baru dalam Android %1$s</string>
+  <string name="request_suspended_datasaver">Matikan penyimpan data untuk memulakan muat turun</string>
+  <string name="request_suspended_no_network">Tiada liputan rangkaian untuk memulakan muat turun</string>
+  <string name="restart_after_one_hour">Mula semula dalam 1 jam</string>
+  <string name="restart_instruction_title">Perkara yang perlu anda tahu sebelum anda memulakan semula</string>
+  <string name="restart_later">Kemudian</string>
+  <string name="restart_message">Sila mulakan semula untuk mengemas kini</string>
+  <string name="restart_notification">Mulakan semula</string>
+  <string name="restart_notification_text">Sila mulakan semula untuk mengemas kini. Kemas kini sedang menunggu selama %1$d hari.</string>
+  <string name="restart_notify_sanity_call_msg">Peranti tidak dapat but semula sekarang kerana panggilan sedang berlangsung</string>
+  <string name="restart_notify_sanity_maps_msg">Peranti tidak dapat but semula sekarang kerana navigasi dihidupkan</string>
+  <string name="restart_now">Mulakan semula sekarang</string>
+  <string name="restart_postponed">Mula semula ditunda</string>
+  <string name="restart_title">Mulakan semula peranti anda</string>
+  <string name="resume_download_on_cellular">Gunakan data mudah alih</string>
+  <string name="retrieving_token">Mengesahkan...</string>
+  <string name="sdcard_predownload_text">
+Dalam langkah ini, anda akan salin kemas kini ke memori sistem. Kemas kini akan dipasang pada langkah seterusnya. 
+
+Sambungkan telefon anda ke sumber kuasa untuk memastikan kuasa bateri tidak habis.</string>
+  <string name="search_menu_title">Cari</string>
+  <string name="secure_instruction">Proses ini adalah selamat</string>
+  <string name="security_download_notification_title">Tingkatkan keselamatan anda</string>
+  <string name="security_install_notification_text">Kemas kini keselamatan baru sedia untuk dipasang</string>
+  <string name="security_install_title">Kemas kini keselamatan sudah sedia</string>
+  <string name="security_patch">Tampalan keselamatan:</string>
+  <string name="security_update_low_storage_title">Kemas kini keselamatan</string>
+  <string name="security_update_notification_text">Dapatkan kemas kini keselamatan terkini</string>
+  <string name="security_update_paused">Kemas kini keselamatan dijeda</string>
+  <string name="security_update_pending_notification_text">Dapatkan kemas kini keselamatan terkini. Kemas kini sedang menunggu selama %1$d hari.</string>
+  <string name="security_update_title">Kemas kini keselamatan</string>
+  <string name="select_account">Pilih akaun %1$s</string>
+  <string name="selected_later_time_os_mr">Kemas kini sistem akan dipasang pada </string>
+  <string name="selected_later_time_smr">Kemas kini keselamatan akan dipasang pada</string>
+  <string name="setting_sw_summary">Kemas kini kepada perisian terkini </string>
+  <string name="setting_sw_title">Kemas kini sistem</string>
+  <string name="smart_cancel_update_toast_msg">Kemas kini dijadualkan semula pada %1$s</string>
+  <string name="smart_end_time">Tamat</string>
+  <string name="smart_install_message_popup">Apabila anda mendayakan ciri Kemas Kini Pintar, peranti anda akan memasang kemas kini secara automatik pada %1$s jika anda masih belum memulakan semula peranti sebelum itu. Pastikan anda memiliki bateri yang mencukupi untuk pemasangan.</string>
+  <string name="smart_restart_message_popup">Apabila anda mendayakan ciri Kemas Kini Pintar, peranti anda akan mengemas kini secara automatik pada %1$s jika anda masih belum memulakan semula peranti sebelum itu.</string>
+  <string name="smart_settings_string">Kemas kini dimuat turun dan dipasang secara automatik apabila anda disambungkan kepada Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Kemas kini dimuat turun dan dipasang secara automatik apabila anda disambungkan kepada Wi-Fi atau menggunakan data mudah alih</string>
+  <string name="smart_settings_string_vzw">Kemas kini dimuat turun dan dipasang secara automatik</string>
+  <string name="smart_start_time">Mula</string>
+  <string name="smart_to_string">Ke</string>
+  <string name="smart_update_advanced">Lanjutan</string>
+  <string name="smart_update_note">Nota: Demi keselamatan anda, semua kemas kini keselamatan penting akan dimuat dan dipasang secara automatik apabila ciri ini dihidupkan atau dimatikan.</string>
+  <string name="smart_update_note_vzw">Nota: Demi keselamatan anda, semua kemas kini keselamatan kritikal akan dimuat dan dipasang secara automatik apabila ciri ini dihidupkan atau dimatikan.</string>
+  <string name="smart_update_pop_up_text">Memastikan peranti anda selamat dengan kemas kini automatik</string>
+  <string name="smart_update_recommendation">Cuba kemas kini pintar</string>
+  <string name="smart_update_suggestion_text">Kekal selamat dengan kemas kini automatik</string>
+  <string name="smart_update_text_AB">Kemas kini pintar membantu peranti anda berjalan dengan selamat dan berkesan. Apabila anda menghidupkannya, semua <b>kemas kini keselamatan dan pembaikan pepijat</b> baru akan dimuat turun secara automatik. Selepas muat turun, peranti anda akan dimulakan semula pada masa yang anda pilih.</string>
+  <string name="smart_update_text_AB_vzw">Kemas kini pintar membantu peranti anda berjalan dengan selamat dan berkesan. Apabila anda menghidupkannya, semua <b>kemas kini keselamatan</b> baru akan dimuat turun secara automatik. Selepas muat turun, peranti anda akan dimulakan semula pada masa yang anda pilih.</string>
+  <string name="smart_update_text_classic">Kemas kini pintar membantu peranti anda berjalan dengan selamat dan berkesan. Apabila anda menghidupkannya, semua <b>kemas kini keselamatan dan pembaikan pepijat</b> baru akan dimuat turun secara automatik. Selepas muat turun, peranti anda akan dimulakan semula dan pasang pada masa yang anda pilih.</string>
+  <string name="smart_update_text_classic_vzw">Kemas kini pintar membantu peranti anda berjalan dengan selamat dan berkesan. Apabila anda menghidupkannya, semua <b>kemas kini keselamatan</b> baru akan dimuat turun secara automatik. Selepas muat turun, peranti anda akan dimulakan semula dan pasang pada masa yang anda pilih.</string>
+  <string name="smart_update_time_slot_text_AB">Pilih masa mulakan semula</string>
+  <string name="smart_update_time_slot_text_classic">Pilih masa pemasangan</string>
+  <string name="smart_update_title">Kemas kini pintar</string>
+  <string name="software_not_update_to">Perisian anda masih belum dikemas kini kepada</string>
+  <string name="software_update_in_progress">Sistem anda sedang dikemas kini kepada versi</string>
+  <string name="software_update_planned_summary">Disemak - %1$s</string>
+  <string name="software_update_planned_title">Kemas kini perisian dirancang</string>
+  <string name="software_update_to">Sistem anda dikemas kini kepada</string>
+  <string name="sofware_version">Versi Perisian:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Kosongkan ruang untuk kemas kini</string>
+  <string name="su_btn">Tetapan</string>
+  <string name="su_text_off">Anda akan perlu mengemas kini peranti anda secara manual apabila perisian baharu tersedia. Hidupkan kemas kini Pintar untuk membuatkan proses menjadi automatik. Sentuh untuk butiran lanjut.</string>
+  <string name="su_text_on">Secara lalai, kemas kini Pintar dijalankan antara 1 PAGI - 3 PAGI. Anda boleh mengubah masa kemas kini atau mematikan kemas kini Pintar dalam tetapan. Sentuh untuk butiran lanjut.</string>
+  <string name="su_title_off">Kemas kini pintar dimatikan</string>
+  <string name="su_title_on">Kemas kini Pintar dihidupkan</string>
+  <string name="system_download_notification_title">Kemas kini sistem</string>
+  <string name="system_install_notification_text">Kemas kini sistem sedia untuk dipasang</string>
+  <string name="system_install_title">Kemas kini sudah sedia</string>
+  <string name="system_pdl_notification_mr_title">Dapatkan pembaikan pepijat &amp; banyak lagi</string>
+  <string name="system_pdl_notification_os_title">Android %1$s sudah tiba!</string>
+  <string name="system_update">Kemas kini sistem</string>
+  <string name="system_update_info_not_available">Tidak tersedia</string>
+  <string name="system_update_low_storage_text">Ketik di sini untuk menyemak memori dan teruskan.</string>
+  <string name="system_update_low_storage_title">Kemas kini sistem</string>
+  <string name="system_update_notification_os_text">Alamilah Android baru</string>
+  <string name="system_update_notification_text">Muat turun perisian baru</string>
+  <string name="system_update_paused">Kemas kini sistem dijeda</string>
+  <string name="system_update_pending_notification_os_text">Alamilah Android baru. Kemas kini sedang menunggu selama %1$d hari.</string>
+  <string name="system_update_pending_notification_text">Muat turun perisian baru. Kemas kini sedang menunggu selama %1$d hari.</string>
+  <string name="system_update_settings_list_item_title">Kemas kini sistem</string>
+  <string name="system_update_status">Status kemas kini sistem</string>
+  <string name="system_update_title">Kemas kini sistem</string>
+  <string name="tethered_permission_desc">Hantar hasil kemas kini 3c</string>
+  <string name="tethered_update_result">Hasil Kemas Kini Tertambat</string>
+  <string name="time_picker_text">Mulakan pemasangan tanpa peringatan</string>
+  <string name="total_download_size">Saiz: %1$s</string>
+  <string name="turn_it_off">Matikan</string>
+  <string name="turn_it_on">Hidupkannya</string>
+  <string name="turn_on_smart_updates">Hidupkan kemas kini pintar</string>
+  <string name="update">Kemas kini</string>
+  <string name="update_blocked_by_policy">Kemas kini disekat oleh dasar pentadbir </string>
+  <string name="update_cancelled_status">Muat turun perisian telah dibatalkan pada</string>
+  <string name="update_fail_desc">Terdapat masalah mengemas kini peranti anda. Tiada perubahan dibuat.
+Sila cuba lagi dengan pergi ke Tetapan &gt; Kemas kini sistem.</string>
+  <string name="update_fail_status">Kemas kini gagal</string>
+  <string name="update_fail_sucancel_dm_status">Kemas kini dibatalkan oleh pelayan</string>
+  <string name="update_fail_title">Kemas kini gagal</string>
+  <string name="update_history_blank">Tiada sejarah</string>
+  <string name="update_history_src_target">Kemas kini dari %1$s hingga %2$s</string>
+  <string name="update_history_time">Dikemas kini pada %1$s</string>
+  <string name="update_history_title">Sejarah kemas kini</string>
+  <string name="update_history_version">Versi Perisian %1$s</string>
+  <string name="update_postpone_policy">Kemas kini ditangguhkan oleh dasar pentadbir </string>
+  <string name="update_preference">Pilihan kemas kini</string>
+  <string name="update_success_desc">Tahniah! Anda telah berjaya memasang versi %1$s.</string>
+  <string name="update_success_desc_os">Tahniah! Anda telah berjaya memasang Android %1$s. Kini anda sudah sedia untuk menikmati pengalaman Android yang lebih baik, lebih pintar dan lebih selamat.</string>
+  <string name="update_success_status">Kemas kini Berjaya</string>
+  <string name="update_title">Kemas kini selesai</string>
+  <string name="update_title_text">Nikmatilah perisian baru anda!</string>
+  <string name="upto_date_title">Tiada masalah!</string>
+  <string name="urgent_channel_name">Isyarat Kemas Kini Perisian</string>
+  <string name="vab_validation_update_failure_desc">Kemas kini pengesahan VAB gagal</string>
+  <string name="vab_validation_update_failure_title">Pengesahan VAB gagal</string>
+  <string name="vab_validation_update_success_desc">Tahniah! Kemas kini pengesahan VAB berjaya</string>
+  <string name="vab_validation_update_success_title">Pengesahan VAB berjaya</string>
+  <string name="verity_disabled_msg">Peranti anda mungkin terdedah kepada risiko keselamatan. Laksanakan perintah di bawah untuk kemas kini berterusan
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Peranti anda tidak lagi menerima kemas kini</string>
+  <string name="verizon_failure_notification_text"> Peranti anda tidak dapat memasang kemas kini ini. Gunakan alat Pembantu Naik Taraf Perisian untuk membuat pemasangan. Ketik untuk maklumat lanjut.</string>
+  <string name="verizon_failure_text">Terdapat masalah mengemas kini peranti anda. Tiada perubahan dibuat. Untuk mengemas kini perisian, anda boleh menggunakan alat Pembantu Naik Taraf Perisian.
+
+Untuk memasang alat Pembantu Naik Taraf Perisian:
+
+1. Gunakan kabel USB untuk menyambungkan peranti anda kepada komputer anda
+2. Apabila menu USB pop timbul pada peranti anda, pilih ikon tetapan pada bahagian kanan atas
+3. Daripada Pilihan USB, pilih Pemasangan perisian
+4. Tukar kepada PC anda dan cari wizard pemasangan
+5. Lakukan wizard
+
+alat Pembantu Naik Taraf Perisian akan membantu anda memuat turun dan memasang kemas kini perisian pada peranti anda.</string>
+  <string name="vital_applying_updates">Menggunakan kemas kini...</string>
+  <string name="vital_bg_text">Ini mungkin mengambil masa beberapa minit.</string>
+  <string name="vital_check_for_updates">Mencari kemas kini...</string>
+  <string name="vital_check_for_updates_desc">Kemas kini akan mengekalkan peranti anda selamat dan meningkatkan prestasinya.</string>
+  <string name="vital_done">Selesai!</string>
+  <string name="vital_error_fail">Ralat kemas kini telah berlaku. Tiada perubahan telah dibuat.</string>
+  <string name="vital_go_back">Anda pasti ingin menghentikan pemasangan</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Mulakan semula untuk meneruskan</string>
+  <string name="vital_skip">Langkau</string>
+  <string name="vital_stop">Hentikan</string>
+  <string name="wifi_setting">Tetapan Wi-Fi</string>
+</resources>

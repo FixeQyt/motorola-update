@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Perbarui nanti</string>
+  <string name="ab_download_now">Perbarui sekarang</string>
+  <string name="ab_install_notification_paused_text">Pemasangan di latar belakang dijeda</string>
+  <string name="ab_install_notification_text">Pemasangan di latar belakang</string>
+  <string name="ab_restart_fullscreen_text">Hampir selesai! Hanya butuh waktu sekitar 90 detik untuk memulai ulang perangkat. Pembaruan tersedia selama %1$d hari.</string>
+  <string name="ab_restart_text">Hampir selesai! Hanya butuh waktu sekitar 90 detik untuk memulai ulang perangkat</string>
+  <string name="ab_restart_warning_os_mr">Pembaruan sistem Anda hampir selesai. Perangkat Anda akan  </string>
+  <string name="ab_restart_warning_smr">Pembaruan keamanan Anda hampir selesai. Perangkat Anda akan </string>
+  <string name="ab_warning_continues"> untuk menyelesaikan pembaruan.</string>
+  <string name="abc_action_bar_home_description">Tunjukkan jalan ke rumah</string>
+  <string name="abc_action_bar_up_description">Kembali ke atas</string>
+  <string name="abc_action_menu_overflow_description">Opsi lain</string>
+  <string name="abc_action_mode_done">Selesai</string>
+  <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+  <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+  <string name="abc_capital_off">NONAKTIF</string>
+  <string name="abc_capital_on">AKTIF</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">spasi</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Telusuri...</string>
+  <string name="abc_searchview_description_clear">Hapus kueri</string>
+  <string name="abc_searchview_description_query">Telusuri kueri</string>
+  <string name="abc_searchview_description_search">Telusuri</string>
+  <string name="abc_searchview_description_submit">Kirim kueri</string>
+  <string name="abc_searchview_description_voice">Penelusuran suara</string>
+  <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+  <string name="abc_shareactionprovider_share_with_application">Bagikan dengan %s</string>
+  <string name="abc_toolbar_collapse_description">Ciutkan</string>
+  <string name="abupdate_in_progress_status">Pembaruan perangkat lunak sedang berlangsung</string>
+  <string name="additional_charges_message">Unduhan akan dilanjutkan pada data seluler. Biaya data mungkin berlaku.</string>
+  <string name="alertSubText">Ini digunakan untuk memeriksa, mengunduh, dan memasang paket pembaruan</string>
+  <string name="alertText">Izinkan operasi jaringan untuk pembaruan perangkat lunak</string>
+  <string name="alertTitle">Pembaruan memerlukan izin berikut</string>
+  <string name="alert_dialog_cancel">Hentikan pemasangan</string>
+  <string name="alert_dialog_continue">Teruskan memasang</string>
+  <string name="alert_dialog_no">Tidak</string>
+  <string name="alert_dialog_ok">Mengerti</string>
+  <string name="alert_dialog_yes">Ya</string>
+  <string name="allocate_space_success">Memori yang diperlukan tersedia untuk pembaruan</string>
+  <string name="allow">Izinkan</string>
+  <string name="android_latest_sw_text">Anda menggunakan perangkat lunak terbaru</string>
+  <string name="android_version">Versi Android:</string>
+  <string name="app_name">Pembaruan Perangkat Lunak Motorola</string>
+  <string name="applied">Aktif</string>
+  <string name="apply_bug_fix">Terapkan ke perbaikan bug</string>
+  <string name="apply_os_update">Terapkan ke semua pembaruan perangkat lunak</string>
+  <string name="applying_patch">Menerapkan pembaruan (Langkah %1$d dari %2$d)  </string>
+  <string name="are_you_sure">Nonaktifkan Pembaruan cerdas?</string>
+  <string name="are_you_sure_pop_up_text">Yakin ingin menonaktifkan Pembaruan cerdas? </string>
+  <string name="asc_campaign_assigned">Kampanye ditetapkan</string>
+  <string name="asc_campaign_is_allowed">Pembaruan Firmware</string>
+  <string name="asc_campaign_is_blocked">Penguncian Firmware</string>
+  <string name="asc_campaign_not_assigned">Perangkat kini tidak berada dalam suatu promo</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Jendela pembaruan: Mulai %s hingga %s</string>
+  <string name="asc_sw_up_to_date"> hingga versi terbaru</string>
+  <string name="asc_target_version"> hingga versi </string>
+  <string name="auth_title">Pembaruan sistem</string>
+  <string name="auto_download_cellualr_charges_warn">Saat mengunduh pembaruan melalui jaringan seluler, Anda dikenai tagihan biaya tambahan.</string>
+  <string name="auto_download_enable_cellular_future_updates">Apakah Anda juga ingin menggunakan opsi data seluler untuk pengunduhan di masa mendatang?</string>
+  <string name="auto_download_settings_title">Setelan unduh otomatis</string>
+  <string name="auto_download_wifi_cellular">Unduh otomatis melalui jaringan seluler dan Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Unduh otomatis melalui jaringan seluler dan Wi-Fi. Wi-Fi akan diprioritaskan jika tersedia. </string>
+  <string name="auto_download_wifi_only">Unduh otomatis hanya melalui Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Unduh otomatis hanya melalui Wi-Fi</string>
+  <string name="auto_install_notification_text">Perangkat akan dipasang otomatis pada %1$s</string>
+  <string name="auto_time_set">Mulai pada:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Pembaruan yang penting ini akan dipasang otomatis menggunakan data seluler pada %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Pembaruan yang penting ini akan diunduh otomatis menggunakan data seluler pada %1$s</string>
+  <string name="background_install_msg">Pembaruan ini akan dilanjutkan jika Anda kembali atau menutup jendela ini</string>
+  <string name="background_install_text">Pembaruan sedang diunduh &amp; dipasang. Anda dapat terus menggunakan perangkat.</string>
+  <string name="bad_connection">Tidak ada internet</string>
+  <string name="bad_connection_text">Tampaknya perangkat Anda saat ini tidak tersambung ke internet. Ketuk tombol bawah untuk mencoba lagi.</string>
+  <string name="bg_install_cancel_confirm">Anda yakin ingin menghentikan pemasangan?</string>
+  <string name="bg_retried">Unduhan perangkat lunak mengalami gangguan. Kami akan terus mencoba…</string>
+  <string name="bg_suspended">Menunggu koneksi data melanjutkan pengunduhan dan pemasangan di latar belakang</string>
+  <string name="bg_suspended_non_adminapn">Menunggu Wi-Fi atau jaringan Tanpa Kuota untuk melanjutkan pemasangan di latar belakang...</string>
+  <string name="bg_suspended_roaming">Instalasi latar belakang dijeda karena jaringan roaming, aktifkan Wi-Fi untuk melanjutkan penginstalan latar belakang.</string>
+  <string name="bg_suspended_wifi">Menunggu Wi-Fi melanjutkan pengunduhan dan pemasangan di latar belakang</string>
+  <string name="bootloader_unlock_msg">Perangkat Anda tidak lagi menerima pembaruan dan mungkin rentan terhadap risiko keamanan.</string>
+  <string name="bootloader_unlock_title">Pembaruan tidak tersedia</string>
+  <string name="call_notification_answer_action">Jawab</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Tolak</string>
+  <string name="call_notification_hang_up_action">Tutup</string>
+  <string name="call_notification_incoming_text">Panggilan masuk</string>
+  <string name="call_notification_ongoing_text">Panggilan sedang berlangsung</string>
+  <string name="call_notification_screening_text">Menyaring panggilan masuk</string>
+  <string name="cancel">Batal</string>
+  <string name="cancel_download_notification">Batal</string>
+  <string name="cancel_install">Batal</string>
+  <string name="cancel_update_notification">Batal</string>
+  <string name="check_for_updates_title">Periksa pembaruan</string>
+  <string name="check_update_badparam">Upaya pemutakhiran mengalami kesalahan karena kegagalan login.
+
+Harap coba lagi nanti.</string>
+  <string name="check_update_checking">Memeriksa pembaruan...</string>
+  <string name="check_update_disabled_admin">Pembaruan perangkat dikontrol oleh admin TI</string>
+  <string name="check_update_downloading">Pembaruan sedang diunduh.
+
+Anda akan diberi tahu ketika unduhan selesai.</string>
+  <string name="check_update_fail">Terjadi kesalahan yang tidak terduga.
+
+Perangkat akan mencoba lagi untuk memperbarui di latar belakang.</string>
+  <string name="check_update_internal">Tidak dapat memeriksa pembaruan. Coba lagi nanti.</string>
+  <string name="check_update_net">Periksa sambungan internet, lalu coba lagi</string>
+  <string name="check_update_net_vzw">Anda memerlukan koneksi data untuk memeriksa pembaruan. Untuk memeriksa koneksi Wi-Fi Anda, buka Setelan &gt; Jaringan &amp; internet &gt; Internet &gt; Wi-Fi.
+
+Anda juga dapat mengunjungi motorola.com/systemupdates untuk melihat opsi pembaruan lainnya.</string>
+  <string name="check_update_not_sys_user">Profil Tamu tidak dapat memeriksa pembaruan</string>
+  <string name="check_update_processing">Menghubungi server kami…
+Harap tunggu</string>
+  <string name="check_update_roaming">Pembaruan Sistem tersedia hanya di jaringan asal. 
+
+Buka Setelan &gt; Jaringan &amp; internet &gt; Penyiapan Wi-Fi untuk menyiapkan koneksi sekarang.</string>
+  <string name="check_update_storage_low">Pembaruan tidak mungkin dilakukan karena ruang penyimpanan pada perangkat tidak cukup.</string>
+  <string name="check_update_temperror">Unduhan pembaruan tidak dapat diselesaikan pada saat tersebut.
+
+Harap coba lagi.</string>
+  <string name="check_update_text">Memeriksa pembaruan dari waktu ke waktu dapat memastikan perangkat selalu lebih aman dan meningkatkan kinerjanya</string>
+  <string name="check_update_title_downloading">Unduhan sedang berlangsung...</string>
+  <string name="check_update_vab_validation">Memeriksa status pembaruan Validasi VAB
+Harap tunggu</string>
+  <string name="check_update_wifi_only">Pembaruan Sistem tersedia melalui Wi-Fi saja.</string>
+  <string name="check_wifi_settings">Periksa setelan Wi-Fi</string>
+  <string name="clear_space">Kosongkan ruang</string>
+  <string name="cloud_picker_title">Pemilih Awan</string>
+  <string name="common_android_wear_notification_needs_update_text">Aplikasi memerlukan pembaruan ke aplikasi Android Wear.</string>
+  <string name="common_android_wear_update_text">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Android Wear.</string>
+  <string name="common_android_wear_update_title">Perbarui Android Wear</string>
+  <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+  <string name="common_google_play_services_enable_text">Aplikasi ini tidak akan bekerja sampai Anda mengaktifkan layanan Google Play.</string>
+  <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Diminta oleh %1$s</string>
+  <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+  <string name="common_google_play_services_install_text_tablet">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+  <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+  <string name="common_google_play_services_invalid_account_title">Akun Tidak Valid</string>
+  <string name="common_google_play_services_needs_enabling_title">Aplikasi mewajibkan agar layanan Google Play diaktifkan.</string>
+  <string name="common_google_play_services_network_error_text">Sambungan data diperlukan untuk tersambung ke layanan Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Kesalahan Jaringan</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Aplikasi mewajibkan pemasangan layanan Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Aplikasi mewajibkan pembaruan untuk layanan Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Masalah tidak diketahui pada layanan Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Layanan Google Play, yang diandalkan oleh beberapa aplikasi Anda, tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapatkan bantuan.</string>
+  <string name="common_google_play_services_unsupported_title">Layanan Google Play</string>
+  <string name="common_google_play_services_update_button">Perbarui</string>
+  <string name="common_google_play_services_update_text">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play.</string>
+  <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+  <string name="common_open_on_phone">Buka di ponsel</string>
+  <string name="common_signin_button_text">Masuk</string>
+  <string name="common_signin_button_text_long">Masuk dengan Google</string>
+  <string name="compatibility_failed_title">Verifikasi paket gagal</string>
+  <string name="compatibility_verification_failure">Paket pembaruan yang sedang diunduh tidak kompatibel dengan versi perangkat lunak saat ini pada perangkat.</string>
+  <string name="compatibility_verification_failure_df">
+
+Tanyakan pada koordinator Dogfood Anda.</string>
+  <string name="compatibility_verification_success">Berhasil diverifikasi</string>
+  <string name="completed"> Pemasangan selesai. Anda akan diminta untuk menyalakan ulang ponsel (Langkah %1$d dari %2$d)</string>
+  <string name="completed_install">%s selesai</string>
+  <string name="connect_to_wifi">Sambungkan ke Wi-Fi</string>
+  <string name="continue_button">Lanjutkan</string>
+  <string name="critical_install_message_popup_os_mr">Tersedia pembaruan sistem penting. Pilih Pasang untuk menerapkan pembaruan. Jika tidak, pembaruan akan diterapkan otomatis pada %1$s.</string>
+  <string name="critical_install_message_popup_smr">Tersedia pembaruan keamanan penting. Pilih Pasang untuk menerapkan pembaruan. Jika tidak, pembaruan akan diterapkan otomatis pada %1$s.</string>
+  <string name="critical_install_message_screen">Pembaruan ini akan dipasang otomatis pada %1$s. Pastikan baterai Anda cukup untuk pemasangan.</string>
+  <string name="critical_install_notification">Karena pentingnya pembaruan ini, perangkat akan memasang otomatis pada %1$s.
+Waktu pemasangan: %2$d menit</string>
+  <string name="critical_restart_message_popup">Mulai ulang perangkat untuk menerapkan pembaruan penting ini sesegera mungkin. Jika tidak, perangkat akan dimulai ulang otomatis pada %1$s.</string>
+  <string name="critical_restart_message_screen">Karena pentingnya pembaruan ini, perangkat akan dimulai ulang otomatis pada %1$s jika Anda belum melakukannya.</string>
+  <string name="critical_restart_notification">Pembaruan ini penting. Jika Anda tidak segera memulai ulang, perangkat akan dimulai ulang otomatis pada %1$s</string>
+  <string name="critical_update_notification_title">Pembaruan penting</string>
+  <string name="current_version">Versi perangkat lunak saat ini:</string>
+  <string name="custom_slot">Kustom</string>
+  <string name="custom_time">Waktu khusus</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s pada %s</string>
+  <string name="defer_count_expired">Mengerti</string>
+  <string name="deny">Tolak</string>
+  <string name="details">Detail</string>
+  <string name="device_corrupted_msg">Kami menemukan beberapa masalah sistem. Kami paham ini menyulitkan, tetapi Anda harus mengunjungi pusat layanan lokal untuk mendapatkan perbaikan.
+
+Setelah ponsel Anda diperbaiki, kami dapat terus menjalankan pembaruan di ponsel Anda.</string>
+  <string name="device_corrupted_title">Tidak dapat memperbarui ponsel</string>
+  <string name="dialog_alert_net_message">Periksa koneksi Wi-Fi atau data seluler Anda dan coba lagi.</string>
+  <string name="dialog_alert_net_title">Perangkat Anda offline</string>
+  <string name="dialog_alert_title">Baterai lemah</string>
+  <string name="dialog_progress">Memuat…</string>
+  <string name="dl_options_mobile_only_warning">Disarankan untuk menggunakan Wi-Fi. Mengunduh dengan data seluler atau menggunakan data seluler saat roaming dapat mengakibatkan biaya tambahan.
+
+Mengunduh perangkat lunak ini tidak akan mempengaruhi operasi perangkat Anda.</string>
+  <string name="done">Selesai</string>
+  <string name="dont_show_this_again">Jangan tampilkan lagi</string>
+  <string name="download_cancelled_title">Unduhan dibatalkan</string>
+  <string name="download_deferred_status">Unduhan perangkat lunak ditunda pada</string>
+  <string name="download_failed_status">Pembaruan gagal diunduh pada</string>
+  <string name="download_in_progress_status">Unduhan perangkat lunak sedang berlangsung</string>
+  <string name="download_later_button">Unduh nanti</string>
+  <string name="download_no_button">Tidak, terima kasih</string>
+  <string name="download_note">Anda dapat melanjutkan menggunakan perangkat saat pembaruan dipasang</string>
+  <string name="download_now">Unduh sekarang</string>
+  <string name="download_now_button">Unduh</string>
+  <string name="download_options">Opsi pengunduhan</string>
+  <string name="download_progress_cancel_message">Jika ingin mengunduh pembaruan ini nanti, buka Setelan &gt; Pembaruan sistem</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s tersisa (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% diunduh (Dijeda)</string>
+  <string name="download_progress_text">Unduhan ini akan dilanjutkan jika Anda kembali atau menutup jendela ini</string>
+  <string name="download_subtitle">Yang perlu diketahui sebelum mengunduh</string>
+  <string name="download_text_whats_new">Lihat yang baru</string>
+  <string name="download_time_left">%1$s tersisa</string>
+  <string name="download_version">Versi %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Wi-Fi diperlukan untuk mengunduh pembaruan ini. Unduhan hanya akan dilanjutkan setelah koneksi dipulihkan.</string>
+  <string name="downloaded_percentage">%1$s diunduh</string>
+  <string name="emergency_call_btn_txt">Darurat</string>
+  <string name="emergency_call_text">Anda tidak bisa melakukan panggilan atau menerima panggilan, termasuk panggilan darurat, selama reboot!</string>
+  <string name="enable_wifi_error_txt">Hubungkan ke Wi-Fi untuk mengunduh pembaruan ini.</string>
+  <string name="eol_explore">Jelajahi perangkat baru</string>
+  <string name="eol_last_update_text">Patch keamanan:</string>
+  <string name="eol_promote">Lihat promosi terbaru</string>
+  <string name="eol_title">Perangkat Anda menjalankan perangkat lunak terbaru yang tersedia.</string>
+  <string name="err_title_contact_server">Menghubungi server…</string>
+  <string name="err_title_memory_low">Memori hampir habis.</string>
+  <string name="err_title_temp_error">Kesalahan Sementara</string>
+  <string name="err_title_update">Kesalahan pembaruan</string>
+  <string name="error_code">Kode Kesalahan: </string>
+  <string name="error_copyfail">Gagal menyalin dari lokasi Kartu SD.</string>
+  <string name="error_disabled">Gagal mengunduh pembaruan. Paket pembaruan tidak tersedia pada saat ini. 
+
+Tidak diperlukan tindakan berikutnya.</string>
+  <string name="error_fail">Maaf, terjadi masalah saat memperbarui %1$s Anda. Tidak ada perubahan yang dilakukan. Coba lagi dengan membuka Setelan &gt; Pembaruan sistem.</string>
+  <string name="error_in_call_msg">Perangkat tidak dapat memperbarui sekarang saat panggilan sedang berlangsung</string>
+  <string name="error_in_call_title">Panggilan sedang berlangsung</string>
+  <string name="error_install_title">Instalasi gagal</string>
+  <string name="error_mismatch">Terjadi ketidakcocokan versi. Pembaruan akan dilakukan lagi. Jika pembaruan tersedia, Anda akan diberi tahu.</string>
+  <string name="error_mismatch_sd">Gagal memperbarui. Versi pembaruan tidak cocok dengan ponsel Anda. 
+
+Unduh versi yang benar untuk ponsel Anda dan coba lagi.</string>
+  <string name="error_network">Konektivitas telah terputus. Coba lagi dengan memeriksa pembaruan secara manual melalui Setelan telepon.</string>
+  <string name="error_reboot">Kami tidak dapat mengunduh pembaruan ini. Jika Anda ingin mendapatkan pembaruan ini nanti, mulai ulang perangkat, lalu buka Setelan &gt; Pembaruan sistem.</string>
+  <string name="error_resources">Kami tidak dapat mengunduh pembaruan ini. Jika ingin mendapatkan pembaruan ini nanti, buka Setelan &gt; Pembaruan sistem.</string>
+  <string name="error_sdcard_resources_fail_removal">Kartu SD dilepas. Proses unduhan tidak selesai. 
+
+Silakan masukkan kartu SD dan buka Setelan &gt; Pembaruan sistem untuk mencoba lagi.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Tidak dapat menyelesaikan unduhan. Tidak cukup ruang pada Kartu SD. 
+
+Kosongkan ruang dan buka Setelan &gt; Pembaruan sistem untuk mencoba lagi.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Masukkan Kartu SD untuk memulai unduhan.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Pasang Kartu SD untuk memulai unduhan. 
+
+Buka Setelan &gt; Penyimpanan &gt; Pasang Kartu SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Tidak ada cukup ruang pada Kartu SD untuk menyelesaikan unduhan. 
+
+Kosongkan ruang %1$s dan buka Setelan &gt; Pembaruan sistem untuk mencoba unduhan lagi.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Kesalahan</string>
+  <string name="error_sdcard_resources_warning">Sedang mengunduh pembaruan perangkat lunak ke Kartu SD. 
+
+Jangan melepas Kartu SD hingga instalasi selesai.
+
+
+</string>
+  <string name="error_server">Terjadi kesalahan pada Server. Coba lagi nanti.</string>
+  <string name="error_space">Pembaruan ini memerlukan %1$s dari penyimpanan yang tersedia pada perangkat Anda. 
+
+Hapus aplikasi yang tidak digunakan atau pindahkan foto dan video Anda ke perangkat penyimpanan lain untuk mengosongkan ruang %2$s. 
+
+Setelah selesai, Anda dapat membuka Setelan &gt; Pembaruan sistem untuk memulai pembaruan kapan saja.</string>
+  <string name="error_space_retry">Pembaruan ini memerlukan %1$s dari penyimpanan yang tersedia pada perangkat Anda. 
+
+Hapus aplikasi yang tidak digunakan atau pindahkan foto dan video Anda ke perangkat penyimpanan lain %2$s untuk mengosongkan ruang.</string>
+  <string name="error_space_vab">Pembaruan ini memerlukan %1$s dari ruang kosong yang tersedia pada perangkat Anda. Kosongkan memori agar pembaruan berhasil dilakukan</string>
+  <string name="error_space_vab_make_room_popup">Anda perlu mengosongkan %1$s dari ruang sebelum memperbarui. Cobalah menghapus apl yang tidak digunakan atau memindahkan foto &amp; video ke perangkat penyimpanan lainnya.</string>
+  <string name="error_title">Unduhan gagal</string>
+  <string name="error_verify">Pembaruan tidak bisa divalidasi dengan benar. Harap coba lagi.</string>
+  <string name="failed">Gagal</string>
+  <string name="failed_in_roaming">Wi-Fi diperlukan untuk pembaruan</string>
+  <string name="failure_process">Informasi tidak tersedia</string>
+  <string name="finalizing_patch">Menyelesaikan pembaruan… (Langkah 5 dari 6)  </string>
+  <string name="first_net_text">Instal pembaruan atau perangkat akan menginstal secara otomatis saat reboot berikutnya. Pastikan tingkat baterai lebih dari %s</string>
+  <string name="forceInstallMessage">Pembaruan ini akan dipasang otomatis pada %1$s.</string>
+  <string name="force_install_message_screen">Ini adalah pembaruan penting, jadi harap pasang sebelum %1$s. Jika tidak, pembaruan akan dipasang otomatis saat perangkat paling jarang digunakan. Pastikan masa pakai baterai Anda cukup untuk pemasangan.</string>
+  <string name="force_install_notification_message">Pasang sebelum %1$s. Jika tidak, perangkat Anda akan memasang otomatis saat perangkat paling jarang digunakan.
+Waktu pemasangan: %2$d menit</string>
+  <string name="force_restart_notification_message">Mulai ulang sebelum %1$s. Jika tidak, perangkat Anda akan dimulai ulang otomatis saat perangkat paling jarang digunakan.</string>
+  <string name="force_restart_screen_message">Jika Anda tidak memulai ulang paling lambat %1$s, perangkat Anda akan dimulai ulang otomatis saat perangkat paling jarang digunakan.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Mengerti</string>
+  <string name="important_update_install_overdue_message">Waktu yang dijadwalkan untuk instalasi telah terlewati. Instalasi akan dimulai setelah perangkat Anda memenuhi kriterianya.</string>
+  <string name="important_update_restart_overdue_message">Waktu yang dijadwalkan untuk mulai ulang telah terlewati. Instalasi akan dimulai ulang setelah perangkat Anda memenuhi kriterianya.</string>
+  <string name="initiating_ota_service_msg">Harap tunggu...</string>
+  <string name="initiating_ota_service_title">Memulai proses pembaruan perangkat lunak</string>
+  <string name="install">Instal</string>
+  <string name="install_after_one_hour">Instal dalam 1 jam</string>
+  <string name="install_cancelled_title">Pemasangan dibatalkan</string>
+  <string name="install_deferred_status">Pembaruan ditunda pada</string>
+  <string name="install_later">Instal nanti</string>
+  <string name="install_notify_sanity_call_msg">Perangkat tidak dapat memasang sekarang saat panggilan sedang berlangsung</string>
+  <string name="install_notify_sanity_maps_msg">Perangkat tidak dapat memasang sekarang saat navigasi aktif</string>
+  <string name="install_now">Instal skrg</string>
+  <string name="install_postponed">Instal ditunda</string>
+  <string name="install_progress_cancel_message">Jika ingin memasang pembaruan ini nanti, buka Setelan &gt; Pembaruan sistem</string>
+  <string name="install_progress_paused_message">%s selesai (Dijeda)</string>
+  <string name="install_time">Waktu pemasangan: %1$d menit</string>
+  <string name="install_warning">Yang perlu diketahui sebelum memasang</string>
+  <string name="just_one_more_step">Tinggal satu langkah lagi</string>
+  <string name="keep_it_on">Selalu aktifkan</string>
+  <string name="later_button">Ingatkan nanti</string>
+  <string name="learn_more_online_link">Pelajari selengkapnya secara online</string>
+  <string name="low_battery_bg_install">Pemasangan dijeda karena baterai lemah. Pemasangan akan dilanjutkan ketika baterai Anda melebihi 20%.</string>
+  <string name="low_battery_download">Unduhan dijeda karena baterai lemah. Unduhan akan dilanjutkan setelah daya perangkat terisi.</string>
+  <string name="low_battery_install">Isi daya perangkat hingga minimum %s sebelum menginstal pembaruan ini</string>
+  <string name="make_space">Sediakan ruang</string>
+  <string name="mandatory_install_notification">Jika tidak segera menginstal pembaruan sistem, Anda akan melewatkan pembaruan keamanan penting, serta fitur baru dan perbaikan bug.</string>
+  <string name="mandatory_restart_notification">Karena ini adalah pembaruan penting, harap mulai ulang sekarang. Jika tidak, Anda akan melewatkan pembaruan keamanan, serta fitur baru dan perbaikan bug.</string>
+  <string name="medium_channel_name">Pemberi Tahu Unduhan Perangkat Lunak</string>
+  <string name="merge_emergency_call_text">Anda tidak bisa melakukan panggilan atau menerima panggilan, termasuk panggilan darurat, selama memulai ulang.</string>
+  <string name="merge_force_restart_text">Jika Anda tidak ingin memulai ulang sekarang, ponsel akan dimulai ulang otomatis saat menjadi tidak aktif.</string>
+  <string name="merge_progress_text">Jika pembaruan telah selesai, kami akan mengirimkan pemberitahuan</string>
+  <string name="merge_progress_title">Menyelesaikan pembaruan…</string>
+  <string name="merge_restart_text">Pembaruan akan selesai setelah ponsel dimulai ulang</string>
+  <string name="merge_restart_title">Mulai ulang lagi</string>
+  <string name="merge_update_fail_notify_text">Kami menemukan beberapa masalah sistem. Kunjungi pusat layanan Anda untuk memperbaikinya</string>
+  <string name="merge_update_fail_notify_title">Pembaruan gagal</string>
+  <string name="merge_update_fail_text">Kami menemukan beberapa masalah sistem yang akan mencegah Anda menerima pembaruan. Kunjungi pusat layanan Anda untuk memperbaikinya.
+
+Untuk sementara, Anda dapat terus menggunakan ponsel seperti biasa.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Pilih akun</string>
+  <string name="multiple_account_alert">Pilih akun %1$s jika ingin melanjutkan dengan pembaruan sistem.</string>
+  <string name="no_thanks">Tidak, terima kasih</string>
+  <string name="no_thanks_message">Jika ingin mendapatkan pembaruan ini nanti, buka Setelan &gt; Pembaruan sistem.</string>
+  <string name="no_updates_applied">Tidak ada pembaruan yang diterapkan</string>
+  <string name="not_now">Nanti saja</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Izin yang diperlukan aplikasi untuk berinteraksi dengan otaservice</string>
+  <string name="package_size">Ukuran unduhan: %1$s</string>
+  <string name="personalInfo_instruction">Tidak akan ada informasi pribadi yang hilang</string>
+  <string name="picker_cell_radio">Wi-Fi dan data seluler</string>
+  <string name="picker_title">Pilih cara Anda ingin mengunduh pembaruan ini:</string>
+  <string name="picker_wifi_only_radio">Khusus Wi-Fi</string>
+  <string name="please_restart">Mulai ulang sekarang</string>
+  <string name="policy_set">Pembaruan sistem diblokir. Hubungi admin perangkat Anda untuk info selengkapnya.</string>
+  <string name="press_back_again_to_exit">Tekan KEMBALI sekali lagi untuk keluar</string>
+  <string name="progress_copying_sd">Menyalin pembaruan</string>
+  <string name="progress_deffered">Unduhan akan dimulai di Jaringan Wi-Fi/Seluler.</string>
+  <string name="progress_downloading_ota">Mengunduh pembaruan sistem</string>
+  <string name="progress_downloading_security">Mengunduh pembaruan keamanan</string>
+  <string name="progress_retried">Unduhan perangkat lunak terganggu. Kami akan terus mencoba…</string>
+  <string name="progress_suspended">Menunggu koneksi data untuk melanjutkan pengunduhan</string>
+  <string name="progress_suspended_datasaver">Nonaktifkan data saver untuk melanjutkan unduhan</string>
+  <string name="progress_suspended_no_adminapn">Menunggu Wi-Fi atau jaringan tanpa kuota untuk melanjutkan pengunduhan</string>
+  <string name="progress_suspended_roaming">Unduhan dijeda karena jaringan roaming, aktifkan Wi-Fi untuk melanjutkan pengunduhan.</string>
+  <string name="progress_suspended_wifi">Menunggu Wi-Fi untuk melanjutkan pengunduhan...</string>
+  <string name="progress_verify">Memastikan perangkat Anda siap diperbarui…</string>
+  <string name="progress_verify_allocate_space">Memeriksa apakah memori cukup</string>
+  <string name="relative_date_time">%1$s pukul %2$s</string>
+  <string name="release_note_battery_desc">Pembaruan untuk meningkatkan masa pakai dan penggunaan baterai</string>
+  <string name="release_note_battery_title">Baterai</string>
+  <string name="release_note_camera_desc">Peningkatan ini membantu Anda mengambil foto dengan tingkat presisi dan detail yang lebih tinggi</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Perubahan ini membantu meningkatkan konektivitas data pada perangkat</string>
+  <string name="release_note_cellular_title">Seluler</string>
+  <string name="release_note_charging_desc">Pembaruan ini meningkatkan kemampuan pengisian daya Anda</string>
+  <string name="release_note_charging_title">Mengisi daya</string>
+  <string name="release_note_generic_desc">Perubahan ini membantu meningkatkan keseluruhan performa dari perangkat</string>
+  <string name="release_note_os_update_desc">Tema monokromatik baru memberikan tampilan bersih dan menonjolkan wallpaper Anda. Tinjau cara apl menggunakan dan membagikan data Anda sebelum Anda memberikan izin apl dan peroleh aksesibilitas lebih dengan fitur pendengaran dan pandangan baru di Android 14</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Perubahan ini membantu meningkatkan performa dari perangkat</string>
+  <string name="release_note_performance_title">Performa</string>
+  <string name="release_note_security_desc">Mencakup pembaruan patch keamanan hingga %1$s</string>
+  <string name="release_note_security_title">Pembaruan keamanan</string>
+  <string name="release_note_stability_desc">Mencakup peningkatan dan perbaikan bug yang membuat ponsel Anda jauh lebih bisa diandalkan</string>
+  <string name="release_note_stability_title">Stabilitas</string>
+  <string name="release_note_title">Pembaruan ini mencakup</string>
+  <string name="release_note_wifi_desc">Mencakup pembaruan untuk konektivitas Wi-Fi Anda</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Lihat semua fitur baru di Android %1$s</string>
+  <string name="request_suspended_datasaver">Matikan data saver untuk memulai unduhan</string>
+  <string name="request_suspended_no_network">Tidak ada jangkauan jaringan untuk memulai unduhan</string>
+  <string name="restart_after_one_hour">Memulai ulang dalam 1 jam</string>
+  <string name="restart_instruction_title">Yang perlu diketahui sebelum memulai ulang</string>
+  <string name="restart_later">Nanti</string>
+  <string name="restart_message">Mulai ulang sekarang untuk memperbarui</string>
+  <string name="restart_notification">Mulai ulang</string>
+  <string name="restart_notification_text">Mulai ulang sekarang untuk memperbarui. Pembaruan tertunda selama %1$d hari.</string>
+  <string name="restart_notify_sanity_call_msg">Perangkat tidak dapat me-reboot sekarang saat panggilan sedang berlangsung</string>
+  <string name="restart_notify_sanity_maps_msg">Perangkat tidak dapat me-reboot sekarang saat navigasi aktif</string>
+  <string name="restart_now">Mulai ulang sekarang</string>
+  <string name="restart_postponed">Memulai ulang ditunda</string>
+  <string name="restart_title">Mulai ulang perangkat</string>
+  <string name="resume_download_on_cellular">Gunakan data seluler</string>
+  <string name="retrieving_token">Mengautentikasi...</string>
+  <string name="sdcard_predownload_text">
+Pada langkah ini, Anda akan menyalin pembaruan ke memori sistem. Pembaruan akan diinstal pada langkah selanjutnya. 
+
+Sambungkan ponsel ke kabel daya untuk memastikan daya baterai tidak habis.</string>
+  <string name="search_menu_title">Telusuri</string>
+  <string name="secure_instruction">Proses ini aman</string>
+  <string name="security_download_notification_title">Tingkatkan keamanan Anda</string>
+  <string name="security_install_notification_text">Pembaruan keamanan baru siap diinstal</string>
+  <string name="security_install_title">Pembaruan keamanan siap</string>
+  <string name="security_patch">Patch keamanan:</string>
+  <string name="security_update_low_storage_title">Pembaruan keamanan</string>
+  <string name="security_update_notification_text">Dapatkan pembaruan keamanan terbaru</string>
+  <string name="security_update_paused">Pmbaruan keamanan dijeda</string>
+  <string name="security_update_pending_notification_text">Dapatkan pembaruan keamanan terbaru. Pembaruan tertunda selama %1$d hari.</string>
+  <string name="security_update_title">Pembaruan keamanan</string>
+  <string name="select_account">Pilih akun %1$s</string>
+  <string name="selected_later_time_os_mr">Pembaruan sistem akan diinstal pada </string>
+  <string name="selected_later_time_smr">Pembaruan keamanan akan diinstal pada</string>
+  <string name="setting_sw_summary">Perbarui ke perangkat lunak terbaru </string>
+  <string name="setting_sw_title">Pembaruan sistem</string>
+  <string name="smart_cancel_update_toast_msg">Pembaruan dijadwalkan ulang ke %1$s</string>
+  <string name="smart_end_time">Akhiri</string>
+  <string name="smart_install_message_popup">Setelah Anda mengaktifkan fitur Pembaruan Cerdas, perangkat akan otomatis memasang pembaruan pada %1$s jika Anda belum melakukannya. Pastikan baterai Anda cukup untuk pemasangan.</string>
+  <string name="smart_restart_message_popup">Setelah Anda mengaktifkan Pembaruan Cerdas, perangkat akan dimulai ulang otomatis pada %1$s jika Anda belum melakukannya.</string>
+  <string name="smart_settings_string">Pembaruan diunduh dan dipasang otomatis saat tersambung ke Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Pembaruan diunduh dan dipasang otomatis saat tersambung ke Wi-Fi atau menggunakan data seluler</string>
+  <string name="smart_settings_string_vzw">Pembaruan diunduh dan dipasang otomatis</string>
+  <string name="smart_start_time">Mulai</string>
+  <string name="smart_to_string">Hingga</string>
+  <string name="smart_update_advanced">Lanjutan</string>
+  <string name="smart_update_note">Untuk keselamatan Anda, semua pembaruan keamanan penting akan diunduh otomatis terlepas dari apakah fitur ini diaktifkan atau dinonaktifkan</string>
+  <string name="smart_update_note_vzw">Untuk keselamatan Anda, semua pembaruan yang genting akan diunduh dan dipasang otomatis terlepas dari apakah fitur ini diaktifkan atau dinonaktifkan.</string>
+  <string name="smart_update_pop_up_text">Pastikan perangkat Anda selalu aman dan terlindungi dengan pembaruan otomatis</string>
+  <string name="smart_update_recommendation">Coba pembaruan cerdas</string>
+  <string name="smart_update_suggestion_text">Tetap aman dengan pembaruan otomatis</string>
+  <string name="smart_update_text_AB">Bantu perangkat Anda berjalan aman dan efisien dengan memasang semua pembaruan keamanan baru dan perbaikan bug secara otomatis.</string>
+  <string name="smart_update_text_AB_vzw">Pembaruan cerdas akan membantu perangkat Anda berjalan dengan aman dan efisien. Jika diaktifkan, semua <b>pembaruan keamanan</b> terbaru akan diunduh otomatis. Setelah diunduh, perangkat Anda akan dimulai ulang pada waktu yang Anda pilih.</string>
+  <string name="smart_update_text_classic">Pembaruan cerdas akan membantu perangkat Anda berjalan dengan aman dan efisien. Jika diaktifkan, semua <b>pembaruan keamanan dan perbaikan bug</b> terbaru akan diunduh otomatis. Setelah diunduh, perangkat Anda akan dimulai ulang dan memasangnya pada waktu yang Anda pilih.</string>
+  <string name="smart_update_text_classic_vzw">Pembaruan cerdas akan membantu perangkat Anda berjalan dengan aman dan efisien. Jika diaktifkan, semua <b>pembaruan keamanan</b> terbaru akan diunduh otomatis. Setelah diunduh, perangkat Anda akan dimulai ulang dan memasangnya pada waktu yang Anda pilih.</string>
+  <string name="smart_update_time_slot_text_AB">Pilih waktu mulai</string>
+  <string name="smart_update_time_slot_text_classic">Pilih waktu pasang</string>
+  <string name="smart_update_title">Pembaruan cerdas</string>
+  <string name="software_not_update_to">Perangkat lunak Anda belum diperbarui ke</string>
+  <string name="software_update_in_progress">Sistem Anda diperbarui ke versi</string>
+  <string name="software_update_planned_summary">Diperiksa - %1$s</string>
+  <string name="software_update_planned_title">Pembaruan perangkat lunak dijadwalkan</string>
+  <string name="software_update_to">Sistem Anda telah diperbarui ke</string>
+  <string name="sofware_version">Versi Perangkat Lunak:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Sediakan ruang untuk pembaruan</string>
+  <string name="su_btn">Setelan</string>
+  <string name="su_text_off">Anda perlu memperbarui perangkat secara manual saat perangkat lunak baru tersedia. Aktifkan Pembaruan cerdas untuk mengotomatiskan proses tersebut. Ketuk untuk mengetahui detail selengkapnya.</string>
+  <string name="su_text_on">Secara default, Pembaruan cerdas berjalan antara pukul 01.00—03.00. Anda dapat mengubah waktu pembaruan atau menonaktifkan Pembaruan cerdas di setelan. Ketuk untuk mengetahui detail selengkapnya.</string>
+  <string name="su_title_off">Pembaruan cerdas nonaktif</string>
+  <string name="su_title_on">Pembaruan cerdas aktif</string>
+  <string name="system_download_notification_title">Pembaruan sistem</string>
+  <string name="system_install_notification_text">Pembaruan sistem siap dipasang</string>
+  <string name="system_install_title">Pembaruan siap</string>
+  <string name="system_pdl_notification_mr_title">Dapatkan perbaikan bug &amp; lainnya</string>
+  <string name="system_pdl_notification_os_title">Android %1$s telah hadir!</string>
+  <string name="system_update">Pembaruan sistem</string>
+  <string name="system_update_desc">Lindungi perangkat Anda dari ancaman keamanan dan dapatkan fitur Motorola &amp; Android terbaru</string>
+  <string name="system_update_info_not_available">Tidak tersedia</string>
+  <string name="system_update_low_storage_text">Sentuh di sini untuk memeriksa memori dan melanjutkan.</string>
+  <string name="system_update_low_storage_title">Pembaruan sistem</string>
+  <string name="system_update_notification_os_text">Nikmati Android baru</string>
+  <string name="system_update_notification_text">Unduh perangkat lunak baru</string>
+  <string name="system_update_paused">Jeda pembaruan sistem</string>
+  <string name="system_update_pending_notification_os_text">Rasakan pengalaman Android baru. Pembaruan tertunda selama %1$d hari.</string>
+  <string name="system_update_pending_notification_text">Unduh perangkat lunak baru. Pembaruan tertunda selama %1$d hari.</string>
+  <string name="system_update_settings_list_item_title">Pembaruan sistem</string>
+  <string name="system_update_status">Perbarui status</string>
+  <string name="system_update_title">Pembaruan sistem</string>
+  <string name="tethered_permission_desc">Kirimkan hasil pembaruan 3c</string>
+  <string name="tethered_update_result">Hasil Pembaruan Di-tether</string>
+  <string name="time_picker_text">Mulai penginstalan tanpa pengingat</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Coba lagi</string>
+  <string name="turn_it_off">Nonaktifkan</string>
+  <string name="turn_it_on">Hidupkan</string>
+  <string name="turn_on_smart_updates">Aktifkan pembaruan cerdas</string>
+  <string name="update">Perbarui</string>
+  <string name="update_blocked_by_policy">Pembaruan diblokir oleh kebijakan admin </string>
+  <string name="update_cancelled_status">Unduhan perangkat lunak dibatalkan pada</string>
+  <string name="update_fail_desc">Terjadi masalah</string>
+  <string name="update_fail_status">Pembaruan gagal</string>
+  <string name="update_fail_sucancel_dm_status">Pembaruan dibatalkan oleh server</string>
+  <string name="update_fail_title">Pembaruan gagal</string>
+  <string name="update_history_blank">Belum ada riwayat</string>
+  <string name="update_history_src_target">Perbarui dari %1$s ke %2$s</string>
+  <string name="update_history_time">Diperbarui pada %1$s</string>
+  <string name="update_history_title">Riwayat pembaruan</string>
+  <string name="update_history_version">Versi Perangkat Lunak %1$s</string>
+  <string name="update_info">Memperbarui...</string>
+  <string name="update_postpone_policy">Pembaruan ditunda oleh kebijakan admin </string>
+  <string name="update_preference">Preferensi pembaruan</string>
+  <string name="update_success_desc">Versi perangkat lunak saat ini: %1$s</string>
+  <string name="update_success_desc_os">Selamat! Anda telah berhasil memasang Android %1$s. Sekarang Anda siap menikmati pengalaman Android yang lebih baik, lebih cerdas, dan lebih aman.</string>
+  <string name="update_success_status">Pembaruan Berhasil</string>
+  <string name="update_title">Pembaruan selesai</string>
+  <string name="update_title_text">Nikmati perangkat lunak baru Anda!</string>
+  <string name="upto_date_title">Semua tampak bagus!</string>
+  <string name="urgent_channel_name">Peringatan Pembaruan Perangkat Lunak</string>
+  <string name="use_smart_updates">Gunakan Pembaruan Cerdas</string>
+  <string name="vab_validation_update_failure_desc">Pembaruan validasi VAB gagal</string>
+  <string name="vab_validation_update_failure_title">Validasi VAB gagal</string>
+  <string name="vab_validation_update_success_desc">Selamat! Pembaruan validasi VAB berhasil</string>
+  <string name="vab_validation_update_success_title">Validasi VAB berhasil</string>
+  <string name="verifying_patch">Pembaruan telah diterapkan. Memastikan penerapan telah berhasil dilakukan… (Langkah 4 dari 6)  </string>
+  <string name="verity_disabled_msg">Perangkat Anda dapat rentan terhadap risiko keamanan. Jalankan perintah di bawah untuk pembaruan berkelanjutan
+
+adb aktifkan-verity</string>
+  <string name="verity_disabled_title">Perangkat Anda tidak lagi menerima pembaruan</string>
+  <string name="verizon_failure_notification_text"> Perangkat Anda tidak dapat memasang pembaruan ini. Gunakan alat Asisten Pemutakhiran Perangkat Lunak untuk memasang. Ketuk untuk info selengkapnya.</string>
+  <string name="verizon_failure_text">Terjadi masalah saat memperbarui perangkat Anda. Tidak ada perubahan yang dibuat. Untuk memperbarui perangkat lunak, Anda dapat menggunakan alat Asisten Pembaruan Perangkat Lunak.
+
+Untuk memasang alat Asisten Pembaruan Perangkat Lunak:
+
+1. Gunakan kabel USB untuk menyambungkan perangkat Anda ke komputer
+2. Saat menu USB muncul di perangkat Anda, pilih ikon setelan di bagian kanan atas
+3. Dari Preferensi USB, pilih Pemasangan perangkat lunak
+4. Beralih ke PC Anda dan cari panduan pemasangan
+5. Ikuti panduan
+
+Alat Asisten Pembaruan Perangkat Lunak akan mengunduh dan memasang pembaruan perangkat lunak di perangkat Anda.</string>
+  <string name="vital_applying_updates">Menerapkan pembaruan...</string>
+  <string name="vital_bg_text">Ini mungkin memerlukan waktu beberapa menit.</string>
+  <string name="vital_check_for_updates">Mencari pembaruan...</string>
+  <string name="vital_check_for_updates_desc">Pembaruan akan memastikan keamanan perangkat Anda dan meningkatkan kinerjanya</string>
+  <string name="vital_done">Selesai!</string>
+  <string name="vital_error_fail">Terjadi kesalahan pembaruan. Belum ada perubahan yang dibuat.</string>
+  <string name="vital_go_back">Anda yakin ingin menghentikan pemasangan?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Mulai ulang untuk melanjutkan</string>
+  <string name="vital_skip">Skip</string>
+  <string name="vital_stop">Hentikan</string>
+  <string name="wifi_setting">Setelan Wi-Fi</string>
+</resources>

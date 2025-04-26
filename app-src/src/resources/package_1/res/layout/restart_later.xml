@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:background="@drawable/corner_rounded"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:paddingStart="@dimen/activity_left_margin"
+              android:paddingEnd="@dimen/activity_right_margin" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <TextView android:textStyle="bold"
+            android:id="@id/dialog_title"
+            android:paddingTop="@dimen/headline_padding_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/restart_postponed"
+            style="?android:attr/textAppearanceLarge" />
+  <TextView android:id="@id/dialog_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_starting_padding_top"
+            android:text="@string/critical_restart_message_popup"
+            style="@style/TextAppearance.Body" />
+  <com.google.android.material.button.MaterialButton android:gravity="center"
+                        android:layout_gravity="bottom|center|end"
+                        android:id="@id/dialog_ok"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/layout_margin_top"
+                        android:layout_marginBottom="@dimen/layout_margin_bottom"
+                        android:text="@string/got_it"
+                        ota:cornerRadius="@dimen/button_corner_radius"
+                        style="@style/MaterialButtonColoredStyle" />
+</LinearLayout>

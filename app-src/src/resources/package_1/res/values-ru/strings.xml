@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Обновить позже</string>
+  <string name="ab_download_now">Обновить сейчас</string>
+  <string name="ab_install_notification_paused_text">Установка в фоновом режиме приостановлена</string>
+  <string name="ab_install_notification_text">Установка в фоновом режиме</string>
+  <string name="ab_restart_fullscreen_text">Осталось совсем чуть-чуть! Перезапуск устройства займет около 90 секунд. Обновление доступно в течение %1$d дней.</string>
+  <string name="ab_restart_text">Осталось совсем чуть-чуть! Перезапуск устройства займет не более 90 секунд.</string>
+  <string name="ab_restart_warning_os_mr">Обновление системы почти завершено. Устройство будет  </string>
+  <string name="ab_restart_warning_smr">Установка системы безопасности почти завершена. Устройство будет </string>
+  <string name="ab_warning_continues"> для завершения процесса обновления.</string>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_up_description">Перейти вверх</string>
+  <string name="abc_action_menu_overflow_description">Ещё</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Показать все</string>
+  <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+  <string name="abc_capital_off">ВЫКЛ</string>
+  <string name="abc_capital_on">ВКЛ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Ввод</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_space_shortcut_label">Пробел</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_search_hint">Введите запрос</string>
+  <string name="abc_searchview_description_clear">Удалить запрос</string>
+  <string name="abc_searchview_description_query">Поисковый запрос</string>
+  <string name="abc_searchview_description_search">Поиск</string>
+  <string name="abc_searchview_description_submit">Отправить запрос</string>
+  <string name="abc_searchview_description_voice">Голосовой поиск</string>
+  <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+  <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+  <string name="abc_toolbar_collapse_description">Свернуть</string>
+  <string name="abupdate_in_progress_status">Выполняется обновление ПО…</string>
+  <string name="additional_charges_message">Скачивание будет продолжено через мобильный Интернет. За использование мобильного Интернета может взиматься плата.</string>
+  <string name="alertSubText">Это используется для проверки, скачивания и установки пакета обновления.</string>
+  <string name="alertText">Разрешите сетевые операции для обновлений ПО</string>
+  <string name="alertTitle">Обновлениям требуется следующее разрешение</string>
+  <string name="alert_dialog_cancel">Остановить</string>
+  <string name="alert_dialog_continue">Продолжить</string>
+  <string name="alert_dialog_no">Нет</string>
+  <string name="alert_dialog_ok">Понятно</string>
+  <string name="alert_dialog_yes">Да</string>
+  <string name="allocate_space_success">Достаточно места для установки обновления</string>
+  <string name="allow">Разрешить</string>
+  <string name="android_latest_sw_text">Используется актуальная версия ПО.</string>
+  <string name="android_version">Версия Android:</string>
+  <string name="app_name">Обновление ПО Motorola</string>
+  <string name="applied">Вкл.</string>
+  <string name="apply_bug_fix">Применить к исправлениям ошибок</string>
+  <string name="apply_os_update">Применить ко всем обновлениям ПО</string>
+  <string name="applying_patch">Применение обновления… (Шаг %1$d из %2$d)  </string>
+  <string name="are_you_sure">Отключить "Умные обновления"?</string>
+  <string name="are_you_sure_pop_up_text">Вы уверены, что хотите отключить "Умные обновления"? </string>
+  <string name="asc_campaign_assigned">Кампания назначена</string>
+  <string name="asc_campaign_is_allowed">Обновление прошивки</string>
+  <string name="asc_campaign_is_blocked">Прошивка заблокирована</string>
+  <string name="asc_campaign_not_assigned">В настоящее время устройство не участвует в кампании</string>
+  <string name="asc_campaign_status_prefix">
+Статус: </string>
+  <string name="asc_campaign_window_period_status">
+Окно обновления: с %s по %s</string>
+  <string name="asc_sw_up_to_date"> до последней версии</string>
+  <string name="asc_target_version"> до версии </string>
+  <string name="auth_title">Обновление системы</string>
+  <string name="auto_download_cellualr_charges_warn">За скачивание обновлений с помощью мобильного Интернета могут взиматься дополнительные средства.</string>
+  <string name="auto_download_enable_cellular_future_updates">Хотите использовать мобильный интернет и для будущих скачиваний?</string>
+  <string name="auto_download_settings_title">Настройки автоматического скачивания</string>
+  <string name="auto_download_wifi_cellular">Автоматическое скачивание по мобильной сети и Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Автоматическое скачивание по мобильной сети и Wi-Fi. Сеть Wi-Fi будет использоваться в первую очередь (при наличии). </string>
+  <string name="auto_download_wifi_only">Автоматическое скачивание только по Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Автоматически скачивать только по сети Wi-Fi</string>
+  <string name="auto_install_notification_text">Автообновление: %1$s</string>
+  <string name="auto_time_set">Начало:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Из-за важности обновления оно будет автоматически установлено с помощью мобильного Интернета %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Из-за важности обновления оно будет автоматически скачано с помощью мобильного Интернета %1$s</string>
+  <string name="background_install_msg">Обновление продолжится, даже если вы вернетесь назад или закроете это окно.</string>
+  <string name="background_install_text">Обновление скачивается и устанавливается. Вы можете продолжать пользоваться устройством.</string>
+  <string name="bad_connection">Нет подключения к Интернету</string>
+  <string name="bad_connection_text">Похоже, ваше устройство не подключено к Интернету. Коснитесь кнопки в нижней части экрана еще раз.</string>
+  <string name="bg_install_cancel_confirm">Вы действительно хотите остановить установку?</string>
+  <string name="bg_retried">Скачивание программного обеспечения прервалось. Попробуем снова…</string>
+  <string name="bg_suspended">Ожидание подключения мобильного Интернета для возобновления скачивания и установки в фоновом режиме…</string>
+  <string name="bg_suspended_non_adminapn">Ожидание подключения к сети Wi-Fi или к сети с нулевым тарифом для возобновления скачивания и установки в фоновом режиме…</string>
+  <string name="bg_suspended_roaming">Установка в фоновом режиме приостановлена, поскольку вы находитесь в роуминге в сети другого оператора. Включите Wi-Fi, чтобы возобновить установку в фоновом режиме.</string>
+  <string name="bg_suspended_wifi">Ожидание подключения Wi-Fi для возобновления установки в фоновом режиме…</string>
+  <string name="bootloader_unlock_msg">Ваше устройство больше не получает обновлений и может быть уязвимо.</string>
+  <string name="bootloader_unlock_title">Нет доступных обновлений</string>
+  <string name="call_notification_answer_action">Ответить</string>
+  <string name="call_notification_answer_video_action">Видео</string>
+  <string name="call_notification_decline_action">Отклонить</string>
+  <string name="call_notification_hang_up_action">Завершить</string>
+  <string name="call_notification_incoming_text">Входящий вызов</string>
+  <string name="call_notification_ongoing_text">Текущий вызов</string>
+  <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
+  <string name="cancel">Отмена</string>
+  <string name="cancel_download_notification">Отмена</string>
+  <string name="cancel_install">Отмена</string>
+  <string name="cancel_update_notification">Отмена</string>
+  <string name="check_for_updates_title">Проверить наличие обновлений</string>
+  <string name="check_update_badparam">Не удалось выполнить обновление из-за ошибки при входе.
+
+Повторите попытку позже.</string>
+  <string name="check_update_checking">Проверка обновлений…</string>
+  <string name="check_update_disabled_admin">Обновлениями устройства управляет системный администратор</string>
+  <string name="check_update_downloading">Обновление загружается.
+
+По окончании будет выдано сообщение.</string>
+  <string name="check_update_fail">Произошла непредвиденная ошибка.
+
+Устройство попробует выполнить обновление в фоновом режиме.</string>
+  <string name="check_update_internal">Невозможно проверить наличие обновлений. Повторите попытку позже.</string>
+  <string name="check_update_net">Проверьте подключение к Интернету и повторите попытку.</string>
+  <string name="check_update_net_vzw">Для проверки наличия обновлений нужно интернет-подключение. Для проверки подключения по Wi-Fi откройте "Настройки &gt; Сеть и Интернет &gt; Интернет &gt; Wi-Fi".
+
+Перейдите на страницу motorola.com/systemupdates, чтобы узнать о других вариантах обновления.</string>
+  <string name="check_update_not_sys_user">Проверка наличия обновлений запрещена для гостевых профилей</string>
+  <string name="check_update_processing">Обращение к серверу…
+Подождите…</string>
+  <string name="check_update_roaming">Обновление системы доступно только в домашней сети. 
+
+Чтобы настроить подключение, откройте "Настройки &gt; Сеть и Интернет &gt; Wi-Fi".</string>
+  <string name="check_update_storage_low">Обновление невозможно из-за недостаточного объема памяти на устройстве.</string>
+  <string name="check_update_temperror">Загрузка обновления не может быть завершена сейчас.
+
+Повторите попытку позже.</string>
+  <string name="check_update_text">Проверка наличия обновлений позволяет повысить уровень безопасности устройства и улучшить его работу.</string>
+  <string name="check_update_title_downloading">Выполняется скачивание…</string>
+  <string name="check_update_vab_validation">Проверка обновления статуса валидатора VAB…
+Подождите…</string>
+  <string name="check_update_wifi_only">Системное обновление доступно только через Wi-Fi.</string>
+  <string name="check_wifi_settings">Проверить настройки Wi-Fi</string>
+  <string name="clear_space">Освободить место</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Требуется обновить приложение Android Wear.</string>
+  <string name="common_android_wear_update_text">Для работы этого приложения требуется обновить Android Wear.</string>
+  <string name="common_android_wear_update_title">Обновить Android Wear</string>
+  <string name="common_google_play_services_enable_button">Включить</string>
+  <string name="common_google_play_services_enable_text">Для работы этого приложения требуется включить Сервисы Google Play.</string>
+  <string name="common_google_play_services_enable_title">Включите Сервисы Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Источник запроса: %1$s</string>
+  <string name="common_google_play_services_install_button">Установить</string>
+  <string name="common_google_play_services_install_text_phone">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+  <string name="common_google_play_services_install_text_tablet">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+  <string name="common_google_play_services_install_title">Установите Сервисы Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Этого аккаунта нет на устройстве. Выберите другой.</string>
+  <string name="common_google_play_services_invalid_account_title">Недействительный аккаунт</string>
+  <string name="common_google_play_services_needs_enabling_title">Для работы приложения требуется включить сервисы Google Play</string>
+  <string name="common_google_play_services_network_error_text">Для работы с Google Play требуется подключение к сети.</string>
+  <string name="common_google_play_services_network_error_title">Ошибка сети</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Для работы приложения требуется установить сервисы Google Play</string>
+  <string name="common_google_play_services_notification_needs_update_title">Для работы приложения требуется обновить сервисы Google Play</string>
+  <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Неизвестная ошибка с Сервисами Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю.</string>
+  <string name="common_google_play_services_unsupported_title">Сервисы Google Play</string>
+  <string name="common_google_play_services_update_button">Обновить</string>
+  <string name="common_google_play_services_update_text">Для работы этого приложения требуется обновить Сервисы Google Play.</string>
+  <string name="common_google_play_services_update_title">Обновите Сервисы Google Play</string>
+  <string name="common_open_on_phone">Открыть на телефоне</string>
+  <string name="common_signin_button_text">Войти</string>
+  <string name="common_signin_button_text_long">Войти в аккаунт Google</string>
+  <string name="compatibility_failed_title">Сбой проверки пакета</string>
+  <string name="compatibility_verification_failure">Загружаемый пакет обновления не совместим с текущей версией ПО на устройстве.</string>
+  <string name="compatibility_verification_failure_df">
+
+Обратитесь к своему координатору Dogfood.</string>
+  <string name="compatibility_verification_success">Проверка выполнена успешно</string>
+  <string name="completed"> Установка завершена. Вам будет предложено перезапустить свой смартфон. (Шаг %1$d из %2$d)</string>
+  <string name="completed_install">Выполнено: %s</string>
+  <string name="connect_to_wifi">Подключение к сети Wi-Fi</string>
+  <string name="continue_button">Продолжить</string>
+  <string name="critical_install_message_popup_os_mr">Доступно важное обновление системы! Нажмите "Установить", чтобы запустить установку обновления. В противном случае оно будет установлено автоматически %1$s.</string>
+  <string name="critical_install_message_popup_smr">Доступно важное обновление системы безопасности! Нажмите "Установить", чтобы запустить установку обновления. В противном случае оно будет установлено автоматически %1$s.</string>
+  <string name="critical_install_message_screen">Это обновление будет автоматически установлено %1$s. Убедитесь, что заряда батареи достаточно для установки.</string>
+  <string name="critical_install_notification">Поскольку это важное обновление, оно будет автоматически установлено %1$s.
+Время установки: %2$d мин.</string>
+  <string name="critical_restart_message_popup">Перезапустите устройство как можно скорее, чтобы применить это важное обновление. В противном случае устройство автоматически перезапустится %1$s.</string>
+  <string name="critical_restart_message_screen">Поскольку это важное обновление, устройство автоматически перезапустится %1$s, если вы не перезапустите его сами до этого момента.</string>
+  <string name="critical_restart_notification">Это важное обновление. Если вы не можете перезапустить устройство сейчас, оно автоматически перезапустится %1$s.</string>
+  <string name="critical_update_notification_title">Важное системное обновление</string>
+  <string name="current_version">Текущая версия ПО:</string>
+  <string name="custom_slot">Свое время</string>
+  <string name="custom_time">Свое время</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s в %s</string>
+  <string name="defer_count_expired">ОК</string>
+  <string name="deny">Запретить</string>
+  <string name="details">Сведения</string>
+  <string name="device_corrupted_msg">Найдено несколько системных ошибок. Мы понимаем, что это неудобно, но вам нужно посетить местный сервисный центр, чтобы устранить эти неполадки.
+
+После исправления ошибок в телефоне вы сможете и дальше обновлять его.</string>
+  <string name="device_corrupted_title">Не удается обновить телефон</string>
+  <string name="dialog_alert_net_message">Проверьте подключение к сети Wi-Fi или мобильному Интернету и попробуйте еще раз.</string>
+  <string name="dialog_alert_net_title">Устройство не подключено к сети</string>
+  <string name="dialog_alert_title">Низкий уровень заряда батареи</string>
+  <string name="dialog_progress">Загрузка…</string>
+  <string name="dl_options_mobile_only_warning">Рекомендуется использовать Wi-Fi. Загрузка с использованием мобильного Интернета или использование мобильного Интернета в роуминге может привести к дополнительным расходам.
+
+Загрузка этого программного обеспечения не повлияет на работу устройства.</string>
+  <string name="done">Готово</string>
+  <string name="dont_show_this_again">Больше не отображать</string>
+  <string name="download_cancelled_title">Скачивание отменено</string>
+  <string name="download_deferred_status">Скачивание ПО отложено</string>
+  <string name="download_failed_status">Не удалось скачать обновление</string>
+  <string name="download_in_progress_status">Выполняется скачивание ПО</string>
+  <string name="download_later_button">Загрузить позже</string>
+  <string name="download_no_button">Нет, спасибо</string>
+  <string name="download_note">Устройством можно пользоваться в процессе установки обновления</string>
+  <string name="download_now">Скачать</string>
+  <string name="download_now_button">Загрузить</string>
+  <string name="download_options">Параметры загрузки</string>
+  <string name="download_progress_cancel_message">Чтобы скачать обновление позже, откройте "Настройки &gt; Обновление системы".</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Осталось: %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">Скачано: %s%% (приостановлено)</string>
+  <string name="download_progress_text">Скачивание продолжится, если вы вернетесь назад или закроете это окно.</string>
+  <string name="download_subtitle">Что нужно знать перед скачиванием</string>
+  <string name="download_text_whats_new">Что нового</string>
+  <string name="download_time_left">Осталось %1$s</string>
+  <string name="download_version">Версия: %1$s (%2$s)</string>
+  <string name="download_wifi_only_error">Для скачивания этого обновления необходимо подключение по Wi-Fi. Скачивание продолжится при восстановлении подключения.</string>
+  <string name="downloaded_percentage">Скачано: %1$s</string>
+  <string name="emergency_call_btn_txt">Экстренный режим</string>
+  <string name="emergency_call_text">Во время перезагрузки вы не сможете выполнять и принимать вызовы, в том числе экстренные вызовы!</string>
+  <string name="enable_wifi_error_txt">Подключитесь к Wi-Fi, чтобы скачать это обновление.</string>
+  <string name="eol_explore">Ознакомьтесь с новыми устройствами</string>
+  <string name="eol_last_update_text">Обновление системы безопасности:</string>
+  <string name="eol_promote">Узнайте о последних спецпредложениях</string>
+  <string name="eol_title">На устройстве установлено актуальное ПО.</string>
+  <string name="err_title_contact_server">Обращение к серверу…</string>
+  <string name="err_title_memory_low">Память заканчивается…</string>
+  <string name="err_title_temp_error">Временная ошибка</string>
+  <string name="err_title_update">Ошибка обновления</string>
+  <string name="error_code">Код ошибки: </string>
+  <string name="error_copyfail">Сбой копирования с MicroSD.</string>
+  <string name="error_disabled">Ошибка скачивания: пакет обновлений пока не доступен.
+
+Вам не нужно совершать других действий.</string>
+  <string name="error_fail">Возникла проблема при обновлении %1$s. Повторите попытку в разделе "Настройки &gt; Обновление системы".</string>
+  <string name="error_in_call_msg">Устройство не может обновиться из-за текущего вызова.</string>
+  <string name="error_in_call_title">Есть текущий вызов</string>
+  <string name="error_install_title">Сбой установки</string>
+  <string name="error_mismatch">Версии не совпадают. Обновление будет повторено. При наличии обновления вам будет отправлено уведомление.</string>
+  <string name="error_mismatch_sd">Сбой выполнения обновления. Версия обновления не соответствует вашему телефону. 
+
+Загрузите нужную версию для телефона и повторите попытку позже.</string>
+  <string name="error_network">Сетевое подключение было потеряно. Повторите попытку, проверив наличие обновлений вручную через настройки телефона.</string>
+  <string name="error_reboot">Не удалось скачать обновление. Чтобы выполнить обновление позже, откройте "Настройки &gt; Обновление системы".</string>
+  <string name="error_resources">Не удалось скачать обновление. Чтобы установить обновление позже, откройте "Настройки &gt; Обновление системы".</string>
+  <string name="error_sdcard_resources_fail_removal">MicroSD была извлечена. Скачивание не завершено. 
+
+Вставьте MicroSD обратно в телефон и откройте "Настройки &gt; Обновления системы", чтобы повторить попытку.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Не удается завершить скачивание. На MicroSD недостаточно места. 
+
+После чистки карты перейдите в "Настройки &gt; Обновления системы" и повторите попытку.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Установите MicroSD, чтобы начать загрузку.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Установите MicroSD, чтобы начать загрузку. 
+
+Перейдите в Настройки &gt; Хранение данных &gt; Установка MicroSD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">На MicroSD недостаточно места для завершения скачивания. 
+
+Освободите %1$s пространства и откройте "Настройки &gt; Обновление системы", чтобы скачать еще раз.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Ошибка</string>
+  <string name="error_sdcard_resources_warning">Обновление программного обеспечения загружается на MicroSD. 
+
+Не вынимайте MicroSD, пока установка не будет завершена.
+
+
+</string>
+  <string name="error_server">На сервере произошла ошибка. Повторите попытку позже.</string>
+  <string name="error_space">Этому обновлению необходимо %1$s свободной памяти на устройстве. 
+
+Удалите неиспользуемые приложения или переместите фотографии и видео на другое устройство хранения, чтобы освободить %2$s памяти. 
+
+По завершении откройте "Настройки &gt; Обновление системы", чтобы запустить обновление.</string>
+  <string name="error_space_retry">Этому обновлению необходимо %1$s свободной памяти на устройстве. 
+
+Удалите неиспользуемые приложения или переместите фотографии и видео на другое устройство хранения, чтобы освободить %2$s памяти.</string>
+  <string name="error_space_vab">Этому обновлению необходимо %1$s свободной памяти на устройстве. Освободите место в памяти для установки обновлений</string>
+  <string name="error_space_vab_make_room_popup">Перед обновлением необходимо освободить %1$s памяти. Попробуйте удалить неиспользуемые приложения или переместить фотографии и видео на другой накопитель.</string>
+  <string name="error_title">Скачивание не выполнено</string>
+  <string name="error_verify">Обновление не может быть проверено должным образом. Повторите попытку позже.</string>
+  <string name="failed">Произошел сбой</string>
+  <string name="failed_in_roaming">Для обновлений требуется подключение к сети Wi-Fi</string>
+  <string name="failure_process">Информация недоступна</string>
+  <string name="finalizing_patch">Завершение обновления… (Шаг 5 из 6)  </string>
+  <string name="first_net_text">Установите обновление, в противном случае устройство установит его автоматически при следующей перезагрузке. Убедитесь, что уровень заряда батареи превышает %s</string>
+  <string name="forceInstallMessage">Это обновление будет автоматически установлено %1$s.</string>
+  <string name="force_install_message_screen">Установите это важное обновление до %1$s. В противном случае оно будет автоматически установлено во время, когда устройство реже всего используется Убедитесь, что заряда батареи достаточно для установки.</string>
+  <string name="force_install_notification_message">Установите его до %1$s. В противном случае оно будет автоматически установлено во время, когда устройство реже всего используется.
+Время установки: %2$d мин.</string>
+  <string name="force_restart_notification_message">Перезапустите устройство до %1$s. В противном случае устройство автоматически перезапустится во время, когда оно реже всего используется.</string>
+  <string name="force_restart_screen_message">Если вы не перезапустите устройство до %1$s, оно автоматически перезапустится во время, когда реже всего используется.</string>
+  <string name="google">Google</string>
+  <string name="got_it">ОК</string>
+  <string name="important_update_install_overdue_message">Время, запланированное для установки, истекло. Установка начнется, как только устройство будет соответствовать критериям.</string>
+  <string name="important_update_restart_overdue_message">Время, запланированное для перезапуска, истекло. Устройство перезагрузится, как только оно будет соответствовать критериям.</string>
+  <string name="initiating_ota_service_msg">Подождите…</string>
+  <string name="initiating_ota_service_title">Инициализация процесса обновления ПО</string>
+  <string name="install">Установить</string>
+  <string name="install_after_one_hour">Установить через 1 час</string>
+  <string name="install_cancelled_title">Установка отменена</string>
+  <string name="install_deferred_status">Обновление отложено</string>
+  <string name="install_later">Установить позже</string>
+  <string name="install_notify_sanity_call_msg">Устройство не может выполнить установку из-за текущего вызова.</string>
+  <string name="install_notify_sanity_maps_msg">Устройство не может выполнить установку, т. к. активна навигация.</string>
+  <string name="install_now">Установить сейчас</string>
+  <string name="install_postponed">Установка отложена</string>
+  <string name="install_progress_cancel_message">Чтобы установить обновление позже, откройте "Настройки &gt; Обновление системы".</string>
+  <string name="install_progress_paused_message">Выполнено: %s (приостановлено)</string>
+  <string name="install_time">Время установки: %1$d мин.</string>
+  <string name="install_warning">Что нужно знать перед установкой</string>
+  <string name="just_one_more_step">Осталось совсем чуть-чуть</string>
+  <string name="keep_it_on">Пусть работает</string>
+  <string name="later_button">Напомнить позже</string>
+  <string name="learn_more_online_link">Узнайте больше на сайте</string>
+  <string name="low_battery_bg_install">Установка приостановлена из-за низкого заряда батареи. Установка возобновится, когда уровень заряда батареи будет выше 20 %.</string>
+  <string name="low_battery_download">Скачивание приостановлено из-за низкого заряда батареи. Процесс продолжится, когда вы зарядите устройство.</string>
+  <string name="low_battery_install">Перед установкой этого обновления необходимо зарядить батарею как минимум до %s.</string>
+  <string name="make_space">Освободите место</string>
+  <string name="mandatory_install_notification">Если вы не установите это обновление системы в ближайшее время, вы не получите важные обновления системы безопасности, а также новые функции и исправления ошибок.</string>
+  <string name="mandatory_restart_notification">Так как это важное обновление, перезапустите устройство сейчас. В противном случае вы не получите обновления системы безопасности, а также новые функции и исправления ошибок.</string>
+  <string name="medium_channel_name">Средство извещения о загрузке программного обеспечения</string>
+  <string name="merge_emergency_call_text">Во время перезапуска вы не сможете выполнять и принимать вызовы, в том числе экстренные вызовы.</string>
+  <string name="merge_force_restart_text">Если вы не хотите перезапускать телефон сейчас, он автоматически это сделает после периода бездействия.</string>
+  <string name="merge_progress_text">Когда обновление будет завершено, вы получите уведомление.</string>
+  <string name="merge_progress_title">Завершение обновления…</string>
+  <string name="merge_restart_text">Обновление будет выполнено после перезапуска телефона.</string>
+  <string name="merge_restart_title">Перезапустите ещё раз</string>
+  <string name="merge_update_fail_notify_text">Найдено несколько системных ошибок. Посетите сервисный центр, чтобы исправить их.</string>
+  <string name="merge_update_fail_notify_title">Сбой обновления</string>
+  <string name="merge_update_fail_text">Мы обнаружили несколько системных ошибок, которые не дают выполнять обновления телефона. Посетите сервисный центр, чтобы исправить это.
+
+Тем временем вы можете продолжать использовать телефон как обычно.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Выбрать аккаунт</string>
+  <string name="multiple_account_alert">Выберите аккаунт %1$s, чтобы продолжить обновление системы.</string>
+  <string name="no_thanks">Нет, спасибо</string>
+  <string name="no_thanks_message">Чтобы установить обновление позже, откройте "Настройки &gt; Обновление системы".</string>
+  <string name="no_updates_applied">Обновления не устанавливались</string>
+  <string name="not_now">Не сейчас</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Разрешение, нужное приложению для взаимодействия с otaservice</string>
+  <string name="package_size">Размер скачивания: %1$s</string>
+  <string name="personalInfo_instruction">Личная информация не будет затронута</string>
+  <string name="picker_cell_radio">Wi-Fi и мобильный Интернет</string>
+  <string name="picker_title">Выберите способ загрузки обновления:</string>
+  <string name="picker_wifi_only_radio">Только Wi-Fi</string>
+  <string name="please_restart">Перезапустите устройство</string>
+  <string name="policy_set">Обновление системы заблокировано. Для получения дополнительной информации обратитесь к администратору устройства.</string>
+  <string name="press_back_again_to_exit">Нажмите "НАЗАД" еще раз, чтобы выйти</string>
+  <string name="progress_copying_sd">Копирование обновления</string>
+  <string name="progress_deffered">Загрузка начнется по сотовой сети или сети Wi-Fi.</string>
+  <string name="progress_downloading_ota">Загрузка системного обновления</string>
+  <string name="progress_downloading_security">Загрузка обновления</string>
+  <string name="progress_retried">Скачивание программного обеспечения прервано. Попробуем снова…</string>
+  <string name="progress_suspended">Ожидание подключения для возобновления скачивания.</string>
+  <string name="progress_suspended_datasaver">Отключите хранение данных, чтобы возобновить скачивание</string>
+  <string name="progress_suspended_no_adminapn">Ожидание подключения к сети Wi-Fi или к сети с нулевым тарифом для возобновления загрузки</string>
+  <string name="progress_suspended_roaming">Загрузка приостановлена, поскольку вы находитесь в роуминге в сети другого оператора. Включите Wi-Fi, чтобы возобновить загрузку.</string>
+  <string name="progress_suspended_wifi">Ожидание подключения Wi-Fi для возобновления скачивания…</string>
+  <string name="progress_verify">Проверка готовности устройства к обновлению…</string>
+  <string name="progress_verify_allocate_space">Проверка наличия достаточного количества свободной памяти</string>
+  <string name="relative_date_time">%1$s в %2$s</string>
+  <string name="release_note_battery_desc">Обновления для увеличения времени работы от батареи</string>
+  <string name="release_note_battery_title">Батарея</string>
+  <string name="release_note_camera_desc">Эти улучшения помогают вам снимать более четкие и детализированные фотографии</string>
+  <string name="release_note_camera_title">Камера</string>
+  <string name="release_note_cellular_desc">Эти изменения помогают улучшить качество подключения устройства к мобильному Интернету</string>
+  <string name="release_note_cellular_title">Мобильная связь</string>
+  <string name="release_note_charging_desc">Эти обновления улучшают эффективность зарядки</string>
+  <string name="release_note_charging_title">Зарядка</string>
+  <string name="release_note_generic_desc">Эти изменения помогают улучшить общую производительность устройства</string>
+  <string name="release_note_os_update_desc">Новые монохромные темы придают элегантный вид телефону и подчеркивают красоту ваших обоев. Узнавайте, как приложения используют и передают ваши данные, прежде чем предоставить им разрешения, и сделайте телефон более доступным благодаря новым функциям Android 14 для слабовидящих и слабослышащих.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Эти изменения помогают улучшить производительность устройства</string>
+  <string name="release_note_performance_title">Производительность</string>
+  <string name="release_note_security_desc">Включает обновления системы безопасности, вышедшие до %1$s</string>
+  <string name="release_note_security_title">Параметры безопасности</string>
+  <string name="release_note_stability_desc">Включает обновления и исправления ошибок, которые делают работу вашего телефона более стабильной</string>
+  <string name="release_note_stability_title">Стабильность</string>
+  <string name="release_note_title">Обновление включает:</string>
+  <string name="release_note_wifi_desc">Включает обновления для подключения к сетям Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Ознакомьтесь с новыми функциями в Android %1$s</string>
+  <string name="request_suspended_datasaver">Отключите функцию экономии трафика, чтобы начать скачивание</string>
+  <string name="request_suspended_no_network">Отсутствует подключение к сети.</string>
+  <string name="restart_after_one_hour">Перезапуск через 1 час</string>
+  <string name="restart_instruction_title">Что нужно знать перед перезапуском</string>
+  <string name="restart_later">Позже</string>
+  <string name="restart_message">Перезапустите сейчас, чтобы обновить</string>
+  <string name="restart_notification">Перезапустить</string>
+  <string name="restart_notification_text">Перезапустите сейчас, чтобы обновить. Обновление доступно в течение %1$d дней.</string>
+  <string name="restart_notify_sanity_call_msg">Устройство не может перезагрузиться из-за текущего вызова.</string>
+  <string name="restart_notify_sanity_maps_msg">Устройство не может перезагрузиться, т. к. активна навигация.</string>
+  <string name="restart_now">Перезапустить</string>
+  <string name="restart_postponed">Перезапуск отложен</string>
+  <string name="restart_title">Перезапустите устройство</string>
+  <string name="resume_download_on_cellular">Использовать мобильный Интернет</string>
+  <string name="retrieving_token">Выполняется проверка...</string>
+  <string name="sdcard_predownload_text">
+На этом этапе нужно скопировать обновление в память системы, чтобы затем установить его.
+
+Подключите телефон к источнику питания, чтобы предотвратить разрядку батареи.</string>
+  <string name="search_menu_title">Поиск</string>
+  <string name="secure_instruction">Эта процедура безопасна</string>
+  <string name="security_download_notification_title">Улучшенная безопасность</string>
+  <string name="security_install_notification_text">Новое обновление системы безопасности готово к установке</string>
+  <string name="security_install_title">Обновление системы безопасности готово к установке</string>
+  <string name="security_patch">Обновление системы безопасности:</string>
+  <string name="security_update_low_storage_title">Обновления безопасности</string>
+  <string name="security_update_notification_text">Обновите систему безопасности.</string>
+  <string name="security_update_paused">Приостановка обновления</string>
+  <string name="security_update_pending_notification_text">Обновите систему безопасности. Ожидание обновления в течение %1$d дней.</string>
+  <string name="security_update_title">Обновления безопасности</string>
+  <string name="select_account">Выберите аккаунт %1$s</string>
+  <string name="selected_later_time_os_mr">Обновление системы будет установлено в </string>
+  <string name="selected_later_time_smr">Обновление системы безопасности будет установлено</string>
+  <string name="setting_sw_summary">Обновите ПО до последней версии </string>
+  <string name="setting_sw_title">Обновление системы</string>
+  <string name="smart_cancel_update_toast_msg">Обновление перенесено на %1$s</string>
+  <string name="smart_end_time">Конец</string>
+  <string name="smart_install_message_popup">Поскольку вы включили "Умное обновление", ваше устройство автоматически обновится %1$s, если вы не установите обновление раньше. Убедитесь, что заряда батареи достаточно для установки.</string>
+  <string name="smart_restart_message_popup">Поскольку вы включили "Умные обновления", ваше устройство автоматически перезапустится %1$s, если вы не перезапустите его раньше.</string>
+  <string name="smart_settings_string">Обновления скачиваются и устанавливаются автоматически при подключении к Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Обновления скачиваются и устанавливаются автоматически при подключении к Wi-Fi или мобильному Интернету.</string>
+  <string name="smart_settings_string_vzw">Обновления скачиваются и устанавливаются автоматически.</string>
+  <string name="smart_start_time">Начало</string>
+  <string name="smart_to_string">–</string>
+  <string name="smart_update_advanced">Дополнительно</string>
+  <string name="smart_update_note">Все важные обновления системы безопасности будут скачиваться автоматически, независимо от статуса этой функции.</string>
+  <string name="smart_update_note_vzw">Все критически важные обновления системы безопасности будут устанавливаться автоматически, независимо от статуса этой функции.</string>
+  <string name="smart_update_pop_up_text">Обеспечьте безопасность устройства с помощью автоматических обновлений.</string>
+  <string name="smart_update_recommendation">Попробуйте функцию умных обновлений</string>
+  <string name="smart_update_suggestion_text">Автообновление для большей безопасности</string>
+  <string name="smart_update_text_AB">Обеспечьте безопасность и эффективность работы устройства, автоматически устанавливая все свежие обновления системы безопасности.</string>
+  <string name="smart_update_text_AB_vzw">Умные обновления обеспечивают безопасность и эффективность работы устройства. При включении этой функции все новые <b>обновления системы безопасности</b> будут скачиваться автоматически. После скачивания устройство будет перезапущено в выбранное время.</string>
+  <string name="smart_update_text_classic">Умные обновления обеспечивают безопасность и эффективность работы устройства. При включении этой функции все новые <b>обновления системы безопасности и исправления ошибок</b> будут скачиваться автоматически. После скачивания устройство будет перезапущено и установит обновления в выбранное время.</string>
+  <string name="smart_update_text_classic_vzw">Умные обновления обеспечивают безопасность и эффективность работы устройства. При включении этой функции все новые <b>обновления системы безопасности</b> будут скачиваться автоматически. После скачивания устройство будет перезапущено и установит обновления в выбранное время.</string>
+  <string name="smart_update_time_slot_text_AB">Выберите время запуска</string>
+  <string name="smart_update_time_slot_text_classic">Выберите время установки</string>
+  <string name="smart_update_title">Умные обновления</string>
+  <string name="software_not_update_to">ПО ещё не обновлено до версии</string>
+  <string name="software_update_in_progress">Выполняется обновление системы до версии</string>
+  <string name="software_update_planned_summary">Проверено — %1$s</string>
+  <string name="software_update_planned_title">Запланировано обновление ПО</string>
+  <string name="software_update_to">Система обновлена до версии</string>
+  <string name="sofware_version">Версия ПО:</string>
+  <string name="status_bar_notification_info_overflow">&gt;999</string>
+  <string name="storage_low">Освободите место для обновления</string>
+  <string name="su_btn">Настройки</string>
+  <string name="su_text_off">Вам нужно будет вручную установить обновление ПО устройства, когда оно появится. Включите умные обновления, чтобы автоматизировать процесс. Коснитесь для получения подробных сведений.</string>
+  <string name="su_text_on">По умолчанию умные обновления устанавливаются в промежутке между 01:00 и 03:00. Можно изменить время установки обновлений или отключить умные обновления в настройках. Коснитесь для получения подробных сведений.</string>
+  <string name="su_title_off">Умные обновления выключены</string>
+  <string name="su_title_on">Умные обновления включены</string>
+  <string name="system_download_notification_title">Обновление системы</string>
+  <string name="system_install_notification_text">Обновление системы готово к установке</string>
+  <string name="system_install_title">Обновление готово к установке</string>
+  <string name="system_pdl_notification_mr_title">Исправление ошибок и многое другое</string>
+  <string name="system_pdl_notification_os_title">Встречайте Android %1$s!</string>
+  <string name="system_update">Обновление системы</string>
+  <string name="system_update_desc">Защитите устройство от взлома и получите доступ к последним функциями Motorola и Android.</string>
+  <string name="system_update_info_not_available">Недоступно</string>
+  <string name="system_update_low_storage_text">Коснитесь, чтобы проверить объем доступной памяти и продолжить.</string>
+  <string name="system_update_low_storage_title">Обновление системы</string>
+  <string name="system_update_notification_os_text">Вас ждет новый Android</string>
+  <string name="system_update_notification_text">Скачайте новую версию ПО</string>
+  <string name="system_update_paused">Обновление системы приостановлено</string>
+  <string name="system_update_pending_notification_os_text">Вас ждет новый Android. Ожидание обновления в течение %1$d дней.</string>
+  <string name="system_update_pending_notification_text">Скачайте новую версию ПО. Ожидание обновления в течение %1$d дней.</string>
+  <string name="system_update_settings_list_item_title">Обновление системы</string>
+  <string name="system_update_status">Статус обновления</string>
+  <string name="system_update_title">Обновление системы</string>
+  <string name="tethered_permission_desc">Отправить результаты обновления 3c</string>
+  <string name="tethered_update_result">Результат обновления в режиме модема</string>
+  <string name="time_picker_text">Начать установку без напоминания</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Повторить</string>
+  <string name="turn_it_off">Выключить</string>
+  <string name="turn_it_on">Включить</string>
+  <string name="turn_on_smart_updates">Включить "Умные обновления"</string>
+  <string name="update">Обновить</string>
+  <string name="update_blocked_by_policy">Обновление заблокировано политикой администратора </string>
+  <string name="update_cancelled_status">Скачивание ПО отменено</string>
+  <string name="update_fail_desc">Что-то пошло не так</string>
+  <string name="update_fail_status">Сбой обновления</string>
+  <string name="update_fail_sucancel_dm_status">Обновление отменено сервером</string>
+  <string name="update_fail_title">Сбой обновления</string>
+  <string name="update_history_blank">Нет истории</string>
+  <string name="update_history_src_target">Обновление с %1$s на %2$s</string>
+  <string name="update_history_time">Обновлено %1$s</string>
+  <string name="update_history_title">История обновлений</string>
+  <string name="update_history_version">Версия ПО: %1$s</string>
+  <string name="update_info">Обновление…</string>
+  <string name="update_postpone_policy">Обновление отложено политикой администратора </string>
+  <string name="update_preference">Настройки обновлений</string>
+  <string name="update_success_desc">Текущая версия ПО: %1$s</string>
+  <string name="update_success_desc_os">Поздравляем! Вы успешно установили Android %1$s. Теперь вы сможете наслаждаться более быстрой и безопасной версией Android.</string>
+  <string name="update_success_status">Обновление выполнено успешно</string>
+  <string name="update_title">Обновление выполнено</string>
+  <string name="update_title_text">Приятной работы с новой версией ПО!</string>
+  <string name="upto_date_title">Все в порядке!</string>
+  <string name="urgent_channel_name">Оповещение об обновлении ПО</string>
+  <string name="use_smart_updates">Использование умных обновлений</string>
+  <string name="vab_validation_update_failure_desc">Сбой проверки валидатора VAB</string>
+  <string name="vab_validation_update_failure_title">Сбой проверки VAB</string>
+  <string name="vab_validation_update_success_desc">Поздравляем! Обновление валидатора VAB успешно</string>
+  <string name="vab_validation_update_success_title">Проверка VAB успешна</string>
+  <string name="verifying_patch">Обновление применено. Подтверждение успешности применения… (Шаг 4 из 6)  </string>
+  <string name="verity_disabled_msg">Безопасность данных на устройстве больше не может быть гарантирована. Запустите указанную ниже команду, чтобы продолжить получать обновления:
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Ваше устройство больше не получает обновлений</string>
+  <string name="verizon_failure_notification_text"> Устройству не удалось установить это обновление. Воспользуйтесь инструментом Software Upgrade Assistant, чтобы установить его. Коснитесь, чтобы узнать больше.</string>
+  <string name="verizon_failure_text">Возникла проблема при обновлении устройства. Изменения не внесены. Для обновления ПО можно использовать инструмент Software Upgrade Assistant.
+
+Установка инструмента Software Upgrade Assistant:
+
+1. Используйте USB-кабель для подключения устройства к компьютеру
+2. При появлении меню USB на устройстве выберите значок настроек в правом верхнем углу
+3. В параметрах USB выберите "Установка ПО"
+4. Переключитесь на компьютер и найдите мастера установки
+5. Пройдите этапы мастера установки
+
+Инструмент Software Upgrade Assistant поможет вам скачать и установить обновления ПО на ваше устройство.</string>
+  <string name="vital_applying_updates">Применение обновлений…</string>
+  <string name="vital_bg_text">Это может занять несколько минут.</string>
+  <string name="vital_check_for_updates">Поиск обновлений…</string>
+  <string name="vital_check_for_updates_desc">Обновления обеспечивают безопасность устройства и повышение его производительности.</string>
+  <string name="vital_done">Готово!</string>
+  <string name="vital_error_fail">Во время обновления произошла ошибка. Изменения не внесены.</string>
+  <string name="vital_go_back">Вы действительно хотите остановить установку</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Перезапустите, чтобы продолжить</string>
+  <string name="vital_skip">Пропустить</string>
+  <string name="vital_stop">Остановить</string>
+  <string name="wifi_setting">Настройки Wi-Fi</string>
+</resources>

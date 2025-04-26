@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Värskenda hiljem</string>
+  <string name="ab_download_now">Värskenda kohe</string>
+  <string name="ab_install_notification_paused_text">Tausta paigaldus peatatud</string>
+  <string name="ab_install_notification_text">Paigaldamine taustal</string>
+  <string name="ab_restart_fullscreen_text">Varsti saab tehtud! Seadme taaskäivitamine võtab umbes 90 sekundit. Värskendus on olnud saadaval %1$d päeva.</string>
+  <string name="ab_restart_text">Varsti saab tehtud! Seadme taaskäivitamine võtab umbes 90 sekundit</string>
+  <string name="ab_restart_warning_os_mr">Süsteemivärskendus on peaaegu lõpetatud. Seade  </string>
+  <string name="ab_restart_warning_smr">Turvavärskendus on peaaegu lõpetatud.Teie seade  </string>
+  <string name="ab_warning_continues"> , et lõpetada värskendus.</string>
+  <string name="abc_action_bar_home_description">Liigu avalehele</string>
+  <string name="abc_action_bar_up_description">Liigu üles</string>
+  <string name="abc_action_menu_overflow_description">Rohkem valikuid</string>
+  <string name="abc_action_mode_done">Valmis</string>
+  <string name="abc_activity_chooser_view_see_all">Kuva kõik</string>
+  <string name="abc_activitychooserview_choose_application">Valige rakendus</string>
+  <string name="abc_capital_off">VÄLJAS</string>
+  <string name="abc_capital_on">SEES</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">kustuta</string>
+  <string name="abc_menu_enter_shortcut_label">sisestusklahv</string>
+  <string name="abc_menu_function_shortcut_label">Funktsiooniklahv +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Tõstuklahv +</string>
+  <string name="abc_menu_space_shortcut_label">tühik</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Menüü +</string>
+  <string name="abc_search_hint">Otsige …</string>
+  <string name="abc_searchview_description_clear">Päringu tühistamine</string>
+  <string name="abc_searchview_description_query">Otsingupäring</string>
+  <string name="abc_searchview_description_search">Otsing</string>
+  <string name="abc_searchview_description_submit">Päringu esitamine</string>
+  <string name="abc_searchview_description_voice">Häälotsing</string>
+  <string name="abc_shareactionprovider_share_with">Jaga:</string>
+  <string name="abc_shareactionprovider_share_with_application">Jagamine rakendusega %s</string>
+  <string name="abc_toolbar_collapse_description">Ahendamine</string>
+  <string name="abupdate_in_progress_status">Tarkvara värskendamine on pooleli</string>
+  <string name="additional_charges_message">Allalaadimist jätkatakse mobiilside kaudu. Kohalduda võivad andmesidetasud.</string>
+  <string name="alertSubText">Seda kasutatakse värskenduspaketi kontrollimiseks, allalaadimiseks ja installimiseks</string>
+  <string name="alertText">Lubage tarkvaravärskenduste jaoks võrgutoimingud</string>
+  <string name="alertTitle">Värskendused nõuavad järgmist luba</string>
+  <string name="alert_dialog_cancel">Peata paigaldamine</string>
+  <string name="alert_dialog_continue">Jätka paigaldamist</string>
+  <string name="alert_dialog_no">Ei</string>
+  <string name="alert_dialog_ok">Selge</string>
+  <string name="alert_dialog_yes">Jah</string>
+  <string name="allocate_space_success">Värskenduseks vajalik vaba ruum on olemas</string>
+  <string name="allow">Luba</string>
+  <string name="android_latest_sw_text">Kasutate uusimat tarkvara</string>
+  <string name="android_version">Androidi versioon:</string>
+  <string name="app_name">Motorola tarkvaravärskendus</string>
+  <string name="applied">Sees</string>
+  <string name="apply_bug_fix">Rakenda veaparandustele</string>
+  <string name="apply_os_update">Rakenda kõigile tarkvaravärskendustele</string>
+  <string name="applying_patch">Värskenduse rakendamine (Samm %1$d/%2$d)  </string>
+  <string name="are_you_sure">Kas lülitada nutikad värskendused välja?</string>
+  <string name="are_you_sure_pop_up_text">Kas soovite kindlasti nutikad värskendused välja lülitada? </string>
+  <string name="asc_campaign_assigned">Kampaania on määratud</string>
+  <string name="asc_campaign_is_allowed">Püsivara värskendus</string>
+  <string name="asc_campaign_is_blocked">Püsivara lukustamine</string>
+  <string name="asc_campaign_not_assigned">Seade ei osale praegu üheski kampaanias</string>
+  <string name="asc_campaign_status_prefix">
+Olek: </string>
+  <string name="asc_campaign_window_period_status">
+Värskendamisvahemik: %s – %s</string>
+  <string name="asc_sw_up_to_date"> viimasele versioonile</string>
+  <string name="asc_target_version"> versioonile </string>
+  <string name="auth_title">Süsteemivärskendus</string>
+  <string name="auto_download_cellualr_charges_warn">Mobiilvõrgu kaudu värskendusi alla laadides võidakse teilt küsida lisatasu</string>
+  <string name="auto_download_enable_cellular_future_updates">Kas soovite lubada ka tulevaste allalaadimiste jaoks mobiilse andmeside valiku?</string>
+  <string name="auto_download_settings_title">Automaatse allalaadimise seaded</string>
+  <string name="auto_download_wifi_cellular">Automaatne allalaadimine mobiil- ja Wi-Fi-võrgus</string>
+  <string name="auto_download_wifi_cellular_desc">Laadige automaatselt alla mobiilsidevõrgu ja Wi-Fi kaudu. Saadavuse korral kasutatakse kõigepealt WiFi-ühendust. </string>
+  <string name="auto_download_wifi_only">Laadi automaatselt alla ainult Wi-Fi-võrgus</string>
+  <string name="auto_download_wifi_only_desc">Automaatne allalaadimine ainult Wi-Fi kaudu</string>
+  <string name="auto_install_notification_text">Seade installib automaatselt kell %1$s</string>
+  <string name="auto_time_set">Alusta:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Kuna see on tähtis, jätkatakse värskenduse installimist automaatselt mobiilsidevõrgus %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Kuna see on tähtis, jätkatakse värskenduse allalaadimist automaatselt mobiilsidevõrgus %1$s</string>
+  <string name="background_install_msg">Värskendus jätkub, kui lähete tagasi või sulgete selle akna</string>
+  <string name="background_install_text">Värskendus laaditakse alla ja paigaldatakse. Saate jätkata seadme kasutamist.</string>
+  <string name="bad_connection">Internet puudub</string>
+  <string name="bad_connection_text">Tundub, et teie seade on hetkel võrgust väljas. Toksake alumist nuppu uuesti proovimiseks.</string>
+  <string name="bg_install_cancel_confirm">Kas olete kindel, et soovite paigaldamise peatada?</string>
+  <string name="bg_retried">Tarkvara allalaadimine katkestati. Proovime uuesti…</string>
+  <string name="bg_suspended">Andmesideühenduse ootamine taustal allalaadimise ja paigaldamise jätkamiseks</string>
+  <string name="bg_suspended_non_adminapn">Wi-Fi või nulltasuga võrguühenduse ootamine taustal allalaadimise ja installimise jätkamiseks…</string>
+  <string name="bg_suspended_roaming">Taustal installimine peatatud rändlusvõrgu tõttu. Lülitage Wi-Fi sisse, et jätkata taustal installimist.</string>
+  <string name="bg_suspended_wifi">Wi-Fi ootamine taustal allalaadimise ja paigaldamise jätkamiseks …</string>
+  <string name="bootloader_unlock_msg">Teie seade ei saa enam värskendusi ja võib olla vastuvõtlik turvariskidele.</string>
+  <string name="bootloader_unlock_title">Saadaolevaid värskendusi pole</string>
+  <string name="call_notification_answer_action">Vasta</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Keeldu</string>
+  <string name="call_notification_hang_up_action">Lõpeta kõne</string>
+  <string name="call_notification_incoming_text">Sissetulev kõne</string>
+  <string name="call_notification_ongoing_text">Käimasolev kõne</string>
+  <string name="call_notification_screening_text">Sissetuleva kõne filtreerimine</string>
+  <string name="cancel">Tühista</string>
+  <string name="cancel_download_notification">Tühista</string>
+  <string name="cancel_install">Tühista</string>
+  <string name="cancel_update_notification">Tühista</string>
+  <string name="check_for_updates_title">Värskenduste otsimine</string>
+  <string name="check_update_badparam">Värskenduskatsel tekkis tõrge nurjunud sisselogimiskatse tõttu.
+
+Proovige hiljem uuesti.</string>
+  <string name="check_update_checking">Otsin värskendusi…</string>
+  <string name="check_update_disabled_admin">Seadme värskendusi haldab IT-ülem</string>
+  <string name="check_update_downloading">Värskendust laaditakse praegu alla.
+
+Teid teavitatakse, kui allalaadimine on lõppenud.</string>
+  <string name="check_update_fail">Tekkis ootamatu tõrge.
+
+Seade proovib taustal uuesti värskendada.</string>
+  <string name="check_update_internal">Värskendusi ei saa kontrollida. Proovige hiljem uuesti.</string>
+  <string name="check_update_net">Kontrollige internetiühendust ja proovige uuesti</string>
+  <string name="check_update_net_vzw">Värskenduste otsimiseks vajate andmesideühendust. Wi-Fi-ühenduse kontrollimiseks avage Seaded &gt; Võrk ja internet &gt; Internet &gt; Wi-Fi.
+
+Teiste värskenduse valikute nägemiseks võite külastada ka aadressi motorola.com/systemupdates.</string>
+  <string name="check_update_not_sys_user">Külaliste profiilidelt ei saa värskendusi otsida</string>
+  <string name="check_update_processing">Meie serveriga ühenduse võtmine…
+Oodake</string>
+  <string name="check_update_roaming">Süsteemivärskendus on saadaval ainult koduvõrgus. 
+
+Minge Seaded &gt; Võrk ja internet &gt; Wi-Fi ühenduse koheseks seadistamiseks. </string>
+  <string name="check_update_storage_low">Värskendamine ei ole võimalik, kuna seadmes pole piisavalt salvestusruumi.</string>
+  <string name="check_update_temperror">Värskenduste allalaadimist ei saa praegu lõpetada.
+
+Palun proovige uuesti.</string>
+  <string name="check_update_text">Korrapärane värskendamine kaitseb teie seadet ja parandab jõudlust</string>
+  <string name="check_update_title_downloading">Allalaadimine töös…</string>
+  <string name="check_update_vab_validation">Otsin VAB valideerimise värskenduse olekut
+Oodake</string>
+  <string name="check_update_wifi_only">Süsteemivärskendus on saadaval ainult Wi-Fi kaudu.</string>
+  <string name="check_wifi_settings">Kontrollige Wi-Fi seadeid</string>
+  <string name="clear_space">Vabastage ruumi</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="compatibility_failed_title">Paki kinnitamine ebaõnnestus</string>
+  <string name="compatibility_verification_failure">Allalaaditav värskenduspakett ei ühildu seadme praeguse tarkvaraversiooniga.</string>
+  <string name="compatibility_verification_failure_df">
+
+Küsige oma Dogfoodi koordinaatorilt.</string>
+  <string name="compatibility_verification_success">Kinnitatud edukalt</string>
+  <string name="completed"> Paigaldamine on lõpetatud. Teil palutakse telefon taaskäivitada (samm /)%1$d%2$d</string>
+  <string name="completed_install">%s lõpetatud</string>
+  <string name="connect_to_wifi">Ühenda Wi-Fi-ga</string>
+  <string name="continue_button">Jätka</string>
+  <string name="critical_install_message_popup_os_mr">Saadaval on oluline süsteemivärskendus. Värskenduse rakendamiseks valige Install. Kui ei, rakendatakse värskendus automaatselt %1$s.</string>
+  <string name="critical_install_message_popup_smr">Saadaval on oluline turvavärskendus. Värskenduse rakendamiseks valige Install. Kui ei, rakendatakse värskendus automaatselt %1$s.</string>
+  <string name="critical_install_message_screen">See oluline värskendus installitakse automaatselt %1$s. Veenduge, et teil on piisavalt akut installimiseks.</string>
+  <string name="critical_install_notification">Kuna see värskendus on oluline, siis teie seade installib automaatselt %1$s.
+Paigaldusaeg: %2$d minutit</string>
+  <string name="critical_restart_message_popup">Selle olulise värskenduse rakendamiseks tehke taaskäivitus kohe, kui võimalik. Kui te ei saa seda teha, taaskäivitub seade automaatselt %1$s.</string>
+  <string name="critical_restart_message_screen">Kuna see on oluline värskendus, taaskäivitub teie seade automaatselt %1$s, kui te pole enne seda teinud taaskäivitamist.</string>
+  <string name="critical_restart_notification">See värskendus on oluline. Kui te ei saa praegu taaskäivitada, taaskäivitub seade automaatselt %1$s</string>
+  <string name="critical_update_notification_title">Kriitiline värskendus</string>
+  <string name="current_version">Praegune tarkvaraversioon:</string>
+  <string name="custom_slot">Kohandatud</string>
+  <string name="custom_time">Kohanda aega</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s aeg: %s</string>
+  <string name="defer_count_expired">Selge</string>
+  <string name="deny">Keela</string>
+  <string name="details">Rohkem teavet</string>
+  <string name="device_corrupted_msg">Leidsime mõned süsteemiprobleemid. Teame, et see on paras peavalu, kuid nende parandamiseks peate külastama kohalikku teeninduskeskust.
+
+Kui teie telefon on parandatud, saame jätkata teie telefoni värskenduste käitamist.</string>
+  <string name="device_corrupted_title">Telefoni tarkvara värskendamine</string>
+  <string name="dialog_alert_net_message">Kontrollige Wi-Fi või mobiilse andmesideühenduse olemasolu ja proovige uuesti.</string>
+  <string name="dialog_alert_net_title">Seadmel puudub võrguühendus</string>
+  <string name="dialog_alert_title">Aku on tühjaks saamas</string>
+  <string name="dialog_progress">Laadimine …</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fi kasutamine on soovituslik. Mobiilsideandme abil allalaadimine või selle kasutamine rändluse ajal võib kaasa tuua lisatasusid.
+
+Selle tarkvara allalaadimine ei mõjuta teie seadme toimimist.</string>
+  <string name="done">Valmis</string>
+  <string name="dont_show_this_again">Ära kuva seda enam</string>
+  <string name="download_cancelled_title">Allalaadimine katkestati</string>
+  <string name="download_deferred_status">Tarkvara allalaadimine lükati edasi</string>
+  <string name="download_failed_status">Värskenduse allalaadimine ebaõnnestus</string>
+  <string name="download_in_progress_status">Tarkvara allalaadimine on pooleli</string>
+  <string name="download_later_button">Laadi hiljem alla</string>
+  <string name="download_no_button">Ei, tänan</string>
+  <string name="download_note">Värskenduse installimise ajal saate seadme kasutamist jätkata </string>
+  <string name="download_now">Laadi kohe alla</string>
+  <string name="download_now_button">Laadi alla</string>
+  <string name="download_options">Allalaadimise suvandid</string>
+  <string name="download_progress_cancel_message">Kui soovite alla laadida selle värskenduse hiljem, avage menüü Seaded &gt; Süsteemivärskendused.</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s jäänud (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% allalaaditud (peatatud)</string>
+  <string name="download_progress_text">Allalaadimine jätkub, kui lähete tagasi või sulgete selle akna</string>
+  <string name="download_subtitle">Mida teada enne allalaadimist?</string>
+  <string name="download_text_whats_new">Mis on uut?</string>
+  <string name="download_time_left">%1$s jäänud</string>
+  <string name="download_version">Versioon %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Värskenduse alla laadimiseks on vaja Wi-Fi-ühendust. Allalaadimine jätkub ühenduse taastumisel.</string>
+  <string name="downloaded_percentage">%1$s allalaaditud</string>
+  <string name="emergency_call_btn_txt">Hädaabi</string>
+  <string name="emergency_call_text">Taaskäivitamise ajal ei saa te teha ega vastu võtta kõnesid, sh hädaabikõnesid!</string>
+  <string name="enable_wifi_error_txt">Värskenduse allalaadimiseks looge ühendus Wi-Fi-võrguga.</string>
+  <string name="eol_explore">Avastage uusi seadmeid</string>
+  <string name="eol_last_update_text">Turvapaik: </string>
+  <string name="eol_promote">Vaadake viimaseid tutvustusi</string>
+  <string name="eol_title">Teie seadmes töötab uusim saadaolev tarkvara.</string>
+  <string name="err_title_contact_server">Serveriga ühenduse võtmine…</string>
+  <string name="err_title_memory_low">Mälu on vähe…</string>
+  <string name="err_title_temp_error">Ajutine tõrge</string>
+  <string name="err_title_update">Värskendamise viga</string>
+  <string name="error_code">Veakood: </string>
+  <string name="error_copyfail">SD-kaardilt kopeerimine nurjus.</string>
+  <string name="error_disabled">Värskenduse allalaadimine ebaõnnestus. Värskenduspakett pole praegu saadaval. 
+
+Rohkem pole vaja midagi teha.</string>
+  <string name="error_fail">Kahjuks ilmnes teie %1$s värskendamisel probleem. Muudatusi ei tehtud. Proovige uuesti, milleks avage menüü Seaded &gt; Süsteemivärskendus.</string>
+  <string name="error_in_call_msg">Seade ei saa praegu värskendada, kuna kõne on pooleli</string>
+  <string name="error_in_call_title">Kõne on pooleli</string>
+  <string name="error_install_title">Installimine ebaõnnestus</string>
+  <string name="error_mismatch">Versiooni sobimatus. Värskendamine leiab uuesti aset. Kui värskendus on olemas, teavitatakse teid sellest.</string>
+  <string name="error_mismatch_sd">Värskendamine ebaõnnestus. Värskenduse versioon ei sobi telefoniga. 
+
+Laadige alla telefoni jaoks õige versioon ja proovige uuesti.</string>
+  <string name="error_network">Ühendus on katkenud Proovige uuesti, kontrollides käsitsi värskendusi telefoni seadete kaudu.</string>
+  <string name="error_reboot">Me ei saanud seda värskendust alla laadida. Kui soovite hankida selle värskenduse hiljem, taaskäivitage seade ja avage menüü Seaded &gt; Süsteemivärskendused.</string>
+  <string name="error_resources">Me ei saanud seda värskendust alla laadida. Kui soovite hankida selle värskenduse hiljem, avage menüü Seaded &gt; Süsteemivärskendused.</string>
+  <string name="error_sdcard_resources_fail_removal">SD-kaart eemaldati. Allalaadimist ei lõpetatud. 
+
+Sisestage SD-kaart uuesti ja avage uuesti proovimiseks menüü Seaded &gt; Süsteemivärskendused.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Allalaadimist ei saa lõpetada. SD-kaardil pole selleks piisavalt vaba ruumi. 
+
+Vabastage ruumi ja avage uuesti proovimiseks menüü Seaded &gt; Süsteemivärskendused.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Allalaadimise alustamiseks sisestage SD-kaart.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Allalaadimise alustamiseks ühendage SD-kaart. 
+
+Avage menüü Seaded &gt; Salvestusruum &gt; Ühenda SD-kaart.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">SD-kaardil pole allalaadimise lõpetamiseks piisavalt vaba ruumi. 
+
+Vabastage %1$s ruumi ja avage uuesti allalaadimiseks menüü Seaded &gt; Süsteemivärskendused.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Viga</string>
+  <string name="error_sdcard_resources_warning">Tarkvaravärskendus laaditakse SD-kaardile. 
+
+Ärge eemaldage SD-kaarti enne, kui installimine on lõpetatud.
+
+
+</string>
+  <string name="error_server">Serveris leidis aset tõrge. Proovige hiljem uuesti.</string>
+  <string name="error_space">See värskendus vajab, et seadmes oleks %1$s vaba ruumi. 
+
+Kustutage kasutuseta rakendused või teisaldage fotod ja videod teise mäluseadmesse , et vabastada %2$s mälu. 
+
+Kui olete lõpetanud, avage värskendamise alustamiseks menüü Seaded &gt; Süsteemivärskendused.</string>
+  <string name="error_space_retry">See värskendus vajab, et seadmes oleks %1$s vaba ruumi. 
+
+Kustutage kasutuseta rakendused või teisaldage fotod ja videod teise mäluseadmesse, et vabastada %2$s mälu.</string>
+  <string name="error_space_vab">See värskendus vajab, et seadmes oleks %1$s vaba ruumi. Edukaks värskendamiseks vabastage ruumi</string>
+  <string name="error_space_vab_make_room_popup">Peate enne värskendamist vabastama %1$s. Kustutage kasutamata rakendusi või teisaldage fotod ja videod teise mäluseadmesse.</string>
+  <string name="error_title">Allalaadimine ebaõnnestus</string>
+  <string name="error_verify">Värskendust ei saadud korralikult valideerida. Proovige uuesti.</string>
+  <string name="failed">Ebaõnnestus</string>
+  <string name="failed_in_roaming">Värskenduste jaoks on vaja Wi-Fi-ühendust</string>
+  <string name="failure_process">Infot pole</string>
+  <string name="finalizing_patch">Värskenduse lõpuleviimine … (samm 5/6)  </string>
+  <string name="first_net_text">Palun installige värskendus või seade installib selle automaatselt järgmisel taaskäivitamisel. Veenduge, et aku laetuse tase on rohkem kui %s</string>
+  <string name="forceInstallMessage">See värskendus installitakse automaatselt %1$s.</string>
+  <string name="force_install_message_screen">See on oluline värskendus, seega palun installige hiljemalt %1$s. Vastasel juhul installitakse see automaatselt ajal, mil teie seadet kasutatakse kõige vähem. Veenduge, et teil on piisavalt akut installimiseks.</string>
+  <string name="force_install_notification_message">Palun installige enne %1$s. Vastasel juhul installitakse see automaatselt ajal, mil teie seadet kasutatakse kõige vähem.
+Paigaldusaeg: %2$d minutit</string>
+  <string name="force_restart_notification_message">Palun taaskäivitage ajaks %1$s. Vastasel juhul taaskäivitatakse seade automaatselt ajal, mil teie seadet kasutatakse kõige vähem.</string>
+  <string name="force_restart_screen_message">Kui te ei taaskäivita ajaks %1$s, taaskäivitatakse seade automaatselt ajal, mil seda kasutatakse kõige vähem.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Selge</string>
+  <string name="important_update_install_overdue_message">Installimiseks kavandatud aeg on möödas. Installimine algab siis, kui teie seade vastab kriteeriumidele.</string>
+  <string name="important_update_restart_overdue_message">Taaskäivitamiseks kavandatud aeg on möödas. Seade taaskäivitub, kui vastab kriteeriumidele.</string>
+  <string name="initiating_ota_service_msg">Oodake...</string>
+  <string name="initiating_ota_service_title">Tarkvara värskendamise protsessi käivitamine</string>
+  <string name="install">Installi</string>
+  <string name="install_after_one_hour">Installige 1 tunni pärast</string>
+  <string name="install_cancelled_title">Installimine tühistati</string>
+  <string name="install_deferred_status">Värskendus lükati edasi</string>
+  <string name="install_later">Paigalda hiljem</string>
+  <string name="install_notify_sanity_call_msg">Seadet ei saa praegu taaskäivitada, kuna kõne on pooleli</string>
+  <string name="install_notify_sanity_maps_msg">Seade ei saa praegu installida, kuna navigeerimine on sees</string>
+  <string name="install_now">Paigalda kohe</string>
+  <string name="install_postponed">Installimine edasi lükatud</string>
+  <string name="install_progress_cancel_message">Kui soovite installida selle värskenduse hiljem, avage menüü Seaded &gt; Süsteemivärskendused.</string>
+  <string name="install_progress_paused_message">%s lõpetatud (peatatud)</string>
+  <string name="install_time">Installimisaeg: %1$d minutit</string>
+  <string name="install_warning">Mida teada enne paigaldamist?</string>
+  <string name="just_one_more_step">Vaid üks samm veel</string>
+  <string name="keep_it_on">Hoia see sees</string>
+  <string name="later_button">Tuleta hiljem meelde</string>
+  <string name="learn_more_online_link">Lisateave veebist</string>
+  <string name="low_battery_bg_install">Paigaldamine on madala akutaseme tõttu peatatud. Paigaldamine jätkub, kui akutase on üle 20%.</string>
+  <string name="low_battery_download">Allalaadimine on aku tühjenemise tõttu peatatud. Allalaadimine jätkub, kui seade on laetud.</string>
+  <string name="low_battery_install">Enne värskenduse installimist laadige oma seadet vähemalt %s ulatuses</string>
+  <string name="make_space">Tehke ruumi</string>
+  <string name="mandatory_install_notification">Kui te ei installi seda süsteemivärskendust varsti, jääte ilma olulistest turvavärskendustest, samuti uutest funktsioonidest ja veaparandustest.</string>
+  <string name="mandatory_restart_notification">Kuna see on oluline värskendus, siis taaskäivitage kohe. Vastasel juhul jääte ilma turvavärskendustest, samuti uutest funktsioonidest ja veaparandustest.</string>
+  <string name="medium_channel_name">Tarkvara allalaadimise teavitus</string>
+  <string name="merge_emergency_call_text">Taaskäivitamise ajal ei saa te teha ega vastu võtta kõnesid, sh hädaabikõnesid!</string>
+  <string name="merge_force_restart_text">Kui te ei soovi praegu taaskäivitada, taaskäivitub teie telefon automaatselt, kui see muutub passiivseks.</string>
+  <string name="merge_progress_text">Kui värskendus on lõpetatud, saadame teile märguande</string>
+  <string name="merge_progress_title">Värskenduse lõpetamine…</string>
+  <string name="merge_restart_text">Värskendus lõpetatakse pärast telefoni taaskäivitamist</string>
+  <string name="merge_restart_title">Palun taaskäivitage kohe</string>
+  <string name="merge_update_fail_notify_text">Leidsime mõned süsteemiprobleemid. Nende parandamiseks külastage oma teeninduskeskust</string>
+  <string name="merge_update_fail_notify_title">Värskendamine nurjus</string>
+  <string name="merge_update_fail_text">Leidsime mõned süsteemiprobleemid, mis ei lase teil värskendusi vastu võtta. Nende parandamiseks külastage oma teeninduskeskust.
+
+Vahepeal saate jätkata telefoni kasutamist nagu tavaliselt.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Konto valimine</string>
+  <string name="multiple_account_alert">Valige %1$s konto süsteemi värskendamisega jätkamiseks.</string>
+  <string name="no_thanks">Ei, tänan</string>
+  <string name="no_thanks_message">Kui soovite hankida selle värskenduse hiljem, avage menüü Seaded &gt; Süsteemivärskendused.</string>
+  <string name="no_updates_applied">Värskendusi ei ole rakendatud</string>
+  <string name="not_now">Mitte kohe</string>
+  <string name="ok">Olgu</string>
+  <string name="otaservice_perm_desc">Luba, mis peab rakendustel olema otaservice'iga suhtlemiseks</string>
+  <string name="package_size">Allalaadimismaht: %1$s</string>
+  <string name="personalInfo_instruction">Teie isiklikud andmed ei lähe kaotsi</string>
+  <string name="picker_cell_radio">Wi-Fi ja mobiilside</string>
+  <string name="picker_title">Valige, kuidas soovite seda värskendust alla laadida:</string>
+  <string name="picker_wifi_only_radio">Ainult Wi-Fi</string>
+  <string name="please_restart">Palun taaskäivitage kohe</string>
+  <string name="policy_set">Süsteemivärskendus blokeeriti. Lisateabe saamiseks võtke ühendust seadmehalduriga.</string>
+  <string name="press_back_again_to_exit">Vajutage uuesti TAGASI väljumiseks</string>
+  <string name="progress_copying_sd">Värskenduse kopeerimine</string>
+  <string name="progress_deffered">Allalaadimine algab Wi-Fi-/mobiilsidevõrgus.</string>
+  <string name="progress_downloading_ota">Süsteemivärskenduse allalaadimine</string>
+  <string name="progress_downloading_security">Turvavärskenduse allalaadimine</string>
+  <string name="progress_retried">Tarkvara allalaadimine katkestati. Proovime uuesti…</string>
+  <string name="progress_suspended">Allalaadimise jätkamiseks andmeühenduse ootamine</string>
+  <string name="progress_suspended_datasaver">Allalaadimise jätkamiseks lülitage andmete talletamine välja</string>
+  <string name="progress_suspended_no_adminapn">Allalaadimise jätkamiseks Wi-Fi-ühenduse või nulltasuga võrguühenduse ootamine</string>
+  <string name="progress_suspended_roaming">Allalaadimine pandi rändlusvõrgu tõttu pausile; allalaadimise jätkamiseks lülitage sisse Wi-Fi-ühendus.</string>
+  <string name="progress_suspended_wifi">Allalaadimise jätkamiseks Wi-Fi-ühenduse ootamine…</string>
+  <string name="progress_verify">Seadme värskendusvalmiduse kontrollimine…</string>
+  <string name="progress_verify_allocate_space">Piisava vaba ruumi kontrollimine</string>
+  <string name="relative_date_time">%1$s kell %2$s</string>
+  <string name="release_note_battery_desc">Värskendused pikendavad aku eluiga ja parandavad akukasutust</string>
+  <string name="release_note_battery_title">Aku</string>
+  <string name="release_note_camera_desc">Need täiustused võimaldavad teha selgemaid fotosid</string>
+  <string name="release_note_camera_title">Kaamera</string>
+  <string name="release_note_cellular_desc">Muudatused parandavad seadme andmesidet</string>
+  <string name="release_note_cellular_title">Mobiilside</string>
+  <string name="release_note_charging_desc">Need värskendused parandavad laadimist</string>
+  <string name="release_note_charging_title">Laadimine</string>
+  <string name="release_note_generic_desc">Muudatused parandavad seadme üldist jõudlust</string>
+  <string name="release_note_os_update_desc">Uued monokromaatilised teemad annavad teie telefonile elegantse välimuse ja muudavad taustapildi silmatorkavaks. Vaadake üle, kuidas rakendused teie andmeid kasutavad ja jagavad, enne kui annate rakendusele loa, ning parandage Android 14 uute kuulmis- ja nägemisfunktsioonidega juurdepääsetavust.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Muudatused parandavad seadme üldist jõudlust</string>
+  <string name="release_note_performance_title">Jõudlus</string>
+  <string name="release_note_security_desc">Sisaldab turvapaiku: %1$s</string>
+  <string name="release_note_security_title">Turvavärskendus</string>
+  <string name="release_note_stability_desc">Sisaldab täiustusi ja veaparandusi, mis teevad telefoni veelgi töökindlamaks</string>
+  <string name="release_note_stability_title">Stabiilsus</string>
+  <string name="release_note_title">See värskendus sisaldab järgmist</string>
+  <string name="release_note_wifi_desc">Sisaldab Wi-Fi-ühenduse värskendusi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Vaadake kõiki uusi funktsioone Androidis %1$s</string>
+  <string name="request_suspended_datasaver">Allalaadimise alustamiseks lülitage andmete talletamine välja</string>
+  <string name="request_suspended_no_network">Võrguühendus allalaadimise alustamiseks puudub</string>
+  <string name="restart_after_one_hour">Taaskäivita 1 tunni pärast</string>
+  <string name="restart_instruction_title">Mida teada enne taaskäivitamist</string>
+  <string name="restart_later">Hiljem</string>
+  <string name="restart_message">Värskendamiseks taaskäivitage kohe</string>
+  <string name="restart_notification">Taaskäivita</string>
+  <string name="restart_notification_text">Värskendamiseks taaskäivitage kohe. Värskendus on olnud %1$d päeva ootel.</string>
+  <string name="restart_notify_sanity_call_msg">Seadet ei saa praegu taaskäivitada, kuna kõne on pooleli</string>
+  <string name="restart_notify_sanity_maps_msg">Seadet ei saa praegu taaskäivitada, kuna navigeerimine on sees</string>
+  <string name="restart_now">Taaskäivita kohe</string>
+  <string name="restart_postponed">Taaskäivitamine edasi lükatud</string>
+  <string name="restart_title">Taaskäivitage seade</string>
+  <string name="resume_download_on_cellular">Kasuta mobiilsideandmeid</string>
+  <string name="retrieving_token">Autentimine...</string>
+  <string name="sdcard_predownload_text">
+Selles sammus kopeerite värskenduse süsteemi mällu. Värskendus installitakse järgmises sammus. 
+
+Ühendage telefon vooluallikaga, et aku tühjaks ei saaks.</string>
+  <string name="search_menu_title">Otsing</string>
+  <string name="secure_instruction">See protsess on turvaline</string>
+  <string name="security_download_notification_title">Täiustage oma turvalisust</string>
+  <string name="security_install_notification_text">Uus turvavärskendus on installimiseks valmis</string>
+  <string name="security_install_title">Turvavärskendus on valmis</string>
+  <string name="security_patch">Turvapaik:</string>
+  <string name="security_update_low_storage_title">Turvavärskendus</string>
+  <string name="security_update_notification_text">Hankige uusim turvavärskendus</string>
+  <string name="security_update_paused">Turvavärskendus peatatud</string>
+  <string name="security_update_pending_notification_text">Hankige uusim turvavärskendus. Värskendus on olnud %1$d päeva ootel.</string>
+  <string name="security_update_title">Turvavärskendus</string>
+  <string name="select_account">Valige %1$s konto</string>
+  <string name="selected_later_time_os_mr">Süsteemivärskendus paigaldatakse </string>
+  <string name="selected_later_time_smr">Turvavärskendus paigaldatakse </string>
+  <string name="setting_sw_summary">Värskendage uusimale tarkvarale </string>
+  <string name="setting_sw_title">Süsteemivärskendused</string>
+  <string name="smart_cancel_update_toast_msg">Värskendus on ümber ajastatud %1$s</string>
+  <string name="smart_end_time">Lõpeta</string>
+  <string name="smart_install_message_popup">Kuna te olete lubanud nutivärskendused, installib teie seade automaatselt värskenduse %1$s, kui te ei ole selleks ajaks installinud. Veenduge, et teil on installimiseks piisavalt akut.</string>
+  <string name="smart_restart_message_popup">Kuna te olete lubanud nutivärskendused, taaskäivitub teie seade automaatselt %1$s, kui te ei ole selleks ajaks juba taaskäivitanud.</string>
+  <string name="smart_settings_string">Värskendused laaditakse alla ja installitakse automaatselt, kui olete Wi-Fi-ga ühendatud</string>
+  <string name="smart_settings_string_Softbank">Värskendused laaditakse alla ja installitakse automaatselt, kui olete Wi-Fi-ga ühendatud või kasutate mobiilandmesidet</string>
+  <string name="smart_settings_string_vzw">Värskendused laaditakse alla ja installitakse automaatselt</string>
+  <string name="smart_start_time">Alusta</string>
+  <string name="smart_to_string">Kuni</string>
+  <string name="smart_update_advanced">Täpsemad</string>
+  <string name="smart_update_note">Turvalisuse huvides laaditakse kõik olulised turvavärskendused alla ja paigaldatakse automaatselt olenemata sellest, kas see funktsioon on sees või väljas</string>
+  <string name="smart_update_note_vzw">Turvalisuse huvides laaditakse kõik tähtsad turvavärskendused alla ja paigaldatakse automaatselt, olenemata sellest, kas see funktsioon on sees või väljas.</string>
+  <string name="smart_update_pop_up_text">Hoidke oma seade turvaliselt ja kaitstuna automaatsete värskendustega</string>
+  <string name="smart_update_recommendation">Proovige nutivärskendusi</string>
+  <string name="smart_update_suggestion_text">Olge kaitstud automaatsete värskendustega</string>
+  <string name="smart_update_text_AB">Paigaldage automaatselt kõik uued turvavärskendused ja veaparandused, et teie seade töötaks turvaliselt ja tõhusalt.</string>
+  <string name="smart_update_text_AB_vzw">Nutivärskendused aitavad teie seadmel töötada ohutult ja tõhusalt. Kui lülitate need sisse, laaditakse kõik tulevased <b>tubevärskendused</b> automaatselt alla. Pärast allalaadimist taaskäivitub seade teie valitud ajal.</string>
+  <string name="smart_update_text_classic">Nutivärskendused aitavad teie seadmel töötada ohutult ja tõhusalt. Kui lülitate need sisse, laaditakse kõik tulevased <b>tubevärskendused ja veaparandused</b> automaatselt alla. Pärast allalaadimist taaskäivitub seade ja installib värskendused teie valitud ajal.</string>
+  <string name="smart_update_text_classic_vzw">Nutivärskendused aitavad teie seadmel töötada ohutult ja tõhusalt. Kui lülitate need sisse, laaditakse kõik tulevased <b>tubevärskendused</b> automaatselt alla. Pärast allalaadimist taaskäivitub seade ja installib värskendused teie valitud ajal.</string>
+  <string name="smart_update_time_slot_text_AB">Valige algusaeg</string>
+  <string name="smart_update_time_slot_text_classic">Valige installimise aeg</string>
+  <string name="smart_update_title">Nutivärskendused</string>
+  <string name="software_not_update_to">Teie tarkvara pole veel värskendatud</string>
+  <string name="software_update_in_progress">Teie süsteemi värskendatakse versioonile</string>
+  <string name="software_update_planned_summary">Kontrollitud - %1$s</string>
+  <string name="software_update_planned_title">Tarkvaravärskendus kavandatud</string>
+  <string name="software_update_to">Teie süsteemi on värskendatud</string>
+  <string name="sofware_version">Tarkvaraversioon:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Tee värskenduse jaoks ruumi</string>
+  <string name="su_btn">Seaded</string>
+  <string name="su_text_off">Kui saadaval on uus tarkvara, peate seadet käsitsi värskendama. Et värskendamine toimuks automaatselt, lülitage nutivärskendused sisse. Lisateabe saamiseks puudutage.</string>
+  <string name="su_text_on">Nutivärskendusi otsitakse vaikimisi kella 1 ja 3 vahel öösel. Võite värskendamisaega muuta või nutivärskendused seadetes välja lülitada. Lisateabe saamiseks puudutage.</string>
+  <string name="su_title_off">Nutivärskendused on väljas</string>
+  <string name="su_title_on">Nutivärskendused on sees</string>
+  <string name="system_download_notification_title">Süsteemivärskendus</string>
+  <string name="system_install_notification_text">Süsteemivärskendus on installimiseks valmis</string>
+  <string name="system_install_title">Värskendus on valmis</string>
+  <string name="system_pdl_notification_mr_title">Hankige veaparandusi ja palju muud</string>
+  <string name="system_pdl_notification_os_title">Android %1$s on kohal!</string>
+  <string name="system_update">Süsteemivärskendus</string>
+  <string name="system_update_desc">Kaitske oma seadet turvaohtude eest ning hankige uusimad Motorola ja Androidi funktsioonid</string>
+  <string name="system_update_info_not_available">Pole saadaval</string>
+  <string name="system_update_low_storage_text">Toksake siin, et kontrollida mälu ja jätkata.</string>
+  <string name="system_update_low_storage_title">Süsteemivärskendus</string>
+  <string name="system_update_notification_os_text">Kogege uut Androidi</string>
+  <string name="system_update_notification_text">Laadige alla uus tarkvara</string>
+  <string name="system_update_paused">Süsteemivärskendus on peatatud</string>
+  <string name="system_update_pending_notification_os_text">Kogege uut Androidi. Värskendus on olnud %1$d päeva ootel.</string>
+  <string name="system_update_pending_notification_text">Laadige alla uus tarkvara Värskendus on olnud %1$d päeva ootel.</string>
+  <string name="system_update_settings_list_item_title">Süsteemivärskendused</string>
+  <string name="system_update_status">Värskenduse olek</string>
+  <string name="system_update_title">Süsteemivärskendus</string>
+  <string name="tethered_permission_desc">Saada 3c värskenduse tulemused</string>
+  <string name="tethered_update_result">Jagatud värskenduse tulemus</string>
+  <string name="time_picker_text">Alusta installimist ilma meeldetuletuseta</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Proovige uuesti</string>
+  <string name="turn_it_off">Lülita see välja</string>
+  <string name="turn_it_on">Lülita sisse</string>
+  <string name="turn_on_smart_updates">Lülita nutikad värskendused sisse</string>
+  <string name="update">Värskenda</string>
+  <string name="update_blocked_by_policy">Värskendus blokiti administraatoripoliitika tõttu </string>
+  <string name="update_cancelled_status">Tarkvara allalaadimine katkestati</string>
+  <string name="update_fail_desc">Midagi läks valesti</string>
+  <string name="update_fail_status">Värskendamine nurjus</string>
+  <string name="update_fail_sucancel_dm_status">Server tühistas värskenduse</string>
+  <string name="update_fail_title">Värskendamine nurjus</string>
+  <string name="update_history_blank">Ajalugu puudub</string>
+  <string name="update_history_src_target">Värskenda versioonilt %1$s versioonile %2$s</string>
+  <string name="update_history_time">Värskendatud %1$s</string>
+  <string name="update_history_title">Värskendamise ajalugu</string>
+  <string name="update_history_version">Tarkvaraversioon %1$s</string>
+  <string name="update_info">Värskendamine …</string>
+  <string name="update_postpone_policy">Värskendus lükati administraatoripoliitika tõttu edasi </string>
+  <string name="update_preference">Värskenduse eelistused</string>
+  <string name="update_success_desc">Praegune tarkvaraversioon: %1$s</string>
+  <string name="update_success_desc_os">Õnnitlused! Olete edukalt installinud Androidi %1$s. Nüüd olete valmis nautima paremat, nutikamat ja turvalisemat Androidi kasutuskogemust.</string>
+  <string name="update_success_status">Värskendamine õnnestus</string>
+  <string name="update_title">Värskendatud</string>
+  <string name="update_title_text">Nautige oma uut tarkvara!</string>
+  <string name="upto_date_title">Kõik tundub hea!</string>
+  <string name="urgent_channel_name">Tarkvaravärskenduse teatis</string>
+  <string name="use_smart_updates">Kasuta nutivärskendusi</string>
+  <string name="vab_validation_update_failure_desc">VAB valideerimise värskendus nurjus</string>
+  <string name="vab_validation_update_failure_title">VAB valideerimine nurjus</string>
+  <string name="vab_validation_update_success_desc">Õnnitlused! VAB valideerimise värskendus õnnestus</string>
+  <string name="vab_validation_update_success_title">VAB valideerimine õnnestus</string>
+  <string name="verifying_patch">Värskendus rakendati. Rakendamise õnnestumise kinnitamine … (samm 4/6)  </string>
+  <string name="verity_disabled_msg">Teie seade võib olla vastuvõtlik turvariskidele. Käivitage järgnev käsk värskenduste jätkamiseks
+
+: adb enable-verify</string>
+  <string name="verity_disabled_title">Teie seade ei saa enam värskendusi</string>
+  <string name="verizon_failure_notification_text"> Teie seade ei saanud seda värskendust installida. Kasutage tarkvara täiendamise assistenti installimiseks. Toksake lisainfoks.</string>
+  <string name="verizon_failure_text">Seadme värskendamisel ilmnes probleem. Muudatusi ei tehtud. Tarkvara värskendamiseks saate kasutada tarkvara värskendamise assistenti.
+
+Tarkvara värskendamise assistendi paigaldamiseks tehke järgmist.
+
+1. Ühendage seade USB-kaabli abil arvutiga
+2. Kui seadmes avaneb USB menüü, valige paremas ülemises nurgas seadete ikoon
+3. USB eelistuste alt valige tarkvara paigaldamine
+4. Lülituge arvutile ja otsige paigaldusviisardit
+5. Tutvuge viisardiga
+
+Tarkvara värskendamise assistent aitab laadida tarkvaravärskendused seadmesse ja need paigaldada.</string>
+  <string name="vital_applying_updates">Värskenduste rakendamine…</string>
+  <string name="vital_bg_text">Sellele võib kuluda paar minutit.</string>
+  <string name="vital_check_for_updates">Värskenduste otsimine…</string>
+  <string name="vital_check_for_updates_desc">Värskendused tagavad teie seadme turvalisuse ja parandavad selle jõudlust.</string>
+  <string name="vital_done">Valmis!</string>
+  <string name="vital_error_fail">Ilmnes värskendusviga. Muudatusi ei tehtud.</string>
+  <string name="vital_go_back">Kas olete kindel, et soovite installimise peatada?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Jätkamiseks taaskäivita</string>
+  <string name="vital_skip">Jäta vahele</string>
+  <string name="vital_stop">Peata</string>
+  <string name="wifi_setting">Wi-Fi seaded</string>
+</resources>

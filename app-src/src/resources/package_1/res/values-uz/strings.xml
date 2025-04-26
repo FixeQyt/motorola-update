@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Keyinroq yangilash</string>
+  <string name="ab_download_now">Hozir yangilash</string>
+  <string name="ab_install_notification_paused_text">Fonda oʻrnatish pauza qilingan</string>
+  <string name="ab_install_notification_text">Fonda oʻrnatish</string>
+  <string name="ab_restart_fullscreen_text">Qurilmangizni qayta ishga tushirishga taxminan 90 soniya vaqt ketadi. Yangilanish %1$dkundan beri mavjud.</string>
+  <string name="ab_restart_text">Qurilmangizni qayta ishga tushirishga taxminan 90 soniya vaqt ketadi.</string>
+  <string name="ab_restart_warning_os_mr">Tizim yangilanishi deyarli tugallandi. Qurilmangiz  </string>
+  <string name="ab_restart_warning_smr">Xavfsizlik yangilanishi deyarli tugallandi. Sizning qurilmangiz:   </string>
+  <string name="ab_warning_continues">( yangilanishni yakunlash uchun).</string>
+  <string name="abc_action_bar_home_description">Boshiga o‘tish</string>
+  <string name="abc_action_bar_up_description">Yopish</string>
+  <string name="abc_action_menu_overflow_description">Yana</string>
+  <string name="abc_action_mode_done">OK</string>
+  <string name="abc_activity_chooser_view_see_all">Hammasi</string>
+  <string name="abc_activitychooserview_choose_application">Ilovani tanlang</string>
+  <string name="abc_capital_off">YOQILMAGAN</string>
+  <string name="abc_capital_on">YONIQ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Enter</string>
+  <string name="abc_menu_function_shortcut_label">Fn+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">Probel</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menyu+</string>
+  <string name="abc_search_hint">Qidirish…</string>
+  <string name="abc_searchview_description_clear">So‘rovni o‘chirish</string>
+  <string name="abc_searchview_description_query">Qidiruv so‘rovi</string>
+  <string name="abc_searchview_description_search">Qidiruv</string>
+  <string name="abc_searchview_description_submit">So‘rov yaratish</string>
+  <string name="abc_searchview_description_voice">Ovozli qidiruv</string>
+  <string name="abc_shareactionprovider_share_with">Ulashish</string>
+  <string name="abc_shareactionprovider_share_with_application">%s orqali ulashish</string>
+  <string name="abc_toolbar_collapse_description">Yig‘ish</string>
+  <string name="abupdate_in_progress_status">Dasturiy taʼminot yuklab olish davom etmoqda</string>
+  <string name="additional_charges_message">Yuklab olish mobil internet orqali davom etadi. Trafik sarflanishi mumkin.</string>
+  <string name="alertSubText">Bundan yangilanish toʻplamini tekshirish, yuklab olish va oʻrnatish uchun foydalaniladi</string>
+  <string name="alertText">Dasturiy taʼminotni yangilash uchun tarmoq operatsiyalariga ruxsat bering</string>
+  <string name="alertTitle">Yangilanishlar quyidagi ruxsatlarni talab qiladi</string>
+  <string name="alert_dialog_cancel">Oʻrnatishni toʻxtatish</string>
+  <string name="alert_dialog_continue">Oʻrnatishda davom etish</string>
+  <string name="alert_dialog_no">Yo‘q</string>
+  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_yes">Ha</string>
+  <string name="allocate_space_success">Kerakli xotira yangilanish uchun mavjud</string>
+  <string name="allow">Ruxsat berish</string>
+  <string name="android_latest_sw_text">Siz eng soʻnggi dasturiy taʼminotdan foydalanmoqdasiz</string>
+  <string name="android_version">Android versiyasi:</string>
+  <string name="app_name">Motorola dasturiy taʼminotini yangilash</string>
+  <string name="applied">Yoniq</string>
+  <string name="apply_bug_fix">Xatolarni tuzatish uchun qoʻllash</string>
+  <string name="apply_os_update">Barcha dasturiy taʼminot yangilanishlariga joriy qilish</string>
+  <string name="applying_patch">Yangilanish joriy etilmoqda… (%2$d/%1$d-qadam)  </string>
+  <string name="are_you_sure">Aqlli yangilanishlar oʻchirilsinmi?</string>
+  <string name="are_you_sure_pop_up_text">Siz chindan ham aqlli yangilanishlarni oʻchirmoqchimisiz? </string>
+  <string name="asc_campaign_assigned">Kampaniya belgilandi</string>
+  <string name="asc_campaign_is_allowed">Mikrodasturni yangilash</string>
+  <string name="asc_campaign_is_blocked">Mikrodasturni bloklash</string>
+  <string name="asc_campaign_not_assigned">Kampaniya tayinlanmagan</string>
+  <string name="asc_sw_up_to_date">oxirgi versiyagacha</string>
+  <string name="asc_target_version">  versiyasigacha</string>
+  <string name="auth_title">Tizimni yangilash</string>
+  <string name="auto_download_cellualr_charges_warn">Mobil tarmoq orqali dasturiy taʼminot toʻplamlarini yuklab olishda qoʻshimcha haq olinishi mumkin.</string>
+  <string name="auto_download_enable_cellular_future_updates">Kelgusi yuklab olishlar uchun mobil trafikdan foydalanmoqchimisiz?</string>
+  <string name="auto_download_settings_title">Avtomatik yuklab olish sozlamalari</string>
+  <string name="auto_download_wifi_cellular">Uyali (faqat mahalliy) va Wi-Fi orqali avtomatik yuklab olish</string>
+  <string name="auto_download_wifi_cellular_desc">Uyali aloqa va Wi-Fi orqali avtomatik yuklab oling. Wi-Fi mavjud boʻlganda birinchi boʻlib qoʻllaniladi. </string>
+  <string name="auto_download_wifi_only">Avtomatik yuklab olish faqat Wi-Fi orqali</string>
+  <string name="auto_download_wifi_only_desc">Avtomatik yangilanish faqat Wi-Fi orqali amalga oshiriladi</string>
+  <string name="auto_install_notification_text">Qurilma %1$s da avtomatik tarzda oʻrnatadi</string>
+  <string name="auto_time_set">Boshlanadigan vaqt:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Muhimligi sababli, ushbu yangilanish %1$sda mobil maʼlumotlardan foydalangan holda avtomatik ravishda oʻrnatiladi</string>
+  <string name="automatic_download_on_cellular_warning">Muhimligi sababli, ushbu yangilanish, %1$s dagi mobil trafikdan foydalangan holda avtomatik ravishda yuklanadi</string>
+  <string name="background_install_msg">Agar orqaga qaytsangiz yoki bu oynani yopsangiz, bu yangilanish davom etadi.</string>
+  <string name="background_install_text">Yangilanish yuklab olinmoqda&amp; oʻrnatilmoqda. Siz qurilmangizdan foydalanib davom etishingiz mumkin</string>
+  <string name="bad_connection">Aloqa yoʻq</string>
+  <string name="bad_connection_text">Qurilmangiz internetga ulanmagan shekilli. Yana urinib koʻrish uchun tugmani bosing.</string>
+  <string name="bg_install_cancel_confirm">Siz chindan ham oʻrnatishni toʻxtatmoqchimisiz?</string>
+  <string name="bg_retried">Dasturiy taʼminotni yuklab olish uzilib qoldi. Biz harakat qilyapmiz…</string>
+  <string name="bg_suspended">Fonni yuklab olish va oʻrnatishni davom ettirish uchun internet ulanishi kutilmoqda…</string>
+  <string name="bg_suspended_non_adminapn">Fonda yuklab olish va oʻrnatishni davom ettirish uchun Wi-Fi yoki nol reytingli tarmoq kutilmoqda…</string>
+  <string name="bg_suspended_roaming">Tarmoq roumingi tufayli fonli oʻrnatish toʻxtatildi, fonli oʻrnatishni davom ettirish uchun Wi-Fi-ni yoqing.</string>
+  <string name="bg_suspended_wifi">Fonda yuklab olish va oʻrnatishni davom ettirish uchun Wi-Fi kutilmoqda…</string>
+  <string name="bootloader_unlock_msg">Qurilmangiz yangilanishlarni ortiq qabul qilmayapti va bu uning xavfsizligiga xavf solishi mumkin.</string>
+  <string name="bootloader_unlock_title">Yangilanishlar mavjud emas</string>
+  <string name="call_notification_answer_action">Javob berish</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Rad etish</string>
+  <string name="call_notification_hang_up_action">Tugatish</string>
+  <string name="call_notification_incoming_text">Kiruvchi chaqiruv</string>
+  <string name="call_notification_ongoing_text">Joriy chaqiruv</string>
+  <string name="call_notification_screening_text">Kiruvchi chaqiruvni filtrlash</string>
+  <string name="cancel">Bekor qilish</string>
+  <string name="cancel_download_notification">Bekor qilish</string>
+  <string name="cancel_install">Bekor qilish</string>
+  <string name="cancel_update_notification">Bekor qilish</string>
+  <string name="check_for_updates_title">Yangilashlarni tekshirish</string>
+  <string name="check_update_badparam">Tizimga kirib boʻlmagani sababli yangilashga urinishida xatolik yuz berdi.
+
+Keyinroq qayta urining.</string>
+  <string name="check_update_checking">Yangilanishlarni tekshirish</string>
+  <string name="check_update_disabled_admin">IT maʼmuri tomonidan nazorat qilinadi</string>
+  <string name="check_update_downloading">Hozirda yangilanish yuklab olinmoqda.
+
+Yuklab olish tugallangandan soʻng siz bildirishnoma olasiz.</string>
+  <string name="check_update_fail">Kutilmagan xatolik yuz berdi
+
+Qurilma fonda yana yangilashga harakat qiladi.</string>
+  <string name="check_update_internal">Yangilanishlarni tekshirib boʻlmadi. Keyinroq qayta urinib koʻring.</string>
+  <string name="check_update_net">Yangilanishlarni tekshirish uchun maʼlumotlar tarmogʻiga ulangan boʻlishingiz kerak. Wi-Fi ulanishingizni tekshirish uchun Sozlamalar &gt; Tarmoq va Internet &gt; Internet &gt; Wi-Fi-ga o‘ting.</string>
+  <string name="check_update_net_vzw">Yangilanishlarni tekshirish uchun maʼlumotlar tarmogʻiga ulangan boʻlishingiz kerak. Wi-Fi ulanishingizni tekshirish uchun Sozlamalar &gt; Tarmoq va Internet &gt; Internet &gt; Wi-Fi-ga o‘ting.
+
+Boshqa yangilash opsiyalarini ko‘rish uchun motorola.com/systemupdates saytiga ham tashrif buyurishingiz mumkin.</string>
+  <string name="check_update_processing">Server bilan bogʻlanyapmiz…
+ Kutib turing</string>
+  <string name="check_update_roaming">Tizim yangilanishi faqat uy tarmogʻi uchun mavjud. 
+
+Ulanishni hozir sozlash uchun Sozlamalar &gt; Tarmoq va internet &gt; Wi-Fi-ga o‘ting.</string>
+  <string name="check_update_storage_low">Qurilmangizda xotirada joy yetarli emasligi sababli yangilash mavjud emas.</string>
+  <string name="check_update_temperror">Yangilanishlarni yuklab olish shu nuqtada tugallanmadi.
+
+Qayta urining.</string>
+  <string name="check_update_text">Vaqti-vaqti bilan yangilanishlarni tekshirish qurilmangiz xavfsizligini va ish faoliyatini yaxshilashi mumkin.</string>
+  <string name="check_update_title_downloading">Yuklab olish davom etmoqda</string>
+  <string name="check_update_vab_validation">VAB tekshiruvi yangilanishi holati tekshirilmoqda 
+ Kutib turing</string>
+  <string name="check_update_wifi_only">Tizimni yangilash faqat Wi-Fi orqali mavjud</string>
+  <string name="check_wifi_settings">Wi-Fi sozlamalarini tekshirish</string>
+  <string name="clear_space">Joy boʻshatish</string>
+  <string name="cloud_picker_title">Bulut yigʻuvchi</string>
+  <string name="compatibility_failed_title">Toʻplamni tekshirib boʻlmadi</string>
+  <string name="compatibility_verification_failure">Yuklab olinayotgan yangilanish toʻplami qurilmadagi joriy dasturiy taʼminot versiyasiga mos kelmaydi.</string>
+  <string name="compatibility_verification_failure_df">
+
+Dogfood koordinatoringiz bilan maslahatlashing.</string>
+  <string name="compatibility_verification_success">Muvaffaqiyatli tekshirildi</string>
+  <string name="completed"> Oʻrnatish tugallandi. Sizdan telefoningizni qayta ishga tushirish soʻraladi (%1$d/%2$d-qadam )</string>
+  <string name="completed_install">%s yakunlandi</string>
+  <string name="continue_button">Davom etish</string>
+  <string name="critical_install_message_popup_os_mr">Muhim tizim yangilanishi mavjud. Yangilanishni joriy etish uchun oʻrnatishni tanlang Aks holda, yangilanish %1$sda avtomatik ravishda joriy etiladi.</string>
+  <string name="critical_install_message_popup_smr">Muhim xavfsizlik yangilanishi mavjud Yangilanishni joriy etish uchun oʻrnatishni tanlang Aks holda, yangilanish %1$sda avtomatik ravishda joriy etiladi.</string>
+  <string name="critical_install_message_screen">Ushbu muhim yangilanish %1$sda avtomatik ravishda oʻrnatiladi. Oʻrnatish uchun batareyangiz quvvati yetarli ekanligiga ishonch hosil qiling.</string>
+  <string name="critical_install_notification">Ushbu yangilanish muhim boʻlgani uchun u %1$s da qurilmangizga avtomatik ravishda oʻrnatiladi.
+ oʻrnatish vaqti: %2$d daqiqa</string>
+  <string name="critical_restart_message_popup">Ushbu muhim yangilanishni imkon qadar tezroq kiritish uchun qurilmangizni qayta ishga tushiring. Agar siz qoʻlda qayta ishga tushirmasangiz, qurilmangiz %1$sda avtomatik ravishda yoqiladi.</string>
+  <string name="critical_restart_message_screen">Agar siz haligacha qayta yoqmagan boʻlsangiz, bu yangilanish muhim boʻlgani uchun, qurilmangiz avtomatik ravishda %1$s qayta ishga tushadi.</string>
+  <string name="critical_restart_notification">Bu yangilanish muhim boʻlgani uchun qurilmangiz %1$s da avtomatik ravishda qayta ishga tushadi</string>
+  <string name="critical_update_notification_title">Muhim yangilanish</string>
+  <string name="current_version">Joriy dasturiy taʼminot versiyasi:</string>
+  <string name="custom_slot">Maxsus</string>
+  <string name="date_time">%s, %s da</string>
+  <string name="defer_count_expired">OK</string>
+  <string name="deny">Rad etish</string>
+  <string name="details">Tafsilotlar</string>
+  <string name="dialog_alert_net_message">Wi-Fi yoki mobil internet ulanishingizni tekshiring va qaytadan urinib koʻring.</string>
+  <string name="dialog_alert_net_title">Sizning qurilmangiz oflayn</string>
+  <string name="dialog_alert_title">Batareya quvvati kam</string>
+  <string name="dialog_progress">Yuklanmoqda…</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fiʼdan foydalanish tavsiya etiladi Roumingda mobil internet yoki mobil trafikdandan foydalangan holda yuklab olishga qoʻshimcha haq olinishi mumkin.
+
+Ushbu dasturni yuklab olish qurilmangizning ishlashiga taʼsir qilmaydi.</string>
+  <string name="done">Tayyor</string>
+  <string name="dont_show_this_again">Bu boshqa koʻrsatilmasin</string>
+  <string name="download_cancelled_title">Yuklab olish bekor qilindi</string>
+  <string name="download_deferred_status">Dasturiy taʼminotning toʻxtab qolganda yuklab olingani:</string>
+  <string name="download_failed_status">Yangilanishning yuklanmay qolgani:</string>
+  <string name="download_in_progress_status">Dasturiy taʼminotni yuklash davom etmoqda</string>
+  <string name="download_later_button">Keyinroq yuklab olish</string>
+  <string name="download_no_button">Yoʻq, rahmat</string>
+  <string name="download_note">Yangilanish oʻrnatilayotgan vaqtda qurilmangizdan foydalanishni davom ettirishingiz mumkin </string>
+  <string name="download_now">Hozir yuklab olish</string>
+  <string name="download_now_button">Yuklab olish</string>
+  <string name="download_options">Yuklab olish opsiyalari</string>
+  <string name="download_progress_cancel_message">Agar siz ushbu yangilanishni keyinroq yuklab olishni istasangiz, Sozlamalar &gt; Tizim yangilanishlari bo‘limiga o‘ting</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s qoldi (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% yuklab olindi (pauza qilingan)</string>
+  <string name="download_progress_text">Agar orqaga qaytsangiz yoki bu oynani yopsangiz, yuklab olish davom etadi.</string>
+  <string name="download_subtitle">Yuklab olishdan oldin nimani bilish kerak</string>
+  <string name="download_text_whats_new">Yangiliklarni koʻring</string>
+  <string name="download_time_left">%1$s qoldi</string>
+  <string name="download_version">Yangi versiya: %1$s</string>
+  <string name="download_wifi_only_error">Bu yangilanishni yuklab olish uchun Wi-Fi kerak boʻladi. Ulanish tiklangandan keyin yuklab olish davom etadi.</string>
+  <string name="downloaded_percentage">%1$s yuklab olindi</string>
+  <string name="emergency_call_btn_txt">Favqulodda holat</string>
+  <string name="emergency_call_text">Qayta yuklash vaqtida chaqiruvlarni, shu jumladan favqulodda chaqiruvlarni qilish yoki qabul qilish mumkin emas!</string>
+  <string name="enable_wifi_error_txt">Yangilanishni yuklab olish uchun Wi-Fi tarmoqqa ulaning.</string>
+  <string name="eol_explore">Yangi qurilmalarni oʻrganing</string>
+  <string name="eol_last_update_text">Xavfsizlik patchi: </string>
+  <string name="eol_promote">Oxirgi aksiyalarni koʻrish</string>
+  <string name="eol_title">Qurilmangizda eng soʻnggi mavjud dasturiy taʼminot oʻrnatilgan.</string>
+  <string name="err_title_contact_server">Server bilan bogʻlanilmoqda…</string>
+  <string name="err_title_memory_low">Xotira kam…</string>
+  <string name="err_title_temp_error">Vaqtinchalik xatolik</string>
+  <string name="err_title_update">Yangilanishdagi xatolik</string>
+  <string name="error_code">Xato kodi: </string>
+  <string name="error_copyfail">SD karta joylashgan joydan nusxa ko‘chirib bo‘lmadi.</string>
+  <string name="error_disabled">Yangilanishni yuklab boʻlmadi. Yangilash toʻplami hozircha mavjud emas. 
+
+Boshqa amal talab qilinmaydi.</string>
+  <string name="error_fail">Uzr, %1$sni yangilashda muammo yuz berdi. Oʻzgartirishlar qilinmagan. Sozlamalar &gt; Tizim yangilanishi bo‘limiga o‘tish orqali qayta urinib ko‘ring.</string>
+  <string name="error_in_call_msg">Qurilma hozir maʼlumotni yangilay olmaydi, chunki chaqiruv qilinmoqda</string>
+  <string name="error_in_call_title">Qoʻngʻiroq amalga oshirilmoqda</string>
+  <string name="error_install_title">O‘rnatish amalga oshmadi</string>
+  <string name="error_mismatch">Versiyada nomuvofiqlik yuz berdi. Yangilanish yana boʻladi. Agar ulardan biri mavjud boʻlsa, sizdan soʻraladi.</string>
+  <string name="error_mismatch_sd">Yangilab boʻlmadi Yangilanish versiyasi telefoningizga mos kelmaydi. 
+
+Iltimos, telefoningiz uchun toʻgʻri versiyani yuklab oling va qaytadan urinib koʻring.</string>
+  <string name="error_network">Aloqa yoʻqoldi Telefon sozlamalari orqali yangilanishlarni qoʻlda tekshirib qayta urinib koʻring.</string>
+  <string name="error_reboot">Biz bu yangilanishni yuklab ololmadik. Agar siz ushbu yangilanishni keyinroq yuklab olishni istasangiz, qurilmangizni qayta ishga tushiring va keyin Sozlamalar &gt; Tizim yangilanishlari bo‘limiga o‘ting.</string>
+  <string name="error_resources">Biz bu yangilanishni yuklab ololmadik. Agar siz ushbu yangilanishni keyinroq olishni istasangiz, Sozlamalar &gt; Tizim yangilanishlari bo‘limiga o‘ting.</string>
+  <string name="error_sdcard_resources_fail_removal">SD-karta olib tashlandi. Yuklab olish jarayoni tugallanmagan. 
+
+Iltimos, SD kartangizni qayta joylashtiring va qaytadan urinib ko‘rish uchun Sozlamalar &gt; Tizim yangilanishlari bo‘limiga o‘ting.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Yuklab olishni yakunlab boʻlmadi SD kartada yetarli joy yoʻq. 
+
+Biroz joy boʻshating va qayta urinib koʻrish uchun Sozlamalar &gt; Tizim yangilanishlariga oʻting.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Yuklab olishni boshlash uchun SD kartangizni joylashtiring.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Yuklab olishni boshlash uchun SD kartani joylashtiring. 
+
+ Sozlamalar &gt; Saqlash &gt; SD kartani joylashtirishga oʻting
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Yuklab olishni yakunlash uchun SD kartada joy yetarli emas. 
+
+Iltimos %1$s gacha joyni tozalang va yuklab olishni qaytadan sinab koʻrish uchun Sozlamalar &gt; Tizim yangilanishlari boʻlimiga oʻting.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Xato</string>
+  <string name="error_sdcard_resources_warning">Dastur yangilanishi SD kartaga yuklab olinmoqda. 
+
+Iltimos, oʻrnatish yakunlangunicha SD kartani olib tashlamang.
+
+
+</string>
+  <string name="error_server">Serverda xatolik yuz berdi Keyinroq qayta urining.</string>
+  <string name="error_space">Ushbu yangilanish qurilmangizda %1$s xotira mavjudligini talab qiladi. 
+
+ Foydalanilmayotgan ilovalarni oʻchirib tashlang yoki surat va videolarni boshqa xotira qurilmasiga koʻchirib, %2$s gacha joy boʻshating. 
+
+Shundan soʻng, istalgan vaqtda yangilashni boshlash uchun Sozlamalar &gt; Tizim yangilanishlariga oʻtishingiz mumkin.</string>
+  <string name="error_space_retry">Ushbu yangilanish qurilmangizda %1$s xotira mavjudligini talab qiladi. 
+
+ Foydalanilmayotgan ilovalarni oʻchirib tashlang yoki surat va videolarni boshqa xotira qurilmasiga koʻchirib, %2$s gacha joy boʻshating.</string>
+  <string name="error_space_vab">Ushbu yangilanish qurilmangizda %1$s boʻsh joy talab qiladi. Yangilanishlar toʻliq yuklab olinishi uchun xotirani boʻshating</string>
+  <string name="error_space_vab_make_room_popup">Siz yangilashdan oldin %1$s maydonni tozalashingiz kerak Foydalanilmayotgan ilovalarni oʻchirib tashlash yoki fotosurat va videolarni boshqa xotira qurilmasiga olib oʻtishga harakat qiling.</string>
+  <string name="error_title">Yuklab olishni amalga oshirib boʻlmadi</string>
+  <string name="error_verify">Yangilanish kerakli tarzda tasdiqlanmadi. Qayta urining.</string>
+  <string name="failed">Muvaffaqqiyatsiz</string>
+  <string name="failure_process">Maʼlumot mavjud emas</string>
+  <string name="finalizing_patch">Yangilash yakunlanmoqda… (5/6-qadam)  </string>
+  <string name="first_net_text">Iltimos, yangilanishni oʻrnating, aks holda keyingi qayta yuklashda qurilma avtomatik ravishda oʻrnatiladi. Batareya darajasi %sdan ortiq ekanligiga ishonch hosil qiling</string>
+  <string name="forceInstallMessage">Ushbu yangilanish %1$s da avtomatik ravishda oʻrnatiladi.</string>
+  <string name="force_install_message_screen">Bu muhim yangilanish, shuning uchun uni %1$sgacha oʻrnating. Aks holda, u sizning qurilmangiz eng kam ishlatiladigan vaqtda avtomatik ravishda oʻrnatiladi. Batareyaning quvvati oʻrnatish uchun yetarli ekanligiga ishonch hosil qiling.</string>
+  <string name="force_install_notification_message">%1$s bilan oʻrnating. Aks holda, qurilmangiz eng kam foydalanilgan vaqtda avtomatik ravishda oʻrnatiladi.
+ oʻrnatish vaqti: %2$d daqiqa</string>
+  <string name="force_restart_notification_message">Iltimos, %1$s da qayta ishga tushiring Aks holda, qurilmangiz eng kam foydalaniladigan vaqtda avtomatik ravishda qayta ishga tushadi.</string>
+  <string name="force_restart_screen_message">Agar siz avval qurilmangizni %1$s gacha qayta yuklamasangiz, u eng kam foydalanilgan vaqtda avtomatik ravishda qayta yuklanadi.</string>
+  <string name="google">Google</string>
+  <string name="got_it">OK</string>
+  <string name="important_update_install_overdue_message">Oʻrnatish uchun rejalashtirilgan vaqt tugadi. Oʻrnatish qurilmangiz mezonlarga javob berishi bilanoq boshlanadi.</string>
+  <string name="important_update_restart_overdue_message">Qayta ishga tushirish uchun belgilangan vaqt oʻtdi. Qurilma mezonlarga javob berganda, qayta ishga tushiriladi.</string>
+  <string name="initiating_ota_service_msg">Kutib turing...</string>
+  <string name="initiating_ota_service_title">Dasturiy taʼminot yangilanishi ishga tushirilmoqda</string>
+  <string name="install">O‘rnatish</string>
+  <string name="install_after_one_hour">1 soatda oʻrnating</string>
+  <string name="install_cancelled_title">Oʻrnatish bekor qilingan</string>
+  <string name="install_deferred_status">Yangilanish toʻxtab qolgan holati:</string>
+  <string name="install_later">Keyinroq oʻrnating</string>
+  <string name="install_notify_sanity_call_msg">Qurilma hozir oʻrnata olmaydi, chunki chaqiruv davom etmoqda</string>
+  <string name="install_notify_sanity_maps_msg">Navigatsiya yoqilganligi sababli qurilma hozir oʻrnata olmaydi</string>
+  <string name="install_now">Hozir oʻrnatish</string>
+  <string name="install_postponed">Oʻrnatish kechiktirildi</string>
+  <string name="install_progress_cancel_message">Agar siz ushbu yangilanishni keyinroq o‘rnatmoqchi bo‘lsangiz, Sozlamalar &gt; Tizim yangilanishlari bo‘limiga o‘ting</string>
+  <string name="install_progress_paused_message">%s yakunlangan (pauza qilingan)</string>
+  <string name="install_time">Oʻrnatish vaqti: %1$d daqiqa</string>
+  <string name="install_warning">Oʻrnatishdan oldin nimalarni bilish kerak</string>
+  <string name="just_one_more_step">Yana bitta qadam</string>
+  <string name="keep_it_on">Davom etish</string>
+  <string name="later_button">Keyinroq eslatilsin</string>
+  <string name="learn_more_online_link">Internetda batafsil</string>
+  <string name="low_battery_bg_install">Batareya quvvati past boʻlganligi uchun oʻrnatish vaqtincha toʻxtatildi. Qurilma quvvatlantirilganidan keyin oʻrnatish davom ettiriladi.</string>
+  <string name="low_battery_download">Batareya quvvati kam boʻlganligi uchun yuklab olish pauza qilindi. Qurilmangiz quvvatlangach, yuklab olish yakunlanadi.</string>
+  <string name="low_battery_install">Yangilanishni oʻrnatishdan oldin, qurilmangizni kamida %sgacha quvvatlang</string>
+  <string name="make_space">Maydon yaratish</string>
+  <string name="mandatory_install_notification">Agar tez orada ushbu tizim yangilanishini oʻrnatmasangiz, muhim xavfsizlik yangilanishlarini, shuningdek, yangi xususiyatlar va xatolarni tuzatishni oʻtkazib yuborasiz.</string>
+  <string name="mandatory_restart_notification">Iltimos, bu muhim yangilanish boʻlgani uchun, hozir oʻchirib yoqing. Aks holda siz xavfsizlik yangilanishlarini, shuningdek, yangi xususiyatlar va xatolarni tuzatishni oʻtkazib yuborasiz.</string>
+  <string name="medium_channel_name">Dasturiy taʼminot yuklab olish haqida bildiruvchi</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Hisobni tanlang</string>
+  <string name="multiple_account_alert">Tizim yangilanishini davom ettirish uchun %1$shisobini tanlang.</string>
+  <string name="no_thanks">Yoʻq, rahmat</string>
+  <string name="no_thanks_message">Agar siz ushbu yangilanishni keyinroq olishni istasangiz, Sozlamalar &gt; Tizim yangilanishlari bo‘limiga o‘ting.</string>
+  <string name="no_updates_applied">Yangilanishlar joriy qilinmagan</string>
+  <string name="not_now">Hozir emas</string>
+  <string name="otaservice_perm_desc">Ilovalar otaservis bilan oʻzaro aloqada boʻlishi kerak boʻlgan ruxsat</string>
+  <string name="package_size">Yuklab olish hajmi:%1$s</string>
+  <string name="personalInfo_instruction">Siz hech qanday shaxsiy maʼlumotlarni yoʻqotmaysiz</string>
+  <string name="picker_cell_radio">Wi-Fi va mobil maʼlumotlar</string>
+  <string name="picker_title">Ushbu yangilanishni qanday yuklab olishni tanlang:</string>
+  <string name="picker_wifi_only_radio">Faqat Wi-Fi</string>
+  <string name="please_restart">Hozir qayta ishga tushiring</string>
+  <string name="policy_set">Tizimni yangilash bloklandi. Qoʻshimcha maʼlumot olish uchun qurilmangiz maʼmuriga murojaat qiling.</string>
+  <string name="press_back_again_to_exit">Chiqish uchun ORQAGA tugmasini yana bosing</string>
+  <string name="progress_copying_sd">Yangilanish nusxalanmoqda</string>
+  <string name="progress_deffered">Yuklab olish Wi-Fi/Uyali Tarmoqda boshlanadi</string>
+  <string name="progress_downloading_ota">Tizim yangilanishi yuklanmoqda</string>
+  <string name="progress_downloading_security">Xavfsizlik yangilanishlari yuklab olinmoqda</string>
+  <string name="progress_retried">Dasturiy taʼminotni yuklab olish uzilib qoldi. Biz harakat qilyapmiz…</string>
+  <string name="progress_suspended">Maʼlumotlarni yuklab olishni davom ettirish uchun ulanish kutilmoqda</string>
+  <string name="progress_suspended_datasaver">Yuklashni davom ettirish uchun maʼlumotlarni saqlash funksiyasini oʻchiring</string>
+  <string name="progress_suspended_no_adminapn">Yuklab olishni davom ettirish uchun Wi-Fi yoki nol reytingli tarmoq kutilmoqda</string>
+  <string name="progress_suspended_roaming">Rouming tufayli yuklab olish toʻxtatildi, yuklab olishni davom ettirish uchun Wi-Fi-ni yoqing.</string>
+  <string name="progress_suspended_wifi">Yuklab olishni davom ettirish uchun Wi-Fi kutilmoqda…</string>
+  <string name="progress_verify">Yangilanish tekshirilmoqda</string>
+  <string name="progress_verify_allocate_space">Xotira yetarli ekanligi tekshirilmoqda</string>
+  <string name="relative_date_time">%1$s, %2$s da</string>
+  <string name="release_notes_string">Android %1$sdagi barcha yangi xususiyatlarni koʻrib chiqing</string>
+  <string name="request_suspended_datasaver">Yuklab olishni boshlash uchun trafik tejashni oʻchirib qoʻying </string>
+  <string name="request_suspended_no_network">Yuklab olishni boshlash uchun tarmoq qamrovi yoʻq</string>
+  <string name="restart_after_one_hour">1 soatdan soʻng qayta boshlash</string>
+  <string name="restart_instruction_title">Qayta boshlashdan oldin nimalarni bilish kerak</string>
+  <string name="restart_later">Keyinroq</string>
+  <string name="restart_message">Iltimos, yangilash uchun hozir boshlang</string>
+  <string name="restart_notification">Qayta yoqish</string>
+  <string name="restart_notification_text">Iltimos, yangilash uchun hozir qayta yoqing. Yangilanish %1$d kundan beri kutilmoqda.</string>
+  <string name="restart_notify_sanity_call_msg">Qo‘ng‘iroq davom etayotgani sababli qurilmani hozir qayta ishga tushirib bo‘lmaydi</string>
+  <string name="restart_notify_sanity_maps_msg">Navigatsiya yoqilganligi sababli qurilmani qayta ishga tushirib bo‘lmaydi</string>
+  <string name="restart_now">Hozir qayta ishga tushirish</string>
+  <string name="restart_postponed">Qayta ishga tushirish kechiktirildi</string>
+  <string name="restart_title">Qurilmangizni qayta ishga tushiring</string>
+  <string name="resume_download_on_cellular">Mobil trafikdan foydalanish</string>
+  <string name="retrieving_token">Tekshirilmoqda</string>
+  <string name="sdcard_predownload_text">
+Ushbu bosqichda siz yangilanishni tizim xotirasiga nusxalaysiz. Yangilanish keyingi bosqichda oʻrnatiladi. 
+
+Batareya quvvatsizlanib qolmasligi uchun telefoningizni quvvat manbaiga ulang.</string>
+  <string name="search_menu_title">Qidiruv</string>
+  <string name="secure_instruction">Bu jarayon xavfsiz</string>
+  <string name="security_download_notification_title">Xavfsizligingizni yaxshilang</string>
+  <string name="security_install_notification_text">Yangi xavfsizlik yangilanishi oʻrnatishga tayyor</string>
+  <string name="security_install_title">Xavfsizlik yangilanishi tayyor</string>
+  <string name="security_patch">Xavfsizlik tuzatmasi:</string>
+  <string name="security_update_low_storage_title">Xavfsizlikni yangilash</string>
+  <string name="security_update_notification_text">Eng soʻnggi xavfsizlik yangilanishlarini oling</string>
+  <string name="security_update_paused">Xavfsizlik yangilanishi pauza qilingan</string>
+  <string name="security_update_pending_notification_text">Oxirgi xavfsizlik yangilanishini oling. Yangilanish %1$d kundan beri kutilmoqda.</string>
+  <string name="security_update_title">Xavfsizlikni yangilash</string>
+  <string name="select_account">%1$shisobini tanlash</string>
+  <string name="selected_later_time_os_mr">Tizim yangilanishi ga oʻrnatiladi </string>
+  <string name="selected_later_time_smr">Xavfsizlik tizimi yangilanishini oʻrnatish vaqti: </string>
+  <string name="setting_sw_summary">Eng oxirgi dasturga yangilash</string>
+  <string name="setting_sw_title">Tizimni yangilash</string>
+  <string name="smart_cancel_update_toast_msg">Yangilash %1$s ga rejalashtirildi</string>
+  <string name="smart_end_time">Yakunlash</string>
+  <string name="smart_install_message_popup">Smart yangilanishlar funksiyasini yoqqaningizdan soʻng, %1$s gacha o‘rnatmagan bo‘lsangiz, qurilmangiz yangilanishni shu sanada avtomatik ravishda o‘rnatadi. Oʻrnatish uchun batareyangiz quvvati yetarli ekanligiga ishonch hosil qiling.</string>
+  <string name="smart_restart_message_popup">Smart yangilanishlarni yoqqaningiz uchun, agar shu vaqtgacha qayta yoqmasangiz, qurilmangiz, %1$s da avtomatik ravishda yangilanadi.</string>
+  <string name="smart_settings_string">Wi-Fi tarmogʻiga ulanganda yangilanishlar avtomatik ravishda yuklab olinadi va oʻrnatiladi</string>
+  <string name="smart_settings_string_Softbank">Yangilanishlar Wi-Fi tarmogʻiga ulanganda yoki mobil maʼlumotlardan foydalanganda avtomatik ravishda yuklab olinadi va oʻrnatiladi</string>
+  <string name="smart_settings_string_vzw">Yangilanishlar avtomatik ravishda yuklab olinadi va oʻrnatiladi</string>
+  <string name="smart_start_time">Boshlash</string>
+  <string name="smart_to_string">Muddat</string>
+  <string name="smart_update_advanced">Kengaytirilgan</string>
+  <string name="smart_update_note">Eslatma: Xavfsizligingiz uchun barcha muhim xavfsizlik yangilanishlari ushbu funksiya yoqilgan yoki oʻchirilgan boʻlsa ham avtomatik ravishda yuklab olinadi va oʻrnatiladi.</string>
+  <string name="smart_update_note_vzw">Eslatma: Xavfsizligingiz uchun barcha muhim yangilanishlar ushbu funksiya yoqilgan yoki oʻchirilgan boʻlsa ham avtomatik ravishda yuklab olinadi va oʻrnatiladi.</string>
+  <string name="smart_update_pop_up_text">Qurilmangizni avtomatik yangilanishlar bilan xavfsiz saqlang</string>
+  <string name="smart_update_recommendation">Aqlli yangilanishlarni sinab koʻring</string>
+  <string name="smart_update_suggestion_text">Avtomatik yangilanishlar bilan xavfsiz boʻling</string>
+  <string name="smart_update_text_AB">Aqlli yangilanishlar qurilmangiz xavfsiz va samarali ishlashiga yordam beradi. Ular yoqilganda, barcha yangi xavfsizlik yangilanishlari <b>va xatolarni tuzatishlar </b> avtomatik ravishda yuklab olinadi. Yuklab olishdan soʻng, qurilmangiz siz tanlagan vaqtda qayta ishga tushadi.</string>
+  <string name="smart_update_text_AB_vzw">Aqlli yangilanishlar qurilmangiz xavfsiz va samarali ishlashiga yordam beradi. Ular yoqilganda, barcha yangi <b>xavfsizlik yangilanishlari</b> avtomatik ravishda yuklab olinadi. Yuklab olishdan soʻng, qurilmangiz siz tanlagan vaqtda qayta ishga tushadi.</string>
+  <string name="smart_update_text_classic">Aqlli yangilanishlar qurilmangiz xavfsiz va samarali ishlashiga yordam beradi. Ular yoqilganda, barcha yangi xavfsizlik yangilanishlari <b>va xatolarni tuzatishlar </b> avtomatik ravishda yuklab olinadi. Yuklab olishdan soʻng, qurilmangiz siz tanlagan vaqtda qayta ishga tushadi va oʻrnatiladi.</string>
+  <string name="smart_update_text_classic_vzw">Aqlli yangilanishlar qurilmangiz xavfsiz va samarali ishlashiga yordam beradi. Ular yoqilganda, barcha yangi <b>xavfsizlik yangilanishlari</b> avtomatik ravishda yuklab olinadi. Yuklab olishdan soʻng, qurilmangiz siz tanlagan vaqtda qayta ishga tushadi va oʻrnatiladi.</string>
+  <string name="smart_update_time_slot_text_AB">Qayta ishga tushirish vaqtini tanlang</string>
+  <string name="smart_update_time_slot_text_classic">Oʻrnatish vaqtini tanlash</string>
+  <string name="smart_update_title">Aqlli yangilanishlar</string>
+  <string name="software_not_update_to">Sizning dasturiy taʼminotingiz hali yangilanmagan</string>
+  <string name="software_update_in_progress">Tizimingizning yangi versiyasi:</string>
+  <string name="software_update_planned_summary">Tekshirildi - %1$s</string>
+  <string name="software_update_planned_title">Dasturiy taʼminotni yangilash rejalashtirildi</string>
+  <string name="software_update_to">Tizimning yangilangan versiyasi:</string>
+  <string name="sofware_version">Dasturiy taʼminot versiyasi:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Yangilanish uchun joy tayyorlang</string>
+  <string name="su_btn">Sozlamalar</string>
+  <string name="su_text_off">Yangi dasturiy taʼminot mavjud boʻlganda qurilmangizni qoʻlda yangilashingiz kerak boʻladi. Jarayonni avtomatlashtirish uchun Smart yangilanishlarni yoqing. Tafsilotlar uchun bosing.</string>
+  <string name="su_text_on">Sukut boʻyicha, Smart yangilanishlar tungi soat 1 dan 3 gacha ishlaydi. Sozlamalarda yangilanish vaqtini oʻzgartirish yoki aqlli yangilanishlarni oʻchirib qoʻyish mumkin. Tafsilotlar uchun bosing.</string>
+  <string name="su_title_off">Aqlli yangilanishlar oʻchirilgan</string>
+  <string name="su_title_on">Smart yangilanishlar yoqildi</string>
+  <string name="system_download_notification_title">Tizimni yangilash</string>
+  <string name="system_install_notification_text">Tizim yangilanishlari yuklab olish uchun tayyor</string>
+  <string name="system_install_title">Yangilanish tayyor</string>
+  <string name="system_pdl_notification_mr_title">Xatolarni tuzatish va boshqalar</string>
+  <string name="system_pdl_notification_os_title">Android %1$s shu yerda!</string>
+  <string name="system_update">Tizimni yangilash</string>
+  <string name="system_update_info_not_available">Mavjud emas</string>
+  <string name="system_update_low_storage_text">Xotira va bajarilgan ishlarni koʻrish uchun bu yerga bosing</string>
+  <string name="system_update_low_storage_title">Tizimni yangilash</string>
+  <string name="system_update_notification_os_text">Yangi Androidni sinab koʻring</string>
+  <string name="system_update_notification_text">Yangi dasturiy taʼminotni yuklab olish</string>
+  <string name="system_update_paused">Tizimni yangilash pauza qilingan</string>
+  <string name="system_update_pending_notification_os_text">Yangi Androidni sinab koʻring. Yangilanish %1$d kundan beri kutilmoqda.</string>
+  <string name="system_update_pending_notification_text">Yangi dasturiy taʼminotni yuklab oling Yangilanish %1$d kundan beri kutilmoqda.</string>
+  <string name="system_update_settings_list_item_title">Tizimni yangilash</string>
+  <string name="system_update_status">Tizimni yangilashning holati</string>
+  <string name="system_update_title">Tizimni yangilash</string>
+  <string name="tethered_permission_desc">3c yangilash natijalarini yuborish</string>
+  <string name="tethered_update_result">Bogʻlangan yangilanish natijasi</string>
+  <string name="time_picker_text">Oʻrnatishni eslatishsiz boshlash</string>
+  <string name="total_download_size">Hajmi: %1$s</string>
+  <string name="turn_it_off">Faolsizlantirish</string>
+  <string name="turn_it_on">Yoqish</string>
+  <string name="turn_on_smart_updates">Aqlli yangilanishlarni yoqish</string>
+  <string name="update">Yangilash</string>
+  <string name="update_blocked_by_policy">Yangilanish administrator siyosati bilan bloklangan </string>
+  <string name="update_cancelled_status">Dasturiy taʼminotning bekor qilinganda yuklab olingani:</string>
+  <string name="update_fail_desc">Qurilmangizni yangilashda muammo yuz berdi. Oʻzgartirishlar qilinmagan.
+Sozlamalar &gt; Tizim yangilanishi bo‘limiga o‘tish orqali qayta urinib ko‘ring.</string>
+  <string name="update_fail_status">Yangilanmadi</string>
+  <string name="update_fail_sucancel_dm_status">Yangilash server tomonidan bekor qilindi</string>
+  <string name="update_fail_title">Yangilanmadi</string>
+  <string name="update_history_blank">Tarix yoʻq</string>
+  <string name="update_history_src_target">%1$s dan %2$s gacha yangilanish</string>
+  <string name="update_history_time">Yangilangan sana: %1$s</string>
+  <string name="update_history_title">Yangilanishlar tarixi</string>
+  <string name="update_history_version">Dasturiy taʼminot versiyasi %1$s</string>
+  <string name="update_postpone_policy">Yangilash administrator siyosati bilan qoldirildi </string>
+  <string name="update_preference">Yangilash parametrlari</string>
+  <string name="update_success_desc">Tabriklaymiz! Siz %1$s versiyasini oʻrnatdingiz.</string>
+  <string name="update_success_desc_os">Tabriklaymiz! Siz Android %1$s versiyasini oʻrnatdingiz. Endi yanada yaxshi, aqlli va xavfsiz Android imkoniyatlaridan foydalanishga tayyorsiz.</string>
+  <string name="update_success_status">Yangilandi</string>
+  <string name="update_title">Yangilash yakunlandi</string>
+  <string name="update_title_text">Yangi dasturiy taʼminotingizdan bahramand boʻling!</string>
+  <string name="upto_date_title">Hammasi joyida shekilli!</string>
+  <string name="urgent_channel_name">Dasturiy taʼminotni yangilash haqida ogohlantirish</string>
+  <string name="vab_validation_update_failure_desc">VAB tekshiruvini yangilab boʻlmadi</string>
+  <string name="vab_validation_update_failure_title">VAB tekshiruvi amalga oshmadi</string>
+  <string name="vab_validation_update_success_desc">Tabriklaymiz! VAB tekshiruvi muvaffaqiyatli yangilandi</string>
+  <string name="vab_validation_update_success_title">VAB tekshiruvi muvaffaqiyatli</string>
+  <string name="verifying_patch">Yangilanish faollashtirildi. Ilova muvaffaqiyatli boʻlganligi tasdiqlanmoqda… (4/6-qadam)  </string>
+  <string name="verity_disabled_msg">Qurilmangiz xavfsizlikka tahdid solishi mumkin. 
+
+adb enable-verity-ni yangilashni davom ettirish uchun quyidagi buyruqni bajaring</string>
+  <string name="verity_disabled_title">Sizning qurilmangiz endi yangilanishlarni qabul qilmaydi</string>
+  <string name="verizon_failure_notification_text"> Sizning qurilmangiz bu yangilanishni yuklay olmadi. Oʻrnatish uchun Dasturtiy taʼminotni yangilash yordamchisidan foydalaning Koʻproq maʼlumot uchun bosing</string>
+  <string name="verizon_failure_text">Qurilmangizni yangilashda muammo yuz berdi. Oʻzgartirishlar qilinmagan. Dasturiy taʼminotni yangilash uchun, Software Upgrade Assistant vositasidan foydalanishingiz mumkin.
+
+Dasturiy taʼminotni yangilash yordamchisini oʻrnatish uchun quyidagi amallarni bajaring: 
+
+ 1. USB kabelidan foydalanib qurilmangizni kompyuteringizga ulang
+2. Qurilmada USB menyusi qalqib chiquvchi oynasi paydo boʻlganda, yuqori oʻng burchakdagi sozlamalar belgisini tanlang
+3. USB Afzalliklari boʻlimida Dasturni oʻrnatishni tanlang
+ 4 . Kompyuterga oʻting va sozlash ustasini toping
+5. Yorliqni koʻzdan kechiring
+
+, Software Upgrade Assistant vositasi qurilmangizga dasturiy taʼminot yangilanishlarini yuklab olish va oʻrnatishga yordam beradi.</string>
+  <string name="vital_applying_updates">Yangilanishlarni joriy qilish</string>
+  <string name="vital_bg_text">Bu bir necha daqiqa vaqt oladi</string>
+  <string name="vital_check_for_updates">Yangilanishlar qidirilmoqda</string>
+  <string name="vital_check_for_updates_desc">Yangilanishlar qurilmangizni himoya qiladi va uning ish faoliyatini yaxshilaydi.</string>
+  <string name="vital_done">Tayyor!</string>
+  <string name="vital_error_fail">Yuklanishda xatolik yuz berdi Hech narsa oʻzgartirilmadi</string>
+  <string name="vital_go_back">Siz chindan ham oʻrnatishni toʻxtatmoqchimisiz?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Davom etish uchun qayta ishga tushiring</string>
+  <string name="vital_skip">Oʻtkazib yuborish</string>
+  <string name="vital_stop">Toʻxtatish</string>
+  <string name="wifi_setting">Wi-Fi sozlamalari</string>
+</resources>

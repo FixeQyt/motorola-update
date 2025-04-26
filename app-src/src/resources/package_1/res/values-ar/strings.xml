@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">تحديث لاحقًا</string>
+  <string name="ab_download_now">تحديث الآن</string>
+  <string name="ab_install_notification_paused_text">تم إيقاف التثبيت في الخلفية مؤقتًا</string>
+  <string name="ab_install_notification_text">التثبيت في الخلفية</string>
+  <string name="ab_restart_fullscreen_text">أوشكت على الانتهاء! ستستغرق إعادة تشغيل الجهاز حوالى 90 ثانية فقط. التحديث متوفر منذ %1$d من الأيام.</string>
+  <string name="ab_restart_text">أوشكت على الانتهاء! ستستغرق إعادة تشغيل الجهاز حوالى 90 ثانية فقط</string>
+  <string name="ab_restart_warning_os_mr">أوشكت عملية تحديث النظام على الاكتمال. سيعمد جهازك إلى  </string>
+  <string name="ab_restart_warning_smr">أوشك تحديث الأمان على الاكتمال. سيقوم جهازك بـ  </string>
+  <string name="ab_warning_continues"> لإكمال التحديث.</string>
+  <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+  <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+  <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+  <string name="abc_action_mode_done">تم</string>
+  <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+  <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+  <string name="abc_capital_off">إيقاف</string>
+  <string name="abc_capital_on">تفعيل</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">فضاء</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">القائمة+</string>
+  <string name="abc_search_hint">بحث…</string>
+  <string name="abc_searchview_description_clear">محو طلب البحث</string>
+  <string name="abc_searchview_description_query">طلب بحث</string>
+  <string name="abc_searchview_description_search">البحث</string>
+  <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+  <string name="abc_searchview_description_voice">بحث صوتي</string>
+  <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+  <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+  <string name="abc_toolbar_collapse_description">تصغير</string>
+  <string name="abupdate_in_progress_status">تحديث البرنامج قيد التقدم</string>
+  <string name="additional_charges_message">سيستمر التنزيل باستخدام بيانات الهاتف المحمول. قد يتم فرض رسوم على البيانات.</string>
+  <string name="alertSubText">يُستخدم ذلك للتحقق من حزمة التحديث وتنزيلها وتثبيتها</string>
+  <string name="alertText">السماح بعمليات الشبكة لتحديثات البرامج</string>
+  <string name="alertTitle">يتطلب التحديث الإذن التالي</string>
+  <string name="alert_dialog_cancel">إيقاف التثبيت</string>
+  <string name="alert_dialog_continue">متابعة التثبيت</string>
+  <string name="alert_dialog_no">لا</string>
+  <string name="alert_dialog_ok">حسنًا</string>
+  <string name="alert_dialog_yes">نعم</string>
+  <string name="allocate_space_success">المساحة المطلوبة على الذاكرة متوفرة للتحديث</string>
+  <string name="allow">السماح</string>
+  <string name="android_latest_sw_text">أنت تستخدم أحدث برنامج</string>
+  <string name="android_version">إصدار Android:</string>
+  <string name="app_name">تحديث برنامج Motorola</string>
+  <string name="applied">تشغيل</string>
+  <string name="apply_bug_fix">تطبيق على إصلاحات الأخطاء</string>
+  <string name="apply_os_update">تطبيق على كل تحديثات البرامج</string>
+  <string name="applying_patch">جارٍ تطبيق التحديث (الخطوة %1$d من %2$d)  </string>
+  <string name="are_you_sure">هل تريد إيقاف تشغيل التحديثات الذكية؟</string>
+  <string name="are_you_sure_pop_up_text">هل تريد بالتأكيد إيقاف تشغيل التحديثات الذكية؟ </string>
+  <string name="asc_campaign_assigned">تم تعيين الحملة</string>
+  <string name="asc_campaign_is_allowed">تحديث البرنامج الثابت</string>
+  <string name="asc_campaign_is_blocked">قفل البرنامج الثابت</string>
+  <string name="asc_campaign_not_assigned">لا يشكل الجهاز جزءًا من حملة حاليًا</string>
+  <string name="asc_campaign_status_prefix">‏
+الحالة: </string>
+  <string name="asc_campaign_window_period_status">‏
+نافذة التحديث: من %s إلى %s</string>
+  <string name="asc_sw_up_to_date">‏ إلى آخر إصدار</string>
+  <string name="asc_target_version">‏ إلى الإصدار </string>
+  <string name="auth_title">تحديث النظام</string>
+  <string name="auto_download_cellualr_charges_warn">عند تنزيل التحديثات عبر شبكة المحمول، قد تنطبق رسوم إضافية</string>
+  <string name="auto_download_enable_cellular_future_updates">هل تريد اختيار خيار البيانات الخلوية لعمليات التنزيل المستقبلية أيضًا؟</string>
+  <string name="auto_download_settings_title">إعدادات التنزيل التلقائي</string>
+  <string name="auto_download_wifi_cellular">التنزيل التلقائي عبر الشبكة الخلوية وشبكة Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">التنزيل التلقائي عبر الشبكة الخلوية وشبكة Wi-Fi. سيتم استخدام شبكة Wi-Fi أولاً عندما تكون متوفرة. </string>
+  <string name="auto_download_wifi_only">التنزيل التلقائي عبر شبكة Wi-Fi فقط</string>
+  <string name="auto_download_wifi_only_desc">التنزيل التلقائي عبر شبكة Wi-Fi فقط</string>
+  <string name="auto_install_notification_text">سيتم تثبيت الجهاز تلقائيًا على %1$s</string>
+  <string name="auto_time_set">تاريخ البدء:</string>
+  <string name="automatic_bg_install_on_cellular_warning">نظرًا لأهمية هذا التحديث، سيتم تثبيته تلقائيًا باستخدام بيانات الهاتف المحمول في %1$s</string>
+  <string name="automatic_download_on_cellular_warning">نظرًا لأهمية هذا التحديث، سيتم تنزيله تلقائيًا باستخدام بيانات الهاتف المحمول في %1$s</string>
+  <string name="background_install_msg">سيستمر هذا التحديث إذا رجعتَ إلى الخلف أو أغلقتَ هذه النافذة</string>
+  <string name="background_install_text">ثمة تحديث قيد التنزيل&amp; والتثبيت. يمكنك الاستمرار في استخدام جهازك.</string>
+  <string name="bad_connection">لا يوجد اتصال بالإنترنت</string>
+  <string name="bad_connection_text">يبدو أن جهازك غير متصل حاليًا بالإنترنت. انقر فوق الزر السفلي للمحاولة مجددًا.</string>
+  <string name="bg_install_cancel_confirm">هل تريد بالتأكيد إيقاف التثبيت؟</string>
+  <string name="bg_retried">تمت مقاطعة تنزيل البرنامج. سنتابع المحاولة…</string>
+  <string name="bg_suspended">بانتظار اتصال البيانات لاستئناف التنزيل والتثبيت في الخلفية</string>
+  <string name="bg_suspended_non_adminapn">بانتظار Wi-Fi أو الشبكة المجانية لاستئناف التنزيل والتثبيت في الخلفية...</string>
+  <string name="bg_suspended_roaming">تم إيقاف التثبيت في الخلفية مؤقتًا بسبب شبكة التجوال، يرجى تشغيل Wi-Fi لاستئناف التثبيت في الخلفية.</string>
+  <string name="bg_suspended_wifi">بانتظار Wi-Fi لاستئناف التنزيل والتثبيت في الخلفية</string>
+  <string name="bootloader_unlock_msg">لم يعد جهازك يتلقى تحديثات وقد يكون عرضة لمخاطر أمنية.</string>
+  <string name="bootloader_unlock_title">لا تحديثات متوفرة</string>
+  <string name="call_notification_answer_action">ردّ</string>
+  <string name="call_notification_answer_video_action">فيديو</string>
+  <string name="call_notification_decline_action">رفض</string>
+  <string name="call_notification_hang_up_action">قطع الاتصال</string>
+  <string name="call_notification_incoming_text">مكالمة واردة</string>
+  <string name="call_notification_ongoing_text">مكالمة جارية</string>
+  <string name="call_notification_screening_text">يتم فحص المكالمة الواردة</string>
+  <string name="cancel">إلغاء</string>
+  <string name="cancel_download_notification">إلغاء</string>
+  <string name="cancel_install">إلغاء</string>
+  <string name="cancel_update_notification">إلغاء</string>
+  <string name="check_for_updates_title">التحقق من توفر تحديثات</string>
+  <string name="check_update_badparam">حدث خطأ في محاولة الترقية نظرًا لفشل تسجيل الدخول.
+
+رجاء حاول مرة أخرى فيما بعد.</string>
+  <string name="check_update_checking">يتم الآن التحقق من وجود تحديثات...</string>
+  <string name="check_update_disabled_admin">تخضع تحديثات الجهاز لتحكم مسؤول تكنولوجيا المعلومات</string>
+  <string name="check_update_downloading">يتم الآن تنزيل تحديث.
+
+سيتم إعلامك فور إتمام التنزيل.</string>
+  <string name="check_update_fail">حدث خطأ غير متوقع.
+
+سيعيد الجهاز المحاولة عبر البحث عن تحديث في الخلفية.</string>
+  <string name="check_update_internal">يتعذر التحقق من وجود تحديثات. حاول مجددًا في وقت لاحق.</string>
+  <string name="check_update_net">يرجى التحقق من الاتصال بالإنترنت لديك والمحاولة مجددًا</string>
+  <string name="check_update_net_vzw">أنت بحاجة إلى اتصال بيانات للتحقق من وجود تحديثات. للتحقق من اتصال Wi-Fi لديك، انتقل إلى الإعدادات &gt; الشبكة والإنترنت &gt; الإنترنت &gt; Wi-Fi.‏
+
+يمكنك أيضًا زيارة motorola.com/systemupdates لرؤية خيارات تحديث أخرى.</string>
+  <string name="check_update_not_sys_user">غير مسموح بالتحقق من التحديث لملفات تعريف الضيوف</string>
+  <string name="check_update_processing">يتم الآن الاتصال بالخادم...
+يرجى الانتظار</string>
+  <string name="check_update_roaming">تحديث النظام متوفر على الشبكة المنزلية فقط. ‏
+
+انتقل إلى الإعدادات &gt; الشبكة والإنترنت &gt; Wi-Fi لإعداد اتصال الآن.</string>
+  <string name="check_update_storage_low">يتعذّر التحديث بسبب عدم توفر مساحة تخزين كافية في الجهاز.</string>
+  <string name="check_update_temperror">تعذر إكمال تنزيل التحديثات عند هذه النقطة.
+
+رجاء حاول مرة أخرى.</string>
+  <string name="check_update_text">يُبقي التحقق من توفر تحديثات من وقت إلى آخر جهازك آمنًا ويحسّن الأداء</string>
+  <string name="check_update_title_downloading">التنزيل قيد التقدم...</string>
+  <string name="check_update_vab_validation">يتم الآن التحقق من حالة تحديث التحقق من صحة VAB
+يرجى الانتظار</string>
+  <string name="check_update_wifi_only">يكون تحديث النظام متاحًا عبر اتصال Wi-Fi فقط.</string>
+  <string name="check_wifi_settings">التحقق من إعدادات Wi-Fi</string>
+  <string name="clear_space">توفير مساحة</string>
+  <string name="cloud_picker_title">منتقي السحابة</string>
+  <string name="common_android_wear_notification_needs_update_text">‏يتطلب أحد التطبيقات تحديثًا لتطبيق Android Wear.</string>
+  <string name="common_android_wear_update_text">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث تطبيق Android Wear.</string>
+  <string name="common_android_wear_update_title">‏تحديث Android Wear</string>
+  <string name="common_google_play_services_enable_button">‏تمكين خدمات Google Play</string>
+  <string name="common_google_play_services_enable_text">‏لن يعمل هذا التطبيق ما لم يتم تمكين خدمات Google Play.</string>
+  <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">تم الطلب عن طريق %1$s</string>
+  <string name="common_google_play_services_install_button">‏الحصول على خدمات Google Play</string>
+  <string name="common_google_play_services_install_text_phone">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في هاتفك.</string>
+  <string name="common_google_play_services_install_text_tablet">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي.</string>
+  <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر.</string>
+  <string name="common_google_play_services_invalid_account_title">حساب غير صالح</string>
+  <string name="common_google_play_services_needs_enabling_title">‏يتطلب أحد التطبيقات تمكين خدمات Google Play.</string>
+  <string name="common_google_play_services_network_error_text">‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات.</string>
+  <string name="common_google_play_services_network_error_title">خطأ في الشبكة</string>
+  <string name="common_google_play_services_notification_needs_installation_title">‏يتطلب أحد التطبيقات تثبيت خدمات Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">‏يتطلب أحد التطبيقات تحديث خدمات Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+  <string name="common_google_play_services_unknown_issue">‏حدثت مشكلة غير معروفة في خدمات Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">‏خدمات Google Play التي تستجيب لها بعض تطبيقاتك لا تعمل على جهازك. يُرجى الاتصال بجهة التصنيع للحصول على المساعدة.</string>
+  <string name="common_google_play_services_unsupported_title">‏خدمات Google Play</string>
+  <string name="common_google_play_services_update_button">تحديث</string>
+  <string name="common_google_play_services_update_text">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث خدمات Google Play.</string>
+  <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+  <string name="common_open_on_phone">فتح على الهاتف</string>
+  <string name="common_signin_button_text">تسجيل الدخول</string>
+  <string name="common_signin_button_text_long">‏تسجيل الدخول باستخدام Google</string>
+  <string name="compatibility_failed_title">فشل التحقق من الحزمة</string>
+  <string name="compatibility_verification_failure">إن حزمة التحديث التي يتم تنزيلها غير متوافقة مع إصدار البرنامج الحالي على الجهاز.</string>
+  <string name="compatibility_verification_failure_df">‏
+
+يرجى مراجعة منسّق Dogfood.</string>
+  <string name="compatibility_verification_success">تم التحقق بنجاح</string>
+  <string name="completed"> اكتمل التثبيت. ستتم مطالبتك بإعادة تشغيل هاتفك (الخطوة %1$d من %2$d)</string>
+  <string name="completed_install">اكتمل %s</string>
+  <string name="connect_to_wifi">الاتصال بـ Wi-Fi</string>
+  <string name="continue_button">متابعة</string>
+  <string name="critical_install_message_popup_os_mr">يتوفر تحديث نظام هام. يرجى تحديد "تثبيت" لتطبيق التحديث، وإلا سيتم تطبيق التحديث تلقائيًا في %1$s.</string>
+  <string name="critical_install_message_popup_smr">يتوفر تحديث أمان مهم. يرجى تحديد "تثبيت" لتطبيق التحديث، وإلا سيتم تطبيق التحديث تلقائيًا في %1$s.</string>
+  <string name="critical_install_message_screen">سيتم تثبيت هذا التحديث الهام تلقائيًا في %1$s. احرص على توفر مستوى كافٍ من البطارية للتثبيت.</string>
+  <string name="critical_install_notification">نظرًا لأهمية هذا التحديث، سيقوم جهازك بالتثبيت تلقائيًا في %1$s.‏
+وقت التثبيت: %2$d من الدقائق</string>
+  <string name="critical_restart_message_popup">يرجى إعادة التشغيل في أسرع وقت ممكن لتطبيق هذا التحديث الهام. إذا لم تتمكن من القيام بذلك، فسيعيد جهازك التشغيل تلقائيًا في %1$s.</string>
+  <string name="critical_restart_message_screen">نظرًا لأهمية هذا التحديث، ستتم إعادة تشغيل جهازك تلقائيًا في %1$s إذا لم تكن قد قمت بإعادة تشغيله بحلول ذلك الوقت.</string>
+  <string name="critical_restart_notification">هذا التحديث هام. إذا لم تتمكن من إعادة التشغيل الآن، فسيعيد جهازك التشغيل تلقائيًا في %1$s</string>
+  <string name="critical_update_notification_title">تحديث مهم</string>
+  <string name="current_version">إصدار البرنامج الحالي:</string>
+  <string name="custom_slot">تخصيص</string>
+  <string name="custom_time">وقت مخصص</string>
+  <string name="dash">‏—</string>
+  <string name="date_time">%s في %s</string>
+  <string name="defer_count_expired">حسنًا</string>
+  <string name="deny">رفض</string>
+  <string name="details">تفاصيل</string>
+  <string name="device_corrupted_msg">وجدنا بعض المشاكل في النظام. نعرف أن الأمر مزعج ولكن سيتحتم عليك زيارة مركز الخدمة المحلي لإصلاحها.‏
+
+بعد إصلاح هاتفك، يمكننا متابعة إجراء التحديثات على هاتفك.</string>
+  <string name="device_corrupted_title">يتعذر تحديث الهاتف</string>
+  <string name="dialog_alert_net_message">تحقق من اتصال Wi-Fi أو اتصال بيانات الهاتف المحمول وحاول مرة أخرى.</string>
+  <string name="dialog_alert_net_title">جهازك غير متصل</string>
+  <string name="dialog_alert_title">طاقة البطارية ضعيفة</string>
+  <string name="dialog_progress">يتم الآن التحميل…</string>
+  <string name="dl_options_mobile_only_warning">يوصى باستخدام Wi-Fi. قد يؤدي التنزيل باستخدام بيانات الهاتف المحمول، أو استخدام بيانات الهاتف المحمول أثناء التجوال إلى فرض رسوم إضافية.
+
+لن يؤثر تنزيل هذا البرنامج في عمل جهازك.</string>
+  <string name="done">تم</string>
+  <string name="dont_show_this_again">عدم إظهار هذه الرسالة مرة أخرى</string>
+  <string name="download_cancelled_title">تم إلغاء التنزيل</string>
+  <string name="download_deferred_status">تم تأجيل تنزيل البرنامج في</string>
+  <string name="download_failed_status">فشل تنزيل التحديث في</string>
+  <string name="download_in_progress_status">تنزيل البرنامج قيد التقدم</string>
+  <string name="download_later_button">التنزيل لاحقًا</string>
+  <string name="download_no_button">لا شكرًا</string>
+  <string name="download_note">يمكنك الاستمرار في استخدام جهازك أثناء تثبيت التحديث</string>
+  <string name="download_now">تنزيل الآن</string>
+  <string name="download_now_button">تنزيل</string>
+  <string name="download_options">خيارات التنزيل</string>
+  <string name="download_progress_cancel_message">إذا كنت ترغب في تنزيل هذا التحديث لاحقًا، فانتقل إلى الإعدادات &gt; تحديثات النظام</string>
+  <string name="download_progress_fragment_message">‏%1$s/%2$s</string>
+  <string name="download_progress_message">يتبقى %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">تم تنزيل %s%% (تم الإيقاف مؤقتًا)</string>
+  <string name="download_progress_text">سيستمر هذا التنزيل إذا رجعتَ إلى الخلف أو أغلقتَ هذه النافذة</string>
+  <string name="download_subtitle">ما الذي يجب أن تعرفه قبل أن تقوم بالتنزيل</string>
+  <string name="download_text_whats_new">رؤية الميزات الجديدة</string>
+  <string name="download_time_left">يتبقى %1$s</string>
+  <string name="download_version">الإصدار %1$s — %2$s</string>
+  <string name="download_wifi_only_error">مطلوب Wi-Fi لتنزيل هذا التحديث. سيتم استئناف التنزيل فور استرداد الاتصال لديك.</string>
+  <string name="downloaded_percentage">تم تنزيل %1$s</string>
+  <string name="emergency_call_btn_txt">الطوارئ</string>
+  <string name="emergency_call_text">لن تتمكّن من إجراء مكالمات أو استلامها، بما فيها مكالمات الطوارئ، أثناء إعادة التشغيل!</string>
+  <string name="enable_wifi_error_txt">اتصل بشبكة Wi-Fi لتنزيل هذا التحديث.</string>
+  <string name="eol_explore">استكشاف أجهزة جديدة</string>
+  <string name="eol_last_update_text">إصلاح الأمان:</string>
+  <string name="eol_promote">رؤية آخر العروض الترويجية</string>
+  <string name="eol_title">يشغّل جهازك أحدث برنامج متوفر.</string>
+  <string name="err_title_contact_server">يتم الآن الاتصال بالخادم…</string>
+  <string name="err_title_memory_low">مستوى الذاكرة منخفض…</string>
+  <string name="err_title_temp_error">خطأ مؤقت</string>
+  <string name="err_title_update">خطأ في التحديث</string>
+  <string name="error_code">رمز الخطأ: </string>
+  <string name="error_copyfail">فشل النسخ من موقع بطاقة SD.</string>
+  <string name="error_disabled">فشل تنزيل التحديث. حزمة التحديث غير متاحة حاليًا. 
+
+لا يوجد إجراء آخر مطلوب.</string>
+  <string name="error_fail">عذرًا، حدثت مشكلة في تحديث %1$s. لم يتم إجراء أي تغييرات. يرجى المحاولة مجددًا من خلال الانتقال إلى الإعدادات &gt; تحديث النظام.</string>
+  <string name="error_in_call_msg">يتعذر على الجهاز التحديث حاليًا لأن المكالمة جارية</string>
+  <string name="error_in_call_title">المكالمة جارية</string>
+  <string name="error_install_title">فشل التثبيت</string>
+  <string name="error_mismatch">حدث عدم تطابق في الإصدار. سيتم التحديث مرة أخرى. في حال توفر تحديث، سيتم إعلامك.</string>
+  <string name="error_mismatch_sd">فشل التحديث. إصدار التحديث لا يتوافق مع الهاتف. 
+
+رجاء تنزيل الإصدار الصحيح لهاتفك والمحاولة مرة أخرى.</string>
+  <string name="error_network">تم فقدان الاتصال. يرجى المحاولة مرة أخرى بالتحقق يدويًا من توفر تحديثات عبر إعدادات الهاتف.</string>
+  <string name="error_reboot">لم نتمكّن من تنزيل هذا التحديث. إذا كنت ترغب في الحصول على هذا التحديث لاحقًا، فيرجى إعادة تشغيل الجهاز والانتقال من بعدها إلى الإعدادات &gt; تحديثات النظام.</string>
+  <string name="error_resources">لم نتمكّن من تنزيل هذا التحديث. إذا كنت ترغب في الحصول على هذا التحديث لاحقًا، فانتقل إلى الإعدادات &gt; تحديثات النظام.</string>
+  <string name="error_sdcard_resources_fail_removal">تمت إزالة بطاقة SD. وتعذّر استكمال التنزيل. 
+
+الرجاء إعادة إدخال بطاقة SD والانتقال إلى الإعدادات &gt; تحديثات النظام للمحاولة مجددًا.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">تعذّر استكمال التنزيل. لا تتوفر مساحة كافية على بطاقة SD‏. 
+
+الرجاء تحرير بعض المساحة والانتقال إلى الإعدادات &gt; تحديثات النظام للمحاولة مجددًا.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">الرجاء إدخال بطاقة SD لبدء التنزيل.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">الرجاء تركيب بطاقة SD لبدء التنزيل. 
+
+انتقل إلى إعدادات &gt; التخزين &gt; تركيب بطاقة SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">لا يوجد مساحة كافية على بطاقة SD لإكمال التنزيل. ‏
+
+يرجى تحرير مساحة %1$s والانتقال إلى الإعدادات &gt; تحديثات النظام لمحاولة التنزيل مجددًا.
+
+
+</string>
+  <string name="error_sdcard_resources_title">خطأ</string>
+  <string name="error_sdcard_resources_warning">يتم تنزيل تحديث البرامج على بطاقة الذاكرة. 
+
+الرجاء عدم إزالة بطاقة SD حتى يكتمل التثبيت.
+
+
+</string>
+  <string name="error_server">حدث خطأ ما في الخادم. يرجى المحاولة مرة أخرى لاحقًا.</string>
+  <string name="error_space">يتطلب هذا التحديث توفّر مساحة تخزين تبلغ %1$s على الجهاز. ‏
+
+يرجى حذف التطبيقات غير المستخدمة أو نقل الصور والفيديوهات إلى جهاز تخزين آخر لتحرير %2$s من المساحة. ‏
+
+عند الانتهاء، يمكنك الانتقال إلى الإعدادات &gt; تحديثات النظام لبدء التحديث في أي وقت.</string>
+  <string name="error_space_retry">يتطلب هذا التحديث توفّر مساحة تخزين تبلغ %1$s على الجهاز. 
+
+يرجى حذف التطبيقات غير المستخدمة أو نقل الصور والفيديوهات إلى جهاز تخزين آخر لتحرير %2$s من المساحة.</string>
+  <string name="error_space_vab">يتطلب هذا التحديث توفّر مساحة فارغة تبلغ %1$s على الجهاز. يرجى تحرير مساحة على الذاكرة لكي تنجح التحديثات</string>
+  <string name="error_space_vab_make_room_popup">عليك توفير %1$s من المساحة قبل التحديث. حاول حذف التطبيقات غير المستخدمة أو نقل الصور والفيديوهات إلى جهاز تخزين آخر.</string>
+  <string name="error_title">فشل التنزيل</string>
+  <string name="error_verify">تعذر مراجعة التحديث بشكل صحيح. الرجاء إعادة المحاولة.</string>
+  <string name="failed">فشلت العملية</string>
+  <string name="failed_in_roaming">‏Wi-Fi مطلوب للتحديثات</string>
+  <string name="failure_process">المعلومات غير متوفرة</string>
+  <string name="finalizing_patch">يتم الآن إنهاء التحديث… (الخطوة ٥ من ٦)  </string>
+  <string name="first_net_text">يرجى تثبيت التحديث وإلا سيقوم الجهاز بالتثبيت تلقائيًا عند عملية إعادة التشغيل التالية. تأكد من أن مستوى البطارية يفوق نسبة %s</string>
+  <string name="forceInstallMessage">سيتم تثبيت هذا التحديث تلقائيًا في %1$s.</string>
+  <string name="force_install_message_screen">هذا تحديث هام، لذا يرجى التثبيت قبل %1$s، وإلا سيتم تثبيته تلقائيًا في وقت لا تكون تستخدم فيه جهازك كثيرًا. احرص على توفر مستوى كافٍ من البطارية للتثبيت.</string>
+  <string name="force_install_notification_message">يرجى التثبيت قبل %1$s، وإلا سيقوم جهازك بإجراء التثبيت تلقائيًا في وقت لا تكون تستخدمه فيه كثيرًا.‏
+وقت التثبيت: %2$d من الدقائق</string>
+  <string name="force_restart_notification_message">يرجى إعادة التشغيل قبل %1$s. وإلا سيقوم جهازك بإجراء التثبيت تلقائيًا في وقت لا تكون تستخدمه فيه كثيرًا.</string>
+  <string name="force_restart_screen_message">إذا لم تقم بإعادة التشغيل قبل %1$s، فسيقوم جهازك بإعادة التشغيل تلقائيًا في وقت لا تكون تستخدمه فيه كثيرًا.</string>
+  <string name="google">Google</string>
+  <string name="got_it">حسنًا</string>
+  <string name="important_update_install_overdue_message">انقضى الوقت المجدول للتثبيت. ستبدأ عملية التثبيت بعد أن يصبح جهازك متوافقًا مع المعايير.</string>
+  <string name="important_update_restart_overdue_message">انقضى الوقت المجدول لإعادة التشغيل. ستتم إعادة تشغيل الجهاز بعد أن يصبح متوافقًا مع المعايير.</string>
+  <string name="initiating_ota_service_msg">يرجى الانتظار...</string>
+  <string name="initiating_ota_service_title">تتم تهيئة إجراء تحديث البرنامج</string>
+  <string name="install">تثبيت</string>
+  <string name="install_after_one_hour">تثبيت خلال ساعة واحدة</string>
+  <string name="install_cancelled_title">تم إلغاء التثبيت</string>
+  <string name="install_deferred_status">تم تأجيل التحديث في</string>
+  <string name="install_later">التثبيت لاحقًا</string>
+  <string name="install_notify_sanity_call_msg">يتعذر على الجهاز التثبيت حاليًا لأن الاتصال جارٍ الآن</string>
+  <string name="install_notify_sanity_maps_msg">يتعذر على الجهاز التثبيت حاليًا لأن الملاحة قيد التشغيل</string>
+  <string name="install_now">تثبيت الآن</string>
+  <string name="install_postponed">تم تأجيل التثبيت</string>
+  <string name="install_progress_cancel_message">إذا كنت ترغب في تثبيت هذا التحديث لاحقًا، فانتقل إلى الإعدادات &gt; تحديثات النظام</string>
+  <string name="install_progress_paused_message">اكتمل %s (تم الإيقاف مؤقتًا)</string>
+  <string name="install_time">وقت التثبيت: %1$d من الدقائق</string>
+  <string name="install_warning">ما الذي يتوجب عليك معرفته قبل أن تقوم بالتثبيت</string>
+  <string name="just_one_more_step">خطوة واحدة بعد</string>
+  <string name="keep_it_on">إبقاؤه قيد التشغيل</string>
+  <string name="later_button">تذكيري لاحقًا</string>
+  <string name="learn_more_online_link">معرفة المزيد عبر الإنترنت</string>
+  <string name="low_battery_bg_install">توقّف التثبيت مؤقتًا بسبب انخفاض مستوى البطارية. سيتم استئناف التثبيت عندما يكون مستوى شحن بطاريتك أكثر من 20%.</string>
+  <string name="low_battery_download">توقّف التنزيل مؤقتًا بسبب انخفاض مستوى البطارية. سيتم استئناف التنزيل عند شحن الجهاز.</string>
+  <string name="low_battery_install">يرجى شحن الجهاز إلى نسبة %s على الأقل قبل تثبيت هذا التحديث</string>
+  <string name="make_space">تحرير مساحة</string>
+  <string name="mandatory_install_notification">إذا لم تقم بتثبيت تحديث النظام هذا قريباً، فستفوتك تحديثات أمان هامة، بالإضافة إلى ميزات جديدة وإصلاحات أخطاء.</string>
+  <string name="mandatory_restart_notification">بما أن هذا التحديث مهم، يرجى إعادة التشغيل الآن، وإلا ستفوتك تحديثات أمان، بالإضافة إلى ميزات جديدة وإصلاحات أخطاء.</string>
+  <string name="medium_channel_name">أداة الإعلام بتنزيل البرامج</string>
+  <string name="merge_emergency_call_text">أثناء إعادة التشغيل، لن تتمكّن من إجراء مكالمات أو تلقيها، بما فيها مكالمات الطوارئ.</string>
+  <string name="merge_force_restart_text">إذا كنت لا تريد إعادة التشغيل الآن، فسيُعيد هاتفك التشغيل تلقائيًا عندما يصبح غير نشط.</string>
+  <string name="merge_progress_text">عند اكتمال التحديث، سنرسل لك إشعارًا</string>
+  <string name="merge_progress_title">جارٍ إنهاء التحديث…</string>
+  <string name="merge_restart_text">سيكتمل التحديث بعد إعادة تشغيل هاتفك</string>
+  <string name="merge_restart_title">يرجى إعادة التشغيل من جديد</string>
+  <string name="merge_update_fail_notify_text">وجدنا بعض المشاكل في النظام. يرجى زيارة مركز الخدمة لإصلاحها</string>
+  <string name="merge_update_fail_notify_title">فشل التحديث</string>
+  <string name="merge_update_fail_text">وجدنا بعض المشاكل في النظام التي ستمنعك من تلقي التحديثات. يرجى زيارة مركز الخدمة لحل المشكلة.‏
+
+في هذا الوقت، يمكنك متابعة استخدام هاتفك كالمعتاد.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">اختيار حساب</string>
+  <string name="multiple_account_alert">اختر حسابًا %1$s لمتابعة تحديث النظام.</string>
+  <string name="no_thanks">لا شكرًا</string>
+  <string name="no_thanks_message">إذا كنت ترغب في الحصول على هذا التحديث لاحقًا، انتقل إلى الإعدادات &gt; تحديثات النظام.</string>
+  <string name="no_updates_applied">لم يتم تطبيق أي تحديثات</string>
+  <string name="not_now">ليس الآن</string>
+  <string name="ok">موافق</string>
+  <string name="otaservice_perm_desc">الإذن الذي تحتاج إليه التطبيقات للتفاعل مع otaservice</string>
+  <string name="package_size">حجم التنزيل: %1$s</string>
+  <string name="personalInfo_instruction">لن تفقد أي معلومات شخصية</string>
+  <string name="picker_cell_radio">‏‏Wi-Fi وبيانات الهاتف المحمول</string>
+  <string name="picker_title">اختر الطريقة التي تريدها لتنزيل هذا التحديث:</string>
+  <string name="picker_wifi_only_radio">‏Wi-Fi فقط</string>
+  <string name="please_restart">يرجى إعادة التشغيل الآن</string>
+  <string name="policy_set">تم حظر تحديث النظام. يرجى الاتصال بمسؤول الجهاز للحصول على المزيد من المعلومات.</string>
+  <string name="press_back_again_to_exit">أعِد الضغط على زر رجوع للخروج</string>
+  <string name="progress_copying_sd">جارٍ نسخ التحديث</string>
+  <string name="progress_deffered">ستبدأ عملية التنزيل في شبكة Wi-Fi/الخلوية</string>
+  <string name="progress_downloading_ota">تنزيل تحديث النظام</string>
+  <string name="progress_downloading_security">يتم تنزيل تحديث الأمان</string>
+  <string name="progress_retried">تمت مقاطعة تنزيل البرنامج. سنتابع المحاولة…</string>
+  <string name="progress_suspended">انتظار اتصال البيانات لاستئناف التنزيل</string>
+  <string name="progress_suspended_datasaver">إيقاف برنامج حفظ البيانات لاستئناف التنزيل</string>
+  <string name="progress_suspended_no_adminapn">بانتظار شبكة Wi-Fi أو الشبكة المجانية استئناف التنزيل</string>
+  <string name="progress_suspended_roaming">تم إيقاف التنزيل مؤقتًا بسبب شبكة التجوال، يرجى تشغيل Wi-Fi لاستئناف التنزيل.</string>
+  <string name="progress_suspended_wifi">بانتظار Wi-Fi لاستئناف التنزيل...</string>
+  <string name="progress_verify">جارٍ التأكد من أن جهازك جاهز للتحديث…</string>
+  <string name="progress_verify_allocate_space">التحقق مما إذا كانت الذاكرة كافية</string>
+  <string name="relative_date_time">‏‏%1$s في الساعة %2$s</string>
+  <string name="release_note_battery_desc">تحديثات لتحسين العمر الافتراضي للبطارية واستخدام البطارية</string>
+  <string name="release_note_battery_title">البطارية</string>
+  <string name="release_note_camera_desc">تساعدك هذه التحسينات في التقاط الصور مع مزيد من الدقة والتفاصيل</string>
+  <string name="release_note_camera_title">الكاميرا</string>
+  <string name="release_note_cellular_desc">تساعد التغييرات في تحسين اتصال البيانات في الجهاز</string>
+  <string name="release_note_cellular_title">الجوّال</string>
+  <string name="release_note_charging_desc">تعزز هذه التحديثات إمكانات الشحن لديك</string>
+  <string name="release_note_charging_title">الشحن</string>
+  <string name="release_note_generic_desc">تساعد التغييرات في تحسين أداء الجهاز بشكل عام</string>
+  <string name="release_note_os_update_desc">سمات أحادية اللون جديدة تمنح هاتفك مظهرًا أنيقًا وتبرز الخلفية على هاتفك. راجع كيفية استخدام التطبيقات لبياناتك ومشاركتها قبل منح أذونات التطبيقات وإتاحة إمكانية أكبر للوصول إليها بفضل ميزات السمع والرؤية الجديدة في Android 14.</string>
+  <string name="release_note_os_update_title">‏Android %1$s</string>
+  <string name="release_note_performance_desc">تساعد التغييرات في تحسين أداء الجهاز</string>
+  <string name="release_note_performance_title">الأداء</string>
+  <string name="release_note_security_desc">يتضمن عمليات إصلاح الأمان حتى %1$s</string>
+  <string name="release_note_security_title">تحديث الأمان</string>
+  <string name="release_note_stability_desc">يتضمن تحسينات وإصلاحات أخطاء تزيد من موثوقية هاتفك</string>
+  <string name="release_note_stability_title">الثبات</string>
+  <string name="release_note_title">يشمل هذا التحديث</string>
+  <string name="release_note_wifi_desc">يتضمن تحديثات في اتصال Wi-Fi لديك</string>
+  <string name="release_note_wifi_title">‏Wi-Fi</string>
+  <string name="release_notes_string">اطلع على كل الميزات الجديدة في Android %1$s</string>
+  <string name="request_suspended_datasaver">أوقف تشغيل برنامج حفظ البيانات لبدء التنزيل</string>
+  <string name="request_suspended_no_network">لا تتوفر تغطية للشبكة لبدء التنزيل</string>
+  <string name="restart_after_one_hour">إعادة التشغيل في خلال ساعة واحدة</string>
+  <string name="restart_instruction_title">ما الذي يجب عليك معرفته قبل إعادة التشغيل</string>
+  <string name="restart_later">لاحقًا</string>
+  <string name="restart_message">يرجى إعادة التشغيل الآن للتحديث</string>
+  <string name="restart_notification">إعادة تشغيل</string>
+  <string name="restart_notification_text">يرجى إعادة التشغيل الآن للتحديث. التحديث معلّق منذ %1$d من الأيام.</string>
+  <string name="restart_notify_sanity_call_msg">يتعذر على الجهاز إعادة التشغيل حاليًا لأن الاتصال جارٍ الآن</string>
+  <string name="restart_notify_sanity_maps_msg">يتعذر على الجهاز إعادة التشغيل حاليًا لأن الملاحة قيد التشغيل</string>
+  <string name="restart_now">إعادة التشغيل الآن</string>
+  <string name="restart_postponed">تم تأجيل إعادة التشغيل</string>
+  <string name="restart_title">إعادة تشغيل الجهاز</string>
+  <string name="resume_download_on_cellular">استخدام بيانات الهاتف المحمول</string>
+  <string name="retrieving_token">تتم المصادقة...</string>
+  <string name="sdcard_predownload_text">
+في هذه الخطوة، ستنسخ التحديث إلى ذاكرة النظام. سيتم تثبيت التحديث في الخطوة التالية. 
+
+قم بتوصيل الهاتف بمصدر طاقة للحرص على عدم نفاد طاقة البطارية.</string>
+  <string name="search_menu_title">البحث</string>
+  <string name="secure_instruction">هذه العملية آمنة</string>
+  <string name="security_download_notification_title">تحسين الأمان</string>
+  <string name="security_install_notification_text">ثمة تحديث أمان جديد جاهز للتثبيت</string>
+  <string name="security_install_title">ثمة تحديث أمان جاهز</string>
+  <string name="security_patch">إصلاح الأمان:</string>
+  <string name="security_update_low_storage_title">تحديث الأمان</string>
+  <string name="security_update_notification_text">الحصول على أحدث تحديث أمان</string>
+  <string name="security_update_paused">إيقاف تحديث الأمان مؤقتًا</string>
+  <string name="security_update_pending_notification_text">احصل على أحدث تحديث أمان. التحديث معلّق منذ %1$d من الأيام.</string>
+  <string name="security_update_title">تحديث الأمان</string>
+  <string name="select_account">اختيار حساب %1$s</string>
+  <string name="selected_later_time_os_mr">سيتم تثبيت تحديث النظام </string>
+  <string name="selected_later_time_smr">سيتم تثبيت تحديث الأمان في</string>
+  <string name="setting_sw_summary">تحديث إلى أحدث برنامج </string>
+  <string name="setting_sw_title">تحديثات النظام</string>
+  <string name="smart_cancel_update_toast_msg">تمت إعادة جدولة التحديث إلى %1$s</string>
+  <string name="smart_end_time">انتهاء</string>
+  <string name="smart_install_message_popup">بما أنك مكّنتَ التحديث الذكي، فسيثبّت جهازك التحديث تلقائيًا في %1$s إذا لم تكن قد قمت بالتثبيت بحلول ذلك الوقت. احرص على توفر مستوى كافٍ من البطارية للتثبيت.</string>
+  <string name="smart_restart_message_popup">بما أنك مكّنتَ التحديث الذكي، فستتم إعادة تشغيل جهازك تلقائيًا في %1$s إذا لم تكن قد قمت بإعادة التشغيل بحلول ذلك الوقت.</string>
+  <string name="smart_settings_string">يتم تنزيل التحديثات وتثبيتها تلقائيًا عندما تكون متصلاً بشبكة Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">يتم تنزيل التحديثات وتثبيتها تلقائيًا عندما تكون متصلاً بشبكة Wi-Fi أو باستخدام بيانات الهاتف المحمول</string>
+  <string name="smart_settings_string_vzw">يتم تنزيل التحديثات وتثبيتها تلقائيًا</string>
+  <string name="smart_start_time">بدء</string>
+  <string name="smart_to_string">إلى</string>
+  <string name="smart_update_advanced">متقدم</string>
+  <string name="smart_update_note">لسلامتك، سيتم تنزيل كل تحديثات الأمان الهامة تلقائيًا سواء أكانت هذه الميزة قيد التشغيل أو إيقاف التشغيل</string>
+  <string name="smart_update_note_vzw">لسلامتك، سيتم تنزيل كل التحديثات المهمة وتثبيتها تلقائيًا سواء أكانت هذه الميزة قيد التشغيل أو إيقاف التشغيل.</string>
+  <string name="smart_update_pop_up_text">حافظ على أمان جهازك وسلامته بفضل التحديثات التلقائية</string>
+  <string name="smart_update_recommendation">جرّب التحديثات الذكية</string>
+  <string name="smart_update_suggestion_text">ابقَ آمنًا عبر التحديثات التلقائية</string>
+  <string name="smart_update_text_AB">ساعد جهازك على العمل بأمان وفعالية عن طريق التثبيت التلقائي لكل تحديثات الأمان وإصلاحات الأخطاء الجديدة.</string>
+  <string name="smart_update_text_AB_vzw">تساعد التحديثات الذكية جهازَك في أن يعمل بفعالية وسلامة. سيتم تنزيل كل <b>تحديثات الأمان</b> الجديدة تلقائيًا عندما تشغّلها. بعد التنزيل، ستتم إعادة تشغيل جهازك في الوقت الذي تختاره.</string>
+  <string name="smart_update_text_classic">تساعد التحديثات الذكية جهازَك في أن يعمل بفعالية وسلامة. سيتم تنزيل كل <b>تحديثات الأمان وإصلاحات الأخطاء</b> الجديدة تلقائيًا عندما تشغّلها. بعد التنزيل، ستتم إعادة تشغيل جهازك وسيتم التثبيت في الوقت الذي تختاره.</string>
+  <string name="smart_update_text_classic_vzw">تساعد التحديثات الذكية جهازَك في أن يعمل بفعالية وسلامة. سيتم تنزيل كل <b>تحديثات الأمان</b> الجديدة تلقائيًا عندما تشغّلها. بعد التنزيل، ستتم إعادة تشغيل جهازك وسيتم التثبيت في الوقت الذي تختاره.</string>
+  <string name="smart_update_time_slot_text_AB">اختيار وقت بدء</string>
+  <string name="smart_update_time_slot_text_classic">اختيار وقت للتثبيت</string>
+  <string name="smart_update_title">التحديثات الذكية</string>
+  <string name="software_not_update_to">لم يتم بعد تحديث البرنامج إلى</string>
+  <string name="software_update_in_progress">جارٍ تحديث النظام إلى الإصدار</string>
+  <string name="software_update_planned_summary">تم التحقق - %1$s</string>
+  <string name="software_update_planned_title">تم التخطيط لتحديث البرنامج</string>
+  <string name="software_update_to">تم تحديث النظام إلى</string>
+  <string name="sofware_version">إصدار البرنامج:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">وفّر المساحة للتحديث</string>
+  <string name="su_btn">الإعدادات</string>
+  <string name="su_text_off">ستحتاج إلى تحديث جهازك يدويًا عند توافر برنامج جديد. شغّل التحديثات الذكية لجعل العملية تلقائية. انقر للحصول على مزيد من التفاصيل.</string>
+  <string name="su_text_on">افتراضيًا، تعمل التحديثات الذكية بين الساعة الواحدة والساعة الثالثة صباحًا. يمكنك تغيير أوقات التحديث أو إيقاف تشغيل التحديثات الذكية في الإعدادات. انقر للحصول على مزيد من التفاصيل.</string>
+  <string name="su_title_off">التحديثات الذكية متوقفة عن التشغيل</string>
+  <string name="su_title_on">التحديثات الذكية قيد التشغيل</string>
+  <string name="system_download_notification_title">تحديث النظام</string>
+  <string name="system_install_notification_text">ثمة تحديث نظام جاهز للتثبيت</string>
+  <string name="system_install_title">ثمة تحديث جاهز</string>
+  <string name="system_pdl_notification_mr_title">الحصول على إصلاحات الأخطاء والمزيد</string>
+  <string name="system_pdl_notification_os_title">ها إن Android %1$s قد وصل!</string>
+  <string name="system_update">تحديث النظام</string>
+  <string name="system_update_desc">حماية جهازك من التهديدات الأمنية والحصول على أحدث ميزات Motorola وAndroid</string>
+  <string name="system_update_info_not_available">غير متاح</string>
+  <string name="system_update_low_storage_text">انقر هنا للتحقق من الذاكرة والمتابعة.</string>
+  <string name="system_update_low_storage_title">تحديث النظام</string>
+  <string name="system_update_notification_os_text">اختبار Android الجديد</string>
+  <string name="system_update_notification_text">تنزيل البرنامج الجديد</string>
+  <string name="system_update_paused">تم إيقاف تحديث النظام مؤقتًا</string>
+  <string name="system_update_pending_notification_os_text">اختبر Android الجديد. التحديث معلّق منذ %1$d من الأيام.</string>
+  <string name="system_update_pending_notification_text">نزِّل البرنامج الجديد. التحديث معلّق منذ %1$d من الأيام.</string>
+  <string name="system_update_settings_list_item_title">تحديثات النظام</string>
+  <string name="system_update_status">حالة التحديث</string>
+  <string name="system_update_title">تحديث النظام</string>
+  <string name="tethered_permission_desc">إرسال نتائج تحديث 3ج</string>
+  <string name="tethered_update_result">نتيجة تحديث متصلة</string>
+  <string name="time_picker_text">بدء التثبيت بدون رسالة تذكير</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">المحاولة مرة أخرى</string>
+  <string name="turn_it_off">إيقاف تشغيله</string>
+  <string name="turn_it_on">تشغيل</string>
+  <string name="turn_on_smart_updates">تشغيل التحديثات الذكية</string>
+  <string name="update">تحديث</string>
+  <string name="update_blocked_by_policy">تم حظر التحديث بواسطة سياسة المسؤول </string>
+  <string name="update_cancelled_status">تم إلغاء تنزيل البرنامج في</string>
+  <string name="update_fail_desc">لقد حصل خطأ ما</string>
+  <string name="update_fail_status">فشل التحديث</string>
+  <string name="update_fail_sucancel_dm_status">تم إلغاء التحديث بواسطة الخادم</string>
+  <string name="update_fail_title">فشل التحديث</string>
+  <string name="update_history_blank">لا توجد محفوظات بعد</string>
+  <string name="update_history_src_target">تحديث من %1$s إلى %2$s</string>
+  <string name="update_history_time">تم التحديث في %1$s</string>
+  <string name="update_history_title">محفوظات التحديث</string>
+  <string name="update_history_version">إصدار البرنامج %1$s</string>
+  <string name="update_info">جارٍ التحديث…</string>
+  <string name="update_postpone_policy">تم تأجيل التحديث بواسطة سياسة المسؤول </string>
+  <string name="update_preference">تفضيلات التحديث</string>
+  <string name="update_success_desc">إصدار البرنامج الحالي: %1$s</string>
+  <string name="update_success_desc_os">تهانينا! لقد قمت بتثبيت Android %1$s بنجاح. أنت الآن جاهز للاستمتاع بتجربة أفضل وأذكى وأكثر أمانًا في عالم Android.</string>
+  <string name="update_success_status">تم التحديث بنجاح</string>
+  <string name="update_title">اكتمل التحديث</string>
+  <string name="update_title_text">استمتع بالبرنامج الجديد!</string>
+  <string name="upto_date_title">تبدو كل الأمور بحالة جيدة!</string>
+  <string name="urgent_channel_name">تنبيه تحديث البرنامج</string>
+  <string name="use_smart_updates">استخدام التحديثات الذكية</string>
+  <string name="vab_validation_update_failure_desc">فشل تحديث التحقق من صحة VAB</string>
+  <string name="vab_validation_update_failure_title">فشل التحقق من صحة VAB</string>
+  <string name="vab_validation_update_success_desc">تهانينا! نجح تحديث التحقق من صحة VAB</string>
+  <string name="vab_validation_update_success_title">نجح التحقق من صحة VAB</string>
+  <string name="verifying_patch">تم تطبيق التحديث. جارٍ التأكيد على نجاح التطبيق… (الخطوة ٤ من ٦)  </string>
+  <string name="verity_disabled_msg">قد يكون جهازك عرضة لمخاطر أمنية. نفّذ الأمر أدناه للاستمرار في تلقي التحديثات
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">لم يعد جهازك يتلقى تحديثات</string>
+  <string name="verizon_failure_notification_text"> تعذر على جهازك تثبيت هذا التحديث. استخدم الأداة مساعد ترقية البرامج للتثبيت. انقر للحصول على مزيد من المعلومات.</string>
+  <string name="verizon_failure_text">حدثت مشكلة في تحديث جهازك. لم يتم إجراء أي تغييرات. لتحديث برنامجك، يمكنك استخدام أداة مساعد تحديث البرامج.‏
+
+لتثبيت أداة مساعد تحديث البرامج:
+
+1. استخدم كابل USB لتوصيل جهازك بالكمبيوتر
+2. عندما تنبثق قائمة USB على جهازك، حدد رمز الإعدادات في الزاوية العلوية اليمنى
+3. من تفضيلات USB، حدد تثبيت البرنامج
+4. بدّل إلى الكمبيوتر الخاص بك وابحث عن معالج التثبيت
+5. جولة عمل في المعالج
+
+ستساعدك أداة مساعد تحديث البرامج في تنزيل تحديثات البرامج وتثبيتها على جهازك.</string>
+  <string name="vital_applying_updates">يتم تطبيق التحديثات...</string>
+  <string name="vital_bg_text">قد يستغرق ذلك بضع دقائق.</string>
+  <string name="vital_check_for_updates">يتم البحث عن تحديثات...</string>
+  <string name="vital_check_for_updates_desc">تُبقي التحديثات جهازك آمنًا وتحسّن أداءه.</string>
+  <string name="vital_done">تم!</string>
+  <string name="vital_error_fail">حدث خطأ في التحديث. لم يتم إجراء أي تغييرات.</string>
+  <string name="vital_go_back">هل تريد بالتأكيد إيقاف التثبيت</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">إعادة تشغيل للمتابعة</string>
+  <string name="vital_skip">تخطي</string>
+  <string name="vital_stop">إيقاف</string>
+  <string name="wifi_setting">إعدادات Wi-Fi</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">دستگاه برای تکمیل به‌روزرسانی، ⁦%1$d⁩ ثانیه دیگر راه‌اندازی مجدد می‌شود.</item>
+    <item quantity="other">دستگاه برای تکمیل به‌روزرسانی، ⁦%1$d⁩ ثانیه دیگر راه‌اندازی مجدد می‌شود.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d ثانیه دیگر راه‌اندازی می‌شود</item>
+    <item quantity="other">%1$d ثانیه دیگر راه‌اندازی می‌شود</item>
+  </plurals>
+</resources>

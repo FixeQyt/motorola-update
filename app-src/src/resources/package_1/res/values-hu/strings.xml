@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Frissítés később</string>
+  <string name="ab_download_now">Frissítés most</string>
+  <string name="ab_install_notification_paused_text">A háttérben zajló telepítés szünetel</string>
+  <string name="ab_install_notification_text">Telepítés a háttérben</string>
+  <string name="ab_restart_fullscreen_text">Már majdnem készen van! Csupán körülbelül 90 másodpercet vesz igénybe az eszköz újraindítása. A frissítés már %1$d napja elérhető.</string>
+  <string name="ab_restart_text">Már majdnem készen van! Az eszköz újraindítása mindössze körülbelül 90 másodpercet vesz igénybe</string>
+  <string name="ab_restart_warning_os_mr">A rendszerfrissítés majdnem kész. Az eszköz  </string>
+  <string name="ab_restart_warning_smr">A biztonsági telepítés majdnem kész. Az eszköz </string>
+  <string name="ab_warning_continues"> a frissítés befejezéséhez.</string>
+  <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+  <string name="abc_action_bar_up_description">Fel</string>
+  <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+  <string name="abc_action_mode_done">Kész</string>
+  <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+  <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+  <string name="abc_capital_off">KI</string>
+  <string name="abc_capital_on">BE</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">Szóköz</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Keresés…</string>
+  <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+  <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+  <string name="abc_searchview_description_search">Keresés</string>
+  <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+  <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+  <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+  <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+  <string name="abc_toolbar_collapse_description">Összecsukás</string>
+  <string name="abupdate_in_progress_status">Szoftverfrissítés folyamatban</string>
+  <string name="additional_charges_message">A letöltés mobiladattal folytatódik. Adatforgalmi díjak kerülhetnek felszámításra.</string>
+  <string name="alertSubText">Ez a frissítőcsomag ellenőrzéséhez, letöltéséhez és telepítéséhez szükséges</string>
+  <string name="alertText">Hálózati műveletek engedélyezése szoftverfrissítéseknél</string>
+  <string name="alertTitle">A frissítéshez a következő engedélyre van szükség</string>
+  <string name="alert_dialog_cancel">Telepítés leállítása</string>
+  <string name="alert_dialog_continue">Telepítés folytatása</string>
+  <string name="alert_dialog_no">Nem</string>
+  <string name="alert_dialog_ok">Értem</string>
+  <string name="alert_dialog_yes">Igen</string>
+  <string name="allocate_space_success">Rendelkezésre áll a frissítéshez szükséges memória</string>
+  <string name="allow">Engedélyezés</string>
+  <string name="android_latest_sw_text">A legújabb szoftvert használja</string>
+  <string name="android_version">Android-verzió:</string>
+  <string name="app_name">Motorola szoftverfrissítés</string>
+  <string name="applied">Be</string>
+  <string name="apply_bug_fix">Alkalmazás a hibajavításokra</string>
+  <string name="apply_os_update">Az összes szoftverfrissítés alkalmazása</string>
+  <string name="applying_patch">Frissítés végrehajtása… (%1$d/%2$d. lépés)  </string>
+  <string name="are_you_sure">Kikapcsolja az Okos frissítést?</string>
+  <string name="are_you_sure_pop_up_text">Biztosan kikapcsolja az Okos frissítést? </string>
+  <string name="asc_campaign_assigned">Kampány hozzárendelve</string>
+  <string name="asc_campaign_is_allowed">Firmware frissítése</string>
+  <string name="asc_campaign_is_blocked">Firmware zárolása</string>
+  <string name="asc_campaign_not_assigned">A készülék jelenleg nem szerepel reklámkampányban</string>
+  <string name="asc_campaign_status_prefix">
+Állapot: </string>
+  <string name="asc_campaign_window_period_status">
+Ablak frissítése: %s – %s</string>
+  <string name="asc_sw_up_to_date"> a legfrissebb verzióig</string>
+  <string name="asc_target_version"> a következő verzióig </string>
+  <string name="auth_title">Rendszerfrissítés</string>
+  <string name="auto_download_cellualr_charges_warn">A frissítések mobilhálózaton keresztül történő letöltése esetén további díjakat számíthatnak fel kerülhetnek felszámolásra</string>
+  <string name="auto_download_enable_cellular_future_updates">Szeretné a jövőbeni letöltésekhez is a mobiladat-lehetőséget választani?</string>
+  <string name="auto_download_settings_title">Automatikus letöltés beállításai</string>
+  <string name="auto_download_wifi_cellular">Végezze el a letöltést automatikusan mobiladat-hálózaton és Wi-Fi-n keresztül</string>
+  <string name="auto_download_wifi_cellular_desc">Végezze el a letöltést automatikusan mobiladat-hálózaton és Wi-Fi-n keresztül. Először a Wi-Fi kerül használatra, ha elérhető. </string>
+  <string name="auto_download_wifi_only">Automatikus letöltés csak Wi-Fi-hálózaton keresztül</string>
+  <string name="auto_download_wifi_only_desc">Automatikus letöltés csak Wi-Fi-n keresztül</string>
+  <string name="auto_install_notification_text">Az eszközön az automatikus telepítésre a következő időpontban kerül sor: %1$s</string>
+  <string name="auto_time_set">Indítás:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Mivel rendkívül fontos frissítésről van szó, a frissítés mobiladat felhasználásával automatikusan telepítésre kerül a következő időpontban: %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Mivel rendkívül fontos frissítésről van szó, a frissítés mobiladat felhasználásával automatikusan letöltődik a következő időpontban: %1$s</string>
+  <string name="background_install_msg">A frissítés folytatódik, ha visszalép vagy bezárja ezt az ablakot</string>
+  <string name="background_install_text">Folyamatban van a frissítés töltése és telepítése. Továbbra is használhatja az eszközt.</string>
+  <string name="bad_connection">Nincs internetkapcsolat</string>
+  <string name="bad_connection_text">Úgy tűnik, az eszköze jelenleg nem csatlakozik az internethez. Próbálja meg újra az alsó gombra koppintva.</string>
+  <string name="bg_install_cancel_confirm">Biztos benne, hogy leállítja a telepítést?</string>
+  <string name="bg_retried">A szoftverfrissítés megszakadt. Tovább próbálkozunk…</string>
+  <string name="bg_suspended">Várakozás adatkapcsolatra a háttérben zajló letöltés és telepítés folytatásához</string>
+  <string name="bg_suspended_non_adminapn">Várakozás Wi-Fi vagy költségmentes hálózati kapcsolatra a háttérben zajló letöltés és telepítés folytatásához...</string>
+  <string name="bg_suspended_roaming">A barangoló hálózat miatt a háttérben zajló telepítés abbamaradt. A háttérben zajló telepítés folytatásához kapcsolja be a Wi-Fi-t.</string>
+  <string name="bg_suspended_wifi">Várakozás Wi-Fi-kapcsolatra a háttérben zajló letöltés és telepítés folytatásához</string>
+  <string name="bootloader_unlock_msg">Az eszközére a továbbiakban nem fognak a frissítések rákerülni, így nem garantált a megfelelő biztonság.</string>
+  <string name="bootloader_unlock_title">Nem találhatók frissítések</string>
+  <string name="call_notification_answer_action">Fogadás</string>
+  <string name="call_notification_answer_video_action">Videó</string>
+  <string name="call_notification_decline_action">Elutasítás</string>
+  <string name="call_notification_hang_up_action">Befejezés</string>
+  <string name="call_notification_incoming_text">Bejövő hívás</string>
+  <string name="call_notification_ongoing_text">Hívás folyamatban</string>
+  <string name="call_notification_screening_text">Bejövő hívás szűrése</string>
+  <string name="cancel">Mégse</string>
+  <string name="cancel_download_notification">Mégse</string>
+  <string name="cancel_install">Mégse</string>
+  <string name="cancel_update_notification">Mégse</string>
+  <string name="check_for_updates_title">Frissítések keresése</string>
+  <string name="check_update_badparam">A frissítési kísérlet bejelentkezési hiba miatt sikertelen.
+
+Próbálja újra később.</string>
+  <string name="check_update_checking">Frissítések keresése...</string>
+  <string name="check_update_disabled_admin">A készülékfrissítéseket az IT admin felügyeli</string>
+  <string name="check_update_downloading">Frissítés letöltése zajlik.
+
+A letöltés befejeztével értesítést kap.</string>
+  <string name="check_update_fail">Váratlan hiba történt.
+
+Az eszköz a háttérben újra megpróbálkozik a frissítéssel.</string>
+  <string name="check_update_internal">Nem lehet rákeresni a frissítésekre. Próbálja újra később.</string>
+  <string name="check_update_net">Ellenőrizze az internetkapcsolatot, és próbálja meg újra</string>
+  <string name="check_update_net_vzw">A frissítések kereséséhez adatkapcsolatra van szükség. A Wi-Fi kapcsolat ellenőrzéséhez lépjen a Beállítások &gt; Hálózat és internet &gt; Internet &gt; Wi-Fi menüpontba.
+
+A motorola.com/systemupdates oldalon egyéb frissítési opciókat tekinthet meg.</string>
+  <string name="check_update_not_sys_user">A frissítések keresése nem engedélyezett vendégprofilok esetében</string>
+  <string name="check_update_processing">Kapcsolódás a kiszolgálónkhoz...
+Kérjük, várjon</string>
+  <string name="check_update_roaming">Rendszerfrissítés csak otthoni hálózaton érhető el. 
+
+Kapcsolat beállításához lépjen be a Beállítások &gt; Hálózat és internet &gt; Wi-Fi menüpontba.</string>
+  <string name="check_update_storage_low">Mivel nincs elegendő tárhely az eszközön, ezért a frissítés nem érhető el.</string>
+  <string name="check_update_temperror">A frissítések letöltése megszakadt.
+
+Próbálja újra később.</string>
+  <string name="check_update_text">Időnként frissítéseket keres, hogy eszközét folyamatosan biztonságosan használhassa és még jobbá tehesse a teljesítményét</string>
+  <string name="check_update_title_downloading">A letöltés folyamatban van...</string>
+  <string name="check_update_vab_validation">A VAB-hitelesítés állapotának ellenőrzése folyamatban
+Kérjük, várjon</string>
+  <string name="check_update_wifi_only">A rendszerfrissítés csak Wi-Fi hálózaton keresztül elérhető.</string>
+  <string name="check_wifi_settings">Wi-Fi beállítások ellenőrzése</string>
+  <string name="clear_space">Fájlok törlése</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Egy alkalmazás az Android Wear-alkalmazás frissítését igényli.</string>
+  <string name="common_android_wear_update_text">Ez az alkalmazás nem működik, amíg nem frissíti az Android Wear-alkalmazást.</string>
+  <string name="common_android_wear_update_title">Az Android Wear frissítése</string>
+  <string name="common_google_play_services_enable_button">Play-szolgáltatások aktiválása</string>
+  <string name="common_google_play_services_enable_text">Az alkalmazás csak akkor fog működni, ha engedélyezi a Google Play-szolgáltatásokat.</string>
+  <string name="common_google_play_services_enable_title">Google Play-szolgáltatások aktiválása</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">A(z) %1$s kérésére</string>
+  <string name="common_google_play_services_install_button">Play-szolgáltatások telepítése</string>
+  <string name="common_google_play_services_install_text_phone">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon.</string>
+  <string name="common_google_play_services_install_text_tablet">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a táblagépen.</string>
+  <string name="common_google_play_services_install_title">Play-szolgáltatások telepítése</string>
+  <string name="common_google_play_services_invalid_account_text">A megadott fiók nem létezik ezen az eszközön. Kérjük, válasszon másik fiókot.</string>
+  <string name="common_google_play_services_invalid_account_title">Érvénytelen fiók</string>
+  <string name="common_google_play_services_needs_enabling_title">Egy alkalmazás Google Play-szolgáltatások engedélyezését kéri.</string>
+  <string name="common_google_play_services_network_error_text">A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges.</string>
+  <string name="common_google_play_services_network_error_title">Hálózati hiba</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Egy alkalmazás Google Play-szolgáltatások telepítését kéri.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Egy alkalmazás Google Play-szolgáltatások frissítését kéri.</string>
+  <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+  <string name="common_google_play_services_unknown_issue">Ismeretlen hiba a Google Play-szolgáltatásokban.</string>
+  <string name="common_google_play_services_unsupported_text">A Google Play-szolgáltatásokat, amelyre egyes alkalmazások támaszkodnak, nem támogatja az eszköz. Segítségért forduljon az eszköz gyártójához.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play-szolgáltatások</string>
+  <string name="common_google_play_services_update_button">Frissítés</string>
+  <string name="common_google_play_services_update_text">Az alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+  <string name="common_google_play_services_update_title">Play-szolgáltatások frissítése</string>
+  <string name="common_open_on_phone">Megnyitás a telefonon</string>
+  <string name="common_signin_button_text">Belépés</string>
+  <string name="common_signin_button_text_long">Google-bejelentkezés</string>
+  <string name="compatibility_failed_title">A csomag megerősítése sikertelen</string>
+  <string name="compatibility_verification_failure">A letöltés alatt álló frissítőcsomag nem kompatibilis az eszközön található szoftver jelenlegi verziójával.</string>
+  <string name="compatibility_verification_failure_df">
+
+Kérjük, vegye fel a kapcsolatot egy Dogfood koordinátorral.</string>
+  <string name="compatibility_verification_success">Az ellenőrzés sikeres volt.</string>
+  <string name="completed"> A telepítés kész. A rendszer megkéri a telefon újraindítására (%2$d/%1$d. lépés)</string>
+  <string name="completed_install">%s kész</string>
+  <string name="connect_to_wifi">Csatlakozzon a Wi-Fi-hez</string>
+  <string name="continue_button">Tovább</string>
+  <string name="critical_install_message_popup_os_mr">Fontos rendszerfrissítés érhető el. Kérjük, a frissítés végrehajtásához válassza a Telepítés lehetőséget. Ha ezt nem teszi meg, a frissítés automatikusan végrehajtásra kerül a következő időpontban: %1$s.</string>
+  <string name="critical_install_message_popup_smr">Fontos biztonsági frissítés érhető el. Kérjük, a frissítés végrehajtásához válassza a Telepítés lehetőséget. Ha ezt nem teszi meg, a frissítés automatikusan végrehajtásra kerül a következő időpontban: %1$s.</string>
+  <string name="critical_install_message_screen">A fontos frissítés telepítésére automatikusan sor fog kerülni a következő időpontban: %1$s. Figyeljen oda arra, hogy az akkumulátor töltöttsége elérje a telepítéshez szükséges szintet.</string>
+  <string name="critical_install_notification">Mivel ez egy fontos frissítés, az eszköz automatikusan telepíti a következő időpontban: %1$s
+Telepítési idő: %2$d perc</string>
+  <string name="critical_restart_message_popup">A fontos frissítés végrehajtása érdekében kérjük, indítsa újra az eszközt, amilyen hamar csak lehetséges. Amennyiben most nem tudja újraindítani, az automatikusan újraindításra kerül a következő időpontban: %1$s.</string>
+  <string name="critical_restart_message_screen">Mivel ez egy fontos frissítés, az eszköz %1$s időpontban automatikusan újraindul, amennyiben addig nem indítja újra.</string>
+  <string name="critical_restart_notification">A frissítés fontos. Amennyiben most nem tudja újraindítani eszközét, az automatikusan újraindításra kerül a következő időpontban: %1$s</string>
+  <string name="critical_update_notification_title">Kritikus frissítés</string>
+  <string name="current_version">Jelenlegi szoftververzió:</string>
+  <string name="custom_slot">Egyéni</string>
+  <string name="custom_time">Egyéni idő</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s, %s</string>
+  <string name="defer_count_expired">Értem</string>
+  <string name="deny">Nem</string>
+  <string name="details">Részletek</string>
+  <string name="device_corrupted_msg">Találtunk néhány rendszerproblémát. Tudjuk, hogy ez kényelmetlenséggel jár, de ezek kijavításához fel kell keresnie a helyi szervizközpontot.
+
+Miután a telefonját megjavítottuk, továbbra is futtathatunk rajta frissítéseket.</string>
+  <string name="device_corrupted_title">A telefon frissítése nem lehetséges</string>
+  <string name="dialog_alert_net_message">Ellenőrizze a Wi-Fi vagy mobil adatkapcsolati csatlakozást, és próbálja meg újra.</string>
+  <string name="dialog_alert_net_title">Eszköze offline állapotban van</string>
+  <string name="dialog_alert_title">Az akkumulátor töltöttsége alacsony</string>
+  <string name="dialog_progress">Betöltés…</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fi használata javasolt. A mobiladattal történő letöltés vagy mobiladat használata barangolás közben további költségek felszámolását jelentheti.
+
+A szoftver letöltése nem lesz hatással az eszköz működésére.</string>
+  <string name="done">Kész</string>
+  <string name="dont_show_this_again">Ne mutassa többet</string>
+  <string name="download_cancelled_title">Letöltés megszakítva</string>
+  <string name="download_deferred_status">A szoftverletöltést elhalasztotta ekkor:</string>
+  <string name="download_failed_status">A frissítés letöltése nem sikerült ekkor:</string>
+  <string name="download_in_progress_status">Szoftverletöltés folyamatban</string>
+  <string name="download_later_button">Letöltés később</string>
+  <string name="download_no_button">Köszönöm, nem</string>
+  <string name="download_note">Továbbra is használhatja az eszközt a frissítés telepítése közben</string>
+  <string name="download_now">Töltse le most</string>
+  <string name="download_now_button">Letöltés</string>
+  <string name="download_options">Letöltési beállítások</string>
+  <string name="download_progress_cancel_message">Ha később szeretné letölteni ezt a frissítést, lépjen a Beállítások &gt; Rendszerfrissítések menüpontra</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s van még hátra (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% letöltve (szünetel)</string>
+  <string name="download_progress_text">A letöltés folytatódik, ha visszalép vagy bezárja ezt az ablakot</string>
+  <string name="download_subtitle">Tudnivalók a letöltés előtt</string>
+  <string name="download_text_whats_new">Nézze meg az újdonságokat</string>
+  <string name="download_time_left">%1$s van még hátra</string>
+  <string name="download_version">%1$s. verzió — %2$s</string>
+  <string name="download_wifi_only_error">A frissítés letöltéséhez Wi-Fi szükséges. A kapcsolat helyreállítása után folytatódik a letöltés.</string>
+  <string name="downloaded_percentage">%1$s letöltve</string>
+  <string name="emergency_call_btn_txt">Vészhelyzet</string>
+  <string name="emergency_call_text">Az újraindítás ideje alatt nem lehet hívásokat kezdeményezni és fogadni, beleértve a segélyhívásokat is!</string>
+  <string name="enable_wifi_error_txt">A frissítés letöltéséhez csatlakozzon a Wi-Fi hálózathoz.</string>
+  <string name="eol_explore">Fedezzen fel új eszközöket</string>
+  <string name="eol_last_update_text">Biztonsági frissítés:</string>
+  <string name="eol_promote">Tekintse meg a legújabb promóciókat</string>
+  <string name="eol_title">Az eszközén a legújabb elérhető szoftver fut.</string>
+  <string name="err_title_contact_server">Kapcsolódás a kiszolgálóhoz...</string>
+  <string name="err_title_memory_low">Kevés a memória...</string>
+  <string name="err_title_temp_error">Átmeneti hiba</string>
+  <string name="err_title_update">Frissítési hiba</string>
+  <string name="error_code">Hibakód: </string>
+  <string name="error_copyfail">Az SD-kártyáról való másolás sikertelen.</string>
+  <string name="error_disabled">A frissítés letöltése sikertelen. A frissítőcsomag jelenleg nem érhető el. 
+
+Nincs további teendő.</string>
+  <string name="error_fail">Sajnos probléma merült fel a(z) %1$s frissítése közben. Nem történt változtatás. Próbálja meg újra a Beállítások &gt; Rendszerfrissítés menüpontban.</string>
+  <string name="error_in_call_msg">Az eszköz nem frissít, amíg hívás van folyamatban</string>
+  <string name="error_in_call_title">Hívás folyamatban</string>
+  <string name="error_install_title">A telepítés sikertelen</string>
+  <string name="error_mismatch">Verzióeltérés tapasztalható. Később újra megjelenik egy frissítés. Ha elérhető lesz, a rendszer értesítést küld.</string>
+  <string name="error_mismatch_sd">A frissítés sikertelen. A frissítés verziója nem megfelelő a telefonhoz. 
+
+Töltse le a telefonjához megfelelő verziót, és próbálja újra.</string>
+  <string name="error_network">A kapcsolat megszakadt. Próbálkozzon újra, és ellenőrizze manuálisan a frissítéseket a Telefon beállításaiban.</string>
+  <string name="error_reboot">Nem sikerült letölteni ezt a frissítést. Ha később szeretné beszerezni ezt a frissítést, indítsa újra az eszközt, majd lépjen a Beállítások &gt; Rendszerfrissítések menüpontra.</string>
+  <string name="error_resources">Nem sikerült letölteni ezt a frissítést. Ha később szeretné letölteni ezt a frissítést, lépjen a Beállítások &gt; Rendszerfrissítések menüpontra.</string>
+  <string name="error_sdcard_resources_fail_removal">Az SD-kártya el lett távolítva. A letöltés nem fejezhető be. 
+
+Tegye be újra az SD-kártyát, majd próbálja meg újra a Beállítások &gt; Rendszerfrissítések menüpont megnyitásával.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">A letöltés nem fejezhető be. Nincs elég szabad hely az SD-kártyán. 
+
+Szabadítson fel tárterületet, majd próbálja meg újra a Beállítások &gt; Rendszerfrissítések menüpont megnyitásával.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Helyezze be az sd-kártyát a letöltés megkezdéséhez.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Kapcsolja be az sd-kártyát a letöltés megkezdéséhez. 
+
+Nyissa meg a Beállítások &gt; Tárhely &gt; sd-kártya bekapcsolása menüpontot. 
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Nincs elég hely az SD-kártyán a letöltés befejezéséhez. 
+
+Szabadítson fel %1$s tárhelyet, majd nyissa meg a Beállítások &gt; Rendszerfrissítések menüpontot a letöltés újraindításához.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Hiba</string>
+  <string name="error_sdcard_resources_warning">Szoftverfrissítés töltődik le az sd-kártyára. 
+
+Ne távolítsa el az sd-kártyát, amíg a telepítés be nem fejeződik.
+
+
+</string>
+  <string name="error_server">Hiba történt a kiszolgálón. Kérjük, próbálja meg később.</string>
+  <string name="error_space">Ehhez a frissítéshez %1$s szabad tárhelyre van szükség az eszközön. 
+
+A nem használt alkalmazások törlésével vagy fényképeinek és videóinak egy másik tárolóeszközre történő áthelyezésével szabadítson fel %2$s tárhelyet. 
+
+Ezután a Beállítások &gt; Rendszerfrissítések menüpontban bármikor elkezdheti a frissítést.</string>
+  <string name="error_space_retry">Ehhez a frissítéshez %1$s szabad tárhelyre van szükség az eszközön. 
+
+A nem használt alkalmazások törlésével vagy fényképeinek és videóinak egy másik tárolóeszközre történő áthelyezésével szabadítson fel %2$s tárhelyet.</string>
+  <string name="error_space_vab">Ehhez a frissítéshez %1$s szabad tárhelyre van szükség az eszközön. Szabadítson fel memóriát eszközén a sikeres frissítéshez</string>
+  <string name="error_space_vab_make_room_popup">A frissítéshez további %1$s szabad tárhelyre van szükség. Törölje a nem használt alkalmazásokat, vagy helyezze át fényképeit és videóit egy másik tárolóeszközre.</string>
+  <string name="error_title">A letöltés sikertelen</string>
+  <string name="error_verify">A frissítés nem hitelesíthető megfelelően. Próbálja újra.</string>
+  <string name="failed">Sikertelen</string>
+  <string name="failed_in_roaming">A frissítéshez Wi-Fi-kapcsolatra van szükség</string>
+  <string name="failure_process">Nem érhető el információ</string>
+  <string name="finalizing_patch">Frissítés befejezése… (6/5. lépés)  </string>
+  <string name="first_net_text">Kérjük, telepítse a frissítést, különben az eszköz automatikusan telepíti a következő újraindításkor. Figyeljen arra, hogy az akkumulátor töltöttségi szintje %s fölött legyen</string>
+  <string name="forceInstallMessage">A frissítés telepítésére automatikusan sor fog kerülni a következő időpontban: %1$s.</string>
+  <string name="force_install_message_screen">Ez egy fontos frissítés, ezért kérjük, végezze el a telepítést a következő időpontig: %1$s. Máskülönben a telepítés automatikusan megtörténik, amikor az eszközt a legkevésbé használja. Figyeljen oda arra, hogy az akkumulátor elérje a telepítéshez szükséges töltöttségi szintet.</string>
+  <string name="force_install_notification_message">Kérjük, telepítse a következő időpontig: %1$s. Máskülönben a telepítés automatikusan megtörténik az eszközön, amikor azt a legkevésbé használja.
+Telepítési idő: %2$d perc</string>
+  <string name="force_restart_notification_message">Kérjük, indítsa újra a következő időpontig: %1$s Máskülönben az eszköz újraindítása automatikusan megtörténik, amikor azt a legkevésbé használja.</string>
+  <string name="force_restart_screen_message">Amennyiben nem indítja újra a következő időpontig: %1$s, az eszköz automatikusan újraindul, amikor a legkevesebbet használja.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Értem</string>
+  <string name="important_update_install_overdue_message">A telepítés ütemezett ideje elmúlt. A telepítés el fog kezdődni, amint az eszköze megfelel az ehhez szükséges követelményeknek.</string>
+  <string name="important_update_restart_overdue_message">Az újraindítás ütemezett ideje elmúlt. Az újraindítás megtörténik, amint az eszköze megfelel az ehhez szükséges követelményeknek.</string>
+  <string name="initiating_ota_service_msg">Kérjük, várjon...</string>
+  <string name="initiating_ota_service_title">Szoftverfrissítési folyamat inicializálása</string>
+  <string name="install">Telepítés</string>
+  <string name="install_after_one_hour">Telepítés 1 óra múlva</string>
+  <string name="install_cancelled_title">Telepítés megszakítva</string>
+  <string name="install_deferred_status">A frissítés elhalasztásra került ekkor:</string>
+  <string name="install_later">Telepítés később</string>
+  <string name="install_notify_sanity_call_msg">Az eszköz nem tudja elvégezni a telepítést, amíg hívás van folyamatban</string>
+  <string name="install_notify_sanity_maps_msg">Az eszköz nem tudja elvégezni a telepítést, amíg a navigáció be van kapcsolva</string>
+  <string name="install_now">Telepítés most</string>
+  <string name="install_postponed">Telepítés elhalasztva</string>
+  <string name="install_progress_cancel_message">Ha később szeretné telepíteni ezt a frissítést, lépjen a Beállítások &gt; Rendszerfrissítések menüpontra</string>
+  <string name="install_progress_paused_message">%s kész (szüneteltetve)</string>
+  <string name="install_time">Telepítési idő: %1$d perc</string>
+  <string name="install_warning">Amit a telepítés előtt tudni érdemes</string>
+  <string name="just_one_more_step">Már csak egy lépés van hátra</string>
+  <string name="keep_it_on">Így hagyom</string>
+  <string name="later_button">Emlékeztetés később</string>
+  <string name="learn_more_online_link">További információk online</string>
+  <string name="low_battery_bg_install">Az akkumulátor alacsony töltöttségi szintje miatt szünetel a telepítés. A telepítés folytatódik, ha az akkumulátor töltöttsége meghaladja a 20%-ot.</string>
+  <string name="low_battery_download">Az akkumulátor alacsony töltöttségi szintje miatt szünetel a letöltés. A letöltés folytatódni fog az eszköz feltöltése után.</string>
+  <string name="low_battery_install">A frissítés telepítéséhez az eszközt legalább %s töltöttségi szintre töltse fel</string>
+  <string name="make_space">Szabadítson fel helyet</string>
+  <string name="mandatory_install_notification">Amennyiben nem telepíti sürgősen ezt a rendszerfrissítést, le fog maradni a fontos biztonsági frissítésekről, továbbá az új funkciókról és hibajavításokról.</string>
+  <string name="mandatory_restart_notification">Mivel ez egy fontos frissítés, kérjük, indítsa újra most az eszközt. Ellenkező esetben le fog maradni a fontos biztonsági frissítésekről, valamint az új funkciókról és hibajavításokról.</string>
+  <string name="medium_channel_name">Szoftverletöltési értesítő</string>
+  <string name="merge_emergency_call_text">Az újraindítás ideje alatt nem lehet hívásokat kezdeményezni és fogadni, beleértve a segélyhívásokat.</string>
+  <string name="merge_force_restart_text">Ha most nem kívánja újraindítani, a telefon automatikusan újraindul, amikor inaktívvá válik.</string>
+  <string name="merge_progress_text">Ha a frissítés befejeződött, értesítést küldünk Önnek</string>
+  <string name="merge_progress_title">Frissítés befejezése…</string>
+  <string name="merge_restart_text">A frissítés a telefon újraindítása után fejeződik be</string>
+  <string name="merge_restart_title">Kérjük, indítsa újra</string>
+  <string name="merge_update_fail_notify_text">Találtunk néhány rendszerproblémát. Kérjük, keresse fel a szervizközpontot a javításukhoz</string>
+  <string name="merge_update_fail_notify_title">Frissítés sikertelen</string>
+  <string name="merge_update_fail_text">Találtunk néhány rendszerproblémát, amelyek megakadályozzák a frissítések telepítését. Kérjük, keresse fel a szervizközpontot a javításhoz.
+
+Telefonját addig is használhatja a megszokott módon.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Válasszon fiókot</string>
+  <string name="multiple_account_alert">A rendszerfrissítés folytatásához válasszon %1$s fiókot.</string>
+  <string name="no_thanks">Köszönöm, nem</string>
+  <string name="no_thanks_message">Ha később szeretné beszerezni ezt a frissítést, lépjen a Beállítások &gt; Rendszerfrissítések menüpontra.</string>
+  <string name="no_updates_applied">Nem kerültek alkalmazásra frissítések</string>
+  <string name="not_now">Most nem</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Az engedély, melyre az alkalmazásoknak az otaservice használatához szüksége van</string>
+  <string name="package_size">Letöltés mérete: %1$s</string>
+  <string name="personalInfo_instruction">Nem fogja elveszíteni személyes adatait</string>
+  <string name="picker_cell_radio">Wi-Fi és mobiladat</string>
+  <string name="picker_title">Válassza ki, hogyan szeretné letölteni a frissítést:</string>
+  <string name="picker_wifi_only_radio">Csak Wi-Fi</string>
+  <string name="please_restart">Kérjük, indítsa újra most</string>
+  <string name="policy_set">A rendszer frissítése le van tiltva. További tájékoztatásért forduljon az eszköz rendszergazdájához.</string>
+  <string name="press_back_again_to_exit">A kilépéshez nyomja meg ismét a VISSZA gombot</string>
+  <string name="progress_copying_sd">Frissítés másolása</string>
+  <string name="progress_deffered">A letöltés Wi-Fi hálózaton/mobilhálózaton indul el.</string>
+  <string name="progress_downloading_ota">Rendszerfrissítés letöltése</string>
+  <string name="progress_downloading_security">Biztonsági frissítés letöltése</string>
+  <string name="progress_retried">A szoftverfrissítés megszakadt. Tovább próbálkozunk…</string>
+  <string name="progress_suspended">Várakozás adatkapcsolatra a letöltés folytatásához</string>
+  <string name="progress_suspended_datasaver">Az adatmentő kikapcsolása a letöltés folytatásához</string>
+  <string name="progress_suspended_no_adminapn">Várakozás Wi-Fi vagy költségmentes hálózati kapcsolatra a letöltés folytatásához</string>
+  <string name="progress_suspended_roaming">A barangoló hálózat miatt a letöltés abbamaradt. A letöltés folytatásához kapcsolja be a Wi-Fi-t.</string>
+  <string name="progress_suspended_wifi">Várakozás Wi-Fi kapcsolatra a letöltés folytatásához...</string>
+  <string name="progress_verify">Annak ellenőrzése, hogy készüléke készen áll-e a frissítésre…</string>
+  <string name="progress_verify_allocate_space">Szükséges memória ellenőrzése</string>
+  <string name="relative_date_time">%1$s, %2$s</string>
+  <string name="release_note_battery_desc">Az akkumulátor-üzemidő és a használat javítására vonatkozó frissítések</string>
+  <string name="release_note_battery_title">Akkumulátor</string>
+  <string name="release_note_camera_desc">Ezek a fejlesztések segítenek még pontosabb és részletgazdagabb fényképeket készíteni</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">A módosítások segítenek az eszköz adatkapcsolatának javításában</string>
+  <string name="release_note_cellular_title">Mobil</string>
+  <string name="release_note_charging_desc">Ezek a frissítések javítják a töltési képességeket</string>
+  <string name="release_note_charging_title">Töltés folyamatban</string>
+  <string name="release_note_generic_desc">A módosítások segítenek javítani az eszköz általános teljesítményét</string>
+  <string name="release_note_os_update_desc">Az új monokróm témák elegáns megjelenést kölcsönöznek a telefonjának, és feldobják a háttérképet. Tekintse át az alkalmazások adathasználatát és -megosztását, mielőtt megadná az alkalmazásengedélyeket, és hozzáférhetőbbé tenné az Android 14 új hallás- és látássegítő funkcióival.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">A módosítások segítenek javítani az eszköz teljesítményét</string>
+  <string name="release_note_performance_title">Teljesítmény</string>
+  <string name="release_note_security_desc">Tartalmazza a biztonsági frissítéseket a következőn keresztül: %1$s</string>
+  <string name="release_note_security_title">Biztonsági frissítés</string>
+  <string name="release_note_stability_desc">Tartalmazza a telefon megbízhatóságának javítására szolgáló fejlesztéseket és hibajavításokat</string>
+  <string name="release_note_stability_title">Stabilitás</string>
+  <string name="release_note_title">A frissítés tartalma</string>
+  <string name="release_note_wifi_desc">Tartalmazza a Wi-Fi-kapcsolódásra vonatkozó frissítéseket</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Nézze meg az Android %1$s új funkcióit</string>
+  <string name="request_suspended_datasaver">Kapcsolja ki az adatforgalom-csökkentőt a letöltés megkezdéséhez</string>
+  <string name="request_suspended_no_network">Nincs hálózati lefedettség a letöltés megkezdéséhez</string>
+  <string name="restart_after_one_hour">Újraindítás 1 óra múlva</string>
+  <string name="restart_instruction_title">Tudnivalók az újraindítás előtt</string>
+  <string name="restart_later">Később</string>
+  <string name="restart_message">Indítsa újra most a frissítéshez</string>
+  <string name="restart_notification">Újraindítás</string>
+  <string name="restart_notification_text">Indítsa újra most a frissítéshez. A frissítés már %1$d napja függőben van.</string>
+  <string name="restart_notify_sanity_call_msg">Az eszköz nem indul újra, amíg hívás van folyamatban</string>
+  <string name="restart_notify_sanity_maps_msg">Az eszköz nem indul újra, amíg a navigáció be van kapcsolva</string>
+  <string name="restart_now">Újraindítás most</string>
+  <string name="restart_postponed">Újraindítás elhalasztva</string>
+  <string name="restart_title">Indítsa újra az eszközt</string>
+  <string name="resume_download_on_cellular">Mobiladat használata</string>
+  <string name="retrieving_token">Hitelesítés...</string>
+  <string name="sdcard_predownload_text">
+Ebben a lépésben a frissítést átmásolja a rendszermemóriába. A frissítés a következő lépésben lesz telepítve. 
+
+Csatlakoztassa a telefont külső áramforráshoz, hogy ne merülhessen le az akkumulátor.</string>
+  <string name="search_menu_title">Keresés</string>
+  <string name="secure_instruction">A folyamat biztonságos</string>
+  <string name="security_download_notification_title">Fejlessze tovább a biztonságát</string>
+  <string name="security_install_notification_text">Az új biztonsági frissítés készen áll a telepítésre</string>
+  <string name="security_install_title">Készen áll a biztonsági frissítés</string>
+  <string name="security_patch">Biztonsági frissítés:</string>
+  <string name="security_update_low_storage_title">Biztonsági frissítés</string>
+  <string name="security_update_notification_text">Szerezze be a legújabb biztonsági frissítéseket</string>
+  <string name="security_update_paused">Biztonsági frissítés szüneteltetve</string>
+  <string name="security_update_pending_notification_text">Szerezze be a legújabb biztonsági frissítéseket. A frissítés már %1$d napja függőben van.</string>
+  <string name="security_update_title">Biztonsági frissítés</string>
+  <string name="select_account">Válasszon %1$s fiókot</string>
+  <string name="selected_later_time_os_mr">Rendszerfrissítés kerül telepítésre ezen a napon: </string>
+  <string name="selected_later_time_smr">A biztonsági frissítés telepítése:</string>
+  <string name="setting_sw_summary">Frissítés a legfrissebb szoftververzióra </string>
+  <string name="setting_sw_title">Rendszerfrissítések</string>
+  <string name="smart_cancel_update_toast_msg">A frissítés időpontja a következőre változott: %1$s</string>
+  <string name="smart_end_time">Befejezés</string>
+  <string name="smart_install_message_popup">Mivel engedélyezte az Intelligens frissítést, az eszköz %1$s időpontban automatikusan telepíti a frissítést, amennyiben Ön addig nem telepítette. Figyeljen oda arra, hogy az akkumulátor töltöttsége elérje a telepítéshez szükséges szintet.</string>
+  <string name="smart_restart_message_popup">Mivel engedélyezte az Intelligens frissítést, az eszköz %1$s időpontban automatikusan újraindul, amennyiben Ön addig nem indítja újra.</string>
+  <string name="smart_settings_string">Frissítések automatikus letöltése és telepítése, amikor Wi-Fi-hálózathoz csatlakozik</string>
+  <string name="smart_settings_string_Softbank">A frissítések és letöltések automatikusan kerülnek telepítésre, ha Wi-Fi-hálózathoz vagy mobiladat-hálózathoz csatlakozik</string>
+  <string name="smart_settings_string_vzw">A frissítések és letöltések automatikusan kerülnek telepítésre</string>
+  <string name="smart_start_time">Elkezdés</string>
+  <string name="smart_to_string">Címzett</string>
+  <string name="smart_update_advanced">Speciális</string>
+  <string name="smart_update_note">A telefon biztonsága érdekében a fontos biztonsági frissítések letöltésére automatikusan sor fog kerülni, függetlenül attól, hogy a funkció ki van-e kapcsolva vagy sem</string>
+  <string name="smart_update_note_vzw">A telefon biztonsága érdekében a kritikus fontosságú frissítések letöltésére és telepítésére automatikusan sor fog kerülni, függetlenül attól, hogy a funkció ki van-e kapcsolva vagy sem.</string>
+  <string name="smart_update_pop_up_text">Az automatikus frissítések gondoskodnak az eszköz biztonságáról</string>
+  <string name="smart_update_recommendation">Próbálja ki az intelligens frissítéseket</string>
+  <string name="smart_update_suggestion_text">Az automatikus frissítésekkel továbbra is biztonságban tudhatja magát</string>
+  <string name="smart_update_text_AB">Segítse az eszköz biztonságos és hatékony működését az összes új biztonsági frissítés és hibajavítás automatikus telepítésével.</string>
+  <string name="smart_update_text_AB_vzw">Az Okos frissítések segítségével eszköze biztonságosan és hatékonyan működik. Amikor bekapcsolja, minden új <b>biztonsági frissítés</b> automatikusan letöltésre kerül. A letöltés után az eszköz újraindul a kiválasztott időpontban.</string>
+  <string name="smart_update_text_classic">Az Okos frissítések segítségével eszköze biztonságosan és hatékonyan működik. Amikor bekapcsolja, minden új <b>biztonsági frissítés</b> automatikusan letöltésre kerül. A letöltés után az eszköz újraindul, és a telepítés elindul a kiválasztott időpontban.</string>
+  <string name="smart_update_text_classic_vzw">Az Okos frissítések segítségével eszköze biztonságosan és hatékonyan működik. Amikor bekapcsolja, minden új <b>biztonsági frissítés</b> automatikusan letöltésre kerül. A letöltés után az eszköz újraindul, és a telepítés elindul a kiválasztott időpontban.</string>
+  <string name="smart_update_time_slot_text_AB">Válassza ki az indítás idejét</string>
+  <string name="smart_update_time_slot_text_classic">Válassza ki a telepítés idejét</string>
+  <string name="smart_update_title">Okos frissítések</string>
+  <string name="software_not_update_to">A szoftvert még nem frissítette erre:</string>
+  <string name="software_update_in_progress">A rendszer a következő verzióra frissül:</string>
+  <string name="software_update_planned_summary">Ellenőrizve – %1$s</string>
+  <string name="software_update_planned_title">Tervezett szoftverfrissítés</string>
+  <string name="software_update_to">A rendszer a következő verzióra frissült:</string>
+  <string name="sofware_version">Szoftver verziója:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Hely felszabadítása a frissítéshez</string>
+  <string name="su_btn">Beállítások</string>
+  <string name="su_text_off">Manuálisan kell frissítenie készülékét, ha új szoftver áll rendelkezésre. Kapcsolja be az Okos frissítések funkciót, hogy a folyamat automatikus legyen. Koppintson a további részletekért.</string>
+  <string name="su_text_on">Az Okos frissítések alapértelmezett beállítás szerint hajnali 1 és 3 óra között települnek. A beállításokban módosíthatja a frissítési időpontokat, de ki is kapcsolhatja az Okos frissítéseket. Koppintson a további részletekért.</string>
+  <string name="su_title_off">Okos frissítések kikapcsolva</string>
+  <string name="su_title_on">Okos frissítések bekapcsolva</string>
+  <string name="system_download_notification_title">Rendszerfrissítés</string>
+  <string name="system_install_notification_text">A rendszerfrissítés készen áll a telepítésre</string>
+  <string name="system_install_title">Készen áll egy frissítés</string>
+  <string name="system_pdl_notification_mr_title">Hibajavítások és más beszerzése</string>
+  <string name="system_pdl_notification_os_title">Megérkezett az Android %1$s!</string>
+  <string name="system_update">Rendszerfrissítés</string>
+  <string name="system_update_desc">Védje eszközét a biztonsági fenyegetésekkel szemben, és jusson hozzá a legújabb Motorola és Android funkciókhoz</string>
+  <string name="system_update_info_not_available">Nem érhető el</string>
+  <string name="system_update_low_storage_text">A memória ellenőrzéséhez és a folytatáshoz érintse meg itt.</string>
+  <string name="system_update_low_storage_title">Rendszerfrissítés</string>
+  <string name="system_update_notification_os_text">Ismerje meg az új Android verziót</string>
+  <string name="system_update_notification_text">Töltse le az új szoftvert</string>
+  <string name="system_update_paused">Rendszerfrissítés szüneteltetve</string>
+  <string name="system_update_pending_notification_os_text">Ismerje meg az új Android verziót. A frissítés már %1$d napja függőben van.</string>
+  <string name="system_update_pending_notification_text">Töltse le az új szoftvert. A frissítés már %1$d napja függőben van.</string>
+  <string name="system_update_settings_list_item_title">Rendszerfrissítések</string>
+  <string name="system_update_status">Frissítés állapota</string>
+  <string name="system_update_title">Rendszerfrissítés</string>
+  <string name="tethered_permission_desc">3c frissítési eredmények küldése</string>
+  <string name="tethered_update_result">Megosztott frissítés eredménye</string>
+  <string name="time_picker_text">A telepítés indítása emlékeztető nélkül</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Próbálja újra</string>
+  <string name="turn_it_off">Kikapcsolás</string>
+  <string name="turn_it_on">Bekapcsolás</string>
+  <string name="turn_on_smart_updates">Okos frissítések kikapcsolása</string>
+  <string name="update">Frissítés</string>
+  <string name="update_blocked_by_policy">Frissítés blokkolva a rendszergazdai szabályzat miatt </string>
+  <string name="update_cancelled_status">A szoftver letöltése megszakadt ekkor:</string>
+  <string name="update_fail_desc">Valami nem sikerült</string>
+  <string name="update_fail_status">Frissítés sikertelen</string>
+  <string name="update_fail_sucancel_dm_status">A szerver törölte a frissítést</string>
+  <string name="update_fail_title">Frissítés sikertelen</string>
+  <string name="update_history_blank">Nincsenek előzmények</string>
+  <string name="update_history_src_target">Frissítés %1$s verzióról %2$s verzióra</string>
+  <string name="update_history_time">A frissítés időpontja: %1$s</string>
+  <string name="update_history_title">Frissítési előzmények</string>
+  <string name="update_history_version">Szoftver verziója: %1$s</string>
+  <string name="update_info">Frissítés...</string>
+  <string name="update_postpone_policy">Frissítés elhalasztva a rendszergazdai szabályzat miatt </string>
+  <string name="update_preference">A beállítások frissítése</string>
+  <string name="update_success_desc">Jelenlegi szoftververzió: %1$s</string>
+  <string name="update_success_desc_os">Gratulálunk! Sikeresen telepített a következő Android verziót: %1$s. Mostantól jobb, okosabb és biztonságosabb Android élményben lesz része.</string>
+  <string name="update_success_status">Sikeres frissítés</string>
+  <string name="update_title">A frissítés kész</string>
+  <string name="update_title_text">Élvezze az új szoftverét!</string>
+  <string name="upto_date_title">Úgy tűnik, minden rendben!</string>
+  <string name="urgent_channel_name">Szoftverfrissítési figyelmeztetés</string>
+  <string name="use_smart_updates">Használja az Okos frissítéseket</string>
+  <string name="vab_validation_update_failure_desc">A VAB-hitelesítés frissítése sikertelen volt</string>
+  <string name="vab_validation_update_failure_title">Sikertelen VAB-hitelesítés</string>
+  <string name="vab_validation_update_success_desc">Gratulálunk! A VAB-hitelesítés frissítése sikeres volt</string>
+  <string name="vab_validation_update_success_title">Sikeres VAB-hitelesítés</string>
+  <string name="verifying_patch">Frissítést alkalmazva. Az alkalmazás sikerességének megerősítése… (6/4. lépés)  </string>
+  <string name="verity_disabled_msg">Eszköze biztonsági kockázatnak lehet kitéve. Hajtsa végre az alábbi parancsot a frissítések fogadásához
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Ez az eszköz nem tölt le frissítéseket</string>
+  <string name="verizon_failure_notification_text"> Az eszköz nem tudta telepíteni a frissítést.  Használja a Software Upgrade Assistant eszközt a telepítéshez. Koppintson további információkért.</string>
+  <string name="verizon_failure_text">Probléma merült fel az eszköz frissítése közben. Nem történt változtatás. A szoftver frissítéséhez használhatja a Software Upgrade Assistant eszközt.
+
+A Software Upgrade Assistant eszköz telepítéséhez:
+
+1. USB-kábellel csatlakoztassa az eszközt a számítógéphez.
+2. Amikor az USB-menü megjelenik az eszközön, válassza a jobb felső sarokban lévő beállítások ikont.
+3. Az USB-beállítások menüpontban válassza a Szoftver telepítése lehetőséget
+4. Váltson át a számítógépére, és keresse meg a telepítő varázslót.
+5. Kövesse a varázslóban megjelenő lépéseket
+
+A Software Upgrade Assistant eszköz segít letölteni és telepíteni a szoftverfrissítéseket az eszközére.</string>
+  <string name="vital_applying_updates">Frissítések alkalmazása...</string>
+  <string name="vital_bg_text">Ez néhány percet vehet igénybe.</string>
+  <string name="vital_check_for_updates">Frissítések keresése…</string>
+  <string name="vital_check_for_updates_desc">A frissítések hozzájárulnak eszköze biztonságos használatához és teljesítményének javításához.</string>
+  <string name="vital_done">Kész!</string>
+  <string name="vital_error_fail">Hiba történt frissítés közben. Nem történt változás.</string>
+  <string name="vital_go_back">Biztos benne, hogy leállítja a telepítést?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Újraindítás a folytatáshoz</string>
+  <string name="vital_skip">Kihagyás</string>
+  <string name="vital_stop">Leállítás</string>
+  <string name="wifi_setting">Wi-Fi beállítások</string>
+</resources>

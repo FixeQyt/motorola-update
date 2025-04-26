@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Yeniləməni tamamlamaq üçün %1$d cihazınız saniyədən sonra yenidən başlayacaq.</item>
+    <item quantity="other">Yeniləməni tamamlamaq üçün %1$d cihazınız saniyədən sonra yenidən başlayacaq.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d saniyə sonra yenidən başlanacaq</item>
+    <item quantity="other">%1$d saniyə sonra yenidən başlanacaq</item>
+  </plurals>
+</resources>

@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Uppdaterare senare</string>
+  <string name="ab_download_now">Uppdatera nu</string>
+  <string name="ab_install_notification_paused_text">Bakgrundsinstallationen har pausats</string>
+  <string name="ab_install_notification_text">Bakgrundsinstallation</string>
+  <string name="ab_restart_fullscreen_text">Det är nästan klart! Det tar bara cirka 90 sekunder att starta om enheten. Uppdateringen har varit tillgänglig i %1$d dagar.</string>
+  <string name="ab_restart_text">Det är nästan klart! Det tar bara cirka 90 sekunder att starta om enheten</string>
+  <string name="ab_restart_warning_os_mr">Systemuppdateringen har nästan slutförts. Enheten kommer  </string>
+  <string name="ab_restart_warning_smr">Säkerhetsuppdateringen har nästan slutförts. Enheten  </string>
+  <string name="ab_warning_continues">  för att slutföra uppdateringen.</string>
+  <string name="abc_action_bar_home_description">Navigera hem</string>
+  <string name="abc_action_bar_up_description">Navigera uppåt</string>
+  <string name="abc_action_menu_overflow_description">Fler alternativ</string>
+  <string name="abc_action_mode_done">Klar</string>
+  <string name="abc_activity_chooser_view_see_all">Visa alla</string>
+  <string name="abc_activitychooserview_choose_application">Välj en app</string>
+  <string name="abc_capital_off">AV</string>
+  <string name="abc_capital_on">PÅ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt + </string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl + </string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">retur</string>
+  <string name="abc_menu_function_shortcut_label">Funktion + </string>
+  <string name="abc_menu_meta_shortcut_label">Meta + </string>
+  <string name="abc_menu_shift_shortcut_label">Skift + </string>
+  <string name="abc_menu_space_shortcut_label">blanksteg</string>
+  <string name="abc_menu_sym_shortcut_label">Symbol + </string>
+  <string name="abc_prepend_shortcut_label">Meny + </string>
+  <string name="abc_search_hint">Sök …</string>
+  <string name="abc_searchview_description_clear">Ta bort frågan</string>
+  <string name="abc_searchview_description_query">Sökfråga</string>
+  <string name="abc_searchview_description_search">Sök</string>
+  <string name="abc_searchview_description_submit">Skicka fråga</string>
+  <string name="abc_searchview_description_voice">Röstsökning</string>
+  <string name="abc_shareactionprovider_share_with">Dela med</string>
+  <string name="abc_shareactionprovider_share_with_application">Dela med %s</string>
+  <string name="abc_toolbar_collapse_description">Komprimera</string>
+  <string name="abupdate_in_progress_status">Programvaruuppdatering pågår</string>
+  <string name="additional_charges_message">Hämtningen fortsätter med mobildata. Dataavgifter kan tillkomma.</string>
+  <string name="alertSubText">Den används till att kontrollera, hämta och installera uppdateringspaket</string>
+  <string name="alertText">Tillåt nätverksåtgärder för programuppdateringar</string>
+  <string name="alertTitle">Uppdateringar behöver följande behörighet</string>
+  <string name="alert_dialog_cancel">Avbryt installation</string>
+  <string name="alert_dialog_continue">Fortsätt installera</string>
+  <string name="alert_dialog_no">Nej</string>
+  <string name="alert_dialog_ok">Jag förstår</string>
+  <string name="alert_dialog_yes">Ja</string>
+  <string name="allocate_space_success">Ledigt utrymme finns för uppdatering</string>
+  <string name="allow">Tillåt</string>
+  <string name="android_latest_sw_text">Du använder den senaste programvaran</string>
+  <string name="android_version">Android-version:</string>
+  <string name="app_name">Motorola programuppdatering</string>
+  <string name="applied">På</string>
+  <string name="apply_bug_fix">Tillämpa på felkorrigeringar</string>
+  <string name="apply_os_update">Tillämpa på alla programuppdateringar</string>
+  <string name="applying_patch">Tillämpar uppdatering (steg %1$d av %2$d)  </string>
+  <string name="are_you_sure">Stäng av av smarta uppdateringar?</string>
+  <string name="are_you_sure_pop_up_text">Vill du verkligen stänga av smarta uppdateringar? </string>
+  <string name="asc_campaign_assigned">Kampanjen har tilldelats</string>
+  <string name="asc_campaign_is_allowed">Uppdatera fast programvara</string>
+  <string name="asc_campaign_is_blocked">Låst fast programvara</string>
+  <string name="asc_campaign_not_assigned">Enheten är för tillfället inte med i en kampanj</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Uppdateringsfönster: från %s till %s</string>
+  <string name="asc_sw_up_to_date"> till den senaste versionen</string>
+  <string name="asc_target_version"> till version </string>
+  <string name="auth_title">Systemuppdatering</string>
+  <string name="auto_download_cellualr_charges_warn">När du hämtar uppdateringar via mobila nätverk kan ytterligare avgifter tillkomma.</string>
+  <string name="auto_download_enable_cellular_future_updates">Vill du välja alternativet med mobildata vid framtida hämtningar också?</string>
+  <string name="auto_download_settings_title">Inställningar för automatisk hämtning</string>
+  <string name="auto_download_wifi_cellular">Hämta automatiskt via mobildata och wifi</string>
+  <string name="auto_download_wifi_cellular_desc">Hämta automatiskt via mobildata och wifi. Wifi används i första hand när det finns tillgängligt. </string>
+  <string name="auto_download_wifi_only">Automatisk hämtning endast via wifi</string>
+  <string name="auto_download_wifi_only_desc">Hämta endast automatiskt via wifi</string>
+  <string name="auto_install_notification_text">Enheten installerar automatiskt den %1$s</string>
+  <string name="auto_time_set">Starta vid:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Eftersom den är viktig installeras den här uppdateringen automatiskt med mobildata den %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Eftersom den är viktig hämtas den här uppdateringen automatiskt med mobildata den %1$s</string>
+  <string name="background_install_msg">Uppdateringen fortsätter om du går tillbaka eller stänger det här fönstret</string>
+  <string name="background_install_text">En uppdatering hämtas och installeras. Du kan fortsätta använda enheten.</string>
+  <string name="bad_connection">Ingen internet
+uppkoppling</string>
+  <string name="bad_connection_text">Enheten verkar inte vara ansluten till internet. Tryck på knappen för att försöka igen.</string>
+  <string name="bg_install_cancel_confirm">Vill du verkligen avbryta installationen?</string>
+  <string name="bg_retried">Programvarunedladdningen har avbrutits. Vi fortsätter att försöka…</string>
+  <string name="bg_suspended">Väntar på dataanslutning för att återuppta bakgrundshämtning och -installation</string>
+  <string name="bg_suspended_non_adminapn">Väntar på Wi-Fi eller gratis nätverk för att återuppta bbakgrundshämtning och -installation…</string>
+  <string name="bg_suspended_roaming">Bakgrundsinstallation pausades p.g.a. roaming. Sätt på Wi-Fi för att återuppta bakgrundsinstallationen.</string>
+  <string name="bg_suspended_wifi">Väntar på wifi för att återuppta bakgrundshämtning och -installation</string>
+  <string name="bootloader_unlock_msg">Din enhet tar inte längre emot uppdateringar och kan utsättas för säkerhetsrisker.</string>
+  <string name="bootloader_unlock_title">Inga tillgängliga uppdateringar</string>
+  <string name="call_notification_answer_action">Svara</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Avvisa</string>
+  <string name="call_notification_hang_up_action">Lägg på</string>
+  <string name="call_notification_incoming_text">Inkommande samtal</string>
+  <string name="call_notification_ongoing_text">Pågående samtal</string>
+  <string name="call_notification_screening_text">Ett inkommande samtal filtreras</string>
+  <string name="cancel">Avbryt</string>
+  <string name="cancel_download_notification">Avbryt</string>
+  <string name="cancel_install">Avbryt</string>
+  <string name="cancel_update_notification">Avbryt</string>
+  <string name="check_for_updates_title">Se om det finns uppdateringar</string>
+  <string name="check_update_badparam">Ett fel påträffades vid uppgraderingsförsöket p.g.a. misslyckad inloggning.
+
+Försök igen senare.</string>
+  <string name="check_update_checking">Söker efter uppdateringar…</string>
+  <string name="check_update_disabled_admin">Enhetens uppdateringar styrs av IT-administratören</string>
+  <string name="check_update_downloading">En uppdatering hämtas för närvarande.
+
+Du får ett meddelande när hämtningen är klar.</string>
+  <string name="check_update_fail">Ett oväntat fel har inträffat.
+
+Enheten söker efter en uppdatering igen i bakgrunden.</string>
+  <string name="check_update_internal">Kan inte söka efter uppdateringar. Försök igen senare.</string>
+  <string name="check_update_net">Kontrollera internetanslutningen och försök igen</string>
+  <string name="check_update_net_vzw">Du behöver dataanslutning för att söka efter uppdateringar. Kontrollera din wifi-anslutning genom att gå till Inställningar &gt; Nätverk och internet &gt; Internet &gt; Wifi.
+
+Du kan även gå till motorola.com/systemupdates för att se fler uppdateringsalternativ.</string>
+  <string name="check_update_not_sys_user">Gästprofiler kan inte söka efter uppdateringar</string>
+  <string name="check_update_processing">Kontaktar vår server…
+Vänta</string>
+  <string name="check_update_roaming">Du kan endast kontrollera om det finns tillgängliga systemuppdateringar i ett hemnätverk. 
+
+Gå till Inställningar &gt; Nätverk och internet &gt; Wi-Fi och skapa en anslutning.</string>
+  <string name="check_update_storage_low">Uppdateringen är inte möjlig på grund av otillräckligt lagringsutrymme på enheten.</string>
+  <string name="check_update_temperror">En hämtning av uppdateringarna kunde inte slutföras just nu.
+
+Försök igen.</string>
+  <string name="check_update_text">Att söka efter uppdateringar med jämna mellanrum gör enheten säkrare och effektivare</string>
+  <string name="check_update_title_downloading">Hämtning pågår…</string>
+  <string name="check_update_vab_validation">Söker efter uppdateringsstatus för VAB-validering
+Var god vänta</string>
+  <string name="check_update_wifi_only">Systemuppdatering är endast tillgänglig via Wi-Fi.</string>
+  <string name="check_wifi_settings">Kontrollera wifi-inställningar</string>
+  <string name="clear_space">Rensa utrymme</string>
+  <string name="cloud_picker_title">Molnväljare</string>
+  <string name="common_android_wear_notification_needs_update_text">En app kräver att appen Android Wear uppdateras.</string>
+  <string name="common_android_wear_update_text">Om du inte uppdaterar appen Android Wear kan den här appen inte köras.</string>
+  <string name="common_android_wear_update_title">Uppdatera Android Wear</string>
+  <string name="common_google_play_services_enable_button">Aktivera Google Play Tjänster</string>
+  <string name="common_google_play_services_enable_text">Du måste aktivera Google Play Tjänster för att den här appen ska fungera.</string>
+  <string name="common_google_play_services_enable_title">Aktivera Google Play Tjänster</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Begärdes av %1$s</string>
+  <string name="common_google_play_services_install_button">Hämta Google Play Tjänster</string>
+  <string name="common_google_play_services_install_text_phone">Den här appen kan inte köras utan Google Play Tjänster, som saknas på mobilen.</string>
+  <string name="common_google_play_services_install_text_tablet">Den här appen kan inte köras utan Google Play Tjänster, som saknas på surfplattan.</string>
+  <string name="common_google_play_services_install_title">Hämta Google Play Tjänster</string>
+  <string name="common_google_play_services_invalid_account_text">Det angivna kontot finns inte på den här enheten. Välj ett annat konto.</string>
+  <string name="common_google_play_services_invalid_account_title">Ogiltigt konto</string>
+  <string name="common_google_play_services_needs_enabling_title">Google Play-tjänster måste aktiveras för att en app ska fungera.</string>
+  <string name="common_google_play_services_network_error_text">En dataanslutning krävs för att ansluta till Google Plays tjänster.</string>
+  <string name="common_google_play_services_network_error_title">Nätverksfel</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Google Play-tjänster måste installeras för att en app ska fungera.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Google Play-tjänster måste uppdateras för en app ska fungera.</string>
+  <string name="common_google_play_services_notification_ticker">Fel på Google Play-tjänster</string>
+  <string name="common_google_play_services_unknown_issue">Okänt problem med Google Play Tjänster</string>
+  <string name="common_google_play_services_unsupported_text">Några av dina appar använder Google Play-tjänster som inte stöds av din enhet. Kontakta tillverkaren om du vill ha hjälp.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play-tjänster</string>
+  <string name="common_google_play_services_update_button">Uppdatera</string>
+  <string name="common_google_play_services_update_text">Du måste uppdatera Google Play Tjänster innan du kan köra den här appen.</string>
+  <string name="common_google_play_services_update_title">Uppdatera Google Play Tjänster</string>
+  <string name="common_open_on_phone">Öppna på mobilen</string>
+  <string name="common_signin_button_text">Logga in</string>
+  <string name="common_signin_button_text_long">Logga in med Google</string>
+  <string name="compatibility_failed_title">Det gick inte att verifiera paketet</string>
+  <string name="compatibility_verification_failure">Uppdateringspaketet som hämtas är inte kompatibelt med enhetens nuvarande programvaruversion.</string>
+  <string name="compatibility_verification_failure_df">
+
+Kontrollera med din Dogfood-koordinator.</string>
+  <string name="compatibility_verification_success">Verifiering slutfördes</string>
+  <string name="completed"> Installationen har slutförts. Du blir ombedd att starta om telefonen (steg %1$d av %2$d)</string>
+  <string name="completed_install">%s slutfört</string>
+  <string name="connect_to_wifi">Anslut till Wi-Fi</string>
+  <string name="continue_button">Fortsätt</string>
+  <string name="critical_install_message_popup_os_mr">En viktig systemuppdatering är tillgänglig. Välj installera för att tillämpa uppdateringen. Om inte tillämpas uppdateringen automatiskt den %1$s.</string>
+  <string name="critical_install_message_popup_smr">En viktig säkerhetsuppdatering är tillgänglig. Välj installera för att tillämpa uppdateringen. Om inte tillämpas uppdateringen automatiskt den %1$s.</string>
+  <string name="critical_install_message_screen">Den här uppdatering installeras automatiskt den %1$s. Se till att du har tillräckligt mycket batteri för installationen.</string>
+  <string name="critical_install_notification">Eftersom det här är en viktig uppdatering kommer enheten att installera den automatiskt den %1$s.
+Installationstid: %2$d minuter</string>
+  <string name="critical_restart_message_popup">Starta om enheten så snart som möjligt för att tillämpa den här viktiga uppdateringen. Om du inte kan startas enheten om automatiskt den %1$s.</string>
+  <string name="critical_restart_message_screen">Eftersom det här är en viktig uppdatering kommer enheten att starta om automatiskt den %1$s om du inte har startat om den tidigare.</string>
+  <string name="critical_restart_notification">Den här uppdateringen är viktig. Om du inte kan starta om nu startas enheten om automatiskt den %1$s</string>
+  <string name="critical_update_notification_title">Mycket viktig uppdatering</string>
+  <string name="current_version">Aktuell programvaruversion:</string>
+  <string name="custom_slot">Anpassat</string>
+  <string name="custom_time">Anpassa tid</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s kl. %s</string>
+  <string name="defer_count_expired">Förstått</string>
+  <string name="deny">Neka</string>
+  <string name="details">Information</string>
+  <string name="device_corrupted_msg">Vi har upptäckt några systemfel. Vi vet att det är jobbigt, men du måste besöka ditt lokala servicecenter för att åtgärda dem.
+
+När telefonen har fixats kan vi fortsätta köra uppdateringar på din telefon.</string>
+  <string name="device_corrupted_title">Det går inte att uppdatera telefonen</string>
+  <string name="dialog_alert_net_message">Kontrollera wifi- eller mobildataanslutningen och försök igen.</string>
+  <string name="dialog_alert_net_title">Enheten är offline</string>
+  <string name="dialog_alert_title">Batteriet är nästan slut</string>
+  <string name="dialog_progress">Läser in…</string>
+  <string name="dl_options_mobile_only_warning">Vi rekommenderar att du använder Wi-Fi. Hämtning med mobildata eller användning av mobildata vid roaming kan medföra ytterligare avgifter.
+
+Att hämta programvara påverkar inte enhetens funktioner.</string>
+  <string name="done">Färdig</string>
+  <string name="dont_show_this_again">Visa inte det här meddelandet igen</string>
+  <string name="download_cancelled_title">Hämtningen avbröts</string>
+  <string name="download_deferred_status">Programvaruhämtningen sköts upp</string>
+  <string name="download_failed_status">Uppdateringen kunde inte hämtas</string>
+  <string name="download_in_progress_status">Programvaruhämtning pågår</string>
+  <string name="download_later_button">Hämta senare</string>
+  <string name="download_no_button">Nej tack</string>
+  <string name="download_note">Du kan fortsätta använda enheten medan uppdateringen installeras</string>
+  <string name="download_now">Hämta nu</string>
+  <string name="download_now_button">Hämta</string>
+  <string name="download_options">Hämtningsalternativ</string>
+  <string name="download_progress_cancel_message">Om du vill hämta uppdateringen senare går du till Inställningar &gt; Systemuppdateringar</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s återstående (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% hämtat (pausad)</string>
+  <string name="download_progress_text">Hämtningen fortsätter om du går tillbaka eller stänger det här fönstret</string>
+  <string name="download_subtitle">Bra att veta innan du hämtar</string>
+  <string name="download_text_whats_new">Se vad som är nytt</string>
+  <string name="download_time_left">%1$s återstående</string>
+  <string name="download_version">Version %1$s–%2$s</string>
+  <string name="download_wifi_only_error">Wi-Fi krävs för att hämta den här uppdateringen. Hämtningen återupptas när anslutningen är återställd.</string>
+  <string name="downloaded_percentage">%1$s hämtat</string>
+  <string name="emergency_call_btn_txt">Nödläge</string>
+  <string name="emergency_call_text">Du kommer inte att kunna ringa eller ta emot samtal, inklusive nödsamtal, under omstarten.</string>
+  <string name="enable_wifi_error_txt">Anslut till Wi-Fi för att hämta den här uppdateringen.</string>
+  <string name="eol_explore">Upptäck nya enheter</string>
+  <string name="eol_last_update_text">Säkerhetskorrigering:</string>
+  <string name="eol_promote">Se de senaste kampanjerna</string>
+  <string name="eol_title">Enheten använder den senst tillgängliga programvaran.</string>
+  <string name="err_title_contact_server">Kontaktar server…</string>
+  <string name="err_title_memory_low">Ont om minne…</string>
+  <string name="err_title_temp_error">Tillfälligt fel</string>
+  <string name="err_title_update">Uppdateringsfel</string>
+  <string name="error_code">Felkod: </string>
+  <string name="error_copyfail">Det gick inte att kopiera från SD-kortplats.</string>
+  <string name="error_disabled">Det gick inte att hämta uppdateringen. Uppdateringspaketet är inte tillgängligt just nu. 
+
+Ingen ytterligare åtgärd krävs.</string>
+  <string name="error_fail">Det inträffade ett fel vid uppdateringen av %1$s. Du har inte gjort några ändringar. Försök igen genom att gå till Inställningar &gt; Systemuppdatering.</string>
+  <string name="error_in_call_msg">Enheten kan inte uppdateras nu eftersom ett samtal pågår</string>
+  <string name="error_in_call_title">Pågående samtal</string>
+  <string name="error_install_title">Det gick inte att installera</string>
+  <string name="error_mismatch">En felmatchning vad gäller version har inträffat. En uppdatering sker igen. Om en uppdatering är tillgänglig får du en uppmaning.</string>
+  <string name="error_mismatch_sd">Det gick inte att uppdatera. Uppdateringsversionen stämmer inte överens med din telefon. 
+
+Hämta rätt version för telefonen och försök igen.</string>
+  <string name="error_network">Anslutningen avbröts. Försök igen genom att manuellt söka efter uppdateringar via telefoninställningarna.</string>
+  <string name="error_reboot">Det gick inte att hämta uppdateringen. Om du vill uppdatera senare startar du om enheten och går till Inställningar &gt; Systemuppdateringar.</string>
+  <string name="error_resources">Det gick inte att hämta uppdateringen. Om du vill installera uppdateringen senare går du till Inställningar &gt; Systemuppdateringar.</string>
+  <string name="error_sdcard_resources_fail_removal">SD-kortet har tagits ut. Hämtningen slutfördes inte. 
+
+Sätt i Sd-kortet på nytt och gå till Inställningar &gt; Systemuppdateringar för att försöka på nytt.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Det gick inte att slutföra hämtningen. Det finns inte tillräckligt med utrymme på SD-kortet. 
+
+Frigör utrymme och gå till Inställningar &gt; Systemuppdateringar för att försöka på nytt.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Sätt i SD-kortet för att starta hämtningen.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Montera SD-kortet för att starta hämtningen. 
+
+Gå till Inställningar &gt; Lagring &gt; Montera SD-kort.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Det finns inte tillräckligt med utrymme på SD-kortet för att slutföra hämtningen. 
+
+Frigör %1$s utrymme och gå till Inställningar &gt; Systemuppdateringar för att försöka hämta igen.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Fel</string>
+  <string name="error_sdcard_resources_warning">Programvaruuppdateringen hämtas till SD-kortet. 
+
+Ta inte ut SD-kortet förrän installationen har slutförts.
+
+
+</string>
+  <string name="error_server">Ett fel har inträffat på servern. Försök igen senare.</string>
+  <string name="error_space">Den här uppdateringen kräver %1$s tillgängligt lagringsutrymme på enheten. 
+
+Ta bort appar som inte används eller flytta foton och videor till en annan lagringsenhet för att frigöra upp till %2$s utrymme. 
+
+När du är klar kan du när som helst gå till Inställningar &gt; Systemuppdateringar för att påbörja uppdateringen.</string>
+  <string name="error_space_retry">Den här uppdateringen kräver %1$s tillgängligt lagringsutrymme på enheten. 
+
+Ta bort appar som inte används eller flytta foton och videor till en annan lagringsenhet för att frigöra upp till %2$sutrymme.</string>
+  <string name="error_space_vab">Den här uppdateringen kräver %1$s tillgängligt lagringsutrymme på enheten. Gör plats i minnet för att utföra uppdateringar</string>
+  <string name="error_space_vab_make_room_popup">Du måste rensa %1$s utrymme innan uppdatering. Försök att ta bort oanvända appar eller flytta foton och videor till ett annat lagringsutrymme.</string>
+  <string name="error_title">Hämtningen slutfördes inte</string>
+  <string name="error_verify">Uppdateringen kunde inte valideras på rätt sätt. Försök igen.</string>
+  <string name="failed">Misslyckades</string>
+  <string name="failed_in_roaming">Wifi krävs för uppdateringar</string>
+  <string name="failure_process">Informationen är inte tillgänglig</string>
+  <string name="finalizing_patch">Slutför uppdatering… (steg 5 av 6)  </string>
+  <string name="first_net_text">Installera uppdateringen. Annars installeras den automatiskt vid nästa omstart. Kontrollera att batterinivån är över %s.</string>
+  <string name="forceInstallMessage">Den här uppdatering installeras automatiskt den %1$s.</string>
+  <string name="force_install_message_screen">Det här är en viktig uppdatering, installera den senast den %1$s. Anars installeras den automatiskt någon gång då enheten används som minst. Se till att du har tillräckligt mycket batteritid för installationen.</string>
+  <string name="force_install_notification_message">Installera innan %1$s. Anars installerar enheten den automatiskt någon gång då den används som minst.
+Installationstid: %2$d minuter</string>
+  <string name="force_restart_notification_message">Starta om senast %1$s. Anars startas enheten om automatiskt någon gång då den används som minst.</string>
+  <string name="force_restart_screen_message">Om du inte startar om den senast den %1$s kommer enheten att startas om automatiskt vid en tidpunkt då den används som minst.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Förstått</string>
+  <string name="important_update_install_overdue_message">Den planerade tiden för installation har passerat. Installationen påbörjas när enheten uppfyller kraven.</string>
+  <string name="important_update_restart_overdue_message">Den planerade tiden för omstart har passerat. Enheten startas om när den uppfyller kraven.</string>
+  <string name="initiating_ota_service_msg">Vänta...</string>
+  <string name="initiating_ota_service_title">Påbörjar uppdateringsprocessen av programvaran</string>
+  <string name="install">Installera</string>
+  <string name="install_after_one_hour">Installera om 1 timme</string>
+  <string name="install_cancelled_title">Installationen avbröts</string>
+  <string name="install_deferred_status">Uppdateringen sköts upp</string>
+  <string name="install_later">Installera senare</string>
+  <string name="install_notify_sanity_call_msg">Enheten kan inte köra installationen just nu på grund av pågående samtal</string>
+  <string name="install_notify_sanity_maps_msg">Enheten kan inte köra installationen just nu eftersom navigeringen är på</string>
+  <string name="install_now">Installera nu</string>
+  <string name="install_postponed">Installation uppskjuten</string>
+  <string name="install_progress_cancel_message">Om du vill installera uppdateringen senare går du till Inställningar &gt; Systemuppdateringar</string>
+  <string name="install_progress_paused_message">%s slutfört (pausad)</string>
+  <string name="install_time">Installationstid: %1$d minuter</string>
+  <string name="install_warning">Vad du behöver veta innan du installerar</string>
+  <string name="just_one_more_step">Bara ett steg till</string>
+  <string name="keep_it_on">Låt vara på</string>
+  <string name="later_button">Påminn mig senare</string>
+  <string name="learn_more_online_link">Mer information online</string>
+  <string name="low_battery_bg_install">Installationen har pausats på grund av låg batterinivå. Installationen återupptas när batterinivån är över 20 %.</string>
+  <string name="low_battery_download">Hämtning har pausats på grund av låg batterinivå. Hämtningen kommer att återupptas när enheten har laddats.</string>
+  <string name="low_battery_install">Ladda enheten till minst %s innan du installerar uppdateringen</string>
+  <string name="make_space">Frigör utrymme</string>
+  <string name="mandatory_install_notification">Om du inte installerar den här systemuppdateringen snart kan du gå miste om viktiga säkerhetsuppdateringar samt nya funktioner och felkorrigeringar.</string>
+  <string name="mandatory_restart_notification">Eftersom det är en viktig uppdatering rekommenderar vi dig att starta om nu. Annars kan du gå miste om säkerhetsuppdateringar samt nya funktioner och felkorrigeringar.</string>
+  <string name="medium_channel_name">Avisering om programvaruhämtning</string>
+  <string name="merge_emergency_call_text">Du kan inte ringa eller ta emot samtal, inklusive nödsamtal, under omstarten.</string>
+  <string name="merge_force_restart_text">Om du inte vill starta om nu startas telefonen om automatiskt när den blir inaktiv.</string>
+  <string name="merge_progress_text">När uppdateringen har slutförts skickar vi en avisering</string>
+  <string name="merge_progress_title">Slutför uppdatering …</string>
+  <string name="merge_restart_text">Uppdateringen slutförs när du har startat om telefonen</string>
+  <string name="merge_restart_title">Starta om igen</string>
+  <string name="merge_update_fail_notify_text">Vi har upptäckt några systemfel. Besök ditt servicecenter för att åtgärda dem</string>
+  <string name="merge_update_fail_notify_title">Uppdateringen misslyckades</string>
+  <string name="merge_update_fail_text">Vi har upptäckt några systemfel som förhindrar att du får uppdateringar. Besök ditt servicecenter för att åtgärda dem.
+
+Under tiden kan du fortsätta använda telefonen som vanligt.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Välja ett konto</string>
+  <string name="multiple_account_alert">Välj ett %1$s-konto för att fortsätta med systemuppdateringen.</string>
+  <string name="no_thanks">Nej tack</string>
+  <string name="no_thanks_message">Om du vill installera uppdateringen senare går du till Inställningar &gt; Systemuppdateringar.</string>
+  <string name="no_updates_applied">Inga uppdateringar har tillämpats</string>
+  <string name="not_now">Inte nu</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Behörighet som krävs för appar för interaktion med ota-tjänsten</string>
+  <string name="package_size">Hämtningsstorlek: %1$s</string>
+  <string name="personalInfo_instruction">Du förlorar ingen personlig information</string>
+  <string name="picker_cell_radio">Wi-Fi-nätverk och mobildata</string>
+  <string name="picker_title">Välj hur du vill hämta den här uppdateringen:</string>
+  <string name="picker_wifi_only_radio">Endast Wi-Fi</string>
+  <string name="please_restart">Starta om nu</string>
+  <string name="policy_set">Systemuppdateringen är blockerad. Kontakta enhetens administratör för mer information.</string>
+  <string name="press_back_again_to_exit">Tryck Tillbaka igen för att avsluta</string>
+  <string name="progress_copying_sd">Kopierar uppdatering</string>
+  <string name="progress_deffered">Hämtningen påbörjas via Wi-Fi-/mobilnätverk</string>
+  <string name="progress_downloading_ota">Hämtar systemuppdatering</string>
+  <string name="progress_downloading_security">Hämtar säkerhetsuppdatering</string>
+  <string name="progress_retried">Programvarunedladdningen har avbrutits. Vi fortsätter att försöka…</string>
+  <string name="progress_suspended">Väntar på att dataanslutning återupptar hämtning</string>
+  <string name="progress_suspended_datasaver">Inaktivera datasparläge för att återuppta hämtningen</string>
+  <string name="progress_suspended_no_adminapn">Väntar på Wi-Fi eller gratis nätverk för att återuppta hämtning</string>
+  <string name="progress_suspended_roaming">Hämtning pausades p.g.a. roaming. Sätt på Wi-Fi för att återuppta hämtningen.</string>
+  <string name="progress_suspended_wifi">Väntar på Wi-Fi för att återuppta hämtning…</string>
+  <string name="progress_verify">Verifierar att enheten är klar för att uppdateras …</string>
+  <string name="progress_verify_allocate_space">Kontrollerar om det finns tillräckligt mycket minne</string>
+  <string name="relative_date_time">%1$s vid %2$s</string>
+  <string name="release_note_battery_desc">Uppdateringar som förbättrar batteritiden och användningen</string>
+  <string name="release_note_battery_title">Batteri</string>
+  <string name="release_note_camera_desc">Förbättringarna hjälper dig att ta foton med mer precision och detaljer</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Ändringarna förbättrar enhetens dataanslutning</string>
+  <string name="release_note_cellular_title">Mobil</string>
+  <string name="release_note_charging_desc">Uppdateringarna förbättrar laddningsfunktionerna</string>
+  <string name="release_note_charging_title">Laddning</string>
+  <string name="release_note_generic_desc">Ändringarna hjälper till att förbättra enhetens allmänna prestanda</string>
+  <string name="release_note_os_update_desc">Nya monokroma teman ger telefonen ett snyggt utseende och får din bakgrund att skina. Granska hur appar använder och delar data innan du ger appar behörighet eller gör dem enklare att komma åt med de nya hörsel- och synfunktionerna i Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Ändringarna hjälper till att förbättra enhetens allmänna prestanda</string>
+  <string name="release_note_performance_title">Prestanda</string>
+  <string name="release_note_security_desc">Innehåller säkerhetskorrigeringar till %1$s</string>
+  <string name="release_note_security_title">Säkerhetsuppdatering</string>
+  <string name="release_note_stability_desc">Inkluderar förbättringar och felkorrigeringar som gör telefonen ännu tillförlitligare</string>
+  <string name="release_note_stability_title">Stabilitet</string>
+  <string name="release_note_title">Uppdateringen omfattar</string>
+  <string name="release_note_wifi_desc">Inkluderar uppdateringar av wifi-anslutning</string>
+  <string name="release_note_wifi_title">Wifi</string>
+  <string name="release_notes_string">Se alla nya funktioner i Android %1$s</string>
+  <string name="request_suspended_datasaver">Inaktivera datasparläge för att starta hämtningen</string>
+  <string name="request_suspended_no_network">Ingen nätverkstäckning för att starta hämtningen</string>
+  <string name="restart_after_one_hour">Starta om om 1 timme</string>
+  <string name="restart_instruction_title">Bra att veta innan omstarten</string>
+  <string name="restart_later">Senare</string>
+  <string name="restart_message">Starta om nu för att uppdatera</string>
+  <string name="restart_notification">Starta om</string>
+  <string name="restart_notification_text">Starta om nu för att uppdatera. Uppdateringen har väntat i %1$d dagar.</string>
+  <string name="restart_notify_sanity_call_msg">Enheten kan inte startas om just nu på grund av pågående samtal</string>
+  <string name="restart_notify_sanity_maps_msg">Enheten kan inte startas om just nu eftersom navigeringen är på</string>
+  <string name="restart_now">Starta om nu</string>
+  <string name="restart_postponed">Omstart uppskjuten</string>
+  <string name="restart_title">Starta om enheten</string>
+  <string name="resume_download_on_cellular">Använd mobildata</string>
+  <string name="retrieving_token">Autentiserar ...</string>
+  <string name="sdcard_predownload_text">
+ I det här steget kopierar du uppdateringen till systemminnet. Uppdateringen installeras i nästa steg. 
+
+Anslut telefonen till en strömkälla så att batteriet inte tar slut.</string>
+  <string name="search_menu_title">Sök</string>
+  <string name="secure_instruction">Processen är säker</string>
+  <string name="security_download_notification_title">Förbättra säkerheten</string>
+  <string name="security_install_notification_text">En ny säkerhetsuppdatering är klar att installeras</string>
+  <string name="security_install_title">En säkerhetsuppdatering är redo</string>
+  <string name="security_patch">Säkerhetskorrigering:</string>
+  <string name="security_update_low_storage_title">Säkerhetsuppdatering</string>
+  <string name="security_update_notification_text">Hämta den senaste säkerhetsuppdateringen</string>
+  <string name="security_update_paused">Säkerhetsuppdatering pausad</string>
+  <string name="security_update_pending_notification_text">Hämta den senaste säkerhetsuppdateringen. Uppdateringen har väntat i %1$d dagar.</string>
+  <string name="security_update_title">Säkerhetsuppdatering</string>
+  <string name="select_account">Välj ett %1$s-konto</string>
+  <string name="selected_later_time_os_mr">Systemuppdatering installeras </string>
+  <string name="selected_later_time_smr">Säkerhetsuppdateringen istalleras den</string>
+  <string name="setting_sw_summary">Uppdatera till den senaste programvaran </string>
+  <string name="setting_sw_title">Systemuppdateringar</string>
+  <string name="smart_cancel_update_toast_msg">Tiden för uppdateringen har ändrats till %1$s</string>
+  <string name="smart_end_time">Avsluta</string>
+  <string name="smart_install_message_popup">Eftersom du har aktiverat funktionen Smart uppdatering installerar enheten uppdateringen automatiskt den %1$s om du inte har installerat den då. Se till att du har tillräckligt mycket batteri för installationen.</string>
+  <string name="smart_restart_message_popup">Eftersom du har aktiverat funktionen Smart uppdatering startas telefonen om automatiskt den %1$s om du inte har startat om den då.</string>
+  <string name="smart_settings_string">Uppdateringarna hämtas och installeras automatiskt när du är ansluten till wifi</string>
+  <string name="smart_settings_string_Softbank">Uppdateringarna hämtas och installeras automatiskt när du är ansluten till wifi eller använder mobildata</string>
+  <string name="smart_settings_string_vzw">Uppdateringarna hämtas och installeras automatiskt</string>
+  <string name="smart_start_time">Komma igång</string>
+  <string name="smart_to_string">Till</string>
+  <string name="smart_update_advanced">Avancerat</string>
+  <string name="smart_update_note">För din säkerhet hämtas alla viktiga säkerhetsuppdateringar automatiskt oavsett om den här funktionen är av eller på</string>
+  <string name="smart_update_note_vzw">För din säkerhet hämtas och installeras alla mycket viktiga säkerhetsuppdateringar automatiskt oavsett om den här funktionen är av eller på.</string>
+  <string name="smart_update_pop_up_text">Se till att enheten är säker med automatiska uppdateringar</string>
+  <string name="smart_update_recommendation">Prova smarta uppdateringar</string>
+  <string name="smart_update_suggestion_text">Håll dig säker med automatiska uppdateringar</string>
+  <string name="smart_update_text_AB">Hjälp enheten att köras säkert och effektivt genom att automatiskt installera alla nya säkerhetsuppdateringar och felkorrigeringar.</string>
+  <string name="smart_update_text_AB_vzw">Smarta uppdateringar gör enheten säkrare och effektivare. När du aktiverar dem hämtas nya <b>säkerhetsuppdateringar</b> automatiskt. Efter hämtningen startar enheten om vid tidpunkten du har valt.</string>
+  <string name="smart_update_text_classic">Smarta uppdateringar gör enheten säkrare och effektivare. När du aktiverar dem hämtas nya <b>säkerhetsuppdateringar och felkorrigeringar</b> automatiskt. Efter hämtningen startar enheten om och installerar uppdateringarna vid tidpunkten du har valt.</string>
+  <string name="smart_update_text_classic_vzw">Smarta uppdateringar gör enheten säkrare och effektivare. När du aktiverar dem hämtas nya <b>säkerhetsuppdateringar</b> automatiskt. Efter hämtningen startar enheten om och installerar uppdateringarna vid tidpunkten du har valt.</string>
+  <string name="smart_update_time_slot_text_AB">Välj en starttid</string>
+  <string name="smart_update_time_slot_text_classic">Välj installationstid</string>
+  <string name="smart_update_title">Smarta uppdateringar</string>
+  <string name="software_not_update_to">Programvaran har inte uppdaterats till</string>
+  <string name="software_update_in_progress">Systemet uppdaterar till version</string>
+  <string name="software_update_planned_summary">Kontrollerat - %1$s</string>
+  <string name="software_update_planned_title">Planerad programuppdatering</string>
+  <string name="software_update_to">Systemet har uppdaterats till</string>
+  <string name="sofware_version">Programvaruversion:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Frigör utrymme för en uppdatering</string>
+  <string name="su_btn">Inställningar</string>
+  <string name="su_text_off">Du måste uppdatera enheten när det kommer ny programvara manuellt. Aktivera Smarta uppdateringar för att göra det automatiskt. Tryck för att visa mer information.</string>
+  <string name="su_text_on">Uppdateringar körs som standard mellan 01.00 och 03.00. Du kan ändra tiden för uppdateringarna eller inaktivera Smarta uppdateringar i Inställningar. Tryck för att visa mer information.</string>
+  <string name="su_title_off">Smarta uppdateringar är av</string>
+  <string name="su_title_on">Smarta uppdateringar är på</string>
+  <string name="system_download_notification_title">Systemuppdatering</string>
+  <string name="system_install_notification_text">En systemuppdatering är redo att installeras</string>
+  <string name="system_install_title">En uppdatering är redo</string>
+  <string name="system_pdl_notification_mr_title">Få felkorrigeringar och mycket mer</string>
+  <string name="system_pdl_notification_os_title">Android %1$s är här!</string>
+  <string name="system_update">System
+uppdatering</string>
+  <string name="system_update_desc">Skydda enheten mot säkerhetshot och få de senaste Motorola- och Android-funktionerna</string>
+  <string name="system_update_info_not_available">Inte tillgänglig</string>
+  <string name="system_update_low_storage_text">Tryck här för att kontrollera minnet och fortsätta.</string>
+  <string name="system_update_low_storage_title">Systemuppdatering</string>
+  <string name="system_update_notification_os_text">Upplev nya Android</string>
+  <string name="system_update_notification_text">Hämta den nya programvaran</string>
+  <string name="system_update_paused">Systemuppdateringen har pausats</string>
+  <string name="system_update_pending_notification_os_text">Upplev nya Android. Uppdateringen har väntat i %1$d dagar.</string>
+  <string name="system_update_pending_notification_text">Hämta den nya programvaran. Uppdateringen har väntat i %1$d dagar.</string>
+  <string name="system_update_settings_list_item_title">Systemuppdateringar</string>
+  <string name="system_update_status">Uppdateringsstatus</string>
+  <string name="system_update_title">Systemuppdatering</string>
+  <string name="tethered_permission_desc">Skicka resultat från 3c-uppdatering</string>
+  <string name="tethered_update_result">Resultat från uppdatering av internetdelning</string>
+  <string name="time_picker_text">Starta installationen utan någon påminnelse</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Försök igen</string>
+  <string name="turn_it_off">Stäng av</string>
+  <string name="turn_it_on">Aktivera</string>
+  <string name="turn_on_smart_updates">Sätt på smarta uppdateringar</string>
+  <string name="update">Uppdatera</string>
+  <string name="update_blocked_by_policy">Uppdateringen är blockerad av administratörspolicyn </string>
+  <string name="update_cancelled_status">Programvaruhämtningen avbröts</string>
+  <string name="update_fail_desc">Något gick fel</string>
+  <string name="update_fail_status">Uppdateringen slutfördes inte</string>
+  <string name="update_fail_sucancel_dm_status">Uppdateringen avbröts av servern</string>
+  <string name="update_fail_title">Uppdateringen misslyckades</string>
+  <string name="update_history_blank">Ingen historik än</string>
+  <string name="update_history_src_target">Uppdatera från %1$s till %2$s</string>
+  <string name="update_history_time">Uppdaterad den %1$s</string>
+  <string name="update_history_title">Uppdateringshistorik</string>
+  <string name="update_history_version">Programvaruversion %1$s</string>
+  <string name="update_info">Uppdaterar ...</string>
+  <string name="update_postpone_policy">Uppdateringen är uppskjuten av administratörspolicyn </string>
+  <string name="update_preference">Uppdatera inställningar</string>
+  <string name="update_success_desc">Aktuell programvaruversion: %1$s</string>
+  <string name="update_success_desc_os">Grattis! Du har installerat Android %1$s. Nu är du redo för en bättre, smartare och säkrare Android-upplevelse.</string>
+  <string name="update_success_status">Uppdateringen har slutförts</string>
+  <string name="update_title">Uppdatering klar</string>
+  <string name="update_title_text">Njut av din nya programvara!</string>
+  <string name="upto_date_title">Allt ser bra ut!</string>
+  <string name="urgent_channel_name">Programvaruuppdateringslarm</string>
+  <string name="use_smart_updates">Använd smarta uppdateringar</string>
+  <string name="vab_validation_update_failure_desc">Uppdatering av VAB-validering misslyckades</string>
+  <string name="vab_validation_update_failure_title">VAB-validering misslyckades</string>
+  <string name="vab_validation_update_success_desc">Grattis! Uppdatering av VAB-validering genomfördes</string>
+  <string name="vab_validation_update_success_title">VAB-validering genomförd</string>
+  <string name="verifying_patch">Uppdateringen har tillämpats. Verifierar att tillämpningen slutfördes … (steg 4 av 6)  </string>
+  <string name="verity_disabled_msg">Enheten är sårbar för säkerhetsrisker. Kör kommandot nedan för att fortsätta få uppdateringar
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Enheten får inte längre uppdateringar</string>
+  <string name="verizon_failure_notification_text"> Enheten kunde inte installera den här uppdateringen. Använd verktyget för programuppgraderingshjälp för att installera Tryck för mer information.</string>
+  <string name="verizon_failure_text">Det inträffade ett fel vid uppdateringen av enheten. Du har inte gjort några ändringar. Om du vill uppdatera programvaran kan du använda verktyget för programuppgraderingshjälp.
+
+Instruktioner för att installera verktyget för programuppgraderingshjälp:
+
+1. Använd en USB-kabel för att ansluta enheten till datorn
+2. När USB-menyn visas på enheten väljer du inställningsikonen högst upp till höger
+3. I USB-inställningar väljer du Programvaruinstallation
+4. Växla till din dator och leta efter installationsguiden
+5. Följ instruktionerna i guiden
+
+Verktyget för programuppgraderingshjälp hjälper dig att hämta och installera programuppdateringar på enheten.</string>
+  <string name="vital_applying_updates">Installerar uppdateringarna...</string>
+  <string name="vital_bg_text">Detta kan ta några minuter.</string>
+  <string name="vital_check_for_updates">Letar efter uppdateringar...</string>
+  <string name="vital_check_for_updates_desc">Uppdateringar håller enheten säker och förbättrar dess prestanda.</string>
+  <string name="vital_done">Klart!</string>
+  <string name="vital_error_fail">Ett uppdateringsfel uppstod. Inga ändringar har gjorts.</string>
+  <string name="vital_go_back">Vill du verkligen stoppa installationen?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Starta om för att fortsätta</string>
+  <string name="vital_skip">Hoppa över</string>
+  <string name="vital_stop">Stoppa</string>
+  <string name="wifi_setting">Wi-Fi-inställningar</string>
+</resources>

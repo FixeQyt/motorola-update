@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:id="@id/custom_notify_layout"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android">
+  <TextView android:textStyle="bold"
+            android:textColor="@color/black"
+            android:id="@id/txtNotifyTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+  <TextView android:textColor="@color/black"
+            android:id="@id/txtNotifyBody"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+  <ImageView android:layout_gravity="center"
+             android:id="@id/imgNotificaiton"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/button_top_padding" />
+</LinearLayout>

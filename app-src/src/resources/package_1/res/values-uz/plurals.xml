@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Sizning qurilmangiz yangilashni yakunlash uchun %1$d soniya ichida qayta ishga tushadi.</item>
+    <item quantity="other">Yangilashni yakunlash uchun qurilmangiz %1$dsoniyada qayta ishga tushadi.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d soniyadan soʻng qayta ishga tushirish</item>
+    <item quantity="other">%1$d soniyadan keyin qayta ishga tushadi</item>
+  </plurals>
+</resources>

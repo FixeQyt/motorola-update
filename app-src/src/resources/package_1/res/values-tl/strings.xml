@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">I-update sa ibang pagkakataon</string>
+  <string name="ab_download_now">I-update ngayon</string>
+  <string name="ab_install_notification_paused_text">Naka-pause ang pag-install sa background</string>
+  <string name="ab_install_notification_text">Pag-install sa background</string>
+  <string name="ab_restart_fullscreen_text">Aabutin ng humigit-kumulang 90 segundo upang i-restart ang iyong device. Ang update ay available ng ilang %1$d araw.</string>
+  <string name="ab_restart_text">Aabutin ng humigit-kumulang 90 segundo upang i-restart ang iyong device.</string>
+  <string name="ab_restart_warning_os_mr">Makukumpleto na ang pag-update sa iyong system.Ang iyong device ayl  </string>
+  <string name="ab_restart_warning_smr">Matatapos na ang iyong update sa seguridad. Ang iyong device ay  </string>
+  <string name="ab_warning_continues"> para makumpleto ang update.</string>
+  <string name="abc_action_bar_home_description">Mag-navigate sa home</string>
+  <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+  <string name="abc_action_menu_overflow_description">Higit pang opsyon</string>
+  <string name="abc_action_mode_done">Tapos na</string>
+  <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+  <string name="abc_activitychooserview_choose_application">Pumili ng app</string>
+  <string name="abc_capital_off">I-OFF</string>
+  <string name="abc_capital_on">I-ON</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Maghanap…</string>
+  <string name="abc_searchview_description_clear">I-clear ang query</string>
+  <string name="abc_searchview_description_query">Query sa paghahanap</string>
+  <string name="abc_searchview_description_search">Maghanap</string>
+  <string name="abc_searchview_description_submit">Isumite ang query</string>
+  <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+  <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+  <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+  <string name="abc_toolbar_collapse_description">I-collapse</string>
+  <string name="abupdate_in_progress_status">Kasalukuyang ina-update ang software</string>
+  <string name="additional_charges_message">Magpapatuloy sa mobile data ang pag-downlod. Puwedeng may singilin sa data.</string>
+  <string name="alertSubText">Ginagamit ito para tingnan, i-download at i-install ang package ng update</string>
+  <string name="alertText">Payagan ang mga operasyon ng network para sa mga update sa software</string>
+  <string name="alertTitle">Kinakailangan ng mga update ang sumusunod na pahintulot</string>
+  <string name="alert_dialog_cancel">Huminto sa pag-install</string>
+  <string name="alert_dialog_continue">Magpatuloy sa pag-install</string>
+  <string name="alert_dialog_no">Hindi</string>
+  <string name="alert_dialog_ok">Okay</string>
+  <string name="alert_dialog_yes">Oo</string>
+  <string name="allocate_space_success">Available ang kinakailangang memory para sa update</string>
+  <string name="allow">Payagan</string>
+  <string name="android_latest_sw_text">Ginagamit mo ang pinakabagong software.</string>
+  <string name="android_version">Bersyon ng Android:</string>
+  <string name="app_name">Update sa Software ng Motorola</string>
+  <string name="applied">I-on</string>
+  <string name="apply_bug_fix">Ilapat sa mga pag-aayos ng bug</string>
+  <string name="apply_os_update">Ilapat sa lahat ng update sa software</string>
+  <string name="applying_patch">Inilalapat ang update… (Hakbang %1$d ng %2$d)  </string>
+  <string name="are_you_sure">I-off ang mga smart update?</string>
+  <string name="are_you_sure_pop_up_text">Sigurado ka bang gusto mong i-off ang mga smart update? </string>
+  <string name="asc_campaign_assigned">Naka-assign ang kampanya</string>
+  <string name="asc_campaign_is_allowed">Update sa Firmware</string>
+  <string name="asc_campaign_is_blocked">Lock sa Firmware</string>
+  <string name="asc_campaign_not_assigned">Hindi naka-assign ang kampanya</string>
+  <string name="asc_sw_up_to_date">hanggang sa pinakabagong bersyon</string>
+  <string name="asc_target_version">hanggang sa bersyon </string>
+  <string name="auth_title">Update ng sistema</string>
+  <string name="auto_download_cellualr_charges_warn">Kapag nagda-download ng mga software package sa pamamagitan ng mobile network, maaaring malapat ang mga karagdagang singil.</string>
+  <string name="auto_download_enable_cellular_future_updates">Gusto mo bang mag-opt-in sa opsyon ng cellular data para sa mga pag-download sa hinaharap?</string>
+  <string name="auto_download_settings_title">Mga setting sa awto-download</string>
+  <string name="auto_download_wifi_cellular">Awto download sa cellular (domestic lang) at Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Awtomatikong i-download sa pamamagitan ang cellular at Wi-Fi.  Unang gagamitin ang Wi-Fi kapag available. </string>
+  <string name="auto_download_wifi_only">Awto download sa Wi-Fi lang </string>
+  <string name="auto_download_wifi_only_desc">Awto download sa Wi-Fi lang </string>
+  <string name="auto_install_notification_text">I-install ang device sa %1$s</string>
+  <string name="auto_time_set">Magsisimula sa:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Dahil sa kahalagahan nito, awtomatikong ii-install ang update na ito gamit ang mobile data sa %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Dahil sa kahalagahan nito, awtomatikong ida-download ang update na ito gamit ang mobile data sa %1$s</string>
+  <string name="background_install_msg">Magpapatuloy ang update na ito kung babalik ka o kung isasara mo ang window na ito.</string>
+  <string name="background_install_text">May dina-download at ini-install na &amp; update. Patuloy mong magagamit ang iyong device.</string>
+  <string name="bad_connection">Walang koneksyon</string>
+  <string name="bad_connection_text">Mukhang kasalukuyang nakadiskonekta sa internet ang iyong device. I-tap ang button sa ibaba para subukang muli.</string>
+  <string name="bg_install_cancel_confirm">Sigurado ka bang gusto mong ihinto ang pag-install?</string>
+  <string name="bg_retried">Naantala ang pag-download ng software. Susubukan pa rin namin…</string>
+  <string name="bg_suspended">Naghihintay ng koneksyon sa data para maipagpatuloy ang pag-download at pag-install sa background…</string>
+  <string name="bg_suspended_non_adminapn">Naghihintay ng Wi-Fi o Zero Rated network para maipagpatuloy ang pag-download at pag-install sa background…</string>
+  <string name="bg_suspended_roaming">Naka-pause ang pag-install ng background dahil sa roaming network, paki-on ang Wi-Fi para maipagpatuloy ang pag-install ng background.</string>
+  <string name="bg_suspended_wifi">Naghihintay ng Wi-Fi para maipagpatuloy ang pag-download at pag-install sa background…</string>
+  <string name="bootloader_unlock_msg">Hindi na nakakatanggap ang iyong device ng mga update at puwedeng bulnerable ito sa mga panseguridad na peligro.</string>
+  <string name="bootloader_unlock_title">Walang available na update</string>
+  <string name="call_notification_answer_action">Sagutin</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Tanggihan</string>
+  <string name="call_notification_hang_up_action">Ibaba</string>
+  <string name="call_notification_incoming_text">Papasok na tawag</string>
+  <string name="call_notification_ongoing_text">Kasalukuyang tawag</string>
+  <string name="call_notification_screening_text">Nagsi-screen ng papasok na tawag</string>
+  <string name="cancel">Kanselahin</string>
+  <string name="cancel_download_notification">Kanselahin</string>
+  <string name="cancel_install">Kanselahin</string>
+  <string name="cancel_update_notification">Kanselahin</string>
+  <string name="check_for_updates_title">Tumingin ng mga update</string>
+  <string name="check_update_badparam">Nagkaroon ng error ang pagsubok sa pag-upgrade dahil sa nabigong pag-log in.
+
+Pakisubukang muli sa ibang pagkakataon.</string>
+  <string name="check_update_checking">Tumitingin ng mga update…</string>
+  <string name="check_update_disabled_admin">Kontrolado ng IT admin</string>
+  <string name="check_update_downloading">Kasalukuyang dina-download ang isang update.
+
+Ino-notify ka kapag kumpleto na ang pag-download.</string>
+  <string name="check_update_fail">May nangyaring mali.
+
+Ire-rery ng device para sa update sa background.</string>
+  <string name="check_update_internal">Hindi nakatingin ng mga update. Subukang muli sa ibang pagkakataon.</string>
+  <string name="check_update_net">Kailangan mo ng koneksyon sa data para tumingin ng mga update. Para tingnan ang iyong koneksyon sa Wi-Fi, pumunta sa Mga Setting &gt; Network at internet &gt; Internet &gt; Wi-Fi.</string>
+  <string name="check_update_net_vzw">Kailangan mo ng koneksyon sa data para tumingin ng mga update. Para tingnan ang iyong koneksyon sa Wi-Fi, pumunta sa Mga Setting &gt; Network at internet &gt; Internet &gt; Wi-Fi.
+
+Puwede ka ring bumisita sa motorola.com/systemupdates para tumingin ng ibang opsyon sa update.</string>
+  <string name="check_update_processing">Nakikipag-ugnayan sa aming server…
+Mangyaring maghintay</string>
+  <string name="check_update_roaming">Sa network sa tahanan lang magagamit ang Pag-update ng System. 
+
+Pumunta sa Mga Setting &gt; Network at internet &gt; Wi-Fi para mag-set up ng koneksyon ngayon.</string>
+  <string name="check_update_storage_low">Hindi posible ang update dahil sa kakulangan ng espasyo sa storage ng device.</string>
+  <string name="check_update_temperror">Hindi makumpleto ang isang pag-download ng mga update sa puntong ito.
+
+Pakisubukang muli.</string>
+  <string name="check_update_text">Sa pamamagitan ng pana-panahong pagtingin ng mga update, gagawin nitong mas ligtas ang iyong device at magiging mahusay ang performance nito.</string>
+  <string name="check_update_title_downloading">Kasalukuyang nagda-download…</string>
+  <string name="check_update_vab_validation">Tinitingnan ang status ng update sa Pag-validate ng VAB
+Mangyaring maghintay</string>
+  <string name="check_update_wifi_only">Available ang Update ng System sa pamamagitan ng Wi-Fi lang.</string>
+  <string name="check_wifi_settings">Tingnan ang mga setting ng Wi-Fi</string>
+  <string name="clear_space">I-clear ang espasyo</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Ang isang application ay nangangailangan ng update sa Android Wear app.</string>
+  <string name="common_android_wear_update_text">Hindi gagana ang app na ito hanggang sa i-update mo ang Android Wear app.</string>
+  <string name="common_android_wear_update_title">I-update ang Android Wear</string>
+  <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+  <string name="common_google_play_services_enable_text">Hindi gagana ang app na ito maliban kung papaganahin mo ang mga serbisyo ng Google Play.</string>
+  <string name="common_google_play_services_enable_title">Paganahin ang Google Play services</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Hiniling ng %1$s</string>
+  <string name="common_google_play_services_install_button">Kumuha ng Google Play services</string>
+  <string name="common_google_play_services_install_text_phone">Hindi tatakbo ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong telepono.</string>
+  <string name="common_google_play_services_install_text_tablet">Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong tablet.</string>
+  <string name="common_google_play_services_install_title">Kumuha ng mga serbisyo ng Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account.</string>
+  <string name="common_google_play_services_invalid_account_title">Di-wasto ang Account</string>
+  <string name="common_google_play_services_needs_enabling_title">Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play.</string>
+  <string name="common_google_play_services_network_error_text">Kailangan ng koneksyon ng data upang makakonekta sa mga serbisyo ng Google Play.</string>
+  <string name="common_google_play_services_network_error_title">May Error sa Network</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Kailangan ng application na i-install ang Mga Serbisyo ng Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Kailangan ng application ng update sa Mga Serbisyo ng Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Error sa Mga Serbisyo ng Google Play</string>
+  <string name="common_google_play_services_unknown_issue">May hindi alam na isyu sa mga serbisyo ng Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Ang mga serbisyo ng Google Play, kung saan nakadepende ang ilan sa iyong mga application, ay hindi sinusuportahan ng iyong device. Mangyaring makipag-ugnay sa manufacturer para sa tulong.</string>
+  <string name="common_google_play_services_unsupported_title">Mga serbisyo ng Google Play</string>
+  <string name="common_google_play_services_update_button">I-update</string>
+  <string name="common_google_play_services_update_text">Hindi gagana ang app na ito maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+  <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+  <string name="common_open_on_phone">Buksan sa telepono</string>
+  <string name="common_signin_button_text">Sign in</string>
+  <string name="common_signin_button_text_long">Mag-sign in sa Google</string>
+  <string name="compatibility_failed_title">Nabigo ang pagpapatunay sa package</string>
+  <string name="compatibility_verification_failure">Ang update ng package na dina-download ay hindi akma sa kasalukuyang bersyon ng software sa device.</string>
+  <string name="compatibility_verification_failure_df">
+
+Mangyaring tingnan ang iyong Dogfood coordinator.</string>
+  <string name="compatibility_verification_success">Matagumpay na napatunayan</string>
+  <string name="completed"> Kumpleto na ang pag-install. (Hakbang %1$d ng %2$d)</string>
+  <string name="completed_install">%s nakumpleto</string>
+  <string name="continue_button">Magpatuloy</string>
+  <string name="critical_install_message_popup_os_mr">May available na mahalagang pag-update ng system. Pakipili ang I-install para ilapat ang update. Kung hindi, awtomatikong ilalapat ang update sa %1$s.</string>
+  <string name="critical_install_message_popup_smr">May available na mahalagang update sa seguridad. Pakipili ang I-install para ilapat ang update. Kung hindi, awtomatikong ilalapat ang update sa %1$s.</string>
+  <string name="critical_install_message_screen">Awtomatikong ii-install ang mahalagang update na ito sa %1$s. Tiyaking may sapat kang baterya para mag-install.</string>
+  <string name="critical_install_notification">Dahil mahalaga ang update na ito, awtomatikong mag-i-install ang iyong device sa %1$s.
+Tagal ng pag-install: %2$d (na) minuto</string>
+  <string name="critical_restart_message_popup">Paki-restart ang iyong device para mailapat ang mahalagang update sa seguridad na ito sa lalong madaling panahon. Kung hindi ka manual na magre-restart, awtomatikong magre-restart ang iyong device sa %1$s.</string>
+  <string name="critical_restart_message_screen">Dahil isa itong mahalagang update, awtomatikong magre-restart ang iyong device sa %1$s kung hindi ka pa nakapag-restart bago iyon.</string>
+  <string name="critical_restart_notification">Dahil mahalaga ang update na ito, awtomatikong magre-restart ang iyong device sa %1$s</string>
+  <string name="critical_update_notification_title">Kritikal na update</string>
+  <string name="current_version">Kasalukuyang bersyon ng software:</string>
+  <string name="custom_slot">Pasadya</string>
+  <string name="date_time">%s nang %s</string>
+  <string name="defer_count_expired">Kuha ko na</string>
+  <string name="deny">Tanggihan</string>
+  <string name="details">Mga Detalye</string>
+  <string name="dialog_alert_net_message">Tingnan ang iyong Wi-Fi o koneksyon ng mobile data at subukang muli.</string>
+  <string name="dialog_alert_net_title">Naka-offline ang iyong device</string>
+  <string name="dialog_alert_title">Paubos na baterya</string>
+  <string name="dialog_progress">Naglo-load…</string>
+  <string name="dl_options_mobile_only_warning">Inirerekomenda ang paggamit ng Wi-Fi. Ang pagda-download gamit ang mobile data o paggamit ng mobile data habang naka-roam ay maaaring magresulta ng karagdagang mga pagsingil.
+
+Ang pag-download ng software na ito ay hindi makakaapekto sa operation ng iyong device.</string>
+  <string name="done">Tapos na</string>
+  <string name="dont_show_this_again">Huwag na itong ipakitang muli</string>
+  <string name="download_cancelled_title">Nakansela ang pag-download</string>
+  <string name="download_deferred_status">Ipinagpaliban ang pag-download ng Software noong</string>
+  <string name="download_failed_status">Hindi na-download ang update noong</string>
+  <string name="download_in_progress_status">Kasalukuyang dina-download ang software</string>
+  <string name="download_later_button">I-download sa ibang pagkakataon</string>
+  <string name="download_no_button">Hindi na, salamat</string>
+  <string name="download_note">Patuloy mong magagamit ang iyong device habang ini-install ang update </string>
+  <string name="download_now">Mag-download na</string>
+  <string name="download_now_button">I-download</string>
+  <string name="download_options">Opsyon, download</string>
+  <string name="download_progress_cancel_message">Kung gusto mong i-download ang update na ito sa ibang pagkakataon, pumunta sa Mga Setting &gt; Mga pag-update ng system</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Umalis si %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">Na-download ang %s%% (Naka-pause)</string>
+  <string name="download_progress_text">Magpapatuloy ang pag-download na ito kung babalik ka o kung isasara mo ang window na ito.</string>
+  <string name="download_subtitle">Ano ang dapat malaman bago ka mag-download</string>
+  <string name="download_text_whats_new">Tingnan kung ano'ng bago</string>
+  <string name="download_time_left">Umalis si %1$s</string>
+  <string name="download_version">Bagong bersyon: %1$s</string>
+  <string name="download_wifi_only_error">Kailangan ng Wi-Fi para ma-download ang update na ito. Magpapatuloy ang pag-download kapag na-restore na ang iyong koneksyon.</string>
+  <string name="downloaded_percentage">Na-download ang %1$s</string>
+  <string name="emergency_call_btn_txt">Emergency</string>
+  <string name="emergency_call_text">Hindi ka makakatawag o makakatanggap ng tawag, pati emergency na tawag, habang nagre-reboot!</string>
+  <string name="enable_wifi_error_txt">Kumonekta sa Wi-Fi para i-download ang update na ito.</string>
+  <string name="eol_explore">Mag-explore ng mga bagong device</string>
+  <string name="eol_last_update_text">Patch ng seguridad:</string>
+  <string name="eol_promote">Tingnan ang mga pinakabagong promosyon</string>
+  <string name="eol_title">Pinapagana ng iyong device ang pinakabagong available na software.</string>
+  <string name="err_title_contact_server">Nakikipag-ugnayan sa server…</string>
+  <string name="err_title_memory_low">Papaubos na ang memory…</string>
+  <string name="err_title_temp_error">Pansamantalang Error</string>
+  <string name="err_title_update">Error sa pag-update</string>
+  <string name="error_code">Error Code: </string>
+  <string name="error_copyfail">Nabigong kumopya mula sa lokasyon ng SD Card.</string>
+  <string name="error_disabled">Nabigong ma-download ang update. Hindi available ang package ng update sa oras na ito. 
+
+Walang kinakailangang karagdagang pagkilos.</string>
+  <string name="error_fail">Paumanhin, nagkaproblema sa pag-update sa iyong %1$s. Walang nagawang pagbabago. Pakisubukan ulit sa pamamagitan ng pagpunta sa Mga Setting &gt; Update sa system.</string>
+  <string name="error_in_call_msg">Hindi makakapag-update ang device sa ngayon dahil kasalukuyang nasa tawag</string>
+  <string name="error_in_call_title">Kasalukuyang nasa tawag</string>
+  <string name="error_install_title">Bigo ang pag-install</string>
+  <string name="error_mismatch">May naganap na maling pagtutugma ng bersyon. May magaganap muli na isang update. Kung may available na update, ipo-prompt ka.</string>
+  <string name="error_mismatch_sd">Nabigong mag-update. Hindi tumutugma sa iyong telepono ang bersyon ng update. 
+
+Mangyaring i-download ang tamang bersyon para sa iyong telepono at subukang muli.</string>
+  <string name="error_network">Nawala ang koneksyon. Pakisubukang muli sa pamamagitan ng manu-manong pagtingin ng mga update sa pamamagitan ng mga setting ng Telepono.</string>
+  <string name="error_reboot">Hindi namin na-download ang update na ito. Kung gusto mong makuha ang update na ito sa ibang pagkakataon, paki-restart ang iyong device at pumunta sa Mga Setting &gt; Mga pag-update ng system.</string>
+  <string name="error_resources">Hindi namin na-download ang update na ito. Kung gusto mong makuha ang update na ito sa ibang pagkakataon, pumunta sa Mga Setting &gt; Mga pag-update ng system.</string>
+  <string name="error_sdcard_resources_fail_removal">Inalis ang SD Card. Hindi nakumpleto ang proseso ng pag-download. 
+
+Pakipasok ulit ang SD Card at pumunta sa Mga Setting &gt; Mga update sa system para subukang muli.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Hindi nakumpleto ang pag-download. Walang sapat na espasyo sa SD Card. 
+
+Magbakante ng espasyo at pumunta sa Mga Setting &gt; Mga update sa system para subukang muli.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Pakilagay ang SD Card upang simulan ang pag-download.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Mangyaring i-mount ang SD Card upang simulan ang pag-download. 
+
+Pumunta sa Mga Setting &gt; Storage &gt; I-mount ang SD card.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Walang sapat na espasyo sa SD Card para kumpletuhin ang pag-download. 
+
+Mangyaring magbakante ng %1$s na espasyo at pumunta sa Mga Setting &gt; Mga pag-update ng system para subukang mag-download ulit.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Error</string>
+  <string name="error_sdcard_resources_warning">Dina-download sa SD Card ang update ng software. 
+
+Mangyaring huwag alisin ang SD Card hanggang sa makumpleto ang pag-install.
+
+
+</string>
+  <string name="error_server">Nagkaroon ng error sa Server. Pakisubukang muli sa ibang pagkakataon.</string>
+  <string name="error_space">Kailangan ng update na ito ng %1$s na available na storage sa iyong device. 
+
+Pakitanggal ang mga hindi ginagamit na app o ilipat ang iyong mga larawan at video sa ibang storage device para magbakante ng %2$s na espasyo. 
+
+Kapag nagawa mo na ito, puwede kang pumunta sa Mga Setting &gt; Mga pag-update ng system para simulan ang update anumang oras.</string>
+  <string name="error_space_retry">Kailangan ng update na ito ng %1$s na available na storage sa iyong device. 
+
+Pakitanggal ang mga hindi ginagamit na app o ilipat ang iyong mga larawan at video sa ibang storage device para magbakante ng %2$s na espasyo.</string>
+  <string name="error_space_vab">Kailangan ng update na ito ng %1$s na available na bakanteng espasyo sa iyong device. Mangyaring magbakante ng memory para sa mga matagumpay na update</string>
+  <string name="error_space_vab_make_room_popup">Dapat kang magbakante ng %1$s na espasyo bago mag-update. Subukang mag-delete ng mga hindi nagagamit na app o maglipat ng mga larawan at video sa ibang storage device.</string>
+  <string name="error_title">Nabigo ang download</string>
+  <string name="error_verify">Hindi mapatunayan nang tama ang update. Pakisubukang muli.</string>
+  <string name="failed">Nabigo</string>
+  <string name="failure_process">Hindi available ang impormasyon</string>
+  <string name="first_net_text">Paki-install ang update kung hindi ay awtomatiko itong ii-install ng device sa susunod na pag-reboot. Tiyaking ang antas ng baterya ay higit sa %s</string>
+  <string name="forceInstallMessage">Awtomatikong ii-install ang update na ito sa %1$s.</string>
+  <string name="force_install_message_screen">Isa itong mahalagang update, kaya mangyaring mag-install hanggang %1$s. Kung hindi, awtomatiko itong ii-install sa panahon kung kailan pinakamadalang na ginagamit ang iyong device. Tiyaking sapat ang tagal ng iyong baterya para sa pag-install.</string>
+  <string name="force_install_notification_message">Mangyaring mag-install hanggang %1$s. Kung hindi, awtomatikong mag-i-install ang iyong device sa panahon kung kailan pinakamadalang itong ginagamit.
+Tagal ng pag-install: %2$d (na) minuto</string>
+  <string name="force_restart_notification_message">Mangyaring mag-restart hanggang %1$s. Kung hindi, awtomatikong magre-restart ang iyong device sa panahon kung kailan pinakamadalang itong ginagamit.</string>
+  <string name="force_restart_screen_message">Kung hindi ka magre-restart hanggang %1$s, awtomatikong magre-restart ang iyong device sa panahon kung kailan pinakamadalang itong ginagamit.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Kuha ko na</string>
+  <string name="important_update_install_overdue_message">Lumampas na ang oras ng iskedyul para sa pag-install. Magsisimula ang pag-install sa oras na matugunan ng iyong device ang mga pamantayan.</string>
+  <string name="important_update_restart_overdue_message">Lumampas na ang oras ng iskedyul para sa pag-restart. Magsisimula ang pag-install sa oras na matugunan ng iyong device ang mga pamantayan.</string>
+  <string name="initiating_ota_service_msg">Mangyaring maghintay...</string>
+  <string name="initiating_ota_service_title">Sinisimulan ang proseso ng pag-update sa software</string>
+  <string name="install">I-install</string>
+  <string name="install_after_one_hour">I-install sa loob ng 1 oras</string>
+  <string name="install_cancelled_title">Kinansela ang pag-install</string>
+  <string name="install_deferred_status">Ipinagpaliban ang update nang</string>
+  <string name="install_later">Install mamaya</string>
+  <string name="install_notify_sanity_call_msg">Hindi makakapag-install ang device sa ngayon dahil kasalukuyang nasa tawag</string>
+  <string name="install_notify_sanity_maps_msg">Hindi makakapag-install ang device sa ngayon dahil naka-on ang nabigasyon</string>
+  <string name="install_now">I-install ngayon</string>
+  <string name="install_postponed">Naantala ang pag-install</string>
+  <string name="install_progress_cancel_message">Kung gusto mong i-install ang update na ito sa ibang pagkakataon, pumunta sa Mga Setting &gt; Mga pag-update ng system</string>
+  <string name="install_progress_paused_message">Nakumpleto na ang %s (Naka-pause)</string>
+  <string name="install_time">Tagal ng pag-install: %1$d (na) minuto</string>
+  <string name="install_warning">Ano ang dapat malaman bago ka mag-install</string>
+  <string name="just_one_more_step">Isang hakbang na lang</string>
+  <string name="keep_it_on">Panatilihing naka-on</string>
+  <string name="later_button">Paalalahanan ako sa ibang pagkakataon</string>
+  <string name="learn_more_online_link">Matutunan ang iba pa sa online</string>
+  <string name="low_battery_bg_install">Na-pause ang pag-install dahil sa papaubos nang baterya. Magpapatuloy ang pag-install kapag na-charge na ang iyong device.</string>
+  <string name="low_battery_download">Na-pause ang pag-download dahil sa papaubos nang baterya. Magpapatuloy ang pag-download kapag na-charge na ang iyong device.</string>
+  <string name="low_battery_install">Paki-charge ang device mo hanggang kahit man lang %s bago i-install ang update na ito</string>
+  <string name="make_space">Magbakante ng espasyo</string>
+  <string name="mandatory_install_notification">Kung hindi mo kaagad mai-install itong system update, makakaligtaan mo ang mahalagang mga update sa seguridad, gayundin ang bagong mga tampok at mga pag-aayos ng bug.</string>
+  <string name="mandatory_restart_notification">Dahil isa itong mahalagang update, paki-restart ngayon. Kung hindi makakaligtaan mo ang mga update sa seguridad, gayundin ang mga tampok at pag-aayos ng bug.</string>
+  <string name="medium_channel_name">Download Notifier ng Software</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Pumili ng account</string>
+  <string name="multiple_account_alert">Pumili ng %1$s account para magpatuloy sa pag-update ng system.</string>
+  <string name="no_thanks">Hindi na, salamat</string>
+  <string name="no_thanks_message">Kung gusto mong makuha ang update na ito sa ibang pagkakataon, pumunta sa Mga Setting &gt; Mga pag-update ng system.</string>
+  <string name="no_updates_applied">Walang nailapat na mga update</string>
+  <string name="not_now">Hindi ngayon</string>
+  <string name="otaservice_perm_desc">Ang permiso na kailangan ng app para makapag-interact sa otaservice</string>
+  <string name="package_size">Laki ng download: %1$s</string>
+  <string name="personalInfo_instruction">Hindi ka mawawalan ng anumang personal na impormasyon</string>
+  <string name="picker_cell_radio">Wi-Fi at mobile data</string>
+  <string name="picker_title">Piliin kung paano mo gustong i-download ang update na ito:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi lang</string>
+  <string name="please_restart">Mangyaring mag-restart na ngayon</string>
+  <string name="policy_set">Naka-block ang system update. Paki-kontak ang tagapangasiwa ng iyong device para sa higit pang impormasyon.</string>
+  <string name="press_back_again_to_exit">Pindutin ulit ang BUMALIK para lumabas</string>
+  <string name="progress_copying_sd">Pagkokopya ng update</string>
+  <string name="progress_deffered">Magsisimula ang pag-download sa Wi-Fi/Cellular Network</string>
+  <string name="progress_downloading_ota">Dina-download ang update ng sistema</string>
+  <string name="progress_downloading_security">Dina-download ang update ng seguridad</string>
+  <string name="progress_retried">Naantala ang pag-download ng software. Susubukan pa rin namin…</string>
+  <string name="progress_suspended">Hintay ng koneksyon sa data para tuloy pag-download</string>
+  <string name="progress_suspended_datasaver">I-off ang data saver upang bumalik sa pag-download</string>
+  <string name="progress_suspended_no_adminapn">Hinahantay ang Wi-Fi o Zero rated na network para bumalik sa pagda-download</string>
+  <string name="progress_suspended_roaming">Naka-pause ang download dahil sa roaming network, paki-on ang Wi-Fi upang maipagpatuloy ang pag-download.</string>
+  <string name="progress_suspended_wifi">Naghihintay ng Wi-Fi para maipagpatuloy ang pag-download…</string>
+  <string name="progress_verify">Bine-verify ang update…</string>
+  <string name="progress_verify_allocate_space">Tinitingnan kung sapat ang memory</string>
+  <string name="relative_date_time">%1$s sa %2$s</string>
+  <string name="release_notes_string">Tingnan ang lahat ng bagong tampok sa Android %1$s</string>
+  <string name="request_suspended_datasaver">I-off ang data saver upang simulan ang pag-download</string>
+  <string name="request_suspended_no_network">Walang saklaw na network upang simulan ang pag-download</string>
+  <string name="restart_after_one_hour">Magre-restart sa loob ng 1 oras</string>
+  <string name="restart_instruction_title">Ano ang dapat malaman bago ka mag-restart</string>
+  <string name="restart_later">Mamaya</string>
+  <string name="restart_message">Paki-restart ngayon para mag-update. </string>
+  <string name="restart_notification">I-restart</string>
+  <string name="restart_notification_text">Paki-restart ngayon para mag-update. Ang update ay naka-pending ng ilang %1$d araw.</string>
+  <string name="restart_notify_sanity_call_msg">Hindi makakapag-reboot ang device sa ngayon dahil kasalukuyang nasa tawag</string>
+  <string name="restart_notify_sanity_maps_msg">Hindi makakapag-reboot ang device sa ngayon dahil naka-on ang nabigasyon</string>
+  <string name="restart_now">I-restart ngayon</string>
+  <string name="restart_postponed">Naantala ang pag-restart</string>
+  <string name="restart_title">I-restart ang iyong device</string>
+  <string name="resume_download_on_cellular">Gumamit ng mobile data</string>
+  <string name="retrieving_token">Pinapatunayan...</string>
+  <string name="sdcard_predownload_text">
+Sa hakbang na ito, kokopyahin mo ang update sa system memory. I-install ang update sa susunod na hakbang. 
+
+Ikonekta ang telepono sa power source para masiguro na hindi ka mauubusan ng baterya.</string>
+  <string name="search_menu_title">Maghanap</string>
+  <string name="secure_instruction">Secure ang prosesong ito</string>
+  <string name="security_download_notification_title">Pahusayin ang iyong seguridad</string>
+  <string name="security_install_notification_text">May bagong update sa seguridad na handa nang i-install</string>
+  <string name="security_install_title">May nakahanda nang update sa seguridad</string>
+  <string name="security_patch">Patch ng seguridad:</string>
+  <string name="security_update_low_storage_title">Update sa seguridad</string>
+  <string name="security_update_notification_text">Kunin ang pinakabagong update sa seguridad</string>
+  <string name="security_update_paused">Naka-pause ang update ng seguridad</string>
+  <string name="security_update_pending_notification_text">Makatanggap ng pinakabagong update sa seguridad. Ang update ay naka-pending ng ilang %1$d araw.</string>
+  <string name="security_update_title">Update sa seguridad</string>
+  <string name="select_account">Pumili ng %1$s account</string>
+  <string name="selected_later_time_os_mr">Ang update sa system ay i-install sa </string>
+  <string name="selected_later_time_smr">Ii-install ang update sa seguridad sa</string>
+  <string name="setting_sw_summary">I-update sa pinakabagong software </string>
+  <string name="setting_sw_title">Mga update sa system</string>
+  <string name="smart_cancel_update_toast_msg">Na-reschedule ang update sa %1$s</string>
+  <string name="smart_end_time">Wakasan</string>
+  <string name="smart_install_message_popup">Dahil na-enable mo ang tampok na Mga Smart Update, awtomatikong ii-install ng iyong device ang update sa %1$s kung hindi ka pa nag-i-install bago iyon. Tiyaking may sapat kang baterya para mag-install.</string>
+  <string name="smart_restart_message_popup">Dahil na-enable mo ang tampok na Mga Smart Update, awtomatikong mag-a-update ang iyong device sa %1$s kung hindi ka pa nagre-restart bago iyon.</string>
+  <string name="smart_settings_string">Awtomatikong dina-download at ini-install ang mga update kapag nakakonekta ka sa Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Ang mga pag-update ay awtomatikong nai-download at nai-install kapag nakakonekta ka sa Wi-Fi o gumagamit ng mobile data</string>
+  <string name="smart_settings_string_vzw">Awtomatikong dina-download at ini-install ang mga update</string>
+  <string name="smart_start_time">Simulan</string>
+  <string name="smart_to_string">Para</string>
+  <string name="smart_update_advanced">Advanced</string>
+  <string name="smart_update_note">Tandaan: Para sa iyong kaligtasan, awtomatikong ida-download at ii-install ang lahat ng mahalagang update sa seguridad, naka-on man o naka-off ang tampok na ito.</string>
+  <string name="smart_update_note_vzw">Tandaan: Para sa iyong kaligtasan, awtomatikong ida-download at ii-install ang lahat ng kritikal na update, naka-on man o naka-off ang tampok na ito.</string>
+  <string name="smart_update_pop_up_text">Panatilihing ligtas at secure ang iyong device sa pamamagitan ng mga awtomatikong update</string>
+  <string name="smart_update_recommendation">Subukan ang mga smart update</string>
+  <string name="smart_update_suggestion_text">Manatiling ligtas sa pamamagitan ng mga awtomatikong update</string>
+  <string name="smart_update_text_AB">Nakakatulong ang mga Smart update para sa ligtas at mahusay na paggana ng iyong device. Kapag binuksan mo ang mga ito, awtomatikong mai-download ang lahat ng mga bagong <b>update sa seguridad at pag-aayos sa bug</b>. Pagkatapos ng pag-download, magre-restart ang iyong device sa oras na pipiliin mo.</string>
+  <string name="smart_update_text_AB_vzw">Nakakatulong ang mga Smart update sa iyong device upang gumana nang ligtas at mahusay. Kapag binuksan mo ang mga ito, awtomatikong mai-download ang lahat ng mga bagong <b>update sa seguridad</b>. Pagkatapos ng pag-download, magre-restart ang iyong device sa oras na pipiliin mo.</string>
+  <string name="smart_update_text_classic">Nakakatulong ang mga Smart update para sa ligtas at mahusay na paggana ng iyong device. Kapag binuksan mo ang mga ito, awtomatikong mai-download ang lahat ng mga bagong <b>update sa seguridad at pag-aayos sa bug</b>. Pagkatapos ng pag-download, magre-restart ang iyong device sa oras na pipiliin mo.</string>
+  <string name="smart_update_text_classic_vzw">Nakakatulong ang mga Smart update sa iyong device upang gumana nang ligtas at mahusay. Kapag binuksan mo ang mga ito, awtomatikong mai-download ang lahat ng mga bagong <b>update sa seguridad</b>. Pagkatapos ng pag-download, magre-restart ang iyong device sa oras na pipiliin mo.</string>
+  <string name="smart_update_time_slot_text_AB">Pumili ng oras ng pag-restart</string>
+  <string name="smart_update_time_slot_text_classic">Pumili ng oras ng pag-install</string>
+  <string name="smart_update_title">Mga Smart update</string>
+  <string name="software_not_update_to">Hindi pa naa-update ang iyong software sa</string>
+  <string name="software_update_in_progress">Nag-a-update ang iyong system sa bersyon</string>
+  <string name="software_update_planned_summary">Na-check - %1$s</string>
+  <string name="software_update_planned_title">Naplano ang update sa software</string>
+  <string name="software_update_to">Na-update na ang iyong system sa</string>
+  <string name="sofware_version">Bersyon ng Software:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Maglaan ng lugar para sa update</string>
+  <string name="su_btn">Mga Setting</string>
+  <string name="su_text_off">Kakailanganin mong manu-manong i-update ang iyong device kapag may magagamit na bagong software. I-on ang mga Smart update para gawing awtomatiko ang proseso. I-tap para sa higit pang detalye.</string>
+  <string name="su_text_on">Bilang default, tumatakbo ang mga Smart update sa pagitan ng 1 AM - 3 AM. Maaari mong baguhin ang mga oras ng pag-update o i-off ang mga Smart update sa mga setting. I-tap para sa higit pang detalye.</string>
+  <string name="su_title_off">Naka-off ang mga Smart update</string>
+  <string name="su_title_on">Naka-on ang mga Smart update</string>
+  <string name="system_download_notification_title">Update ng System</string>
+  <string name="system_install_notification_text">May pag-update ng system na handa nang i-install</string>
+  <string name="system_install_title">May nakahanda nang update</string>
+  <string name="system_pdl_notification_mr_title">Makatanggap ng mga pag-aayos ng bug at higit pa</string>
+  <string name="system_pdl_notification_os_title">Narito na ang Android %1$s!</string>
+  <string name="system_update">Update ng system</string>
+  <string name="system_update_info_not_available">Hindi mgagamit</string>
+  <string name="system_update_low_storage_text">I-tap dito para tingnan ang memory at magpatuloy.</string>
+  <string name="system_update_low_storage_title">Pag-update ng system</string>
+  <string name="system_update_notification_os_text">Gamitin ang bagong Android</string>
+  <string name="system_update_notification_text">I-download ang bagong software</string>
+  <string name="system_update_paused">Pause update sa system</string>
+  <string name="system_update_pending_notification_os_text">I-experience ang bagong Android. Ang update ay naka-pending ng ilang %1$d araw.</string>
+  <string name="system_update_pending_notification_text">I-download ang bagong software. Ang update ay naka-pending ng ilang %1$d araw.</string>
+  <string name="system_update_settings_list_item_title">Mga update sa system</string>
+  <string name="system_update_status">Status ng pag-update ng system</string>
+  <string name="system_update_title">Pag-update ng system</string>
+  <string name="tethered_permission_desc">Ipadala ang mga resulta ng update ng 3c</string>
+  <string name="tethered_update_result">Naka-tether na Resulta ng Update</string>
+  <string name="time_picker_text">Simulan ang pag-install nang walang paalala</string>
+  <string name="total_download_size">Laki: %1$s</string>
+  <string name="turn_it_off">I-off</string>
+  <string name="turn_it_on">I-on ito</string>
+  <string name="turn_on_smart_updates">I-on ang mga smart update</string>
+  <string name="update">I-update</string>
+  <string name="update_blocked_by_policy">Na-block ng patakaran ng admin ang update </string>
+  <string name="update_cancelled_status">Nakansela ang pag-download ng software noong</string>
+  <string name="update_fail_desc">Nagkaproblema sa pag-update sa iyong device. Walang nagawang pagbabago.
+Pakisubukan ulit sa pamamagitan ng pagpunta sa Mga Setting &gt; Update sa system.</string>
+  <string name="update_fail_status">Nabigo ang update</string>
+  <string name="update_fail_sucancel_dm_status">Nakansela ng server ang update</string>
+  <string name="update_fail_title">Hindi nakapag-update</string>
+  <string name="update_history_blank">Walang history</string>
+  <string name="update_history_src_target">Update sa %2$s mula %1$s</string>
+  <string name="update_history_time">Na-update noong %1$s</string>
+  <string name="update_history_title">History ng update</string>
+  <string name="update_history_version">Bersyon ng Software %1$s</string>
+  <string name="update_postpone_policy">Ipinagpaliban ng patakaran ng admin ang update </string>
+  <string name="update_preference">I-update ang mga kagustuhan</string>
+  <string name="update_success_desc">Binabati kita! Matagumpay mong na-install ang bersyon %1$s.</string>
+  <string name="update_success_desc_os">Binabati kita! Matagumpay mong na-install ang Android %1$s. Ngayon, mae-enjoy mo na ang mas maganda, mas madali, at mas ligtas na karanasan sa Android.</string>
+  <string name="update_success_status">Tagumpay ang Update</string>
+  <string name="update_title">Kumpleto na ang update</string>
+  <string name="update_title_text">I-enjoy ang bago mong software!</string>
+  <string name="upto_date_title">Mukhang ayos ang lahat!</string>
+  <string name="urgent_channel_name">Alerto ng Update ng Software</string>
+  <string name="vab_validation_update_failure_desc">Pumalya ang update sa pag-validate ng VAB</string>
+  <string name="vab_validation_update_failure_title">Hindi nakapag-validate ng VAB</string>
+  <string name="vab_validation_update_success_desc">Binabati kita! Naging matagumpay ang update sa pag-validate ng VAB</string>
+  <string name="vab_validation_update_success_title">Matagumpay ang pag-validate ng VAB</string>
+  <string name="verity_disabled_msg">Posibleng lantad ang iyong device sa mga peligro sa seguridad. Ipatupad ang command sa ibaba para sa mga tuloy-tuloy na update
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Hindi na nakakatanggap ng mga update ang iyong device</string>
+  <string name="verizon_failure_notification_text"> Hindi ma-install ng iyong device ang update na ito. Gamitin ang Software Upgrade Assistant tool para mag-install. Mag-tap para sa higit pang impormasyon.</string>
+  <string name="verizon_failure_text">Nagkaproblema sa pag-update ng iyong device. Walang nagawang pagbabago. Para i-update ang iyong software, maari mong gamitin ang tool na Assistant sa Pag-upgrade ng Software.
+
+Para i-install ang tool na Assistant sa Pag-upgrade ng Software:
+
+1. Gumamit ng cable ng USB para makonekta ang iyong device sa iyong computer
+2. Kapag nag-pop up ang menu ng USB sa iyong device, piliin ang icon ng mga setting sa may kanang itaas
+3. Mula sa Pagkiling ng USB, piliin ang pag-iinstall ng Software
+4. Lumipat sa iyong PC at hanapin ang wizard ng pag-iinstall
+5. Dahan-dahang iproseso ang wizard
+
+Tutulungan ka ng tool na Assistant sa Pag-upgrade ng Software para i-download at i-install ang mga update ng software sa iyong device.</string>
+  <string name="vital_applying_updates">Inilalapat ang mga update…</string>
+  <string name="vital_bg_text">Puwede itong tumagal nang ilang minuto.</string>
+  <string name="vital_check_for_updates">Naghahanap ng mga update…</string>
+  <string name="vital_check_for_updates_desc">Sa pamamagitan ng mga update, napapanatiling ligtas ang iyong device at maayos ang paggana nito.</string>
+  <string name="vital_done">Tapos na!</string>
+  <string name="vital_error_fail">Nagkaroon ng error sa pag-update. Walang naisagawang pagbabago.</string>
+  <string name="vital_go_back">Sigurado ka bang gusto mong ihinto ang pag-install</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">I-restart para magpatuloy</string>
+  <string name="vital_skip">Laktawan</string>
+  <string name="vital_stop">Ihinto</string>
+  <string name="wifi_setting">Setting, Wi-Fi</string>
+</resources>

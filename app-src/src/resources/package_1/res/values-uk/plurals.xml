@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Ваш пристрій перезавантажиться за %1$d с для завершення оновлення.</item>
+    <item quantity="few">Ваш пристрій перезавантажиться за %1$d с для завершення оновлення.</item>
+    <item quantity="many">Ваш пристрій перезавантажиться за %1$d с для завершення оновлення.</item>
+    <item quantity="other">Ваш пристрій перезавантажиться за %1$d с для завершення оновлення.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">перезавантажиться за %1$d с</item>
+    <item quantity="few">перезавантажиться за %1$d с</item>
+    <item quantity="many">перезавантажиться за %1$d с</item>
+    <item quantity="other">перезавантажиться за %1$d с</item>
+  </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᏥᎭᏂᎩᏍᏓ ᎾᎿ %1$d ᏔᎵᏁᏃ ᎾᎿᎢ ᎧᎵᎢ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ.</item>
+    <item quantity="other">ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎠᏎ ᏥᎭᏂᎩᏍᏓ ᎾᎿ %1$d ᏓᏓᎾᏩᏍᎬ ᎾᎿᎢ ᎧᎵᎢ ᏥᎩ ᏗᎪᏒᎯᏌᏅᎯ.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">ᏥᎭᏂᎩᏍᏓ ᎾᎿᎢ %1$d ᏔᎵᏁᏃ</item>
+    <item quantity="other">ᏥᎭᏂᎩᏍᏓ ᎾᎿᎢ %1$d ᏓᏓᎾᏩᏍᎬ</item>
+  </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Kifaa chako kitaanza upya ndani ya %1$d sekunde ili kukamilisha sasisho.</item>
+    <item quantity="other">Kifaa chako kitawashwa upya ndani ya %1$d sekunde kadhaa kukamilisha sasisho.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">washa upya ndani ya sekunde %1$d</item>
+    <item quantity="other">washa upya ndani ya sekunde %1$d</item>
+  </plurals>
+</resources>

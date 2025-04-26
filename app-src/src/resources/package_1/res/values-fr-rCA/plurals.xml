@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Votre appareil redémarrera dans %1$d secondes pour terminer la mise à jour.</item>
+    <item quantity="other">Votre appareil redémarrera dans %1$d secondes pour terminer la mise à jour.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">redémarrage en %1$d seconde</item>
+    <item quantity="other">redémarrage en %1$d secondes</item>
+  </plurals>
+</resources>

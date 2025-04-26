@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">Peranti anda akan dimulakan semula dalam %1$d saat untuk menyelesaikan kemas kini.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">bermula semula dalam %1$d saat</item>
+  </plurals>
+</resources>

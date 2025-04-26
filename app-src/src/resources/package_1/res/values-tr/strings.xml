@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Daha sonra güncelle</string>
+  <string name="ab_download_now">Şimdi güncelle</string>
+  <string name="ab_install_notification_paused_text">Arka planda yükleme duraklatıldı</string>
+  <string name="ab_install_notification_text">Arka planda yükleme</string>
+  <string name="ab_restart_fullscreen_text">İşlemi neredeyse tamamladınız! Cihazınızı yeniden başlatmak yaklaşık 90 saniye sürer. Güncelleme, %1$d gündür mevcut.</string>
+  <string name="ab_restart_text">İşlemi neredeyse tamamladınız! Cihazınızı yeniden başlatmak yaklaşık 90 saniye sürer</string>
+  <string name="ab_restart_warning_os_mr">Sistem güncelleme işleminiz neredeyse tamamlandı. Cihazınız  </string>
+  <string name="ab_restart_warning_smr">Güvenlik güncellemesi işleminiz neredeyse tamamlandı. Cihazınız </string>
+  <string name="ab_warning_continues"> ve yükleme tamamlanacaktır.</string>
+  <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+  <string name="abc_capital_off">KAPAT</string>
+  <string name="abc_capital_on">AÇ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">sil</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+  <string name="abc_menu_space_shortcut_label">boşluk</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menü+</string>
+  <string name="abc_search_hint">Ara…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Arama sorgusu</string>
+  <string name="abc_searchview_description_search">Ara</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="abupdate_in_progress_status">Yazılım güncellemesi devam ediyor</string>
+  <string name="additional_charges_message">İndirme işlemi mobil veri üzerinden devam edecek. Veri ücretleri geçerli olabilir.</string>
+  <string name="alertSubText">Bu, güncelleme paketini kontrol etmek, indirmek ve yüklemek için kullanılır</string>
+  <string name="alertText">Yazılım güncellemeleri için ağ kullanımına izin ver</string>
+  <string name="alertTitle">Güncellemeler için şu izin gereklidir:</string>
+  <string name="alert_dialog_cancel">Yüklemeyi durdur</string>
+  <string name="alert_dialog_continue">Yüklemeye devam et</string>
+  <string name="alert_dialog_no">Hayır</string>
+  <string name="alert_dialog_ok">Anladım</string>
+  <string name="alert_dialog_yes">Evet</string>
+  <string name="allocate_space_success">Güncelleme için gerekli bellek alanı mevcut</string>
+  <string name="allow">İzin ver</string>
+  <string name="android_latest_sw_text">En yeni yazılımı kullanıyorsunuz</string>
+  <string name="android_version">Android sürümü:</string>
+  <string name="app_name">Motorola Yazılım Güncellemesi</string>
+  <string name="applied">Açık</string>
+  <string name="apply_bug_fix">Hata düzeltmelerine uygula</string>
+  <string name="apply_os_update">Tüm yazılım güncellemelerine uygula</string>
+  <string name="applying_patch">Güncelleme uygulanıyor (Adım %1$d / %2$d)  </string>
+  <string name="are_you_sure">Akıllı güncellemeler kapatılsın mı?</string>
+  <string name="are_you_sure_pop_up_text">Akıllı güncellemeleri kapatmak istediğinizden emin misiniz? </string>
+  <string name="asc_campaign_assigned">Kampanya atandı</string>
+  <string name="asc_campaign_is_allowed">Bellenim Güncellemesi</string>
+  <string name="asc_campaign_is_blocked">Bellenim Kilidi</string>
+  <string name="asc_campaign_not_assigned">Cihaz şu anda kampanyada değil</string>
+  <string name="asc_campaign_status_prefix">
+Durum:  </string>
+  <string name="asc_campaign_window_period_status">
+Güncelleme penceresi: %s – %s</string>
+  <string name="asc_sw_up_to_date"> en yeni sürüme</string>
+  <string name="asc_target_version"> şu sürüme:  </string>
+  <string name="auth_title">Sistem güncellemesi</string>
+  <string name="auto_download_cellualr_charges_warn">Cep telefonu şebekesinden güncellemeler indirirken ek ücretler uygulanabilir</string>
+  <string name="auto_download_enable_cellular_future_updates">Hücresel veri seçeneğinin gelecekteki indirmelerde de sunulmasını istiyor musunuz?</string>
+  <string name="auto_download_settings_title">Otomatik indirme ayarları</string>
+  <string name="auto_download_wifi_cellular">Hücresel veri ve kablosuz bağlantı üzerinden otomatik indir</string>
+  <string name="auto_download_wifi_cellular_desc">Hücresel veri ve kablosuz bağlantı üzerinden otomatik indirme Mevcut olduğunda kablosuz bağlantıya öncelik verilecek. </string>
+  <string name="auto_download_wifi_only">Yalnızca kablosuz bağlantı üzerinden otomatik indir</string>
+  <string name="auto_download_wifi_only_desc">Yalnızca kablosuz bağlantı üzerinden otomatik indirme</string>
+  <string name="auto_install_notification_text">Otomatik yükleme %1$s tarihinde başlatılacak</string>
+  <string name="auto_time_set">Başlangıç:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Öneminden dolayı bu güncelleme %1$s tarihinde mobil veri kullanılarak otomatik olarak yüklenecek</string>
+  <string name="automatic_download_on_cellular_warning">Öneminden dolayı bu güncelleme %1$s tarihinde mobil veri kullanılarak otomatik olarak indirilecek</string>
+  <string name="background_install_msg">Bu güncelleme, geri giderseniz veya pencereyi kapatırsanız devam eder</string>
+  <string name="background_install_text">Bir güncelleme indiriliyor ve yükleniyor. Cihazınızı kullanmaya devam edebilirsiniz.</string>
+  <string name="bad_connection">İnternet yok</string>
+  <string name="bad_connection_text">Cihazınızın internet bağlantısı yok. Tekrar denemek için alttaki düğmeye dokunun.</string>
+  <string name="bg_install_cancel_confirm">Yüklemeyi durdurmak istediğinizden emin misiniz?</string>
+  <string name="bg_retried">Yazılım indirme işlemi kesintiye uğradı. Denemeye devam ediyoruz…</string>
+  <string name="bg_suspended">Arka planda indirme ve yüklemeyi sürdürmek için veri bağlantısı bekleniyor</string>
+  <string name="bg_suspended_non_adminapn">Arka planda indirme ve yüklemeyi sürdürmek için kablosuz bağlantı veya ücretsiz/sponsorlu ağ bekleniyor</string>
+  <string name="bg_suspended_roaming">Veri dolaşımı ağına geçildiği için arka plan yüklemesi duraklatıldı. Lütfen arka plan yüklemesine devam etmek için kablosuz bağlantıyı açın.</string>
+  <string name="bg_suspended_wifi">Arka planda indirme ve yüklemeyi sürdürmek için kablosuz bağlantı bekleniyor</string>
+  <string name="bootloader_unlock_msg">Cihazınız artık güncelleme almıyor, bu nedenle güvenlik risklerine açık olabilir.</string>
+  <string name="bootloader_unlock_title">Kullanılabilir güncelleme yok</string>
+  <string name="call_notification_answer_action">Yanıtla</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Reddet</string>
+  <string name="call_notification_hang_up_action">Kapat</string>
+  <string name="call_notification_incoming_text">Gelen arama</string>
+  <string name="call_notification_ongoing_text">Devam eden arama</string>
+  <string name="call_notification_screening_text">Gelen arama süzülüyor</string>
+  <string name="cancel">İptal</string>
+  <string name="cancel_download_notification">İptal</string>
+  <string name="cancel_install">İptal</string>
+  <string name="cancel_update_notification">İptal</string>
+  <string name="check_for_updates_title">Güncellemeleri denetle</string>
+  <string name="check_update_badparam">Oturum açılamadığı için yükseltme denemesi bir hatayla karşılaştı.
+
+Lütfen daha sonra tekrar deneyin.</string>
+  <string name="check_update_checking">Güncellemeler kontrol ediliyor...</string>
+  <string name="check_update_disabled_admin">BT yöneticisinin kontrol ettiği cihaz güncellemeleri</string>
+  <string name="check_update_downloading">Şu anda bir güncelleme indiriliyor.
+
+İndirme işlemi tamamlanınca haber verilecek.</string>
+  <string name="check_update_fail">Bilinmeyen bir hata oluştu.
+
+Cihaz güncelleme işlemini arka planda yeniden deneyecek.</string>
+  <string name="check_update_internal">Güncellemeler kontrol edilemiyor. Daha sonra tekrar deneyin.</string>
+  <string name="check_update_net">Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin</string>
+  <string name="check_update_net_vzw">Güncellemeleri kontrol etmek için veri bağlantısı gerekir. Kablosuz bağlantınızı kontrol etmek için Ayarlar &gt; Ağ ve internet &gt; İnternet &gt; Kablosuz bağlantı öğesine gidin.
+
+Diğer güncelleme seçeneklerini görmek için motorola.com/systemupdates adresini ziyaret edebilirsiniz.</string>
+  <string name="check_update_not_sys_user">Konuk profilleri için güncellemeleri kontrol etme işlevine izin verilmez</string>
+  <string name="check_update_processing">Sunucumuzla bağlantı kuruluyor...
+Lütfen bekleyin</string>
+  <string name="check_update_roaming">Sistem Güncellemesi yalnızca ana şebekede mevcuttur. 
+
+Şimdi bağlantı oluşturmak için Ayarlar &gt; Ağ ve internet &gt; Kablosuz bağlantı'ya gidin.</string>
+  <string name="check_update_storage_low">Cihazın yetersiz depolama alanı nedeniyle güncelleme yapılamıyor.</string>
+  <string name="check_update_temperror">Şu anda güncellemeleri indirme işlemi tamamlanamıyor.
+
+Lütfen tekrar deneyin.</string>
+  <string name="check_update_text">Güncellemeleri zaman zaman kontrol etmek, cihazınızın güvende olmasını sağlar ve performansını artırır</string>
+  <string name="check_update_title_downloading">İndirme devam ediyor...</string>
+  <string name="check_update_vab_validation">VAB Doğrulaması güncelleme durumu kontrol ediliyor
+Lütfen bekleyin</string>
+  <string name="check_update_wifi_only">Sistem Güncellemesi yalnızca kablosuz üzerinden mümkün.</string>
+  <string name="check_wifi_settings">Kablosuz bağlantı ayarlarını kontrol edin</string>
+  <string name="clear_space">Alanı temizle</string>
+  <string name="cloud_picker_title">Bulut Seçici</string>
+  <string name="common_android_wear_notification_needs_update_text">Bir uygulama, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor.</string>
+  <string name="common_android_wear_update_text">Android Wear uygulaması güncelleninceye kadar bu uygulama çalışmayacak.</string>
+  <string name="common_android_wear_update_title">Android Wear'ı Güncelle</string>
+  <string name="common_google_play_services_enable_button">Google Play hizmetlerini etkinleştir</string>
+  <string name="common_google_play_services_enable_text">Bu uygulama, Google Play Hizmetleri etkinleştirilmeden çalışmaz</string>
+  <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştir</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">İstekte bulunan: %1$s</string>
+  <string name="common_google_play_services_install_button">Google Play hizmetlerini edin</string>
+  <string name="common_google_play_services_install_text_phone">Google Play Hizmetleri telefonunuzda yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+  <string name="common_google_play_services_install_text_tablet">Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+  <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+  <string name="common_google_play_services_invalid_account_text">Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin.</string>
+  <string name="common_google_play_services_invalid_account_title">Geçersiz Hesap</string>
+  <string name="common_google_play_services_needs_enabling_title">Bir uygulama, Google Play Hizmetleri'nin etkin olmasını gerektiriyor.</string>
+  <string name="common_google_play_services_network_error_text">Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor.</string>
+  <string name="common_google_play_services_network_error_title">Ağ Hatası</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Bir uygulama, Google Play hizmetlerinin yüklenmesini gerektiriyor.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor.</string>
+  <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+  <string name="common_google_play_services_unknown_issue">Google Play hizmetleriyle ilgili bilinmeyen sorun.</string>
+  <string name="common_google_play_services_unsupported_text">Cihazınız, uygulamalarınızdan bazıları için gerekli olan Google Play hizmetlerini desteklemiyor. Lütfen yardım için üreticiyle iletişim kurun.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play hizmetleri</string>
+  <string name="common_google_play_services_update_button">Güncelle</string>
+  <string name="common_google_play_services_update_text">Bu uygulama Google Play Hizmetleri güncellenmeden çalışmaz.</string>
+  <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelle</string>
+  <string name="common_open_on_phone">Telefonda aç</string>
+  <string name="common_signin_button_text">Oturum aç</string>
+  <string name="common_signin_button_text_long">Google'da oturum aç</string>
+  <string name="compatibility_failed_title">Paket doğrulama başarısız</string>
+  <string name="compatibility_verification_failure">İndirilen güncelleme paketi, cihazdaki mevcut yazılım sürümüyle uyumlu değil.</string>
+  <string name="compatibility_verification_failure_df">
+
+Lütfen Dogfood koordinatörünüze danışın.</string>
+  <string name="compatibility_verification_success">Doğrulama başarılı</string>
+  <string name="completed"> Yükleme tamamlandı. Telefonunuzu yeniden başlatmanız istenecek (Adım %1$d/%2$d)</string>
+  <string name="completed_install">%s tamamlandı</string>
+  <string name="connect_to_wifi">Kablosuz ağa bağlan</string>
+  <string name="continue_button">Devam</string>
+  <string name="critical_install_message_popup_os_mr">Önemli bir sistem güncellemesi mevcut. Lütfen güncellemeyi uygulamak için Yükle öğesini seçin. Aksi takdirde güncelleme %1$s tarihinde otomatik olarak uygulanır.</string>
+  <string name="critical_install_message_popup_smr">Önemli bir güvenlik güncellemesi mevcut. Lütfen güncellemeyi uygulamak için Yükle öğesini seçin. Aksi takdirde güncelleme %1$s tarihinde otomatik olarak uygulanır.</string>
+  <string name="critical_install_message_screen">Bu önemli güncelleme %1$s tarihinde otomatik olarak yüklenecek. Cihazınızın yükleme için yeterli pil düzeyine sahip olduğundan emin olun.</string>
+  <string name="critical_install_notification">Bu güncelleme önemli olduğundan güncelleme cihazınıza %1$s tarihinde otomatik olarak yüklenecektir.
+Yükleme süresi: %2$d dakika</string>
+  <string name="critical_restart_message_popup">Bu önemli güncellemeyi uygulamak için lütfen cihazınızı en kısa sürede yeniden başlatın. Aksi takdirde, cihazınız %1$s tarihinde otomatik olarak yeniden başlatılır.</string>
+  <string name="critical_restart_message_screen">Bu güncelleme önemli olduğundan cihazınız %1$s tarihinde otomatik olarak yeniden başlatılacaktır (öncesinde yeniden başlatmadıysanız).</string>
+  <string name="critical_restart_notification">Bu güncelleme önemlidir. Şimdi yeniden başlatamazsanız cihazınız %1$s tarihinde otomatik olarak yeniden başlatılır</string>
+  <string name="critical_update_notification_title">Kritik güncelleme</string>
+  <string name="current_version">Geçerli yazılım sürümü:</string>
+  <string name="custom_slot">Özel</string>
+  <string name="custom_time">Özel süre</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s, saat %s</string>
+  <string name="defer_count_expired">Anladım</string>
+  <string name="deny">Reddet</string>
+  <string name="details">Ayrıntılar</string>
+  <string name="device_corrupted_msg">Bazı sistem hataları tespit ettik. Zahmetli olduğunu biliyoruz ancak bu hataları düzeltmek için yerel servis merkezinizi ziyaret etmeniz gerekecek.
+
+Telefonunuz düzeltildikten sonra telefonunuzda güncelleme yapmaya devam edebiliriz.</string>
+  <string name="device_corrupted_title">Telefon güncellenemiyor</string>
+  <string name="dialog_alert_net_message">Kablosuz bağlantınızı veya mobil veri bağlantınızı kontrol edip tekrar deneyin.</string>
+  <string name="dialog_alert_net_title">Cihazınız çevrimdışı</string>
+  <string name="dialog_alert_title">Pil zayıf</string>
+  <string name="dialog_progress">Yükleniyor…</string>
+  <string name="dl_options_mobile_only_warning">Kablosuz bağlantı kullanılması önerilir. Mobil veri ile indirmek veya dolaşım sırasında mobil veri kullanmak, ek ücret ödemenize neden olabilir.
+
+Bu yazılımı indirmek, cihazınızın çalışmasını etkilemez.</string>
+  <string name="done">Bitti</string>
+  <string name="dont_show_this_again">Bunu bir daha gösterme</string>
+  <string name="download_cancelled_title">İndirme iptal edildi</string>
+  <string name="download_deferred_status">Yazılım indirme işlemi şu tarihte ertelendi</string>
+  <string name="download_failed_status">Güncelleme şu tarihte indirilemedi</string>
+  <string name="download_in_progress_status">Yazılım indirme işlemi devam ediyor</string>
+  <string name="download_later_button">Daha sonra indir</string>
+  <string name="download_no_button">Hayır, teşekkürler</string>
+  <string name="download_note">Güncelleme yüklenirken cihazınızı kullanmaya devam edebilirsiniz</string>
+  <string name="download_now">Şimdi indir</string>
+  <string name="download_now_button">İndir</string>
+  <string name="download_options">İndirme seçenekleri</string>
+  <string name="download_progress_cancel_message">Bu güncellemeyi daha sonra indirmek istiyorsanız Ayarlar &gt; Sistem güncellemeleri'ne gidin</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s kaldı (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% indirildi (Duraklatıldı)</string>
+  <string name="download_progress_text">Bu indirme işlemi, geri giderseniz veya pencereyi kapatırsanız devam eder</string>
+  <string name="download_subtitle">İndirmeden önce bilinmesi gerekenler</string>
+  <string name="download_text_whats_new">Yeniliklere göz atın</string>
+  <string name="download_time_left">%1$s kaldı</string>
+  <string name="download_version">Sürüm %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Bu güncellemeyi indirmek için kablosuz bağlantı gereklidir. Bağlantınız yeniden kurulduktan sonra indirme işlemi devam edecek.</string>
+  <string name="downloaded_percentage">%1$s indirildi</string>
+  <string name="emergency_call_btn_txt">Acil durum</string>
+  <string name="emergency_call_text">Yeniden başlatma sırasında acil durum çağrıları dahil olmak üzere çağrı yapamaz veya alamazsınız!</string>
+  <string name="enable_wifi_error_txt">Bu güncellemeyi indirmek için kablosuz ağa bağlanın.</string>
+  <string name="eol_explore">Yeni cihazları keşfedin</string>
+  <string name="eol_last_update_text">Güvenlik yaması:</string>
+  <string name="eol_promote">En yeni promosyonları görün</string>
+  <string name="eol_title">Cihazınız geçerli en yeni yazılıma sahip.</string>
+  <string name="err_title_contact_server">Sunucuyla bağlantı kuruluyor…</string>
+  <string name="err_title_memory_low">Düşük bellek...</string>
+  <string name="err_title_temp_error">Geçici Hata</string>
+  <string name="err_title_update">Güncelleme hatası</string>
+  <string name="error_code">Hata Kodu: </string>
+  <string name="error_copyfail">SD Kart konumundan kopyalama yapılamadı.</string>
+  <string name="error_disabled">Güncelleme indirilemedi. Güncelleme paketi şu anda kullanılamıyor. 
+
+Başka eyleme gerek yok.</string>
+  <string name="error_fail">Maalesef %1$s telefonunuz güncellenirken bir hata oluştu. Hiçbir değişiklik yapılmadı. Ayarlar &gt; Sistem güncelleme konumuna giderek lütfen tekrar deneyin.</string>
+  <string name="error_in_call_msg">Çağrı sürdüğü için cihaz şimdi güncelleyemiyor</string>
+  <string name="error_in_call_title">Çağrı sürüyor</string>
+  <string name="error_install_title">Kurulum başarısız</string>
+  <string name="error_mismatch">Sürüm uyuşmazlığı sorunu oluştu. Yeniden güncelleme yapılacak. Güncelleme varsa size bildirilecek.</string>
+  <string name="error_mismatch_sd">Güncellenemedi. Güncelleme sürümü telefonunuzla eşleşmiyor. 
+
+Lütfen telefonunuzun doğru sürümünü indirin ve tekrar deneyin.</string>
+  <string name="error_network">Bağlantı kesildi. Lütfen güncellemeleri Telefon ayarları üzerinden manuel olarak kontrol ederek tekrar deneyin.</string>
+  <string name="error_reboot">Bu güncellemeyi indiremedik. Bu güncellemeyi daha sonra almak istiyorsanız lütfen cihazınızı yeniden başlatın ve Ayarlar &gt; Sistem güncellemeleri'ne gidin.</string>
+  <string name="error_resources">Bu güncellemeyi indiremedik. Bu güncellemeyi daha sonra almak istiyorsanız Ayarlar &gt; Sistem güncellemeleri'ne gidin.</string>
+  <string name="error_sdcard_resources_fail_removal">SD Kart çıkarıldı. İndirme işlemi tamamlanmadı. 
+
+Lütfen SD Kartı tekrar takın ve tekrar denemek için Ayarlar &gt; Sistem güncellemeleri bölümüne gidin.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">İndirme tamamlanamadı. SD Kartta yeterli alan yok. 
+
+Tekrar denemek için biraz yer açın ve Ayarlar &gt; Sistem güncellemeleri bölümüne gidin.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Lütfen indirmeyi başlatmak için SD Kartı takın.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Lütfen indirmeyi başlatmak için SD Kartı takın. 
+
+Ayarlar &gt; Depolama &gt; SD kartı tak'a gidin.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">SD Kartta indirme işlemini tamamlamak için yeterli alan yok. 
+
+Lütfen %1$s kadar yer açın ve indirmeyi tekrar denemek için Ayarlar &gt; Sistem güncellemeleri'ne gidin.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Hata</string>
+  <string name="error_sdcard_resources_warning">Yazılım güncellemesi SD Karta indiriliyor. 
+
+Lütfen SD Kartı yükleme tamamlanana kadar çıkarmayın.
+
+
+</string>
+  <string name="error_server">Sunucuda bir hata oluştu. Lütfen daha sonra tekrar deneyin. Lütfen daha sonra tekrar deneyin.</string>
+  <string name="error_space">Bu güncelleme cihazınızda %1$s kullanılabilir depolama alanı gerektirir. 
+
+Lütfen kullanmadığınız uygulamaları silerek veya fotoğraflarınızı ve videolarınızı başka bir depolama cihazına taşıyarak %2$s yer açın. 
+
+İşlem tamamlandığında Ayarlar &gt; Sistem güncellemeleri'ne giderek güncellemeyi istediğiniz zaman başlatabilirsiniz.</string>
+  <string name="error_space_retry">Bu güncelleme cihazınızda %1$s kullanılabilir depolama alanı gerektirir. 
+
+Lütfen kullanmadığınız uygulamaları silerek veya fotoğraflarınızı ve videolarınızı başka bir depolama cihazına taşıyarak %2$s yer açın.</string>
+  <string name="error_space_vab">Bu güncelleme, cihazınızda %1$s boş alan gerektirir. Güncelleme işlemlerinin başarılı şekilde gerçekleştirilmesi için lütfen bellekte yer açın</string>
+  <string name="error_space_vab_make_room_popup">Güncelleme işleminden önce %1$s boyutunda alan temizlemeniz gerekiyor. Kullanmadığınız uygulamaları silmeyi veya fotoğraf ve videoları başka bir depolama cihazına taşımayı deneyin.</string>
+  <string name="error_title">İndirme başarısız oldu</string>
+  <string name="error_verify">Güncelleme düzgün olarak doğrulanamadı. Lütfen tekrar deneyin.</string>
+  <string name="failed">Başarısız</string>
+  <string name="failed_in_roaming">Güncellemeler için kablosuz bağlantı gerekli</string>
+  <string name="failure_process">Bilgi bulunamadı</string>
+  <string name="finalizing_patch">Güncelleme sonlandırılıyor… (Adım 5/6)  </string>
+  <string name="first_net_text">Lütfen güncellemeyi yükleyin. Aksi takdirde, cihaz bir sonraki yeniden başlatmada güncellemeyi otomatik olarak yükler. Pil düzeyinin %s değerinden yüksek olduğundan emin olun</string>
+  <string name="forceInstallMessage">Bu güncelleme %1$s tarihinde otomatik olarak yüklenecek.</string>
+  <string name="force_install_message_screen">Bu güncelleme önemli olduğundan lütfen %1$s tarihine kadar yükleyin. Aksi takdirde güncelleme, telefonunuzun en az kullanıldığı bir zamanda otomatik olarak yüklenecektir. Yükleme işlemi için telefonunuzun pil düzeyinin yeterli olduğundan emin olun.</string>
+  <string name="force_install_notification_message">Lütfen %1$s tarihine kadar yükleyin. Aksi takdirde güncelleme, telefonunuzun en az kullanıldığı bir zamanda otomatik olarak yüklenecektir.
+Yükleme süresi: %2$d dakika</string>
+  <string name="force_restart_notification_message">Lütfen %1$s tarihine kadar yeniden başlatın. Aksi takdirde telefonunuz en az kullanıldığı bir zamanda otomatik olarak yeniden başlatılacaktır.</string>
+  <string name="force_restart_screen_message">%1$s tarihine kadar yeniden başlatmazsanız cihazınız en az kullanıldığı bir zamanda otomatik olarak yeniden başlatılacaktır.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Anladım</string>
+  <string name="important_update_install_overdue_message">Yükleme için planlanan süre geçti. Cihazınız kriterleri karşıladığında yükleme işlemi başlayacak.</string>
+  <string name="important_update_restart_overdue_message">Yeniden başlatma için planlanan süre geçti. Cihaz, kriterleri karşıladığında yeniden başlatılacak.</string>
+  <string name="initiating_ota_service_msg">Lütfen bekleyin...</string>
+  <string name="initiating_ota_service_title">Yazılım güncelleme işlemi başlatılıyor</string>
+  <string name="install">Yükle</string>
+  <string name="install_after_one_hour">1 saat içinde yüklenecek</string>
+  <string name="install_cancelled_title">Yükleme işlemi iptal edildi</string>
+  <string name="install_deferred_status">Güncelleme şu tarihte ertelendi</string>
+  <string name="install_later">Sonra yükle</string>
+  <string name="install_notify_sanity_call_msg">Çağrı devam ettiği için cihaz, yükleme işlemini şimdi gerçekleştiremiyor</string>
+  <string name="install_notify_sanity_maps_msg">Navigasyon açık olduğu için cihaz, yükleme işlemini şimdi gerçekleştiremiyor</string>
+  <string name="install_now">Şimdi yükle</string>
+  <string name="install_postponed">Yükleme ertelendi</string>
+  <string name="install_progress_cancel_message">Bu güncellemeyi daha sonra yüklemek istiyorsanız Ayarlar &gt; Sistem güncellemeleri'ne gidin</string>
+  <string name="install_progress_paused_message">%s tamamlandı (Duraklatıldı)</string>
+  <string name="install_time">Yükleme süresi: %1$d dakika</string>
+  <string name="install_warning">Yüklemeden önce bilinmesi gerekenler</string>
+  <string name="just_one_more_step">Son bir adım kaldı</string>
+  <string name="keep_it_on">Açık kalsın</string>
+  <string name="later_button">Daha sonra hatırlat</string>
+  <string name="learn_more_online_link">Çevrimiçi olarak daha fazla bilgi edinin</string>
+  <string name="low_battery_bg_install">Düşük pil nedeniyle yükleme duraklatıldı. Yükleme işlemi, piliniz %20'nin üzerinde olduğunda devam edecek.</string>
+  <string name="low_battery_download">Düşük pil nedeniyle indirme duraklatıldı. Cihazınız şarj olduğunda indirme işlemi devam edecek.</string>
+  <string name="low_battery_install">Bu güncellemeyi yüklemeden önce lütfen cihazınızı en az %s oranında şarj edin</string>
+  <string name="make_space">Alan aç</string>
+  <string name="mandatory_install_notification">Bu sistem güncellemesini kısa süre içinde yüklemezseniz yeni özelliklerin ve hata düzeltmelerinin yanı sıra önemli güvenlik güncellemelerini de kaçırmış olursunuz.</string>
+  <string name="mandatory_restart_notification">Bu önemli bir güncelleme olduğundan lütfen şimdi yeniden başlatın. Aksi takdirde yeni özelliklerin ve hata düzeltmelerinin yanı sıra önemli güvenlik güncellemelerini de kaçırmış olursunuz.</string>
+  <string name="medium_channel_name">Yazılım İndirme Bilgilendiricisi</string>
+  <string name="merge_emergency_call_text">Yeniden başlatma sırasında acil durum çağrıları dahil olmak üzere çağrı yapamaz veya alamazsınız.</string>
+  <string name="merge_force_restart_text">Şu anda yeniden başlatmak istemiyorsanız telefonunuz etkin değilken otomatik olarak yeniden başlatılır.</string>
+  <string name="merge_progress_text">Güncelleme tamamlandığında size bildirim göndereceğiz</string>
+  <string name="merge_progress_title">Güncelleme tamamlanıyor…</string>
+  <string name="merge_restart_text">Telefonunuz yeniden başlatıldıktan sonra güncelleme tamamlanır</string>
+  <string name="merge_restart_title">Lütfen yeniden başlatın</string>
+  <string name="merge_update_fail_notify_text">Bazı sistem hatalarıyla karşılaştık. Lütfen bunları düzeltmek için servis merkezinizi ziyaret edin</string>
+  <string name="merge_update_fail_notify_title">Güncelleme başarısız oldu</string>
+  <string name="merge_update_fail_text">Güncelleme almanızı engelleyecek bazı sistem sorunları tespit ettik. Lütfen bunu düzeltmek için servis merkezinizi ziyaret edin.
+
+Bu süreçte telefonunuzu normal şekilde kullanmaya devam edebilirsiniz.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Bir hesap seçin</string>
+  <string name="multiple_account_alert">Sistem güncellemesine devam etmek için %1$s hesabını seçin.</string>
+  <string name="no_thanks">Hayır, teşekkürler</string>
+  <string name="no_thanks_message">Bu güncellemeyi daha sonra almak istiyorsanız Ayarlar &gt; Sistem güncellemeleri'ne gidin.</string>
+  <string name="no_updates_applied">Hiçbir güncelleme uygulanmadı</string>
+  <string name="not_now">Şimdi değil</string>
+  <string name="ok">TAMAM</string>
+  <string name="otaservice_perm_desc">Uygulamaların otaservice ile etkileşime geçmeleri için gereken izin</string>
+  <string name="package_size">İndirme boyutu: %1$s</string>
+  <string name="personalInfo_instruction">Kişisel bilgilerinizi kaybetmezsiniz</string>
+  <string name="picker_cell_radio">Kablosuz bağlantı ve mobil veri</string>
+  <string name="picker_title">Bu güncellemeyi nasıl indirmek istediğinizi seçin:</string>
+  <string name="picker_wifi_only_radio">Yalnızca kablosuz</string>
+  <string name="please_restart">Lütfen şimdi yeniden başlatın</string>
+  <string name="policy_set">Sistem güncellemesi engellendi. Daha fazla bilgi için lütfen cihaz yöneticinizle iletişime geçin.</string>
+  <string name="press_back_again_to_exit">Çıkmak için GERİ düğmesine yeniden basın</string>
+  <string name="progress_copying_sd">Güncelleme kopyalanıyor</string>
+  <string name="progress_deffered">İndirme Kablosuz/Hücresel Şebekede başlayacak</string>
+  <string name="progress_downloading_ota">Sistem güncellemesi indiriliyor</string>
+  <string name="progress_downloading_security">Güvenlik güncellemesi indrlyr</string>
+  <string name="progress_retried">Yazılım indirme işlemi kesintiye uğradı. Denemeye devam ediyoruz…</string>
+  <string name="progress_suspended">İndirmeye devam etmek için veri bağlantısı bekleniyor</string>
+  <string name="progress_suspended_datasaver">İndirmeyi sürdürmek için veri tasarrufunu kapatın</string>
+  <string name="progress_suspended_no_adminapn">İndirmeyi sürdürmek için kablosuz bağlantı veya ücretsiz/sponsorlu ağ için bekleniyor</string>
+  <string name="progress_suspended_roaming">Veri dolaşımı ağına geçildiği için indirme işlemi duraklatıldı. Lütfen indirmeye devam etmek için kablosuz bağlantıyı açın.</string>
+  <string name="progress_suspended_wifi">İndirmeye devam etmek için kablosuz bağlantı kurulması bekleniyor...</string>
+  <string name="progress_verify">Cihazınızın güncellemeye hazır olduğu doğrulanıyor…</string>
+  <string name="progress_verify_allocate_space">Belleğin yeterli olup olmadığı kontrol ediliyor</string>
+  <string name="relative_date_time">%1$s, %2$s</string>
+  <string name="release_note_battery_desc">Pil ömrünü ve kullanımını iyileştiren güncellemeler</string>
+  <string name="release_note_battery_title">Pil</string>
+  <string name="release_note_camera_desc">Bu iyileştirmeler daha net ve ayrıntılı fotoğraflar çekmenizi sağlar</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Değişiklikler cihazın veri bağlantısını iyileştirmeye yardımcı olur</string>
+  <string name="release_note_cellular_title">Hücresel</string>
+  <string name="release_note_charging_desc">Bu güncelleme şarj etme kapasitenizi artırır</string>
+  <string name="release_note_charging_title">Şarj etme</string>
+  <string name="release_note_generic_desc">Değişiklikler cihazınızın genel performansını iyileştirmeye yardımcı olur</string>
+  <string name="release_note_os_update_desc">Yeni tek renkli temalar telefonunuza şık bir görünüm katar ve duvar kağıdınızın dikkat çekmesini sağlar. Uygulama izinleri vermeden önce uygulamaların verilerinizi nasıl kullandığını ve paylaştığını inceleyin ve Android 14'ün yeni duyma ve görme özellikleriyle telefonunuzu daha erişilebilir hale getirin.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Değişiklikler cihazınızın performansını iyileştirmeye yardımcı olur</string>
+  <string name="release_note_performance_title">Performans</string>
+  <string name="release_note_security_desc">%1$s tarihine kadar güvenlik yamaları içerir</string>
+  <string name="release_note_security_title">Güvenlik güncellemesi</string>
+  <string name="release_note_stability_desc">Telefonunuzu daha da güvenilir kılacak iyileştirmeleri ve hata düzeltmelerini içerir</string>
+  <string name="release_note_stability_title">Kararlılık</string>
+  <string name="release_note_title">Bu güncelleme şunları içerir:</string>
+  <string name="release_note_wifi_desc">Kablosuz bağlantınıza yönelik güncellemeleri içerir</string>
+  <string name="release_note_wifi_title">Kablosuz bağlantı</string>
+  <string name="release_notes_string">Android %1$s sürümündeki tüm yeni özelliklere göz atın </string>
+  <string name="request_suspended_datasaver">İndirme işlemini başlatmak için veri tasarrufunu kapatın</string>
+  <string name="request_suspended_no_network">İndirmeyi başlatmak için ağ bağlantısı yok</string>
+  <string name="restart_after_one_hour">1 saat içinde yeniden başlatılacak</string>
+  <string name="restart_instruction_title">Yeniden başlamadan önce bilinmesi gerekenler</string>
+  <string name="restart_later">Sonra</string>
+  <string name="restart_message">Güncellemek için lütfen şimdi yeniden başlatın</string>
+  <string name="restart_notification">Yeniden başlat</string>
+  <string name="restart_notification_text">Güncellemek için lütfen şimdi yeniden başlatın. Güncelleme, %1$d gündür beklemede.</string>
+  <string name="restart_notify_sanity_call_msg">Çağrı devam ettiği için cihaz şimdi yeniden başlatılamıyor</string>
+  <string name="restart_notify_sanity_maps_msg">Navigasyon açık olduğu için cihaz şimdi yeniden başlatılamıyor</string>
+  <string name="restart_now">Şimdi yeniden başlat</string>
+  <string name="restart_postponed">Yeniden başlatma ertelendi</string>
+  <string name="restart_title">Cihazınızı yeniden başlatın</string>
+  <string name="resume_download_on_cellular">Mobil veriyi kullan</string>
+  <string name="retrieving_token">Kimlik doğrulanıyor...</string>
+  <string name="sdcard_predownload_text">
+Bu adımda güncellemeyi sistem belleğine kopyalayacaksınız. Güncelleme bir sonraki adımda yüklenecek. 
+
+Pilinizin bitmemesi için telefonunuzu bir güç kaynağına bağlayın.</string>
+  <string name="search_menu_title">Ara</string>
+  <string name="secure_instruction">Bu işlem güvenlidir</string>
+  <string name="security_download_notification_title">Güvenliğinizi artırın</string>
+  <string name="security_install_notification_text">Yeni bir güvenlik güncellemesi yüklenmeye hazır</string>
+  <string name="security_install_title">Bir güvenlik güncellemesi hazır</string>
+  <string name="security_patch">Güvenlik yaması:</string>
+  <string name="security_update_low_storage_title">Güvenlik güncellemesi</string>
+  <string name="security_update_notification_text">En son güvenlik güncellemesini edinin</string>
+  <string name="security_update_paused">Güvnlk gncllmsi drkltldı</string>
+  <string name="security_update_pending_notification_text">En son güvenlik güncellemesini edinin. Güncelleme, %1$d gündür beklemede.</string>
+  <string name="security_update_title">Güvenlik güncellemesi</string>
+  <string name="select_account">Bir %1$s hesabı seçin</string>
+  <string name="selected_later_time_os_mr">Sistem güncellemesinin yükleneceği tarih </string>
+  <string name="selected_later_time_smr">Güvenlik güncellemesinin yükleneceği saat:</string>
+  <string name="setting_sw_summary">En yeni yazılıma güncelle </string>
+  <string name="setting_sw_title">Sistem güncellemeleri</string>
+  <string name="smart_cancel_update_toast_msg">Yeni güncelleme zamanı: %1$s</string>
+  <string name="smart_end_time">Bitiş</string>
+  <string name="smart_install_message_popup">Akıllı Güncelleme özelliğini etkinleştirdiğiniz için, güncellemeyi %1$s tarihine kadar yüklemediyseniz cihazınız bu tarihte otomatik olarak yükleyecektir. Cihazınızın yükleme için yeterli pil düzeyine sahip olduğundan emin olun.</string>
+  <string name="smart_restart_message_popup">Akıllı Güncelleme özelliğini etkinleştirdiğiniz için, öncesinde yeniden başlatmadıysanız %1$s tarihinde cihazınız otomatik olarak yeniden başlatılacaktır.</string>
+  <string name="smart_settings_string">Güncellemeler, kablosuz bağlantı kullanılırken otomatik olarak indirilir ve yüklenir</string>
+  <string name="smart_settings_string_Softbank">Güncellemeler, kablosuz bağlantı kullanılırken veya mobil veriye bağlıyken otomatik olarak indirilir ve yüklenir</string>
+  <string name="smart_settings_string_vzw">Güncellemeler, otomatik olarak indirilir ve yüklenir</string>
+  <string name="smart_start_time">Başlangıç</string>
+  <string name="smart_to_string">-</string>
+  <string name="smart_update_advanced">Gelişmiş</string>
+  <string name="smart_update_note">Bu özellik ister açık ister kapalı olsun, güvenliğiniz için tüm önemli güvenlik güncellemeleri otomatik olarak indirilir</string>
+  <string name="smart_update_note_vzw">Bu özellik ister açık ister kapalı olsun, güvenliğiniz için tüm önemli güncellemeler otomatik olarak indirilir ve yüklenir.</string>
+  <string name="smart_update_pop_up_text">Otomatik güncellemelerle cihazınızı güvende tutun</string>
+  <string name="smart_update_recommendation">Akıllı güncellemeleri deneyin</string>
+  <string name="smart_update_suggestion_text">Otomatik güncellemelerle güvende kalın</string>
+  <string name="smart_update_text_AB">Tüm yeni güvenlik güncellemelerini ve hata düzeltmelerini otomatik olarak yükleyerek cihazınızın güvenli ve verimli bir şekilde çalışmasına yardımcı olun.</string>
+  <string name="smart_update_text_AB_vzw">Akıllı güncellemeler, cihazınızın güvenli ve verimli bir şekilde çalışmasını sağlamaya yardımcı olur. Bunları açtığınızda, tüm <b>güvenlik güncellemeleri</b> otomatik olarak indirilir. İndirme işleminden sonra cihazınız, istediğiniz bir zamanda yeniden başlatılır.</string>
+  <string name="smart_update_text_classic">Akıllı güncellemeler, cihazınızın güvenli ve verimli bir şekilde çalışmasını sağlamaya yardımcı olur. Bunları açtığınızda, tüm yeni <b>güvenlik güncellemeleri ve hata düzeltmeleri</b> otomatik olarak indirilir. İndirme işleminden sonra cihazınız istediğiniz bir zamanda yeniden başlatılır ve yükleme gerçekleştirilir.</string>
+  <string name="smart_update_text_classic_vzw">Akıllı güncellemeler, cihazınızın güvenli ve verimli bir şekilde çalışmasını sağlamaya yardımcı olur. Bunları açtığınızda, tüm yeni <b>güvenlik güncellemeleri</b> otomatik olarak indirilir. İndirme işleminden sonra cihazınız istediğiniz bir zamanda yeniden başlatılır ve yükleme gerçekleştirilir.</string>
+  <string name="smart_update_time_slot_text_AB">Bir başlangıç zamanı seçin</string>
+  <string name="smart_update_time_slot_text_classic">Yükleme zamanı seçin</string>
+  <string name="smart_update_title">Akıllı güncellemeler</string>
+  <string name="software_not_update_to">Yazılımınız henüz şu sürüme güncellenmedi:</string>
+  <string name="software_update_in_progress">Sisteminiz şu sürüme güncelleniyor:</string>
+  <string name="software_update_planned_summary">Kontrol edilme tarihi: %1$s</string>
+  <string name="software_update_planned_title">Yazılım güncellemesi planlandı</string>
+  <string name="software_update_to">Sisteminiz şu sürüme güncellendi:</string>
+  <string name="sofware_version">Yazılım Sürümü:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Güncelleme için yer açın</string>
+  <string name="su_btn">Ayarlar</string>
+  <string name="su_text_off">Yeni yazılım mevcut olduğunda cihazınızı manuel olarak güncellemeniz gerekir. Süreci otomatik hale getirmek için Akıllı güncellemeler işlevini açın. Daha fazla ayrıntı için dokunun.</string>
+  <string name="su_text_on">Varsayılan olarak Akıllı güncellemeler, 01.00 - 03.00 saatleri arasında çalışır. Güncelleme zamanlarını değiştirebilir veya ayarlar bölümünden Akıllı güncellemeler işlevini kapatabilirsiniz. Daha fazla ayrıntı için dokunun.</string>
+  <string name="su_title_off">Akıllı güncellemeler kapalı</string>
+  <string name="su_title_on">Akıllı güncellemeler açık</string>
+  <string name="system_download_notification_title">Sistem güncellemesi</string>
+  <string name="system_install_notification_text">Bir sistem yazılım güncellemesi yüklenmeye hazır</string>
+  <string name="system_install_title">Bir güncelleme hazır</string>
+  <string name="system_pdl_notification_mr_title">Hata düzeltmeleri ve daha fazlasını edinin</string>
+  <string name="system_pdl_notification_os_title">Android %1$s burada!</string>
+  <string name="system_update">Sistem güncellemesi</string>
+  <string name="system_update_desc">Cihazınızı güvenlik tehditlerine karşı koruyun ve en yeni Motorola ve Android özelliklerini edinin</string>
+  <string name="system_update_info_not_available">Yok</string>
+  <string name="system_update_low_storage_text">Belleği kontrol etmek ve devam etmek için buraya dokunun.</string>
+  <string name="system_update_low_storage_title">Sistem güncellemesi</string>
+  <string name="system_update_notification_os_text">Yeni Android deneyimini yaşayın</string>
+  <string name="system_update_notification_text">Yeni yazılımı indirin</string>
+  <string name="system_update_paused">Sistem güncellemesi duraklatıldı</string>
+  <string name="system_update_pending_notification_os_text">Yeni Android deneyimini yaşayın. Güncelleme, %1$d gündür beklemede.</string>
+  <string name="system_update_pending_notification_text">Yeni yazılımı indirin. Güncelleme, %1$d gündür beklemede.</string>
+  <string name="system_update_settings_list_item_title">Sistem güncellemeleri</string>
+  <string name="system_update_status">Güncelleme durumu</string>
+  <string name="system_update_title">Sistem güncellemesi</string>
+  <string name="tethered_permission_desc">3c güncelleme sonuçlarını gönder</string>
+  <string name="tethered_update_result">Bağlantı Paylaşımı Etkin Güncelleme Sonucu</string>
+  <string name="time_picker_text">Kurulum işlemini hatırlatma olmadan başlat</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Tekrar deneyin</string>
+  <string name="turn_it_off">Bu özelliği kapat</string>
+  <string name="turn_it_on">Açın</string>
+  <string name="turn_on_smart_updates">Akıllı güncellemeleri aç</string>
+  <string name="update">Güncelle</string>
+  <string name="update_blocked_by_policy">Güncelleme, yönetici politikası tarafından engellendi </string>
+  <string name="update_cancelled_status">Yazılım indirme işlemi şu tarihte iptal edildi:</string>
+  <string name="update_fail_desc">Bir hata oluştu</string>
+  <string name="update_fail_status">Güncelleme başarısız oldu</string>
+  <string name="update_fail_sucancel_dm_status">Güncelleme sunucu tarafından iptal edildi</string>
+  <string name="update_fail_title">Güncelleme başarısız oldu</string>
+  <string name="update_history_blank">Henüz geçmiş yok</string>
+  <string name="update_history_src_target">%1$s sürümünden %2$s sürümüne güncelleme</string>
+  <string name="update_history_time">%1$s tarihinde güncellendi</string>
+  <string name="update_history_title">Güncelleme geçmişi</string>
+  <string name="update_history_version">Yazılım Sürümü %1$s</string>
+  <string name="update_info">Güncelleniyor…</string>
+  <string name="update_postpone_policy">Güncelleme, yönetici politikası tarafından ertelendi </string>
+  <string name="update_preference">Güncelleme tercihleri</string>
+  <string name="update_success_desc">Geçerli yazılım sürümü: %1$s</string>
+  <string name="update_success_desc_os">Tebrikler! Android %1$s sürümünü başarıyla yüklediniz. Artık daha iyi, daha akıllı ve daha güvenli bir Android deneyiminin keyfini çıkarmaya hazırsınız.</string>
+  <string name="update_success_status">Güncelleme Başarılı</string>
+  <string name="update_title">Güncelleme tamamlandı</string>
+  <string name="update_title_text">Yeni yazılımınızın keyfini çıkarın!</string>
+  <string name="upto_date_title">Her şey yolunda!</string>
+  <string name="urgent_channel_name">Yazılım Güncelleme Uyarısı</string>
+  <string name="use_smart_updates">Akıllı Güncellemeleri kullan</string>
+  <string name="vab_validation_update_failure_desc">VAB doğrulaması güncellemesi başarısız oldu</string>
+  <string name="vab_validation_update_failure_title">VAB doğrulaması başarısız</string>
+  <string name="vab_validation_update_success_desc">Tebrikler! VAB doğrulaması güncellemesi başarılı oldu</string>
+  <string name="vab_validation_update_success_title">VAB doğrulaması başarılı</string>
+  <string name="verifying_patch">Güncelleme uygulandı. Uygulamanın başarılı olduğu onaylanıyor… (Adım 4/6)  </string>
+  <string name="verity_disabled_msg">Cihazınız güvenlik risklerine açık olabilir. Güncellemeleri sürekli olarak almak için aşağıdaki komutu kullanın
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Cihazınız artık güncellemeleri almıyor</string>
+  <string name="verizon_failure_notification_text"> Cihazınız bu güncellemeyi yükleyemedi Yüklemek için Yazılım Yükseltme Yardımcı aracını kullanın. Lütfen daha fazla bilgi için dokunun.</string>
+  <string name="verizon_failure_text">Cihazınız güncellenirken bir hata oluştu. Hiçbir değişiklik yapılmadı. Yazılımınızı güncellemek için Yazılım Yükseltme Yardımcı aracını kullanabilirsiniz.
+
+Yazılım Yükseltme Yardımcı aracını yüklemek için:
+
+1. Cihazınızı bilgisayarınıza bağlamak için bir USB kablosu kullanın
+2. Cihazınızda USB menüsü açıldığında sağ üstteki ayarlar simgesini seçin
+3. USB Tercihleri kısmından Yazılım yüklemeyi seçin
+4. Bilgisayarınıza geçin ve yükleme sihirbazını arayın
+5. Sihirbazın talimatlarını takip edin
+
+Yazılım Yükseltme Yardımcı aracı, cihazınıza yazılım güncellemeleri indirip yüklemenize yardımcı olacak.</string>
+  <string name="vital_applying_updates">Güncellemeler uygulanıyor...</string>
+  <string name="vital_bg_text">Bu işlem birkaç dakika sürebilir.</string>
+  <string name="vital_check_for_updates">Güncellemeler aranıyor…</string>
+  <string name="vital_check_for_updates_desc">Güncellemeler cihazınızın güvenliğini sağlar ve performansını iyileştirir.</string>
+  <string name="vital_done">Bitti!</string>
+  <string name="vital_error_fail">Bir güncelleme hatası oluştu. Değişiklik yapılmadı.</string>
+  <string name="vital_go_back">Yüklemeyi durdurmak istediğinizden emin misiniz?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Devam etmek için yeniden başlatın</string>
+  <string name="vital_skip">Atla</string>
+  <string name="vital_stop">Durdur</string>
+  <string name="wifi_setting">Kablosuz Bağlantı Ayarları</string>
+</resources>

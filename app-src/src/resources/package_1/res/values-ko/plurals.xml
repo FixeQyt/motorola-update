@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">업데이트를 완료하기 위해 %1$d초 후에 기기가 다시 시작됩니다.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">%1$d초 후 다시 시작됩니다</item>
+  </plurals>
+</resources>

@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">नंतर अद्ययावत करा</string>
+  <string name="ab_download_now">आता अद्ययावत करा</string>
+  <string name="ab_install_notification_paused_text">पार्श्वभूमी इन्स्टॉलेशन थांबवले आहे</string>
+  <string name="ab_install_notification_text">पार्श्वभूमी इन्स्टॉलेशन</string>
+  <string name="ab_restart_fullscreen_text">आपण जवळजवळ तिथपर्यंत पोहोचला आहात! हे आपल्या उपकणाचा पुनरारंभ करण्यास सुमारे 90 सेकंद घेईल. अद्ययावत %1$d दिवसांपासून उपलब्ध आहे.</string>
+  <string name="ab_restart_text">आपण जवळजवळ तिथपर्यंत पोहोचला आहात! हे आपल्या उपकणाचा पुनरारंभ करण्यास सुमारे 90 सेकंद घेईल</string>
+  <string name="ab_restart_warning_os_mr">आपले सिस्टम अद्ययावत जवळपास झाले आहे.आपले उपकरण  </string>
+  <string name="ab_restart_warning_smr">आपले सुरक्षा अद्ययावत जवळपास झाले आहे.आपले उपकरण  </string>
+  <string name="ab_warning_continues"> अद्ययावत पूर्ण करण्यासाठी.</string>
+  <string name="abc_action_bar_home_description">घराकडे नेव्हिगेट करा</string>
+  <string name="abc_action_bar_up_description">वर नेव्‍हिगेट करा</string>
+  <string name="abc_action_menu_overflow_description">आणखी पर्याय</string>
+  <string name="abc_action_mode_done">पूर्ण झाले</string>
+  <string name="abc_activity_chooser_view_see_all">सर्व पाहा</string>
+  <string name="abc_activitychooserview_choose_application">अ‍ॅप निवडा</string>
+  <string name="abc_capital_off">बंद</string>
+  <string name="abc_capital_on">सुरू</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">हटवा</string>
+  <string name="abc_menu_enter_shortcut_label">एंटर करा</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">मेनू+</string>
+  <string name="abc_search_hint">शोधा…</string>
+  <string name="abc_searchview_description_clear">क्‍वेरी साफ करा</string>
+  <string name="abc_searchview_description_query">शोध क्वेरी</string>
+  <string name="abc_searchview_description_search">शोध</string>
+  <string name="abc_searchview_description_submit">क्वेरी सबमिट करा</string>
+  <string name="abc_searchview_description_voice">व्हॉइस शोध</string>
+  <string name="abc_shareactionprovider_share_with">यांच्यासोबत शेअर करा</string>
+  <string name="abc_shareactionprovider_share_with_application">%s सह शेअर करा</string>
+  <string name="abc_toolbar_collapse_description">कोलॅप्स करा</string>
+  <string name="abupdate_in_progress_status">सॉफ्टवेअर अपडेट प्रगतीपथावर आहे</string>
+  <string name="additional_charges_message">मोबाइल डेटावर डाउनलोड करणे सुरू राहील. डेटा शुल्क लागू होऊ शकते.</string>
+  <string name="alertSubText">हे अद्ययावत पॅकेज तपासण्यासाठी, डाउनलोड करण्यासाठी आणि इन्स्टॉल करण्यासाठी वापरले जाते</string>
+  <string name="alertText">सॉफ्टवेअर अद्ययावतांसाठी नेटवर्क ऑपरेशनला अनुमती द्या</string>
+  <string name="alertTitle">अद्ययावतासाठी खालील परवानगी आवश्यक आहे</string>
+  <string name="alert_dialog_cancel">इन्स्टॉलेशन थांबवा</string>
+  <string name="alert_dialog_continue">इन्स्टॉल करत रहा</string>
+  <string name="alert_dialog_no">नाही</string>
+  <string name="alert_dialog_ok">समजले</string>
+  <string name="alert_dialog_yes">होय</string>
+  <string name="allocate_space_success">अद्ययावतासाठी आवश्यक मेमरी उपलब्ध आहे</string>
+  <string name="allow">अनुमती द्या</string>
+  <string name="android_latest_sw_text">आपण नवीनतम सॉफ्टवेअर वापरत आहात</string>
+  <string name="android_version">Android आवृत्ती:</string>
+  <string name="app_name">Motorola सॉफ्टवेअर अद्ययावत</string>
+  <string name="applied">सुरू</string>
+  <string name="apply_bug_fix">दोष निराकरणांसाठी लागू करा</string>
+  <string name="apply_os_update">सर्व सॉफ्टवेअर अद्ययावतांवर लागू करा</string>
+  <string name="applying_patch">अपडेट लागू करत आहे (चरण %2$d पैकी %1$d)  </string>
+  <string name="are_you_sure">स्मार्ट अद्ययावते बंद करायची?</string>
+  <string name="are_you_sure_pop_up_text">आपली खात्री आहे की आपण स्मार्ट अद्ययावते बंद करू इच्छिता? </string>
+  <string name="asc_campaign_assigned">मोहीम नियुक्त केली</string>
+  <string name="asc_campaign_is_allowed">फर्मवेअर अपडेट</string>
+  <string name="asc_campaign_is_blocked">फर्मवेअर लॉक</string>
+  <string name="asc_campaign_not_assigned">उपकरण सध्या मोहिमेत नाही</string>
+  <string name="asc_campaign_status_prefix">
+स्थिती: </string>
+  <string name="asc_campaign_window_period_status">
+अद्ययावत विंडो: %s पासून %s पर्यंत</string>
+  <string name="asc_sw_up_to_date"> नवीनत्तम आवृत्तीमध्ये</string>
+  <string name="asc_target_version"> आवृत्तीमध्ये </string>
+  <string name="auth_title">सिस्टम अद्ययावत करा</string>
+  <string name="auto_download_cellualr_charges_warn">मोबाइल नेटवर्कद्वारे अपडेट डाऊनलोड करताना, अतिरिक्त शुल्क लागू होऊ शकते</string>
+  <string name="auto_download_enable_cellular_future_updates">तुम्हाला भविष्यातील डाउनलोडसाठी देखील सेल्युलर डेटा पर्याय निवडायचा आहे का?</string>
+  <string name="auto_download_settings_title">स्वयं-डाउनलोड सेटिंग्ज</string>
+  <string name="auto_download_wifi_cellular">सेल्युलर आणि Wi-Fi वरून स्वयं-डाऊनलोड करा</string>
+  <string name="auto_download_wifi_cellular_desc">सेल्युलर आणि Wi-Fi वरून स्वयंचलितपणे डाउनलोड करा. जेव्हा उपलब्ध असेल तेव्हा प्रथम Wi-Fi वापरला जाईल. </string>
+  <string name="auto_download_wifi_only">केवळ Wi-Fi वरून स्वयं-डाऊनलोड करा</string>
+  <string name="auto_download_wifi_only_desc">केवळ Wi-Fi वर स्वयंचलित डाउनलोड करा</string>
+  <string name="auto_install_notification_text">%1$sला उपकरण स्वयं इन्स्टॉल होईल</string>
+  <string name="auto_time_set">सुरू करा:</string>
+  <string name="automatic_bg_install_on_cellular_warning">त्याच्या महत्त्वामुळे, हे अद्ययावत %1$s मध्ये मोबाइल डेटा वापरुन स्वयंचलितपणे इन्स्टॉल होईल</string>
+  <string name="automatic_download_on_cellular_warning">त्याच्या महत्त्वामुळे, हे अद्ययावत %1$s मध्ये मोबाइल डेटा वापरुन स्वयंचलितपणे डाउनलोड होईल</string>
+  <string name="background_install_msg">आपण परत गेल्यास किंवा ही विंडो बंद केल्यास हे अपडेट सुरू राहील</string>
+  <string name="background_install_text">एक अद्ययावत डाउनलोड करणे &amp; इन्स्टॉल करत आहे. आपण आपले उपकरण वापरणे सुरू ठेवू शकता.</string>
+  <string name="bad_connection">इंटरनेट नाही</string>
+  <string name="bad_connection_text">आपले उपकरण सध्या इंटरनेटने डिस्कनेक्ट केलेले दिसते. पुन्हा प्रयत्न करण्यासाठी तळाशी बटणावर टॅप करा.</string>
+  <string name="bg_install_cancel_confirm">आपली खात्री आहे की आपण इन्स्टॉलेशन थांबवू इच्छिता?</string>
+  <string name="bg_retried">सॉफ्टवेअर डाउनलोडमध्ये व्यत्यय आला आहे. आम्ही प्रयत्न करत राहू…</string>
+  <string name="bg_suspended">पार्श्वभूमी डाऊनलोड आणि इन्स्टॉलेशन पुन्हा सुरू करण्यासाठी डेटा कनेक्शनची प्रतीक्षा करत आहे</string>
+  <string name="bg_suspended_non_adminapn">पार्श्वभूमी डाउनलोड आणि इन्स्टॉलेशन पुन्हा सुरू करण्यासाठी Wi-Fi किंवा शून्य रेट केलेल्या नेटवर्कची प्रतीक्षा करत आहे...</string>
+  <string name="bg_suspended_roaming">रोमिंग नेटवर्कमुळे पार्श्वभूमी इन्स्टॉलेशन थांबवले आहे, कृपया पुन्हा पार्श्वभूमी इन्स्टॉलेशन करणे सुरू करण्यासाठी Wi-Fi चालू करा.</string>
+  <string name="bg_suspended_wifi">पार्श्वभूमी डाउनलोड आणि इन्स्टॉलेशन पुन्हा सुरू करण्यासाठी Wi-Fi ची प्रतीक्षा करत आहे</string>
+  <string name="bootloader_unlock_msg">आपले उपकरण यापुढे अद्ययावते प्राप्त करत नाही आणि कदाचित सुरक्षा जोखीम असू शकते.</string>
+  <string name="bootloader_unlock_title">कोणतीही उपलब्ध अद्ययावते नाहीत</string>
+  <string name="call_notification_answer_action">उत्तर द्या</string>
+  <string name="call_notification_answer_video_action">व्हिडिओ</string>
+  <string name="call_notification_decline_action">नकार द्या</string>
+  <string name="call_notification_hang_up_action">कॉल बंद करा</string>
+  <string name="call_notification_incoming_text">इनकमिंग कॉल</string>
+  <string name="call_notification_ongoing_text">सुरू असलेला कॉल</string>
+  <string name="call_notification_screening_text">इनकमिंग कॉल स्क्रीन करत आहे</string>
+  <string name="cancel">रद्द करा</string>
+  <string name="cancel_download_notification">रद्द करा</string>
+  <string name="cancel_install">रद्द करा</string>
+  <string name="cancel_update_notification">रद्द करा</string>
+  <string name="check_for_updates_title">अद्ययावतांसाठी तपासा</string>
+  <string name="check_update_badparam">अयशस्वी लॉग इन मुळे अपग्रेडचे प्रयत्न करताना त्रुटी आली.
+
+कृपया नंतर पुन्हा प्रयत्न करा.</string>
+  <string name="check_update_checking">अद्ययावतांसाठी तपासत आहे...</string>
+  <string name="check_update_disabled_admin">IT प्रशासकाद्वारे नियंत्रित उपकरण अद्यतने</string>
+  <string name="check_update_downloading">एक अद्ययावत सध्या डाउनलोड होत आहे.
+
+डाउनलोड पूर्ण झाल्यावर आपल्याला अधिसूचित केले जाईल.</string>
+  <string name="check_update_fail">एक अनपेक्षित त्रुटी झाली आहे.
+
+उपकरण पार्श्वभूमीमध्ये अद्ययावतासाठी प्रयत्न करेल.</string>
+  <string name="check_update_internal">अद्ययावते तपासण्यासाठी अक्षम. नंतर पुन्हा प्रयत्न करा.</string>
+  <string name="check_update_net">कृपया आपले इंटरनेट कनेक्शन तपासा आणि पुन्हा प्रयत्न करा</string>
+  <string name="check_update_net_vzw">अद्ययावतांची तपासणी करण्यासाठी आपल्याला डेटा कनेक्शनची आवश्यकता आहे. तुमचे Wi-Fi कनेक्शन तपासण्यासाठी, सेटिंग्स &gt; नेटवर्क आणि इंटरनेट &gt; इंटरनेट &gt; Wi-Fi वर जा.
+
+इतर अद्ययावत पर्याय पाहण्यासाठी आपण motorola.com/systemupdates ला देखील भेट देऊ शकता.</string>
+  <string name="check_update_not_sys_user">अतिथी प्रोफाइलसाठी अपडेट तपासण्याची परवानगी नाही</string>
+  <string name="check_update_processing">आमच्या सर्व्हरशी संपर्क साधत आहे...
+कृपया प्रतीक्षा करा</string>
+  <string name="check_update_roaming">सिस्टम अद्ययावत केवळ होम नेटवर्कवर उपलब्ध आहे. 
+
+आता कनेक्शन सेटअप करण्यासाठी सेटिंग्स &gt; नेटवर्क आणि इंटरनेट &gt; Wi-Fi वर जा.</string>
+  <string name="check_update_storage_low">उपकरणावर अपुरी संग्रह जागा असल्यामुळे अद्ययावत शक्य नाही.</string>
+  <string name="check_update_temperror">पॉइंटवर अद्ययावते डाउनलोड करणे पूर्ण झाले नाही.
+
+कृपया पुन्हा प्रयत्न करा.</string>
+  <string name="check_update_text">वेळोवेळी अपडेट तपासणे तुमचे उपकरण सुरक्षित ठेवते आणि कार्यप्रदर्शन सुधारते</string>
+  <string name="check_update_title_downloading">डाउनलोड प्रगतीपथावर आहे…</string>
+  <string name="check_update_vab_validation">VAB प्रमाणीकरण अद्ययावत स्थितीसाठी तपासत आहे
+कृपया प्रतीक्षा करा</string>
+  <string name="check_update_wifi_only">सिस्टम अद्ययावत केवळ Wi-Fi द्वारे उपलब्ध आहे.</string>
+  <string name="check_wifi_settings">Wi-Fi सेटिंग्स तपासा</string>
+  <string name="clear_space">मोकळी जागा</string>
+  <string name="cloud_picker_title">क्लाउड पिकर</string>
+  <string name="compatibility_failed_title">पॅकेज पडताळणी अयशस्वी</string>
+  <string name="compatibility_verification_failure">डाउनलोड होत असलेले अद्ययावत पॅकेज उपकरणावरच्या वर्तमान सॉफ्टवेअर आवृत्तीसह सुसंगत नाही.</string>
+  <string name="compatibility_verification_failure_df">
+
+कृपया आपल्या Dogfood समन्वयकासह तपासा.</string>
+  <string name="compatibility_verification_success">यशस्वीरित्या पडताळणी केली</string>
+  <string name="completed"> इन्स्टॉलेशन पूर्ण. तुम्हाला तुमचा फोन रीस्टार्ट करण्यासाठी सूचित केले जाईल (%2$d पैकी %1$d चरण)</string>
+  <string name="completed_install">%s पूर्ण केले</string>
+  <string name="connect_to_wifi">Wi-Fi वर कनेक्ट करा</string>
+  <string name="continue_button">सुरू ठेवा</string>
+  <string name="critical_install_message_popup_os_mr">एक महत्त्वाचे सिस्टम अद्ययावत उपलब्ध आहे. कृपया अद्ययावत लागू करण्यासाठी इन्स्टॉल निवडा. तसे न केल्यास, अद्ययावत स्वयंचलितपणे %1$s वर लागू होईल.</string>
+  <string name="critical_install_message_popup_smr">एक महत्त्वाचे सुरक्षा अद्ययावत उपलब्ध आहे. कृपया अद्ययावत लागू करण्यासाठी इन्स्टॉल निवडा. तसे न केल्यास, अद्ययावत स्वयंचलितपणे %1$s वर लागू होईल.</string>
+  <string name="critical_install_message_screen">हे महत्त्वाचे अद्ययावत %1$s वर स्वयंचलितपणे इन्स्टॉल होईल. इन्स्टॉलेशनसाठी आपल्याकडे पुरेशी बॅटरी असल्याचे सुनिश्चित करा.</string>
+  <string name="critical_install_notification">हे अद्ययावत महत्त्वपूर्ण असल्याने, आपले उपकरण %1$s वर स्वयंचलितपणे इन्स्टॉल होईल
+इन्स्टॉल वेळ: %2$d मिनिटे</string>
+  <string name="critical_restart_message_popup">हे महत्त्वाचे अपडेट लागू करण्यासाठी, कृपया शक्य तितक्या लवकर रीस्टार्ट करा. आपण करू शकत नसल्यास, आपले उपकरण स्वयंचलितपणे %1$s रोजी रीस्टार्ट होईल.</string>
+  <string name="critical_restart_message_screen">हे महत्त्वाचे अद्ययावत असल्यामुळे, आपण %1$s पर्यंत पुन्हा सुरू केले नसल्यास आपले उपकरण तेव्हा स्वयंचलितपणे पुन्हा सुरू होईल.</string>
+  <string name="critical_restart_notification">हे अपडेट महत्त्वाचे आहे. तुम्ही आता रीस्टार्ट करू शकत नसल्यास, तुमचे उपकरण %1$s रोजी आपोआप रीस्टार्ट होईल</string>
+  <string name="critical_update_notification_title">गंभीर अद्ययावत</string>
+  <string name="current_version">वर्तमान सॉफ्टवेअर आवृत्ती:</string>
+  <string name="custom_slot">कस्टम</string>
+  <string name="custom_time">सानुकूल वेळ</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s येथे %s</string>
+  <string name="defer_count_expired">समजले</string>
+  <string name="deny">नकार द्या</string>
+  <string name="details">तपशील</string>
+  <string name="device_corrupted_msg">आम्हाला काही सिस्टम समस्या आढळल्या. आम्हाला माहित आहे की ही एक वेदना आहे, परंतु ते निश्चित करण्यासाठी तुम्हाला तुमच्या स्थानिक सेवा केंद्राला भेट द्यावी लागेल.
+
+तुमचा फोन निश्चित झाल्यानंतर, आम्ही तुमच्या फोनवर अपडेट्स रन करणे सुरू ठेवू शकतो.</string>
+  <string name="device_corrupted_title">फोन अपडेट करू शकत नाही</string>
+  <string name="dialog_alert_net_message">आपले Wi-Fi किंवा मोबाइल डेटा कनेक्शन तपासा आणि पुन्हा प्रयत्न करा.</string>
+  <string name="dialog_alert_net_title">आपले उपकरण ऑफलाइन आहे</string>
+  <string name="dialog_alert_title">बॅटरी कमी आहे</string>
+  <string name="dialog_progress">लोड करत आहे...</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fi वापरण्याची शिफारस केली आहे. मोबाइल डेटाद्वारे डाउनलोड करणे किंवा रोमिंगदरम्यान मोबाइल डेटा वापरल्याने अतिरिक्त शुल्क लागू शकतात.
+
+हे सॉफ्टवेअर डाउनलोड केल्याने आपल्या उपकरणाच्या ऑपरेशनवर परिणाम होणार नाही.</string>
+  <string name="done">पूर्ण झाले</string>
+  <string name="dont_show_this_again">हे पुन्हा दर्शवू नका</string>
+  <string name="download_cancelled_title">डाउनलोड रद्द केला</string>
+  <string name="download_deferred_status">सॉफ्टवेअर डाउनलोड पुढे ढकलण्यात आले</string>
+  <string name="download_failed_status">अपडेट डाउनलोड करण्यात अयशस्वी झाले</string>
+  <string name="download_in_progress_status">सॉफ्टवेअर डाउनलोड प्रगतीपथावर आहे</string>
+  <string name="download_later_button">नंतर डाउनलोड करा</string>
+  <string name="download_no_button">नाही धन्यवाद</string>
+  <string name="download_note">अद्ययावत इन्स्टॉल झाल्यावर आपण आपले उपकरण वापरणे सुरू ठेवू शकता</string>
+  <string name="download_now">आता डाउनलोड करा</string>
+  <string name="download_now_button">डाउनलोड</string>
+  <string name="download_options">डाउनलोड पर्याय</string>
+  <string name="download_progress_cancel_message">आपण नंतर हे अद्ययावत डाउनलोड करू इच्छित असल्यास सेटिंग्स &gt; सिस्टम अद्ययावतांवर जा</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s शिल्लक (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%%डाउनलोड केलेले (विराम दिला)</string>
+  <string name="download_progress_text">आपण परत गेल्यास किंवा ही विंडो बंद केल्यास हे डाऊनलोड सुरू राहील</string>
+  <string name="download_subtitle">आपण डाउनलोड करण्यापूर्वी काय ते जाणून घ्यावे</string>
+  <string name="download_text_whats_new">नवीन काय आहे ते पहा</string>
+  <string name="download_time_left">%1$s शिल्लक</string>
+  <string name="download_version">आवृत्ती %1$s — %2$s</string>
+  <string name="download_wifi_only_error">हे अद्ययावत डाउनलोड करण्यासाठी Wi-Fi आवश्यक आहे. एकदा आपले कनेक्शन पुनर्संचयित झाल्यानंतर डाउनलोड पुन्हा सुरू होईल.</string>
+  <string name="downloaded_percentage">%1$s डाउनलोड केलेले</string>
+  <string name="emergency_call_btn_txt">आणीबाणी</string>
+  <string name="emergency_call_text">रिबूत दरम्यान, आपण कॉल करू किंवा प्राप्त करू शकणार नाही, आपत्कालीन कॉल समवेत!</string>
+  <string name="enable_wifi_error_txt">हे अद्ययावत डाउनलोड करण्यासाठी Wi-Fi शी कनेक्ट करा.</string>
+  <string name="eol_explore">नवीन उपकरणे एक्सप्लोर करा</string>
+  <string name="eol_last_update_text">सुरक्षा पॅच: </string>
+  <string name="eol_promote">नवीनतम जाहिराती पहा</string>
+  <string name="eol_title">आपले उपकरण नवीनतम उपलब्ध सॉफ्टवेअर चालवत आहे.</string>
+  <string name="err_title_contact_server">सर्व्हरशी संपर्क साधत आहे...</string>
+  <string name="err_title_memory_low">मेमरी कमी...</string>
+  <string name="err_title_temp_error">तात्पुरती त्रुटी</string>
+  <string name="err_title_update">त्रुटी अद्ययावत करा</string>
+  <string name="error_code">त्रुटी कोड: </string>
+  <string name="error_copyfail">SD कार्ड स्थानावरून कॉपी करण्यात अयशस्वी.</string>
+  <string name="error_disabled">अद्ययावत डाउनलोड करण्यात अयशस्वी. यावेळी अद्ययावत पॅकेज उपलब्ध नाही. 
+
+पुढील कोणत्याही क्रियेची आवश्यकता नाही.</string>
+  <string name="error_fail">माफ करा, आपले %1$s अद्ययावत करण्यात समस्या आली. कोणतेही बादल केले गेले नाहीत. कृपया सेटिंग्स &gt; सिस्टम अपडेट वर जाऊन पुन्हा प्रयत्न करा.</string>
+  <string name="error_in_call_msg">कॉल चालू असताना उपकरण आता अद्ययावत करू शकत नाही</string>
+  <string name="error_in_call_title">कॉल चालू आहे</string>
+  <string name="error_install_title">इन्स्टॉलेशन अयशस्वी</string>
+  <string name="error_mismatch">आवृत्ती विजोडता झाली आहे. अद्ययावत पुन्हा होईल. एखादे उपलब्ध असल्यास, आपल्याला सूचित केले जाईल.</string>
+  <string name="error_mismatch_sd">अद्ययावत करण्यात अयशस्वी. अद्ययावत आवृत्ती आपल्या फोनसह जुळत नाही. 
+
+कृपया आपल्या फोनसाठी योग्य आवृत्ती डाउनलोड करा आणि पुन्हा प्रयत्न करा.</string>
+  <string name="error_network">कनेक्टिविटी गमावली गेली आहे. कृपया फोन सेटिंग्स वरून अद्ययावते व्यक्तिचलितपणे तपासून पुन्हा प्रयत्न करा.</string>
+  <string name="error_reboot">आम्ही हे अद्ययावत डाउनलोड करण्यास सक्षम नाही. आपल्याला हे अद्ययावत नंतर प्राप्त करायचे असल्यास, कृपया आपले उपकरण पुन्हा सुरू करा आणि त्यानंतर सेटिंग्स &gt; सिस्टम अद्ययावतां वर जा.</string>
+  <string name="error_resources">आम्ही हे अद्ययावत डाउनलोड करण्यास सक्षम नाही. आपल्याला हे अद्ययावत नंतर प्राप्त करायचे असल्यास, सेटिंग्स &gt; सिस्टम अद्ययावतां वर जा.</string>
+  <string name="error_sdcard_resources_fail_removal">SD कार्ड काढले होते. डाउनलोड प्रक्रिया पूर्ण झाली नाही. 
+
+कृपया SD कार्ड पुन्हा प्रविष्ट करा आणि पुन्हा प्रयत्न करण्यासाठी सेटिंग्स &gt; सिस्टम &gt; सिस्टम अद्ययावतां वर जा.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">डाउनलोड पूर्ण करण्यास अक्षम. SD कार्डवर पुरेशी जागा नाही. 
+
+काही जागा मोकळी करा आणि पुन्हा प्रयत्न करण्यासाठी सेटिंग्स &gt; सिस्टम अद्ययावतां वर जा.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">कृपया डाउनलोड सुरू करण्यासाठी SD कार्ड प्रविष्ट करा.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">कृपया डाउनलोड सुरू करण्यासाठी SD कार्ड माऊंट करा. 
+
+सेटिंग्स &gt; संग्रह &gt; माऊंट SD कार्ड वर जा.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">डाउनलोड पूर्ण करण्यासाठी SD कार्डवर पुरेशी जागा नाही. 
+
+कृपया डाउनलोड पुन्हा करायचा प्रयत्न करण्यासाठी %1$s जागा मोकळी करा आणि सेटिंग्स &gt; सिस्टम अद्ययावतां वर जा.
+
+
+</string>
+  <string name="error_sdcard_resources_title">त्रुटी</string>
+  <string name="error_sdcard_resources_warning">सॉफ्टवेअर अद्ययावत SD कार्डवर डाउनलोड होत आहे. 
+
+कृपया इन्स्टॉलेशन पूर्ण झाल्याशिवाय SD कार्ड काढू नका.
+
+
+</string>
+  <string name="error_server">सर्व्हरवर एक त्रुटी झाली आहे. कृपया नंतर पुन्हा प्रयत्न करा.</string>
+  <string name="error_space">या अद्ययावताला आपल्या उपकरणावर %1$s जागा आवश्यक आहे. 
+
+कृपया %2$s जागा रिकामी करण्यासाठी वापरात नसलेले अनुप्रयोग हटवा किंवा आपले फोटो आणि व्हिडिओ अन्य संग्रह उपकरणावर हलवा. 
+
+ते एकदा झाल्यावर, अद्ययावत कोणत्याही वेळी सुरू करण्यासाठी आपण सेटिंग्स &gt; सिस्टम अद्ययावतां वर जाऊ शकता.</string>
+  <string name="error_space_retry">या अद्ययावताला आपल्या उपकरणावर %1$s जागा आवश्यक आहे. 
+
+कृपया %2$s जागा रिकामी करण्यासाठी वापरात नसलेले अनुप्रयोग हटवा किंवा आपले फोटो आणि व्हिडिओ अन्य संग्रह उपकरणावर हलवा.</string>
+  <string name="error_space_vab">या अद्ययावताला आपल्या उपकरणावर %1$s उपलब्ध मोकळी जागा आवश्यक आहे. यशस्वी अद्ययावतांसाठी कृपया मेमरी मोकळी करा</string>
+  <string name="error_space_vab_make_room_popup">अद्यतनित करण्यापूर्वी आपल्याला %1$s जागा रिक्त करणे आवश्यक आहे. न वापरलेले अनुप्रयोग हटवण्याचा किंवा फोटो आणि व्हिडिओ दुसर्‍या स्टोरेज उपकरणावर हलवण्याचा प्रयत्न करा.</string>
+  <string name="error_title">डाउनलोड अयशस्वी</string>
+  <string name="error_verify">अद्ययावत योग्यरितीने पडताळले जाऊ शकले नाही. कृपया पुन्हा प्रयत्न करा.</string>
+  <string name="failed">अयशस्‍वी झाले</string>
+  <string name="failed_in_roaming">अपडेटसाठी Wi-Fi आवश्यक आहे</string>
+  <string name="failure_process">माहिती अनुपलब्ध आहे</string>
+  <string name="finalizing_patch">अपडेटला अंतिम रूप देत आहे… (6 पैकी 5 चरण)  </string>
+  <string name="first_net_text">कृपया अद्ययावत इन्स्टॉल करा अन्यथा पुढील रिबूटमध्ये उपकरण स्वयंचलितपणे इन्स्टॉल करेल. बॅटरी स्तर %sपेक्षा जास्त असल्याचे सुनिश्चित करा</string>
+  <string name="forceInstallMessage">हे अद्ययावत %1$s वर स्वयंचलितपणे इन्स्टॉल होईल.</string>
+  <string name="force_install_message_screen">हे महत्त्वाचे अद्ययावत आहे, त्यामुळे कृपया %1$s द्वारे इन्स्टॉल करा. अन्यथा, आपले उपकरण सर्वाधिक कमी वापरात असताना ते स्वयंचलितपणे इन्स्टॉल होईल. इन्स्टॉलेशनसाठी आपल्याकडे पुरेसे बॅटरी जीवन असल्याचे सुनिश्चित करा.</string>
+  <string name="force_install_notification_message">कृपया %1$s द्वारे इन्स्टॉल करा. अन्यथा, आपले उपकरण सर्वाधिक कमी कार्यरत असताना स्वयंचलितपणे इन्स्टॉल होईल.
+इन्स्टॉल वेळ: %2$d मिनिटे</string>
+  <string name="force_restart_notification_message">कृपया %1$s पर्यंत पुन्हा सुरू करा. अन्यथा, आपले उपकरण सर्वाधिक कमी कार्यरत असताना स्वयंचलितपणे पुन्हा सुरू होईल.</string>
+  <string name="force_restart_screen_message">आपण %1$s पर्यंत पुन्हा सुरू न केल्यास, आपले उपकरण सर्वाधिक कमी कार्यरत असताना स्वयंचलितपणे पुन्हा सुरू होईल.</string>
+  <string name="google">गुगल</string>
+  <string name="got_it">समजले</string>
+  <string name="important_update_install_overdue_message">इन्स्टॉलेशनसाठी ठरवलेली वेळ निघून गेली आहे. आपले उपकरण निकषांना पोहोचल्यावर इन्स्टॉलेशन सुरू होईल.</string>
+  <string name="important_update_restart_overdue_message">पुन्हा सुरू करण्यासाठी ठरवलेली वेळ निघून गेली आहे. उपकरण निकषांना पोहोचल्यावर पुन्हा सुरू होईल.</string>
+  <string name="initiating_ota_service_msg">कृपया प्रतीक्षा करा...</string>
+  <string name="initiating_ota_service_title">सॉफ्टवेअर अद्यतन प्रक्रिया प्रारंभ करत आहे</string>
+  <string name="install">इन्स्टॉल करा</string>
+  <string name="install_after_one_hour">1 तासात इन्स्टॉल करा</string>
+  <string name="install_cancelled_title">इंस्टॉल करणे रद्द झाले</string>
+  <string name="install_deferred_status">येथे अपडेट पुढे ढकलले गेले</string>
+  <string name="install_later">नंतर इन्स्टॉल करा</string>
+  <string name="install_notify_sanity_call_msg">कॉल चालू असताना उपकरण आता इन्स्टॉल करू शकत नाही</string>
+  <string name="install_notify_sanity_maps_msg">नेव्हिगेशन चालू असल्याने उपकरण आता इन्स्टॉल करू शकत नाही</string>
+  <string name="install_now">आता इन्स्टॉल करा</string>
+  <string name="install_postponed">इन्स्टॉल करा पुढे ढकलले</string>
+  <string name="install_progress_cancel_message">आपण नंतर हे अद्ययावत इन्स्टॉल करू इच्छित असल्यास सेटिंग्स &gt; सिस्टम अद्ययावतांवर जा</string>
+  <string name="install_progress_paused_message">%s पूर्ण झाले (विराम दिला)</string>
+  <string name="install_time">इन्स्टॉल वेळ: %1$d मिनिटे</string>
+  <string name="install_warning">आपण इन्स्टॉल करण्यापूर्वी काय जाणून घ्यावे</string>
+  <string name="just_one_more_step">अजून एक चरण</string>
+  <string name="keep_it_on">हे सुरु ठेवा</string>
+  <string name="later_button">मला नंतर आठवण करा</string>
+  <string name="learn_more_online_link">ऑनलाइन अधिक जाणून घ्या</string>
+  <string name="low_battery_bg_install">इन्स्टॉलेशन कमी बॅटरीमुळे थांबवले आहे. तुमची बॅटरी 20% पेक्षा जास्त झाल्यावर इंस्टॉलेशन पुन्हा सुरू होईल.</string>
+  <string name="low_battery_download">डाउनलोड कमी बॅटरीमुळे थांबवले आहे. आपले उपकरण चार्ज झाल्यावर डाउनलोड पुन्हा सुरू होईल.</string>
+  <string name="low_battery_install">कृपया हे अद्ययावत इन्स्टॉल करण्याआधी आपले उपकरण किमान %s पर्यंत चार्ज करा</string>
+  <string name="make_space">जागा बनवा</string>
+  <string name="mandatory_install_notification">आपण लवकरच हे सिस्टम अद्ययावत इन्स्टॉल न केल्यास आपण महत्त्वपूर्ण सुरक्षा अद्ययावते तसेच नवीन वैशिष्ट्ये आणि दोष निराकरणे गमवाल.</string>
+  <string name="mandatory_restart_notification">हे एक महत्त्वपूर्ण अद्ययावत आहे म्हणून कृपया आता पुन्हा सुरू करा. अन्यथा आपण सुरक्षितता अद्ययावते तसेच नवीन वैशिष्ट्ये आणि दोष निराकरणे गमवाल.</string>
+  <string name="medium_channel_name">सॉफ्टवेअर डाउनलोड सूचक</string>
+  <string name="merge_emergency_call_text">पुनरारंभ करताना, तुम्ही आणीबाणीच्या कॉलसह कॉल करू शकणार नाही किंवा प्राप्त करू शकणार नाही.</string>
+  <string name="merge_force_restart_text">तुम्ही आता पुनरारंभ करू इच्छित नसल्यास, तुमचा फोन निष्क्रिय झाल्यावर आपोआप पुनरारंभ होईल.</string>
+  <string name="merge_progress_text">अपडेट पूर्ण झाल्यावर, आम्ही तुम्हाला एक सूचना पाठवू</string>
+  <string name="merge_progress_title">अपडेट पूर्ण करत आहे…</string>
+  <string name="merge_restart_text">तुमचा फोन पुनरारंभ झाल्यानंतर अपडेट पूर्ण होईल</string>
+  <string name="merge_restart_title">कृपया पुन्हा पुनरारंभ करा</string>
+  <string name="merge_update_fail_notify_text">आम्हाला काही सिस्टम समस्या आढळल्या. त्यांचे निराकरण करण्यासाठी कृपया तुमच्या सेवा केंद्राला भेट द्या</string>
+  <string name="merge_update_fail_notify_title">अद्ययावत अयशस्वी झाले</string>
+  <string name="merge_update_fail_text">आम्हाला काही सिस्टम समस्या आढळल्या आहेत ज्यामुळे तुम्हाला अपडेट मिळण्यापासून प्रतिबंधित होईल. याचे निराकरण करण्यासाठी कृपया तुमच्या सेवा केंद्राला भेट द्या.
+
+यादरम्यान, तुम्ही तुमचा फोन नेहमीप्रमाणे वापरणे सुरू ठेवू शकता.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">एक खाते निवडा</string>
+  <string name="multiple_account_alert">सिस्टम अद्ययावतासह पुढे जाण्यासाठी %1$s खाते निवडा.</string>
+  <string name="no_thanks">नाही धन्यवाद</string>
+  <string name="no_thanks_message">आपल्याला हे अद्ययावत नंतर प्राप्त करायचे असल्यास, सेटिंग्स &gt; सिस्टम अद्ययावतां वर जा.</string>
+  <string name="no_updates_applied">कोणतीही अपडेट्स लागू केलेली नाहीत</string>
+  <string name="not_now">आता नाही</string>
+  <string name="ok">ठीक आहे</string>
+  <string name="otaservice_perm_desc">otaसेवा सह कनेक्ट करण्यासाठी अनुप्रयोगांना आवश्यक असणारी परवानगी</string>
+  <string name="package_size">डाउनलोड आकार: %1$s</string>
+  <string name="personalInfo_instruction">आपण कोणतीही वैयक्तिक माहिती गमावणार नाही</string>
+  <string name="picker_cell_radio">Wi-Fi आणि मोबाइल डेटा</string>
+  <string name="picker_title">हे अद्ययावत आपण कसे डाउनलोड करू इच्छिता ते निवडा:</string>
+  <string name="picker_wifi_only_radio">केवळ वाय-फाय</string>
+  <string name="please_restart">कृपया आता पुन्हा सुरू करा</string>
+  <string name="policy_set">सिस्टम अद्ययावत अवरोधित केले आहे. कृपया अधिक माहितीसाठी आपल्या उपकरण प्रशासकाशी संपर्क साधा.</string>
+  <string name="press_back_again_to_exit">निर्गमन करण्यासाठी पुन्हा मागे दाबा</string>
+  <string name="progress_copying_sd">अद्ययावत कॉपी करत आहे</string>
+  <string name="progress_deffered">डाउनलोड Wi-Fi/सेल्युलर नेटवर्कमध्ये चालू होईल.</string>
+  <string name="progress_downloading_ota">सिस्टम अद्ययावत डाउनलोड करणे</string>
+  <string name="progress_downloading_security">सुरक्षा अद्ययावत डाउनलोड करत आहे</string>
+  <string name="progress_retried">सॉफ्टवेअर डाउनलोडमध्ये व्यत्यय आला आहे. आम्ही प्रयत्न करत राहू…</string>
+  <string name="progress_suspended">डाउनलोड करणे पुन्हा सुरू करण्यासाठी डेटा कनेक्शनची प्रतीक्षा करत आहे</string>
+  <string name="progress_suspended_datasaver">डाउनलोड पुन्हा सुरु करण्यासाठी डेटा सेव्हर बंद करा</string>
+  <string name="progress_suspended_no_adminapn">डाउनलोड पुन्हा सुरू करण्यासाठी Wi-Fi किंवा शून्य रेट केलेल्या नेटवर्कची प्रतीक्षा करत आहे</string>
+  <string name="progress_suspended_roaming">रोमिंग नेटवर्कमुळे डाउनलोड थांबवले आहे, कृपया पुन्हा डाउनलोड करणे सुरू करण्यासाठी Wi-Fi चालू करा.</string>
+  <string name="progress_suspended_wifi">डाउनलोड पुन्हा सुरू करण्यासाठी Wi-Fi ची प्रतीक्षा करत आहे...</string>
+  <string name="progress_verify">तुमचे उपकरण अपडेट करण्यासाठी तयार आहे याची पडताळणी करत आहे…</string>
+  <string name="progress_verify_allocate_space">मेमरी पुरेशी आहे का ते तपासत आहे</string>
+  <string name="relative_date_time">%2$s येथे %1$s</string>
+  <string name="release_note_battery_desc">बॅटरीचे आयुष्य आणि वापर वाढवण्यासाठी अपडेट</string>
+  <string name="release_note_battery_title">बॅटरी</string>
+  <string name="release_note_camera_desc">ही सुधारणा तुम्हाला अधिक अचूक आणि तपशीलांसह फोटो कॅप्चर करण्यात मदत करतात</string>
+  <string name="release_note_camera_title">कॅमेरा</string>
+  <string name="release_note_cellular_desc">बदल उपकरणाची डेटा कनेक्टिव्हिटी सुधारण्यास मदत करतात</string>
+  <string name="release_note_cellular_title">सेल्युलर</string>
+  <string name="release_note_charging_desc">हे अपडेट तुमची चार्जिंग क्षमता वाढवतात</string>
+  <string name="release_note_charging_title">चार्ज होत आहे</string>
+  <string name="release_note_generic_desc">बदल उपकरणाचे एकूण परफॉर्मन्स सुधारण्यास मदत करतात</string>
+  <string name="release_note_os_update_desc">नवीन मोनोक्रोमॅटिक थीम तुमच्या फोनला एक आकर्षक लुक देतात आणि तुमचा वॉलपेपरला पॉप बनवतात. तुम्ही ॲप परवानग्या देण्यापूर्वी ॲप्स तुमचा डेटा कसा वापरतात आणि शेअर करतात याचे पुनरावलोकन करा आणि Android 14 च्या नवीन श्रवण आणि दृष्टी वैशिष्ट्यांसह ते अधिक प्रवेशयोग्य बनवा.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">बदल उपकरणाचे परफॉर्मन्स सुधारण्यास मदत करतात</string>
+  <string name="release_note_performance_title">परफॉरमन्स</string>
+  <string name="release_note_security_desc">%1$s द्वारे सुरक्षा पॅच समाविष्ट आहे</string>
+  <string name="release_note_security_title">सुरक्षा अद्ययावत</string>
+  <string name="release_note_stability_desc">तुमचा फोन आणखी विश्वासार्ह बनवणाऱ्या सुधारणा आणि दोष निराकरणे समाविष्ट करतात</string>
+  <string name="release_note_stability_title">स्थिरता</string>
+  <string name="release_note_title">या अपडेट्समध्ये समाविष्ट आहे</string>
+  <string name="release_note_wifi_desc">तुमच्या Wi-Fi कनेक्टिव्हिटीच्या अपडेट्सचा समावेश आहे</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Android %1$s मधील सर्व नवीन वैशिष्ट्ये पहा</string>
+  <string name="request_suspended_datasaver">डाउनलोड सुरू करण्यासाठी डेटा सेवर बंद करा</string>
+  <string name="request_suspended_no_network">डाउनलोड प्रारंभ करण्यासाठी कोणतेही नेटवर्क कव्हरेज नाही</string>
+  <string name="restart_after_one_hour">1 तासात पुनरारंभ करा</string>
+  <string name="restart_instruction_title">पुनरारंभ करण्यापूर्वी काय जाणून घ्यावे</string>
+  <string name="restart_later">नंतर</string>
+  <string name="restart_message">कृपया अद्ययावत करण्यासाठी आता पुन्हा सुरू करा</string>
+  <string name="restart_notification">पुनरारंभ करा</string>
+  <string name="restart_notification_text">कृपया अद्ययावत करण्यासाठी आता पुन्हा सुरू करा. अद्ययावत %1$d दिवसांपासून प्रलंबित आहे.</string>
+  <string name="restart_notify_sanity_call_msg">कॉल चालू असताना उपकरण आता रिबूट करू शकत नाही</string>
+  <string name="restart_notify_sanity_maps_msg">नेव्हिगेशन चालू असल्याने उपकरण आता रिबूट करू शकत नाही</string>
+  <string name="restart_now">आता पुन्हा सुरू करा</string>
+  <string name="restart_postponed">पुनरारंभ करा पुढे ढकलले</string>
+  <string name="restart_title">आपल्या उपकरणाचा पुनरारंभ करा</string>
+  <string name="resume_download_on_cellular">मोबाइल डेटा वापरा</string>
+  <string name="retrieving_token">प्रमाणीकरण करत आहे...</string>
+  <string name="sdcard_predownload_text">
+या चरणामध्ये, आपण अद्ययावत सिस्टम मेमरीमध्ये कॉपी कराल. अद्ययावत पुढील चरणामध्ये इन्स्टॉल होईल. 
+
+आपली बॅटरी पॉवर संपणार नाही याची खात्री करण्यासाठी आपला फोन पॉवर स्त्रोतासह कनेक्ट करा.</string>
+  <string name="search_menu_title">शोध</string>
+  <string name="secure_instruction">ही प्रक्रिया सुरक्षित आहे</string>
+  <string name="security_download_notification_title">आपली सुरक्षितता सुधारित करा</string>
+  <string name="security_install_notification_text">एक नवीन सुरक्षा अद्ययावत इन्स्टॉल करण्यासाठी तयार आहे</string>
+  <string name="security_install_title">सुरक्षितता अद्ययावत तयार आहे</string>
+  <string name="security_patch">सुरक्षा पॅच:</string>
+  <string name="security_update_low_storage_title">सुरक्षा अद्ययावत</string>
+  <string name="security_update_notification_text">नवीनतम सुरक्षा अद्ययावत मिळवा</string>
+  <string name="security_update_paused">सुरक्षा अद्ययावत थांबवले</string>
+  <string name="security_update_pending_notification_text">नवीनतम सुरक्षा अद्ययावत मिळवा. अद्ययावत %1$d दिवसांपासून प्रलंबित आहे.</string>
+  <string name="security_update_title">सुरक्षा अद्ययावत</string>
+  <string name="select_account">एक %1$s खाते निवडा</string>
+  <string name="selected_later_time_os_mr">सिस्टम अद्ययावत यावेळी इन्स्टॉल होईल </string>
+  <string name="selected_later_time_smr">सुरक्षा अद्ययावत इन्स्टॉल केले जाईल</string>
+  <string name="setting_sw_summary">नवीनतम सॉफ्टवेअरवर अद्ययावत करा </string>
+  <string name="setting_sw_title">सिस्टम अपडेट</string>
+  <string name="smart_cancel_update_toast_msg">अद्ययावत %1$s व शेड्यूल केले आहे</string>
+  <string name="smart_end_time">समाप्त</string>
+  <string name="smart_install_message_popup">तुम्ही स्मार्ट अपडेट सक्षम केल्यामुळे, तुम्ही तोपर्यंत स्थापित न केल्यास तुमचे उपकरण %1$s रोजी अपडेट आपोआप स्थापित करेल. इन्स्टॉलेशनसाठी आपल्याकडे पुरेशी बॅटरी असल्याचे सुनिश्चित करा.</string>
+  <string name="smart_restart_message_popup">तुम्ही स्मार्ट अपडेट सक्षम केल्यामुळे, तुम्ही तोपर्यंत पुनरारंभ न केल्यास तुमचे उपकरण %1$s रोजी आपोआप पुनरारंभ होईल.</string>
+  <string name="smart_settings_string">जेव्हा तुम्ही Wi-Fi शी कनेक्ट करता तेव्हा अद्यतने स्वयंचलितपणे डाउनलोड आणि स्थापित केली जातात</string>
+  <string name="smart_settings_string_Softbank">जेव्हा तुम्ही Wi-Fi किंवा मोबाईल डेटा वापरा शी कनेक्ट करता तेव्हा अद्यतने स्वयंचलितपणे डाउनलोड आणि स्थापित केली जातात</string>
+  <string name="smart_settings_string_vzw">अद्यतने स्वयंचलितपणे डाउनलोड आणि स्थापित केली जातात</string>
+  <string name="smart_start_time">प्रारंभ करा</string>
+  <string name="smart_to_string">प्रति</string>
+  <string name="smart_update_advanced">प्रगत</string>
+  <string name="smart_update_note">तुमच्या सुरक्षिततेसाठी, हे वैशिष्ट्य चालू असो किंवा बंद असो, सर्व महत्त्वाचे सुरक्षा अपडेट आपोआप डाऊनलोड होतील</string>
+  <string name="smart_update_note_vzw">तुमच्या सुरक्षिततेसाठी, हे वैशिष्ट्य चालू किंवा बंद असले तरीही सर्व गंभीर अपडेट्स आपोआप डाऊनलोड केले आणि स्थापित केले जातील.</string>
+  <string name="smart_update_pop_up_text">स्वयंचलित अद्ययावतांसह आपले उपकरण सुरक्षित आणि संरक्षित ठेवा</string>
+  <string name="smart_update_recommendation">स्मार्ट अद्ययावत वापरून पहा</string>
+  <string name="smart_update_suggestion_text">स्वयंचलित अद्ययावतांसह सुरक्षित रहा</string>
+  <string name="smart_update_text_AB">सर्व नवीन सुरक्षा अपडेट्स आणि दोष निराकरणे स्वयंचलितपणे स्थापित करून आपल्या उपकरणाला सुरक्षितपणे आणि कार्यक्षमतेने चालविण्यात मदत करा.</string>
+  <string name="smart_update_text_AB_vzw">स्मार्ट अद्ययावते आपल्या उपकरणाला सुरक्षित आणि कार्यक्षमतेने चालवण्यात मदत करतात. तुम्ही ते चालू करता तेव्हा, सर्व नवीन <b>सुरक्षा अपडेट</b> आपोआप डाउनलोड होतील. डाउनलोड केल्यानंतर, तुम्ही निवडलेल्या वेळी तुमचे उपकरण रीस्टार्ट होईल.</string>
+  <string name="smart_update_text_classic">स्मार्ट अद्ययावते आपल्या उपकरणाला सुरक्षित आणि कार्यक्षमतेने चालवण्यात मदत करतात. तुम्ही ते चालू करता तेव्हा, सर्व नवीन <b>सुरक्षा अपडेट आणि बग निराकरणे</b> आपोआप डाउनलोड होतील. डाउनलोड केल्यानंतर, तुम्ही निवडलेल्या वेळी तुमचे उपकरण रीस्टार्ट आणि इन्स्टॉल होईल.</string>
+  <string name="smart_update_text_classic_vzw">स्मार्ट अद्ययावते आपल्या उपकरणाला सुरक्षित आणि कार्यक्षमतेने चालवण्यात मदत करतात. तुम्ही ते चालू करता तेव्हा, सर्व नवीन <b>सुरक्षा अपडेट</b> आपोआप डाउनलोड होतील. डाउनलोड केल्यानंतर, तुम्ही निवडलेल्या वेळी तुमचे उपकरण रीस्टार्ट आणि इन्स्टॉल होईल.</string>
+  <string name="smart_update_time_slot_text_AB">प्रारंभ वेळ निवडा</string>
+  <string name="smart_update_time_slot_text_classic">एक इन्स्टॉल वेळ निवडा</string>
+  <string name="smart_update_title">स्मार्ट अद्ययावते</string>
+  <string name="software_not_update_to">तुमचे सॉफ्टवेअर अजून अपडेट केलेले नाही</string>
+  <string name="software_update_in_progress">तुमची सिस्टम आवृत्तीवर अपडेट होत आहे</string>
+  <string name="software_update_planned_summary">तपासले - %1$s</string>
+  <string name="software_update_planned_title">सॉफ्टवेअर अद्यतनित करण्याचे नियोजित</string>
+  <string name="software_update_to">तुमची सिस्टम वर अपडेट केली गेली आहे</string>
+  <string name="sofware_version">सॉफ्टवेअर आवृत्ती:</string>
+  <string name="status_bar_notification_info_overflow">९९९+</string>
+  <string name="storage_low">अद्ययावतासाठी जागा बनवा</string>
+  <string name="su_btn">सेटिंग्स</string>
+  <string name="su_text_off">नवीन सॉफ्टवेअर उपलब्ध असेल तेव्हा तुम्हाला तुमचे उपकरण व्यक्तिचलितपणे अपडेट करावे लागेल. प्रक्रिया स्वयंचलित करण्यासाठी स्मार्ट अपडेट्स चालू करा. अधिक तपशीलांसाठी टॅप करा.</string>
+  <string name="su_text_on">डीफॉल्टनुसार, स्मार्ट अपडेट्स 1 AM ते 3 AM दरम्यान चालतात. तुम्ही अपडेट वेळा बदलू शकता किंवा सेटिंग्जमध्ये स्मार्ट अपडेट बंद करू शकता. अधिक तपशीलांसाठी टॅप करा.</string>
+  <string name="su_title_off">स्मार्ट अपडेट्स बंद आहेत</string>
+  <string name="su_title_on">स्मार्ट अपडेट्स चालू आहे</string>
+  <string name="system_download_notification_title">सिस्टम अद्ययावत करा</string>
+  <string name="system_install_notification_text">सुरक्षितता अद्ययावत इन्स्टॉल करण्यासाठी तयार आहे</string>
+  <string name="system_install_title">एक अद्ययावत तयार आहे</string>
+  <string name="system_pdl_notification_mr_title">दोष निराकरणे आणि बरेच काही मिळवा</string>
+  <string name="system_pdl_notification_os_title">Android %1$s येथे आहे!</string>
+  <string name="system_update">सिस्टम अद्ययावत करा</string>
+  <string name="system_update_desc">सुरक्षा धोक्यांपासून तुमचे उपकरण संरक्षित करा आणि नवीनतम Motorola आणि Android वैशिष्ट्ये मिळवा</string>
+  <string name="system_update_info_not_available">उपलब्ध नाही</string>
+  <string name="system_update_low_storage_text">मेमरी तपासून पुढे जाण्यासाठी येथे टॅप करा.</string>
+  <string name="system_update_low_storage_title">सिस्टम अद्ययावत करा</string>
+  <string name="system_update_notification_os_text">नवीन Android चा अनुभव घ्या</string>
+  <string name="system_update_notification_text">नवीन सॉफ्टवेअर डाउनलोड करा</string>
+  <string name="system_update_paused">सिस्टम अद्ययावताला विराम दिला</string>
+  <string name="system_update_pending_notification_os_text">नवीन Android चा अनुभव घ्या. अद्ययावत %1$d दिवसांपासून प्रलंबित आहे.</string>
+  <string name="system_update_pending_notification_text">नवीन सॉफ्टवेअर डाउनलोड करा. अद्ययावत %1$d दिवसांपासून प्रलंबित आहे.</string>
+  <string name="system_update_settings_list_item_title">सिस्टम अपडेट</string>
+  <string name="system_update_status">स्थिती अपडेट करा</string>
+  <string name="system_update_title">सिस्टम अद्ययावत करा</string>
+  <string name="tethered_permission_desc">3c अद्ययावत निकाल पाठवा</string>
+  <string name="tethered_update_result">टेथर्ड अद्ययावत निकाल</string>
+  <string name="time_picker_text">रिमाइंडरशिवाय इन्स्टॉलेशन सुरू करा</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">पुन्हा प्रयत्न करा</string>
+  <string name="turn_it_off">ते बंद करा</string>
+  <string name="turn_it_on">हे चालू करा</string>
+  <string name="turn_on_smart_updates">स्मार्ट अद्ययावते चालू करा</string>
+  <string name="update">अपडेट करा</string>
+  <string name="update_blocked_by_policy">प्रशासकीय धोरणाद्वारे अद्यतन अवरोधित केले आहे </string>
+  <string name="update_cancelled_status">सॉफ्टवेअर डाउनलोड रोजी रद्द करण्यात आले</string>
+  <string name="update_fail_desc">काहीतरी चूक झाली</string>
+  <string name="update_fail_status">अद्ययावत अयशस्वी झाले</string>
+  <string name="update_fail_sucancel_dm_status">अद्ययावत सर्व्हर द्वारे रद्द केले</string>
+  <string name="update_fail_title">अद्ययावत अयशस्वी झाले</string>
+  <string name="update_history_blank">अद्याप कोणताही इतिहास नाही</string>
+  <string name="update_history_src_target">%1$s मधून %2$s वर अद्ययावत करा</string>
+  <string name="update_history_time">%1$s रोजी अद्ययावत केले</string>
+  <string name="update_history_title">इतिहास अद्ययावत करा</string>
+  <string name="update_history_version">सॉफ्टवेअर आवृत्ती %1$s</string>
+  <string name="update_info">अपडेट करत आहे…</string>
+  <string name="update_postpone_policy">प्रशासकीय धोरणाद्वारे अद्यतन पुढे ढकलले आहे </string>
+  <string name="update_preference">प्राधान्ये अद्ययावत करा</string>
+  <string name="update_success_desc">वर्तमान सॉफ्टवेअर आवृत्ती: %1$s</string>
+  <string name="update_success_desc_os">अभिनंदन! आपण यशस्वीरित्या Android %1$s इन्स्टॉल केले आहे. आता आपण उत्कृष्ट, स्मार्टर आणि सुरक्षित Android अनुभवाचा आनंद घेण्यासाठी तयार आहात.</string>
+  <string name="update_success_status">अद्ययावत यशस्वी</string>
+  <string name="update_title">अद्ययावत पूर्ण झाले</string>
+  <string name="update_title_text">आपल्या नवीन सॉफ्टवेअरचा आनंद घ्या!</string>
+  <string name="upto_date_title">सर्व काही चांगले दिसते!</string>
+  <string name="urgent_channel_name">सॉफ्टवेअर अद्ययावत सतर्कता</string>
+  <string name="use_smart_updates">स्मार्ट अपडेट्स वापरा</string>
+  <string name="vab_validation_update_failure_desc">VAB प्रमाणीकरण अद्ययावत अयशस्वी झाले</string>
+  <string name="vab_validation_update_failure_title">VAB प्रमाणीकरण अयशस्वी</string>
+  <string name="vab_validation_update_success_desc">अभिनंदन! VAB प्रमाणीकरण अद्ययावत यशस्वी झाले</string>
+  <string name="vab_validation_update_success_title">VAB प्रमाणीकरण यशस्वी</string>
+  <string name="verifying_patch">अपडेट लागू केले आहे. ॲप्लिकेशन यशस्वी झाल्याची पुष्टी करत आहे… (6 पैकी 4 चरण)  </string>
+  <string name="verity_disabled_msg">आपले उपकरण सुरक्षितता जोखीम असू शकते. सुरू असलेले अद्ययावते 
+
+adb सक्षम-सत्यासाठी खालील आज्ञेची अंमलबजावणी करा</string>
+  <string name="verity_disabled_title">आपले उपकरण यापुढे अद्यतने प्राप्त करत नाही</string>
+  <string name="verizon_failure_notification_text"> आपले उपकरण हे अद्ययावत इन्स्टॉल  करू शकले नाही.  इन्स्टॉल  करण्यासाठी सॉफ्टवेअर अपग्रेड सहाय्यक टूल वापरा. अधिक माहितीसाठी टॅप करा.</string>
+  <string name="verizon_failure_text">आपले उपकरण अद्ययावत करण्यात समस्या आली. कोणतेही बदल केले गेले नाहीत. तुमचे सॉफ्टवेअर अपडेट करण्यासाठी, तुम्ही सॉफ्टवेअर अपग्रेड असिस्टंट टूल वापरू शकता.
+
+सॉफ्टवेअर अपग्रेड असिस्टंट टूल स्थापित करण्यासाठी:
+
+1. तुमचे उपकरण तुमच्या संगणकाशी जोडण्यासाठी USB केबल वापरा
+2. तुमच्या उपकरणावर USB मेनू पॉप अप झाल्यावर, वरच्या उजवीकडे सेटिंग्स चिन्ह निवडा
+3. USB प्राधान्यांमधून, सॉफ्टवेअर इंस्टॉलेशन निवडा
+4. तुमच्या PC वर स्विच करा आणि इंस्टॉलेशन विझार्ड शोधा
+5. विझार्ड
+
+सॉफ्टवेअर अपग्रेड असिस्टंट टूलद्वारे चालणे तुम्हाला तुमच्या उबकरणावर सॉफ्टवेअर अपडेट डाउनलोड आणि इंस्टॉल करण्यात मदत करेल.</string>
+  <string name="vital_applying_updates">अद्यतने लागू करत आहे...</string>
+  <string name="vital_bg_text">यास काही मिनिटे लागू शकतात.</string>
+  <string name="vital_check_for_updates">अद्यतने शोधत आहेत…</string>
+  <string name="vital_check_for_updates_desc">अद्यतने आपले उपकरण सुरक्षित ठेवतात आणि त्याची कार्यक्षमता सुधारित करतात.</string>
+  <string name="vital_done">झाले!</string>
+  <string name="vital_error_fail">अपडेट त्रुटी होती. कोणतेही बदल केले गेले नाहीत.</string>
+  <string name="vital_go_back">आपण खात्रीपूर्वक स्थापना थांबवू इच्छिता का</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">सुरू ठेवण्‍यासाठी पुनरारंभ करा</string>
+  <string name="vital_skip">वगळा</string>
+  <string name="vital_stop">थांबवा</string>
+  <string name="wifi_setting">Wi-Fi सेटिंग्स</string>
+</resources>

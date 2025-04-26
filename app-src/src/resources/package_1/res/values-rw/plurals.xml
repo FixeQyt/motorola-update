@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Igikoresho cyawe kirongera gitangire mu isegonda %1$d kugirango cyuzuze ivugurura.</item>
+    <item quantity="other">Igikoresho cyawe kirongera gitangire mu masegonda %1$d kugirango cyuzuze ivugurura.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">Ongera utangize mu isegonda %1$d</item>
+    <item quantity="other">ongera utangize mu masegonda %1$d</item>
+  </plurals>
+</resources>

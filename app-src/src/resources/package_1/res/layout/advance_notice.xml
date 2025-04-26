@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:gravity="center"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <LinearLayout android:gravity="center"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="@dimen/layout_margin"
+                android:layout_weight="1.0">
+    <ProgressBar android:id="@id/progress"
+                 android:paddingTop="@dimen/view_margin_top"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" />
+    <ImageView android:id="@id/imgAdvance"
+               android:layout_width="fill_parent"
+               android:layout_height="fill_parent" />
+  </LinearLayout>
+  <com.google.android.material.button.MaterialButton android:gravity="center"
+                        android:layout_gravity="start"
+                        android:id="@id/btnDone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/done"
+                        android:elevation="@dimen/elevation_size"
+                        ota:cornerRadius="@dimen/button_corner_radius"
+                        style="@style/MaterialButtonColoredStyle" />
+</LinearLayout>

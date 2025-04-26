@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Dispusitiwu amũyupirũga rãma %1$d segũdu upé pirí mupawa mukuirisawa.</item>
+    <item quantity="other">Dispusitiwu i amũyupirũga rãma %1$d segũdu ramẽ pirí mupawa mukuirisawa.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">Uyupirũ pisasupé %1$d mukũisawa upé</item>
+    <item quantity="other">Iyupirũira %1$d mukũisawa upé </item>
+  </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញក្នុងរយៈពេល %1$d វិនាទីដើម្បីបញ្ចប់ការអាប់ដេតនេះ។</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">ចាប់ផ្ដើមឡើងវិញនៅ %1$d វិនាទី​ទៀត</item>
+  </plurals>
+</resources>

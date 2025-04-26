@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">המכשיר שלך יופעל מחדש בעוד שנייה ⁦%1$d⁩ כדי להשלים את העדכון.</item>
+    <item quantity="two">המכשיר שלך יופעל מחדש בעוד ⁦%1$d⁩ שניות כדי להשלים את העדכון.</item>
+    <item quantity="many">המכשיר שלך יופעל מחדש בעוד ⁦%1$d⁩ שניות כדי להשלים את העדכון.</item>
+    <item quantity="other">המכשיר שלך יופעל מחדש בעוד ⁦%1$d⁩ שניות כדי להשלים את העדכון.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">הפעל מחדש בעוד שנייה %1$d</item>
+    <item quantity="two">הפעלה מחדש בעוד %1$d שניות</item>
+    <item quantity="many">הפעל מחדש בעוד %1$d שניות</item>
+    <item quantity="other">הפעל מחדש בעוד %1$d שניות</item>
+  </plurals>
+</resources>

@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Aktualizovať neskôr</string>
+  <string name="ab_download_now">Aktualizovať teraz</string>
+  <string name="ab_install_notification_paused_text">Inštalácia na pozadí bola pozastavená</string>
+  <string name="ab_install_notification_text">Inštalácia na pozadí</string>
+  <string name="ab_restart_fullscreen_text">Takmer hotovo! Reštart zariadenia potrvá iba približne 90 sekúnd. Aktualizácia je dostupná už %1$d dní.</string>
+  <string name="ab_restart_text">Takmer hotovo! Reštart zariadenia potrvá iba približne 90 sekúnd</string>
+  <string name="ab_restart_warning_os_mr">Aktualizácia systému je takmer dokončená. Zariadenie sa  </string>
+  <string name="ab_restart_warning_smr">Aktualizácia zabezpečenia je takmer dokončená. Zariadenie sa </string>
+  <string name="ab_warning_continues"> a aktualizácia sa dokončí.</string>
+  <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+  <string name="abc_action_bar_up_description">Prejsť nahor</string>
+  <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+  <string name="abc_action_mode_done">Hotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Zobraziť všetky</string>
+  <string name="abc_activitychooserview_choose_application">Vybrať aplikáciu</string>
+  <string name="abc_capital_off">VYP.</string>
+  <string name="abc_capital_on">ZAP.</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">odstrániť</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">medzerník</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Vyhľadať…</string>
+  <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+  <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+  <string name="abc_searchview_description_search">Hľadať</string>
+  <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+  <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+  <string name="abc_shareactionprovider_share_with">Zdieľať s</string>
+  <string name="abc_shareactionprovider_share_with_application">Zdieľať s aplikáciou %s</string>
+  <string name="abc_toolbar_collapse_description">Zbaliť</string>
+  <string name="abupdate_in_progress_status">Prebieha sťahovanie softvéru</string>
+  <string name="additional_charges_message">Sťahovanie bude pokračovať na mobilných údajoch. Môžu sa uplatňovať poplatky za údaje.</string>
+  <string name="alertSubText">Používa sa na kontrolu, stiahnutie a inštaláciu aktualizačného balíka</string>
+  <string name="alertText">Povoliť aktualizácie softvéru sieťovým operáciám</string>
+  <string name="alertTitle">Aktualizácie vyžadujú nasledujúce povolenie</string>
+  <string name="alert_dialog_cancel">Zastaviť inštaláciu</string>
+  <string name="alert_dialog_continue">Pokračovať v inštalácii</string>
+  <string name="alert_dialog_no">Nie</string>
+  <string name="alert_dialog_ok">Rozumiem</string>
+  <string name="alert_dialog_yes">Áno</string>
+  <string name="allocate_space_success">K dispozícii je dostatok miesta pre aktualizáciu.</string>
+  <string name="allow">Povoliť</string>
+  <string name="android_latest_sw_text">Používate najnovší softvér</string>
+  <string name="android_version">Verzia systému Android:</string>
+  <string name="app_name">Aktualizácia softvéru Motorola</string>
+  <string name="applied">Dátum:</string>
+  <string name="apply_bug_fix">Použiť na opravu chýb</string>
+  <string name="apply_os_update">Použiť pre všetky aktualizácie softvéru</string>
+  <string name="applying_patch">Inštaluje sa aktualizácia (krok %1$d z %2$d)  </string>
+  <string name="are_you_sure">Vypnúť inteligentné aktualizácie?</string>
+  <string name="are_you_sure_pop_up_text">Naozaj chcete vypnúť inteligentné aktualizácie? </string>
+  <string name="asc_campaign_assigned">Kampaň bola priradená</string>
+  <string name="asc_campaign_is_allowed">Aktualizácia firmvéru</string>
+  <string name="asc_campaign_is_blocked">Zámok firmvéru</string>
+  <string name="asc_campaign_not_assigned">Zariadenie nie je momentálne v kampani</string>
+  <string name="asc_campaign_status_prefix">
+Stav: </string>
+  <string name="asc_campaign_window_period_status">
+Doba aktualizácie: od %s do %s</string>
+  <string name="asc_sw_up_to_date"> až po najnovšiu verziu</string>
+  <string name="asc_target_version"> do verzie </string>
+  <string name="auth_title">Aktualizácia softvéru</string>
+  <string name="auto_download_cellualr_charges_warn">Pri sťahovaní aktualizácií prostredníctvom mobilnej siete sa môžu účtovať dodatočné poplatky</string>
+  <string name="auto_download_enable_cellular_future_updates">Chcete si tiež zvoliť možnosť mobilných dát pre budúce sťahovanie?</string>
+  <string name="auto_download_settings_title">Nastavenia automatického sťahovania</string>
+  <string name="auto_download_wifi_cellular">Automatické sťahovanie cez mobilnú sieť a sieť Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Automatické sťahovanie cez mobilnú sieť a Wi-Fi. Ak bude k dispozícii sieť Wi-Fi, bude sa používať prednostne. </string>
+  <string name="auto_download_wifi_only">Automatické sťahovanie iba cez sieť Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Automatické sťahovanie len cez Wi-Fi</string>
+  <string name="auto_install_notification_text">Zariadenie sa automaticky aktualizuje %1$s</string>
+  <string name="auto_time_set">Spustiť o:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Vzhľadom na svoju dôležitosť sa aktualizácia nainštaluje automaticky pomocou mobilných dát v %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Vzhľadom na svoju dôležitosť sa aktualizácia stiahne automaticky pomocou mobilných údajov dňa %1$s</string>
+  <string name="background_install_msg">Aktualizácia bude pokračovať, aj keď sa vrátite späť alebo zatvoríte toto okno</string>
+  <string name="background_install_text">Sťahuje a inštaluje sa aktualizácia. Zariadenie môžete pokojne používať ďalej.</string>
+  <string name="bad_connection">Žiadne pripojenie na internet</string>
+  <string name="bad_connection_text">Vyzerá to, že vaše zariadenie je momentálne odpojené od internetu. Ťuknite na spodné tlačidlo a skúste to znova.</string>
+  <string name="bg_install_cancel_confirm">Naozaj chcete zastaviť inštaláciu?</string>
+  <string name="bg_retried">Sťahovanie softvéru bolo prerušené. Budeme to skúšať ďalej…</string>
+  <string name="bg_suspended">Sťahovanie a inštalácia na pozadí sa znova spustia po obnovení pripojenia k sieti</string>
+  <string name="bg_suspended_non_adminapn">Čaká sa na sieť Wi-Fi alebo sieť s hodnotou nula, aby sa mohlo obnoviť sťahovanie a inštalácia na pozadí...</string>
+  <string name="bg_suspended_roaming">Inštalácia v pozadí pozastavená v dôsledku roamingovej siete. Na obnovenie inštalácie v pozadí zapnite pripojenie Wi-Fi.</string>
+  <string name="bg_suspended_wifi">Čaká sa na sieť Wi-Fi, aby sa mohlo obnoviť sťahovanie a inštalácia na pozadí</string>
+  <string name="bootloader_unlock_msg">Vaše zariadenie už nedostáva aktualizácie a môže byť vystavené bezpečnostným rizikám.</string>
+  <string name="bootloader_unlock_title">Žiadne aktualizácie k dispozícii</string>
+  <string name="call_notification_answer_action">Prijať</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Odmietnuť</string>
+  <string name="call_notification_hang_up_action">Zložiť</string>
+  <string name="call_notification_incoming_text">Prichádzajúci hovor</string>
+  <string name="call_notification_ongoing_text">Prebiehajúci hovor</string>
+  <string name="call_notification_screening_text">Preveruje sa prichádzajúci hovor</string>
+  <string name="cancel">Zrušiť</string>
+  <string name="cancel_download_notification">Zrušiť</string>
+  <string name="cancel_install">Zrušiť</string>
+  <string name="cancel_update_notification">Zrušiť</string>
+  <string name="check_for_updates_title">Skontrolovať aktualizácie</string>
+  <string name="check_update_badparam">Pri pokuse o aktualizáciu sa vyskytla chyba z dôvodu neúspešného prihlásenia.
+
+Skúste znova neskôr.</string>
+  <string name="check_update_checking">Vyhľadávajú sa aktualizácie...</string>
+  <string name="check_update_disabled_admin">Aktualizácie zariadenia riadené správcom IT</string>
+  <string name="check_update_downloading">Momentálne sa preberá aktualizácia.
+
+Keď sa preberanie dokončí, zobrazí sa oznam.</string>
+  <string name="check_update_fail">Vyskytla sa neočakávaná chyba.
+
+Zariadenie sa pokúsi zopakovať aktualizáciu na pozadí.</string>
+  <string name="check_update_internal">Nie je možné skontrolovať aktualizácie. Skúste to znova neskôr.</string>
+  <string name="check_update_net">Skontrolujte pripojenie na internet a skúste to znova</string>
+  <string name="check_update_net_vzw">Na kontrolu aktualizácii potrebujete dátové pripojenie. Na kontrolu pripojenia k sieti Wi-Fi prejdite na položky Nastavenia &gt; Sieť a internet &gt; Internet &gt; Wi-Fi.
+
+Ďalšie možnosti aktualizácií nájdete na stránke motorola.com/systemupdates.</string>
+  <string name="check_update_not_sys_user">Kontrola aktualizácie nie je povolená pre profily hostí</string>
+  <string name="check_update_processing">Kontaktuje sa náš server...
+Čakajte</string>
+  <string name="check_update_roaming">Aktualizácia systému je dostupná len v domácej sieti. 
+
+Prejdite na položky Nastavenia &gt; Sieť a internet &gt; Wi-Fi a nastavte pripojenie.</string>
+  <string name="check_update_storage_low">Aktualizácia nie je možná vzhľadom na nedostatok úložného priestoru v zariadení.</string>
+  <string name="check_update_temperror">Prevzatie aktualizácií nebolo možné v danom čase dokončiť.
+
+Skúste znova.</string>
+  <string name="check_update_text">Priebežná inštalácia aktualizácií zlepší zabezpečenie zariadenia a jeho výkon.</string>
+  <string name="check_update_title_downloading">Prebieha sťahovanie...</string>
+  <string name="check_update_vab_validation">Kontrola stavu aktualizácie overenia VAB
+Čakajte</string>
+  <string name="check_update_wifi_only">Aktualizácia systému je dostupná len cez rozhranie Wi-Fi.</string>
+  <string name="check_wifi_settings">Skontrolovať nastavenia Wi-Fi</string>
+  <string name="clear_space">Uvoľnite priestor</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Niektorá aplikácia vyžaduje aktualizáciu aplikácie Android Wear.</string>
+  <string name="common_android_wear_update_text">Táto aplikácia bude fungovať až po aktualizácii aplikácie Android Wear.</string>
+  <string name="common_android_wear_update_title">Aktualizujte aplikáciu Android Wear</string>
+  <string name="common_google_play_services_enable_button">Povoliť služby Google Play</string>
+  <string name="common_google_play_services_enable_text">Táto aplikácia bude fungovať až po povolení služieb Google Play.</string>
+  <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Vyžiadané aplikáciou %1$s</string>
+  <string name="common_google_play_services_install_button">Inštalovať služby Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte.</string>
+  <string name="common_google_play_services_install_text_tablet">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v tablete nemáte.</string>
+  <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
+  <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
+  <string name="common_google_play_services_needs_enabling_title">Aplikácia vyžaduje povolenie služieb Google Play.</string>
+  <string name="common_google_play_services_network_error_text">Pripojenie k službám Google Play si vyžaduje dátové pripojenie.</string>
+  <string name="common_google_play_services_network_error_title">Chyba siete</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Aplikácia vyžaduje inštaláciu služieb Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Aplikácia vyžaduje aktualizáciu služieb Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Neznámy problém so službami Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Niektoré vaše aplikácie vyžadujú služby Google Play, ktoré vo vašom zariadení nie sú podporované. Ak potrebujete pomoc, kontaktujte výrobcu.</string>
+  <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
+  <string name="common_google_play_services_update_button">Aktualizovať</string>
+  <string name="common_google_play_services_update_text">Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play.</string>
+  <string name="common_google_play_services_update_title">Aktualizovať služby Google Play</string>
+  <string name="common_open_on_phone">Otvoriť na telefóne</string>
+  <string name="common_signin_button_text">Prihlásiť sa</string>
+  <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
+  <string name="compatibility_failed_title">Overenie balíka zlyhalo.</string>
+  <string name="compatibility_verification_failure">Preberaný aktualizačný balík nie je kompatibilný s aktuálnou verziou softvéru v zariadení.</string>
+  <string name="compatibility_verification_failure_df">
+
+Overte si to u svojho koordinátora pre „Dogfood“.</string>
+  <string name="compatibility_verification_success">Overenie prebehlo úspešne</string>
+  <string name="completed"> Inštalácia je dokončená. Zobrazí sa výzva na reštartovanie telefónu (krok %1$d z %2$d)</string>
+  <string name="completed_install">Dokončené na %s</string>
+  <string name="connect_to_wifi">Pripojiť sa k Wi-Fi</string>
+  <string name="continue_button">Pokračovať</string>
+  <string name="critical_install_message_popup_os_mr">K dispozícii je dôležitá aktualizácia systému. Vyberte možnosť Inštalovať, aby prebehla aktualizácia. Ak tak neurobíte, aktualizácia sa spustí automaticky dňa %1$s.</string>
+  <string name="critical_install_message_popup_smr">K dispozícii je dôležitá aktualizácia zabezpečenia. Vyberte možnosť Inštalovať, aby prebehla aktualizácia. Ak tak neurobíte, aktualizácia sa spustí automaticky dňa %1$s.</string>
+  <string name="critical_install_message_screen">Táto aktualizácia sa automaticky nainštaluje dňa %1$s. Zabezpečte, aby bola na túto inštaláciu dostatočne nabitá batéria.</string>
+  <string name="critical_install_notification">Keďže ide o dôležitú aktualizáciu, zariadenie sa automaticky reštartuje %1$s
+Čas inštalácie: %2$d minút</string>
+  <string name="critical_restart_message_popup">Reštartujte zariadenie čo najskôr, aby sa táto dôležitá aktualizácia použila. Ak nemôžete, vaše zariadenie sa reštartuje automaticky o %1$s.</string>
+  <string name="critical_restart_message_screen">Keďže ide o dôležitú aktualizáciu, zariadenie sa automaticky reštartuje %1$s, ak ho dovtedy nereštartujete.</string>
+  <string name="critical_restart_notification">Táto aktualizácia je dôležitá. Ak nemôžete reštartovať teraz, vaše zariadenie sa reštartuje automaticky o %1$s</string>
+  <string name="critical_update_notification_title">Kritická aktualizácia</string>
+  <string name="current_version">Aktuálna verzia softvéru:</string>
+  <string name="custom_slot">Vlastný</string>
+  <string name="custom_time">Vlastný čas</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s o %s</string>
+  <string name="defer_count_expired">Rozumiem</string>
+  <string name="deny">Zamietnuť</string>
+  <string name="details">Podrobnosti</string>
+  <string name="device_corrupted_msg">Našli sme systémové chyby. Vieme, že je to nepríjemné, ale ak ich chcete opraviť, budete musieť navštíviť miestne servisné stredisko.
+
+Po oprave vášho telefónu na ňom môžeme pokračovať v aktualizáciách.</string>
+  <string name="device_corrupted_title">Nie je možné aktualizovať telefón</string>
+  <string name="dialog_alert_net_message">Skontrolujte pripojenie k dátovej sieti a skúste to znova.</string>
+  <string name="dialog_alert_net_title">Zariadenie je offline</string>
+  <string name="dialog_alert_title">Takmer vybitá batéria</string>
+  <string name="dialog_progress">Načítava sa…</string>
+  <string name="dl_options_mobile_only_warning">Odporúčame použitie Wi-Fi. Sťahovanie využitím mobilných dát alebo mobilných dát počas roamingu môže viesť k navýšeniu poplatkov.
+
+Stiahnutie tohto softvéru nebude mať vplyv na funkčnosť zariadenia.</string>
+  <string name="done">Hotovo</string>
+  <string name="dont_show_this_again">Viac nezobrazovať</string>
+  <string name="download_cancelled_title">Sťahovanie bolo zrušené</string>
+  <string name="download_deferred_status">Sťahovanie softvéru bolo odložené</string>
+  <string name="download_failed_status">Sťahovanie aktualizácie zlyhalo</string>
+  <string name="download_in_progress_status">Prebieha sťahovanie softvéru</string>
+  <string name="download_later_button">Prevziať neskôr</string>
+  <string name="download_no_button">Nie, ďakujem</string>
+  <string name="download_note">Počas inštalácie aktualizácie môžete svoje zariadenie naďalej normálne používať</string>
+  <string name="download_now">Stiahnuť teraz</string>
+  <string name="download_now_button">Stiahnuť</string>
+  <string name="download_options">Možnosti preberania</string>
+  <string name="download_progress_cancel_message">Ak budete chcieť aktualizáciu stiahnuť neskôr, prejdite na položky Nastavenia &gt; Aktualizácie systému</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Zostáva %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% stiahnutých (pozastavené)</string>
+  <string name="download_progress_text">Sťahovanie bude pokračovať, aj keď sa vrátite späť alebo zatvoríte toto okno</string>
+  <string name="download_subtitle">Čo treba vedieť pred stiahnutím</string>
+  <string name="download_text_whats_new">Zistite, čo je nové</string>
+  <string name="download_time_left">Zostáva %1$s</string>
+  <string name="download_version">Verzia: %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Na stiahnutie tejto aktualizácie sa vyžaduje pripojenie k sieti Wi-Fi. Sťahovanie bude pokračovať po obnovení pripojenia.</string>
+  <string name="downloaded_percentage">%1$s stiahnutých</string>
+  <string name="emergency_call_btn_txt">Tiesňové volanie</string>
+  <string name="emergency_call_text">Počas reštartu nebudete môcť uskutočňovať ani prijímať hovory, a to ani tiesňové!</string>
+  <string name="enable_wifi_error_txt">Pripojte sa k sieti Wi-Fi, ak si chcete stiahnuť túto aktualizáciu.</string>
+  <string name="eol_explore">Preskúmajte nové zariadenia</string>
+  <string name="eol_last_update_text">Oprava zabezpečenia:</string>
+  <string name="eol_promote">Pozrieť najnovšie propagačné akcie</string>
+  <string name="eol_title">Vaše zariadenie používa najnovší dostupný softvér.</string>
+  <string name="err_title_contact_server">Kontaktuje sa server…</string>
+  <string name="err_title_memory_low">Nedostatok pamäte...</string>
+  <string name="err_title_temp_error">Dočasná chyba</string>
+  <string name="err_title_update">Chyba aktualizácie</string>
+  <string name="error_code">Chybový kód: </string>
+  <string name="error_copyfail">Kopírovanie z umiestnenia na karte SD zlyhalo.</string>
+  <string name="error_disabled">Aktualizáciu sa nepodarilo stiahnuť. Balík aktualizácie momentálne nie je k dispozícii. 
+
+Nemusíte spraviť nič.</string>
+  <string name="error_fail">Ľutujeme, nastal problém s aktualizáciou %1$s. Neuskutočnili sa žiadne zmeny. Prejdite do časti Nastavenia &gt; Aktualizácia systému a skúste to znova.</string>
+  <string name="error_in_call_msg">Zariadenie sa teraz nemôže aktualizovať, pretože prebieha hovor</string>
+  <string name="error_in_call_title">Prebieha hovor</string>
+  <string name="error_install_title">Inštalácia zlyhala</string>
+  <string name="error_mismatch">Došlo k nezhode verzií. Aktualizácia prebehne znova. Keď bude k dispozícii, zobrazí sa oznam.</string>
+  <string name="error_mismatch_sd">Aktualizácia zlyhala. Táto verzia aktualizácie nie je určená pre váš telefón. 
+
+Prevezmite verziu určenú pre váš telefón a skúste znova.</string>
+  <string name="error_network">Pripojenie sa prerušilo. Skúste znova a manuálne overte dostupnosť aktualizácií pod položkou Nastavenia telefónu.</string>
+  <string name="error_reboot">Nepodarilo sa nám stiahnuť túto aktualizáciu. Ak budete chcieť aktualizáciu stiahnuť neskôr, reštartujte zariadenie a prejdite na položky Nastavenia &gt; Aktualizácie systému.</string>
+  <string name="error_resources">Nepodarilo sa nám stiahnuť túto aktualizáciu. Ak budete chcieť aktualizáciu stiahnuť neskôr, vyberte Nastavenia &gt; Aktualizácie systému.</string>
+  <string name="error_sdcard_resources_fail_removal">Vybrali ste kartu SD. Sťahovanie sa nedokončilo. 
+
+Znova vložte kartu SD a prejdite na položky Nastavenia &gt; Aktualizácie systému a skúste znova.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Sťahovanie sa nepodarilo dokončiť. Na karte SD nie je dostatok miesta. 
+
+Uvoľnite nejaké miesto, prejdite na položky Nastavenia &gt; Aktualizácie systému a skúste znova.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Sťahovanie spustite po vložení karty SD.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Sťahovanie spustite po pripojení karty SD. 
+
+Prejdite na položku Nastavenia &gt; Pamäť &gt; Pripojiť kartu SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Na karte SD nie je dostatok miesta na dokončenie sťahovania. 
+
+Uvoľnite %1$s miesta a prejdite na položky Nastavenia &gt; Aktualizácie systému a o stiahnutie sa pokúste znova.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Chyba</string>
+  <string name="error_sdcard_resources_warning">Softvérová aktualizácia sa preberá na kartu SD. 
+
+Kartu SD nevyberajte, pokým sa inštalácia nedokončí.
+
+
+</string>
+  <string name="error_server">Na serveri sa vyskytla chyba. Skúste to znova neskôr.</string>
+  <string name="error_space">Táto aktualizácia vyžaduje %1$s z dostupnej pamäte vášho zariadenia. 
+
+Odstráňte nepoužívané aplikácie alebo presuňte svoje fotografie a videá na iné úložné zariadenie a uvoľnite miesta %2$s . 
+
+Po dokončení môžete prejsť na položky Nastavenia &gt; Aktualizácie systému a kedykoľvek spustiť aktualizáciu.</string>
+  <string name="error_space_retry">Táto aktualizácia vyžaduje %1$s z dostupnej pamäte vášho zariadenia. 
+
+Odstráňte nepoužívané aplikácie alebo presuňte svoje fotografie a videá na iné úložné zariadenie a uvoľnite %2$s miesta.</string>
+  <string name="error_space_vab">Táto aktualizácia vyžaduje %1$s voľného miesta v zariadení. Na zabezpečenie úspešnej aktualizácie uvoľnite miesto v úložisku.</string>
+  <string name="error_space_vab_make_room_popup">Pred aktualizáciou musíte uvoľniť %1$s miesta. Skúste odstrániť nepoužívané aplikácie alebo presunúť fotografie a videá na iné úložisko.</string>
+  <string name="error_title">Sťahovanie neúspešné</string>
+  <string name="error_verify">Aktualizáciu sa nepodarilo riadne overiť. Skúste znova.</string>
+  <string name="failed">Neúspešné</string>
+  <string name="failed_in_roaming">Na získanie aktualizácií je nutné Wi-Fi pripojenie</string>
+  <string name="failure_process">Informácia nie je dostupná</string>
+  <string name="finalizing_patch">Aktualizácia sa dokončuje… (krok 5 z 6)  </string>
+  <string name="first_net_text">Nainštalujte aktualizácie alebo ich zariadenie automaticky nainštaluje pri ďalšom reštartovaní. Uistite sa, že úroveň nabitia batérie je vyššia ako %s</string>
+  <string name="forceInstallMessage">Táto aktualizácia sa automaticky nainštaluje dňa %1$s.</string>
+  <string name="force_install_message_screen">Ide o dôležitú aktualizáciu, preto ju nainštalujte do %1$s. V opačnom prípade sa inštalácia spustí automaticky, keď sa bude zariadenie najmenej používať. Zabezpečte, aby bola na túto inštaláciu dostatočne nabitá batéria.</string>
+  <string name="force_install_notification_message">Inštaláciu vykonajte do %1$s. V opačnom prípade vaše zariadenie spustí inštaláciu automaticky, keď sa bude najmenej používať.
+Čas inštalácie: %2$d minút</string>
+  <string name="force_restart_notification_message">Reštartujte do %1$s. V opačnom prípade sa vaše zariadenie reštartuje automaticky, keď sa bude najmenej používať.</string>
+  <string name="force_restart_screen_message">Ak reštart nevykonáte do %1$s, vaše zariadenie sa reštartuje automaticky, keď sa bude najmenej používať.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Rozumiem</string>
+  <string name="important_update_install_overdue_message">Čas naplánovaný na inštaláciu uplynul. Inštalácia sa spustí, keď vaše zariadenie splní kritériá.</string>
+  <string name="important_update_restart_overdue_message">Čas naplánovaný na reštart uplynul. Reštart sa spustí, keď vaše zariadenie splní kritériá.</string>
+  <string name="initiating_ota_service_msg">Čakajte...</string>
+  <string name="initiating_ota_service_title">Inicializuje sa proces aktualizácie softvéru</string>
+  <string name="install">Inštalovať</string>
+  <string name="install_after_one_hour">Inštalovať o 1 hodinu</string>
+  <string name="install_cancelled_title">Inštalácia bola zrušená</string>
+  <string name="install_deferred_status">Aktualizácia bola odložená na</string>
+  <string name="install_later">Inštalovať neskôr</string>
+  <string name="install_notify_sanity_call_msg">Zariadenie sa teraz nemôže nainštalovať, pretože prebieha hovor</string>
+  <string name="install_notify_sanity_maps_msg">Zariadenie sa teraz nemôže nainštalovať, pretože je zapnutá navigácia</string>
+  <string name="install_now">Inštalovať teraz</string>
+  <string name="install_postponed">Inštalácia odložená na neskôr</string>
+  <string name="install_progress_cancel_message">Ak budete chcieť aktualizáciu nainštalovať neskôr, vyberte Nastavenia &gt; Aktualizácie systému</string>
+  <string name="install_progress_paused_message">Dokončené na %s (pozastavené)</string>
+  <string name="install_time">Čas inštalácie: %1$d minút</string>
+  <string name="install_warning">Čo treba vedieť pred inštaláciou</string>
+  <string name="just_one_more_step">Už len jeden krok</string>
+  <string name="keep_it_on">Nechať zapnuté</string>
+  <string name="later_button">Pripomenúť neskôr</string>
+  <string name="learn_more_online_link">Dozvedieť sa viac na internete</string>
+  <string name="low_battery_bg_install">Inštalácia sa pozastavila pre nízku úroveň nabitia batérie. Inštalácia bude pokračovať, keď bude vaša batéria nabitá na viac ako 20 %.</string>
+  <string name="low_battery_download">Sťahovanie sa pozastavilo, pretože batéria je takmer úplne vybitá. Sťahovanie bude pokračovať po nabití zariadenia.</string>
+  <string name="low_battery_install">Ak chcete nainštalovať túto aktualizáciu, zariadenie nabite aspoň na %s</string>
+  <string name="make_space">Uvoľniť priestor</string>
+  <string name="mandatory_install_notification">Ak túto aktualizáciu systému čoskoro nenainštalujete, zmeškáte dôležité aktualizácie zabezpečenia, nové funkcie a opravy chýb.</string>
+  <string name="mandatory_restart_notification">Keďže ide o dôležitú aktualizáciu, reštartujte ju teraz. V opačnom prípade zmeškáte aktualizácie zabezpečenia, nové funkcie a opravy chýb.</string>
+  <string name="medium_channel_name">Oznámenie o stiahnutí softvéru</string>
+  <string name="merge_emergency_call_text">Počas reštartu nebudete môcť uskutočňovať ani prijímať hovory, a to ani tiesňové.</string>
+  <string name="merge_force_restart_text">Ak telefón nechcete reštartovať teraz, reštartuje sa automaticky pri nečinnosti.</string>
+  <string name="merge_progress_text">Keď bude aktualizácia dokončená, odošleme vám upozornenie</string>
+  <string name="merge_progress_title">Aktualizácia sa dokončuje…</string>
+  <string name="merge_restart_text">Aktualizácia sa dokončí po reštarte telefónu</string>
+  <string name="merge_restart_title">Znova reštartujte zariadenie</string>
+  <string name="merge_update_fail_notify_text">Našli sme systémové chyby. Ak ich chcete opraviť, navštívte servisné stredisko</string>
+  <string name="merge_update_fail_notify_title">Aktualizácia nebola úspešná</string>
+  <string name="merge_update_fail_text">Našli sme systémové chyby, kvôli ktorým nebudete môcť získavať aktualizácie. Ak to chcete vyriešiť, navštívte servisné stredisko.
+
+Medzitým môžete naďalej používať svoj telefón ako obvykle.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Vyberte účet</string>
+  <string name="multiple_account_alert">Ak chcete pokračovať v aktualizácii systému, vyberte účet %1$s.</string>
+  <string name="no_thanks">Nie, ďakujem</string>
+  <string name="no_thanks_message">Ak budete chcieť aktualizáciu stiahnuť neskôr, prejdite na položky Nastavenia &gt; Aktualizácie systému.</string>
+  <string name="no_updates_applied">Žiadne nainštalované aktualizácie</string>
+  <string name="not_now">Teraz nie</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Oprávnenie, ktoré aplikácie potrebujú mať, aby mohli komunikovať s funkciou otaservice</string>
+  <string name="package_size">Veľkosť na prevzatie: %1$s</string>
+  <string name="personalInfo_instruction">Neprídete o žiadne osobné informácie</string>
+  <string name="picker_cell_radio">Wi-Fi a mobilné dáta</string>
+  <string name="picker_title">Vyberte si, ako chcete prevziať túto aktualizáciu:</string>
+  <string name="picker_wifi_only_radio">Len Wi-Fi</string>
+  <string name="please_restart">Reštartujte zariadenie</string>
+  <string name="policy_set">Aktualizácia systému je zablokovaná. Ďalšie informácie vám poskytne správca zariadenia.</string>
+  <string name="press_back_again_to_exit">Ukončíte opätovným stlačením tlačidla SPÄŤ</string>
+  <string name="progress_copying_sd">Kopíruje sa aktualizácia</string>
+  <string name="progress_deffered">Sťahovanie sa spustí na Wi-Fi/mobilnej sieti.</string>
+  <string name="progress_downloading_ota">Preberá sa aktualizácia systému</string>
+  <string name="progress_downloading_security">Sťahovanie aktualizácie zabezpečenia</string>
+  <string name="progress_retried">Sťahovanie softvéru bolo prerušené. Budeme to skúšať znova…</string>
+  <string name="progress_suspended">Sťahovanie sa znova spustí po obnovení pripojenia k sieti</string>
+  <string name="progress_suspended_datasaver">Ak chcete pokračovať v sťahovaní, vypnite program na ukladanie údajov</string>
+  <string name="progress_suspended_no_adminapn">Čaká sa na sieť Wi-Fi alebo sieť s hodnotou nula, aby sa mohlo obnoviť preberanie</string>
+  <string name="progress_suspended_roaming">Preberanie pozastavené v dôsledku roamingovej siete. Na obnovenie preberania zapnite pripojenie Wi-Fi.</string>
+  <string name="progress_suspended_wifi">Čaká sa, kým Wi-Fi obnoví sťahovanie...</string>
+  <string name="progress_verify">Overuje sa, či je zariadenie pripravené na aktualizáciu…</string>
+  <string name="progress_verify_allocate_space">Kontroluje sa, či je k dispozícii dostatok miesta v úložisku.</string>
+  <string name="relative_date_time">%1$s o %2$s</string>
+  <string name="release_note_battery_desc">Aktualizácie na predĺženie životnosti batérie a jej výdrže</string>
+  <string name="release_note_battery_title">Batéria</string>
+  <string name="release_note_camera_desc">Tieto vylepšenia pomáhajú fotiť precíznejšie a zachytiť viac detailov</string>
+  <string name="release_note_camera_title">Fotoaparát</string>
+  <string name="release_note_cellular_desc">Tieto zmeny pomáhajú zlepšiť možnosti dátového pripojenia zariadenia</string>
+  <string name="release_note_cellular_title">Mobilná sieť</string>
+  <string name="release_note_charging_desc">Tieto aktualizácie zlepšujú nabíjanie</string>
+  <string name="release_note_charging_title">Nabíjanie</string>
+  <string name="release_note_generic_desc">Tieto zmeny zlepšujú celkový výkon zariadenia</string>
+  <string name="release_note_os_update_desc">Nové monochromatické motívy dodajú vášmu telefónu elegantný vzhľad a zvýraznia vašu tapetu. Zistite, ako aplikácie využívajú a zdieľajú vaše údaje, než im poskytnete povolenia. Zjednodušte si ovládanie zariadenia vďaka novým funkciám Androidu 14 pre sluchovo a zrakovo znevýhodnených.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Tieto zmeny pomáhajú zlepšiť výkon zariadenia</string>
+  <string name="release_note_performance_title">Výkon</string>
+  <string name="release_note_security_desc">Obsahuje záplaty zabezpečenia vydané do %1$s</string>
+  <string name="release_note_security_title">Aktualizácia zabezpečenia</string>
+  <string name="release_note_stability_desc">Obsahuje vylepšenia a opravy chýb, vďaka ktorým bude telefón ešte spoľahlivejší</string>
+  <string name="release_note_stability_title">Stabilita</string>
+  <string name="release_note_title">Táto aktualizácia zahŕňa</string>
+  <string name="release_note_wifi_desc">Obsahuje vylepšenia pripojenia k sieti Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Spoznajte všetky nové funkcie v Androide %1$s</string>
+  <string name="request_suspended_datasaver">Vypnite program na ukladanie údajov a začnite sťahovať</string>
+  <string name="request_suspended_no_network">Nemáte žiadne pripojenie k sieti, preto nemožno spustiť sťahovanie.</string>
+  <string name="restart_after_one_hour">Reštart o 1 hodinu</string>
+  <string name="restart_instruction_title">Čo treba vedieť pred reštartom</string>
+  <string name="restart_later">Neskôr</string>
+  <string name="restart_message">Reštartujte zariadenie na dokončenie aktualizácie</string>
+  <string name="restart_notification">Reštartovať</string>
+  <string name="restart_notification_text">Reštartujte zariadenie na dokončenie aktualizácie. Aktualizácia čaká už %1$d dní.</string>
+  <string name="restart_notify_sanity_call_msg">Zariadenie sa teraz nemôže reštartovať, pretože prebieha hovor</string>
+  <string name="restart_notify_sanity_maps_msg">Zariadenie sa teraz nemôže reštartovať, pretože je zapnutá navigácia</string>
+  <string name="restart_now">Reštartovať teraz</string>
+  <string name="restart_postponed">Reštart odložený</string>
+  <string name="restart_title">Reštartujte zariadenie</string>
+  <string name="resume_download_on_cellular">Použiť mobilné dáta</string>
+  <string name="retrieving_token">Overuje sa...</string>
+  <string name="sdcard_predownload_text">
+V tomto kroku skopírujete aktualizáciu do systémovej pamäte. Aktualizácia sa nainštaluje v ďalšom kroku. 
+
+Telefón pripojte k zdroju napájania, aby ste mali istotu, že sa vám nevybije batéria.</string>
+  <string name="search_menu_title">Hľadať</string>
+  <string name="secure_instruction">Tento proces je bezpečný</string>
+  <string name="security_download_notification_title">Vylepšite svoje zabezpečenie</string>
+  <string name="security_install_notification_text">Nová aktualizácia zabezpečenia je pripravená na inštaláciu</string>
+  <string name="security_install_title">Aktualizácia zabezpečenia je pripravená</string>
+  <string name="security_patch">Oprava zabezpečenia:</string>
+  <string name="security_update_low_storage_title">Bezpečnostná aktualizácia</string>
+  <string name="security_update_notification_text">Stiahnite si najnovšiu aktualizáciu zabezpečenia</string>
+  <string name="security_update_paused">Aktualizácia zabezpečenia pozastavená</string>
+  <string name="security_update_pending_notification_text">Stiahnite si najnovšiu aktualizáciu zabezpečenia. Aktualizácia čaká už %1$d dní.</string>
+  <string name="security_update_title">Bezpečnostná aktualizácia</string>
+  <string name="select_account">Vyberte účet %1$s</string>
+  <string name="selected_later_time_os_mr">Aktualizácia systému sa nainštaluje </string>
+  <string name="selected_later_time_smr">Aktualizácia zabezpečenia bude nainštalovaná dňa</string>
+  <string name="setting_sw_summary">Nainštalujte najnovší softvér </string>
+  <string name="setting_sw_title">Aktualizácie systému</string>
+  <string name="smart_cancel_update_toast_msg">Aktualizácia je znova naplánovaná na %1$s</string>
+  <string name="smart_end_time">Koniec</string>
+  <string name="smart_install_message_popup">Keďže ste povolili funkciu Inteligentná aktualizácia, zariadenie nainštaluje aktualizáciu automaticky o %1$s, ak ste ju dovtedy nenainštalovali. Zabezpečte, aby bola na túto inštaláciu dostatočne nabitá batéria.</string>
+  <string name="smart_restart_message_popup">Keďže ste povolili funkciu Inteligentná aktualizácia, zariadenie sa %1$s automaticky reštartuje, ak ho dovtedy nereštartujete.</string>
+  <string name="smart_settings_string">Aktualizácie sa sťahujú a inštalujú automaticky, keď máte pripojenie k sieti Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Aktualizácie sa sťahujú a inštalujú automaticky, keď máte pripojenie k sieti Wi-Fi alebo k mobilným dátam</string>
+  <string name="smart_settings_string_vzw">Aktualizácie sa sťahujú a inštalujú automaticky</string>
+  <string name="smart_start_time">Začiatok</string>
+  <string name="smart_to_string">do</string>
+  <string name="smart_update_advanced">Rozšírené nastavenia</string>
+  <string name="smart_update_note">V záujme vašej bezpečnosti sa všetky dôležité aktualizácie zabezpečenia stiahnu automaticky bez ohľadu na to, či je táto funkcia zapnutá alebo vypnutá</string>
+  <string name="smart_update_note_vzw">Pre vašu bezpečnosť sa všetky kritické aktualizácie stiahnu a nainštalujú automaticky bez ohľadu na to, či je táto funkcia zapnutá alebo vypnutá.</string>
+  <string name="smart_update_pop_up_text">Udržujte svoje zariadenie v bezpečí vďaka automatickým aktualizáciám</string>
+  <string name="smart_update_recommendation">Vyskúšajte inteligentné aktualizácie</string>
+  <string name="smart_update_suggestion_text">Zostaňte v bezpečí vďaka automatickým aktualizáciám</string>
+  <string name="smart_update_text_AB">Zabezpečte, aby vaše zariadenie fungovalo bezpečne a efektívne automatickou inštaláciou všetkých nových aktualizácií zabezpečenia a opráv chýb.</string>
+  <string name="smart_update_text_AB_vzw">Inteligentné aplikácie pomáhajú vášmu zariadeniu pracovať bezpečne a efektívne. Ak ich zapnete, všetky nové <b>aktualizácie zabezpečenia</b> sa automaticky stiahnu. Po stiahnutí sa vaše zariadenie reštartuje v čase, ktorý vyberiete.</string>
+  <string name="smart_update_text_classic">Inteligentné aplikácie pomáhajú vášmu zariadeniu pracovať bezpečne a efektívne. Ak ich zapnete, všetky nové <b>aktualizácie zabezpečenia a odstránenie chýb</b> sa automaticky stiahnu. Po stiahnutí sa vaše zariadenie reštartuje a nainštaluje v čase, ktorý vyberiete.</string>
+  <string name="smart_update_text_classic_vzw">Inteligentné aplikácie pomáhajú vášmu zariadeniu pracovať bezpečne a efektívne. Ak ich zapnete, všetky nové <b>aktualizácie zabezpečenia</b> sa automaticky stiahnu. Po stiahnutí sa vaše zariadenie reštartuje a nainštaluje v čase, ktorý vyberiete.</string>
+  <string name="smart_update_time_slot_text_AB">Vyberte začiatočný čas</string>
+  <string name="smart_update_time_slot_text_classic">Vyberte čas inštalácie</string>
+  <string name="smart_update_title">Inteligentné aktualizácie</string>
+  <string name="software_not_update_to">Softvér ešte nebol aktualizovaný na</string>
+  <string name="software_update_in_progress">Váš systém sa aktualizuje na verziu</string>
+  <string name="software_update_planned_summary">Skontrolované %1$s</string>
+  <string name="software_update_planned_title">Aktualizácia softvéru naplánovaná</string>
+  <string name="software_update_to">Systém bol aktualizovaný na</string>
+  <string name="sofware_version">Verzia softvéru:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Uvoľniť miesto pre aktualizáciu</string>
+  <string name="su_btn">Nastavenia</string>
+  <string name="su_text_off">Keď bude k dispozícii nový softvér, budete musieť zariadenie aktualizovať manuálne. Zapnite funkciu Inteligentné aktualizácie, aby bol proces automatický. Ťuknutím zobrazíte ďalšie podrobnosti.</string>
+  <string name="su_text_on">Inteligentné aktualizácie sa predvolene spúšťajú medzi 1:00 a 3:00. V nastaveniach môžete zmeniť čas aktualizácie alebo vypnúť funkciu Inteligentné aktualizácie. Ťuknutím zobrazíte ďalšie podrobnosti.</string>
+  <string name="su_title_off">Inteligentné aktualizácie sú vypnuté</string>
+  <string name="su_title_on">Inteligentné aktualizácie sú zapnuté</string>
+  <string name="system_download_notification_title">Aktualizácia softvéru</string>
+  <string name="system_install_notification_text">Aktualizácia systému je pripravená na inštaláciu</string>
+  <string name="system_install_title">Aktualizácia je pripravená</string>
+  <string name="system_pdl_notification_mr_title">Získajte opravy chýb a ďalšie vylepšenia</string>
+  <string name="system_pdl_notification_os_title">Android %1$s je tu!</string>
+  <string name="system_update">Aktualizácia softvéru</string>
+  <string name="system_update_desc">Chráňte svoje zariadenie pred bezpečnostnými hrozbami a získajte najnovšie funkcie Motorola a Android</string>
+  <string name="system_update_info_not_available">Nie je k dispozícii</string>
+  <string name="system_update_low_storage_text">Klepnutím sem overte dostupné miesto v pamäti a pokračujte ďalej.</string>
+  <string name="system_update_low_storage_title">Aktualizácia softvéru</string>
+  <string name="system_update_notification_os_text">Vyskúšajte nový Android</string>
+  <string name="system_update_notification_text">Stiahnuť nový softvér</string>
+  <string name="system_update_paused">Aktualizácia systému pozastavená</string>
+  <string name="system_update_pending_notification_os_text">Vyskúšajte nový Android. Aktualizácia čaká už %1$d dní.</string>
+  <string name="system_update_pending_notification_text">Stiahnuť nový softvér. Aktualizácia čaká už %1$d dní.</string>
+  <string name="system_update_settings_list_item_title">Aktualizácie systému</string>
+  <string name="system_update_status">Stav aktualizácie</string>
+  <string name="system_update_title">Aktualizácia softvéru</string>
+  <string name="tethered_permission_desc">Odoslať výsledky 3c aktualizácie</string>
+  <string name="tethered_update_result">Výsledok aktualizácie cez zdieľané internetové pripojenie</string>
+  <string name="time_picker_text">Spustiť inštaláciu bez pripomenutia</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Skúsiť znova</string>
+  <string name="turn_it_off">Vypnúť</string>
+  <string name="turn_it_on">Zapnúť</string>
+  <string name="turn_on_smart_updates">Zapnúť inteligentné aktualizácie</string>
+  <string name="update">Aktualizovať</string>
+  <string name="update_blocked_by_policy">Odosielanie je odložené na základe zásad správcu </string>
+  <string name="update_cancelled_status">Sťahovanie softvéru bolo zrušené</string>
+  <string name="update_fail_desc">Niečo nie je v poriadku</string>
+  <string name="update_fail_status">Aktualizácia zlyhala</string>
+  <string name="update_fail_sucancel_dm_status">Aktualizácia prerušená serverom</string>
+  <string name="update_fail_title">Aktualizácia nebola úspešná</string>
+  <string name="update_history_blank">Zatiaľ žiadna história</string>
+  <string name="update_history_src_target">Aktualizácia z %1$s na %2$s</string>
+  <string name="update_history_time">Aktualizované %1$s</string>
+  <string name="update_history_title">História aktualizácií</string>
+  <string name="update_history_version">Verzia softvéru %1$s</string>
+  <string name="update_info">Prebieha aktualizácia…</string>
+  <string name="update_postpone_policy">Aktualizácia je odložená na základe správcovskej politiky </string>
+  <string name="update_preference">Aktualizácia preferencií</string>
+  <string name="update_success_desc">Aktuálna verzia softvéru: %1$s</string>
+  <string name="update_success_desc_os">Blahoželáme! Úspešne ste nainštalovali systém Android %1$s. Všetko je pripravené na lepší, inteligentnejší a bezpečnejší zážitok zo systému Android.</string>
+  <string name="update_success_status">Aktualizácia prebehla úspešne</string>
+  <string name="update_title">Aktualizácia bola dokončená</string>
+  <string name="update_title_text">Užite si nový softvér!</string>
+  <string name="upto_date_title">Všetko vyzerá byť v poriadku</string>
+  <string name="urgent_channel_name">Upozornenie na aktualizáciu softvéru</string>
+  <string name="use_smart_updates">Zapnúť inteligentné aktualizácie</string>
+  <string name="vab_validation_update_failure_desc">Aktualizácia overenia VAB zlyhala</string>
+  <string name="vab_validation_update_failure_title">Overenie VAB zlyhalo</string>
+  <string name="vab_validation_update_success_desc">Blahoželáme! Aktualizácia overenia VAB bola úspešná</string>
+  <string name="vab_validation_update_success_title">Overenie VAB bolo úspešné</string>
+  <string name="verifying_patch">Aktualizácia bola nainštalovaná. Overuje sa, či bola aktualizácia úspešná… (krok 4 z 6)  </string>
+  <string name="verity_disabled_msg">Vaše zariadenie by mohlo podliehať rizikám zabezpečenia. Aktivujte nižšie uvedený príkaz za účelom pokračovania aktualizácie
+
+nástroja adb enable-verity</string>
+  <string name="verity_disabled_title">Zariadenie už nedostáva aktualizácie zabezpečenia</string>
+  <string name="verizon_failure_notification_text"> Vášmu zariadeniu sa nepodarilo nainštalovať túto aktualizáciu. Na jej inštaláciu použite nástroj Software Upgrade Assistant. Ťuknite pre viac informácii.</string>
+  <string name="verizon_failure_text">Ľutujeme, nastal problém s aktualizáciou vášho zariadenia. Neuskutočnili sa žiadne zmeny. Na aktualizáciu softvéru môžete použiť nástroj Software Upgrade Assistant.
+
+Pre inštaláciu nástroja Software Upgrade Assistant:
+
+1. Na pripojenie vášho zariadenia k počítaču použite kábel USB
+2. Keď vyskočí ponuka USB na vašom zariadení, vyberte ikonu nastavení vpravo hore
+3. Z USB preferencií vyberte Inštaláciu softvéru
+4. Prepnite na svoj počítač a vyhľadajte sprievodcu inštaláciou
+5. Prezeranie si sprievodcu
+
+nástroja Software Upgrade Assistant vám pomôže stiahnuť a nainštalovať si ju vo svojom zariadení.</string>
+  <string name="vital_applying_updates">Aplikujú sa aktualizácie…</string>
+  <string name="vital_bg_text">Môže to trvať niekoľko minút.</string>
+  <string name="vital_check_for_updates">Hľadajú sa aktualizácie…</string>
+  <string name="vital_check_for_updates_desc">Aktualizácie udržujú vaše zariadenie v bezpečí a zlepšujú jeho výkony.</string>
+  <string name="vital_done">Hotovo!</string>
+  <string name="vital_error_fail">Pri aktualizácii sa vyskytla chyba. Neuskutočnili sa žiadne zmeny.</string>
+  <string name="vital_go_back">Naozaj chcete zastaviť inštaláciu?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Reštartujte a pokračujte</string>
+  <string name="vital_skip">Preskočiť</string>
+  <string name="vital_stop">Zastaviť</string>
+  <string name="wifi_setting">Nastavenia Wi-Fi</string>
+</resources>

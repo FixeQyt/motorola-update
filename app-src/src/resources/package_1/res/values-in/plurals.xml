@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">Perangkat akan dimulai ulang dalam %1$d detik untuk menyelesaikan pembaruan.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">memulai ulang dalam %1$d detik</item>
+  </plurals>
+</resources>

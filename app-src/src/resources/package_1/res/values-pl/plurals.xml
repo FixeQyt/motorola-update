@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Urządzenie zostanie ponownie uruchomione po %1$d sek. w celu zakończenia aktualizacji.</item>
+    <item quantity="few">Urządzenie zostanie ponownie uruchomione po %1$d sek. w celu zakończenia aktualizacji.</item>
+    <item quantity="many">Urządzenie zostanie ponownie uruchomione po %1$d sek. w celu zakończenia aktualizacji.</item>
+    <item quantity="other">Urządzenie zostanie ponownie uruchomione po %1$d sek. w celu zakończenia aktualizacji.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">uruchomi się ponownie w ciągu %1$d s</item>
+    <item quantity="few">uruchomi się ponownie w ciągu %1$d s</item>
+    <item quantity="many">uruchomi się ponownie w ciągu %1$d s</item>
+    <item quantity="other">uruchomi się ponownie w ciągu %1$d s</item>
+  </plurals>
+</resources>

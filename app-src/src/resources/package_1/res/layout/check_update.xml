@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_marginStart="@dimen/heading_margin"
+              android:layout_marginEnd="@dimen/heading_margin" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <com.airbnb.lottie.LottieAnimationView android:id="@id/lottieAVCheckUpdate"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/top_margin"
+                        android:adjustViewBounds="true" />
+  <ScrollView android:scrollbarStyle="outsideOverlay"
+              android:layout_width="fill_parent"
+              android:layout_height="0.0dp"
+              android:layout_marginBottom="@dimen/activity_right_margin"
+              android:layout_weight="1.0">
+    <LinearLayout android:orientation="vertical"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content">
+      <TextView android:textSize="@dimen/title_text"
+                android:gravity="center"
+                android:id="@id/txtCheckUpdateTitle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/check_update_checking"
+                style="@style/TextAppearance.HeadingStyle" />
+      <TextView android:textSize="@dimen/update_text"
+                android:gravity="center"
+                android:id="@id/txtCheckUpdateBody"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_left_margin"
+                android:text="@string/check_update_text"
+                android:lineSpacingMultiplier="1.25"
+                android:layout_marginStart="@dimen/button_left_padding"
+                android:layout_marginEnd="@dimen/button_left_padding"
+                style="@style/TextAppearance.MaterialComponents.Body2" />
+    </LinearLayout>
+  </ScrollView>
+  <Button android:textStyle="bold"
+          android:gravity="center"
+          android:layout_gravity="bottom|center|end"
+          android:id="@id/btnDone"
+          android:visibility="gone"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/ok"
+          ota:cornerRadius="@dimen/button_corner_radius"
+          style="@style/MaterialButtonNoStyle" />
+</LinearLayout>

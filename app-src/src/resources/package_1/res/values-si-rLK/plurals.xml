@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">යාවත්කාලීන කිරීම සම්පූර්ණ කිරීමට ඔබගේ උපාංගය%1$d තත්පරයකින් නැවත පණ ගැන්වෙනු ඇත.</item>
+    <item quantity="other">යාවත්කාලීන කිරීම සම්පූර්ණ කිරීමට ඔබගේ උපාංගය %1$d තත්පරයකින් නැවත පණ ගැන්වෙනු ඇත.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">තත්පර %1$d කින් යළි ඇරඹේ</item>
+    <item quantity="other">තත්පර %1$d කින් යළි ඇරඹේ</item>
+  </plurals>
+</resources>

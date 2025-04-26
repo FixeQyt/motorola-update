@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<paths>
+  <cache-path name="policy_bundle"
+              path="policyBundle/" />
+  <files-path name="modem_file"
+              path="modem/" />
+</paths>

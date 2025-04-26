@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">อัปเดตในภายหลัง</string>
+  <string name="ab_download_now">อัปเดตทันที</string>
+  <string name="ab_install_notification_paused_text">การติดตั้งในพื้นหลังถูกหยุดชั่วคราว</string>
+  <string name="ab_install_notification_text">การติดตั้งในพื้นหลัง…</string>
+  <string name="ab_restart_fullscreen_text">เกือบจะสำเร็จแล้ว! การรีสตาร์ทอุปกรณ์ของคุณจะใช้เวลาเพียงประมาณ 90 วินาที การอัปเดตมีให้ใช้งานเป็นเวลา %1$d วัน</string>
+  <string name="ab_restart_text">เกือบจะสำเร็จแล้ว! การรีสตาร์ทอุปกรณ์ของคุณจะใช้เวลาเพียงประมาณ 90 วินาที</string>
+  <string name="ab_restart_warning_os_mr">การอัปเดตระบบของคุณเกือบเสร็จสมบูรณ์แล้ว อุปกรณ์ของคุณจะ  </string>
+  <string name="ab_restart_warning_smr">การอัปเดตความปลอดภัยของคุณเกือบเสร็จสมบูรณ์แล้ว อุปกรณ์ของคุณจะ </string>
+  <string name="ab_warning_continues"> เพื่อทำให้การอัปเดตเสร็จสิ้น</string>
+  <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+  <string name="abc_action_bar_up_description">กลับ</string>
+  <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+  <string name="abc_action_mode_done">เสร็จ</string>
+  <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+  <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+  <string name="abc_capital_off">ปิด</string>
+  <string name="abc_capital_on">เปิด</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">ลบ</string>
+  <string name="abc_menu_enter_shortcut_label">Enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">Space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">เมนู+</string>
+  <string name="abc_search_hint">ค้นหา…</string>
+  <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+  <string name="abc_searchview_description_query">คำค้นหา</string>
+  <string name="abc_searchview_description_search">ค้นหา</string>
+  <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+  <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+  <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+  <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+  <string name="abc_toolbar_collapse_description">ยุบ</string>
+  <string name="abupdate_in_progress_status">กำลังอัปเดตซอฟต์แวร์อยู่</string>
+  <string name="additional_charges_message">การดาวน์โหลดจะดำเนินต่อไปโดยใช้ข้อมูลมือถือ อาจมีการเรียกเก็บค่าบริการข้อมูล</string>
+  <string name="alertSubText">สิทธิ์นี้ใช้ในการตรวจหา ดาวน์โหลด และติดตั้งแพคเกจอัปเดต</string>
+  <string name="alertText">อนุญาตปฏิบัติการเครือข่ายสำหรับการอัปเดตซอฟต์แวร์</string>
+  <string name="alertTitle">การอัปเดตต้องการสิทธิ์ต่อไปนี้</string>
+  <string name="alert_dialog_cancel">หยุดการติดตั้ง</string>
+  <string name="alert_dialog_continue">ติดตั้งต่อไป</string>
+  <string name="alert_dialog_no">ไม่</string>
+  <string name="alert_dialog_ok">เข้าใจแล้ว</string>
+  <string name="alert_dialog_yes">ใช่</string>
+  <string name="allocate_space_success">หน่วยความจำที่ต้องการพร้อมสำหรับการอัปเดต</string>
+  <string name="allow">อนุญาต</string>
+  <string name="android_latest_sw_text">คุณกำลังใช้ซอฟต์แวร์ล่าสุด</string>
+  <string name="android_version">เวอร์ชันของ Android:</string>
+  <string name="app_name">การอัปเดตซอฟต์แวร์ Motorola</string>
+  <string name="applied">เปิด</string>
+  <string name="apply_bug_fix">นำไปใช้กับการแก้ไขข้อบกพร่อง</string>
+  <string name="apply_os_update">นำไปใช้กับการอัปเดตซอฟต์แวร์ทั้งหมด</string>
+  <string name="applying_patch">กำลังใช้การอัปเดต (ขั้นตอนที่ %1$d จาก %2$d)  </string>
+  <string name="are_you_sure">ปิดการอัปเดตอัจฉริยะหรือไม่</string>
+  <string name="are_you_sure_pop_up_text">คุณแน่ใจหรือไม่ว่าต้องการปิดการอัปเดตอัจฉริยะ </string>
+  <string name="asc_campaign_assigned">แคมเปญที่กำหนด</string>
+  <string name="asc_campaign_is_allowed">การอัปเดตเฟิร์มแวร์</string>
+  <string name="asc_campaign_is_blocked">ล็อกเฟิร์มแวร์</string>
+  <string name="asc_campaign_not_assigned">อุปกรณ์ไม่อยู่ในแคมเปญในขณะนี้</string>
+  <string name="asc_campaign_status_prefix">
+สถานะ: </string>
+  <string name="asc_campaign_window_period_status">
+หน้าต่างอัปเดต: จาก %s ถึง %s</string>
+  <string name="asc_sw_up_to_date"> เป็นเวอร์ชันล่าสุด</string>
+  <string name="asc_target_version"> เป็นเวอร์ชัน </string>
+  <string name="auth_title">การอัปเดตระบบ</string>
+  <string name="auto_download_cellualr_charges_warn">เมื่อดาวน์โหลดการอัปเดตผ่านเครือข่ายมือถือ อาจมีค่าใช้จ่ายเพิ่มเติม</string>
+  <string name="auto_download_enable_cellular_future_updates">คุณต้องการเลือกรับตัวเลือกข้อมูลมือถือสำหรับการดาวน์โหลดในอนาคตด้วยหรือไม่</string>
+  <string name="auto_download_settings_title">การตั้งค่าดาวน์โหลดอัตโนมัติ</string>
+  <string name="auto_download_wifi_cellular">ดาวน์โหลดอัตโนมัติผ่านข้อมูลมือถือและ Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">ดาวน์โหลดโดยอัตโนมัติผ่านข้อมูลมือถือและ Wi-Fi จะใช้ Wi-Fi ก่อนเมื่อมีให้บริการ </string>
+  <string name="auto_download_wifi_only">ดาวน์โหลดอัตโนมัติผ่าน Wi-Fi เท่านั้น</string>
+  <string name="auto_download_wifi_only_desc">ดาวน์โหลดอัตโนมัติผ่าน Wi-Fi เท่านั้น</string>
+  <string name="auto_install_notification_text">อุปกรณ์จะติดตั้งโดยอัตโนมัติใน %1$s</string>
+  <string name="auto_time_set">เริ่มเมื่อ:</string>
+  <string name="automatic_bg_install_on_cellular_warning">เนื่องจากเป็นการอัปเดตสำคัญ การอัปเดตนี้จะติดตั้งอัตโนมัติโดยใช้ข้อมูลมือถือในวันที่ %1$s</string>
+  <string name="automatic_download_on_cellular_warning">เนื่องจากเป็นการอัปเดตสำคัญ การอัปเดตนี้จะดาวน์โหลดอัตโนมัติโดยใช้ข้อมูลมือถือในวันที่ %1$s</string>
+  <string name="background_install_msg">การอัปเดตนี้จะดำเนินต่อหากคุณย้อนกลับหรือปิดหน้าต่าง</string>
+  <string name="background_install_text">การอัปเดตกำลังดาวน์โหลดและติดตั้ง คุณสามารถใช้งานอุปกรณ์ต่อได้แล้ว</string>
+  <string name="bad_connection">ไม่มีอินเตอร์เน็ต</string>
+  <string name="bad_connection_text">ดูเหมือนว่าอุปกรณ์ของคุณไม่ได้เชื่อมต่อกับอินเทอร์เน็ตอยู่ในขณะนี้ แตะปุ่มล่างสุดเพื่อลองอีกครั้ง</string>
+  <string name="bg_install_cancel_confirm">คุณแน่ใจหรือไม่ว่าต้องการหยุดการติดตั้งนี้</string>
+  <string name="bg_retried">การดาวน์โหลดซอฟต์แวร์ถูกขัดจังหวะ เราจะพยายามต่อไป…</string>
+  <string name="bg_suspended">กำลังรอการเชื่อมต่อข้อมูลเพื่อดาวน์โหลดและติดตั้งในพื้นหลังต่อ</string>
+  <string name="bg_suspended_non_adminapn">กำลังรอเครือข่าย Wi-Fi หรือซีโร่เรทเพื่อดาวน์โหลดและติดตั้งในพื้นหลังต่อ</string>
+  <string name="bg_suspended_roaming">การติดตั้งแบ็กกราวด์หยุดชั่วคราวเนื่องจากเครือข่ายโรมมิ่ง โปรดเปิด Wi-Fi เพื่อติดตั้งแบ็กกราวด์ต่อ</string>
+  <string name="bg_suspended_wifi">กำลังรอ Wi-Fi เพื่อดาวน์โหลดและติดตั้งในพื้นหลังต่อ</string>
+  <string name="bootloader_unlock_msg">อุปกรณ์ของคุณไม่ได้รับอัปเดตอีกต่อไปและอาจมีความเสี่ยงด้านความปลอดภัย</string>
+  <string name="bootloader_unlock_title">ไม่มีอัปเดตที่พร้อมใช้งาน</string>
+  <string name="call_notification_answer_action">รับสาย</string>
+  <string name="call_notification_answer_video_action">วิดีโอ</string>
+  <string name="call_notification_decline_action">ปฏิเสธ</string>
+  <string name="call_notification_hang_up_action">วางสาย</string>
+  <string name="call_notification_incoming_text">สายเรียกเข้า</string>
+  <string name="call_notification_ongoing_text">สายที่สนทนาอยู่</string>
+  <string name="call_notification_screening_text">กำลังสกรีนสายเรียกเข้า</string>
+  <string name="cancel">ยกเลิก</string>
+  <string name="cancel_download_notification">ยกเลิก</string>
+  <string name="cancel_install">ยกเลิก</string>
+  <string name="cancel_update_notification">ยกเลิก</string>
+  <string name="check_for_updates_title">ตรวจหาการอัปเดต</string>
+  <string name="check_update_badparam">การอัปเกรดเกิดข้อผิดพลาดเนื่องจากการเข้าสู่ระบบล้มเหลว
+
+โปรดลองอีกครั้งในภายหลัง</string>
+  <string name="check_update_checking">กำลังตรวจหาการอัปเดต...</string>
+  <string name="check_update_disabled_admin">การอัปเดตอุปกรณ์ควบคุมโดยผู้ดูแลระบบไอที</string>
+  <string name="check_update_downloading">กำลังดาวน์โหลดอัปเดตอยู่ในขณะนี้
+
+คุณจะได้รับแจ้งเมื่อการดาวน์โหลดเสร็จสมบูรณ์</string>
+  <string name="check_update_fail">เกิดข้อผิดพลาดที่ไม่คาดคิด
+
+อุปกรณ์จะลองอัปเดตเบื้องหลังอีกครั้ง</string>
+  <string name="check_update_internal">ไม่สามารถตรวจหาการอัปเดตได้ ลองอีกครั้งในภายหลัง</string>
+  <string name="check_update_net">โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ตของคุณและลองอีกครั้ง</string>
+  <string name="check_update_net_vzw">คุณต้องมีการเชื่อมต่อข้อมูลเพื่อตรวจหาการอัปเดต หากต้องการตรวจสอบการเชื่อมต่อ Wi-Fi ของคุณ ให้ไปที่ การตั้งค่า &gt; เครือข่ายและอินเทอร์เน็ต &gt; อินเทอร์เน็ต &gt; Wi-Fi
+
+คุณยังสามารถไปที่ motorola.com/systemupdates เพื่อดูตัวเลือกการอัปเดตอื่นๆ ได้เช่นกัน</string>
+  <string name="check_update_not_sys_user">ไม่อนุญาตให้ตรวจสอบการอัปเดตสำหรับโปรไฟล์ผู้เยี่ยมชม</string>
+  <string name="check_update_processing">กำลังติดต่อเซิร์ฟเวอร์ของเรา...
+โปรดรอ</string>
+  <string name="check_update_roaming">การอัปเดตระบบใช้งานได้ในเครือข่ายที่บ้านเท่านั้น 
+
+ไปที่ การตั้งค่า &gt; เครือข่ายและอินเทอร์เน็ต &gt; Wi-Fi เพื่อตั้งค่าการเชื่อมต่อทันที</string>
+  <string name="check_update_storage_low">ไม่สามารถอัปเดตได้เนื่องจากมีพื้นที่จัดเก็บบนอุปกรณ์ไม่เพียงพอ</string>
+  <string name="check_update_temperror">ไม่สามารถดาวน์โหลดอัปเดตได้ในขณะนี้
+
+โปรดลองอีกครั้ง</string>
+  <string name="check_update_text">การตรวจหาการอัปเดตเป็นครั้งคราวจะช่วยให้อุปกรณ์ของคุณปลอดภัยและปรับปรุงประสิทธิภาพ</string>
+  <string name="check_update_title_downloading">กำลังดาวน์โหลด...</string>
+  <string name="check_update_vab_validation">ตรวจหาสถานะการอัปเดตการตรวจสอบความถูกต้อง VAB
+โปรดรอ</string>
+  <string name="check_update_wifi_only">การอัปเดตระบบใช้งานได้ผ่าน Wi-Fi เท่านั้น</string>
+  <string name="check_wifi_settings">ตรวจสอบการตั้งค่า Wi-Fi</string>
+  <string name="clear_space">เพิ่มพื้นที่ว่าง</string>
+  <string name="cloud_picker_title">ตัวเลือกคลาวด์</string>
+  <string name="common_android_wear_notification_needs_update_text">แอปพลิเคชันรายการหนึ่งต้องการให้อัปเดตแอป Android Wear</string>
+  <string name="common_android_wear_update_text">แอปนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตแอป Android Wear</string>
+  <string name="common_android_wear_update_title">อัปเดต Android Wear</string>
+  <string name="common_google_play_services_enable_button">เปิดใช้งานบริการ Google Play</string>
+  <string name="common_google_play_services_enable_text">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะเปิดใช้งานบริการ Google Play</string>
+  <string name="common_google_play_services_enable_title">เปิดใช้งานบริการ Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">ขอโดย %1$s</string>
+  <string name="common_google_play_services_install_button">รับบริการ Google Play</string>
+  <string name="common_google_play_services_install_text_phone">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ</string>
+  <string name="common_google_play_services_install_text_tablet">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในแท็บเล็ตของคุณ</string>
+  <string name="common_google_play_services_install_title">รับบริการ Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">บัญชีที่ระบุไม่มีอยู่บนอุปกรณ์นี้ โปรดเลือกบัญชีอื่น</string>
+  <string name="common_google_play_services_invalid_account_title">บัญชีไม่ถูกต้อง</string>
+  <string name="common_google_play_services_needs_enabling_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีบริการ Google Play เพื่อเปิดใช้งาน</string>
+  <string name="common_google_play_services_network_error_text">ต้องมีการเขื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play</string>
+  <string name="common_google_play_services_network_error_title">ข้อผิดพลาดของเครือข่าย</string>
+  <string name="common_google_play_services_notification_needs_installation_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีการติดตั้งบริการ Google Play</string>
+  <string name="common_google_play_services_notification_needs_update_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีการอัปเดตสำหรับบริการ Google Play</string>
+  <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+  <string name="common_google_play_services_unknown_issue">ปัญหาที่ไม่รู้จักของบริการ Google Play</string>
+  <string name="common_google_play_services_unsupported_text">บริการ Google Play ซึ่งใช้งานในบางแอปพลิเคชัน ไม่ได้รับการสนับสนุนโดยอุปกรณ์ของคุณ โปรดติดต่อผู้ผลิตเพื่อขอรับความช่วยเหลือ</string>
+  <string name="common_google_play_services_unsupported_title">บริการ Google Play</string>
+  <string name="common_google_play_services_update_button">อัปเดต</string>
+  <string name="common_google_play_services_update_text">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+  <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+  <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+  <string name="common_signin_button_text">ลงชื่อใช้</string>
+  <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+  <string name="compatibility_failed_title">การยืนยันแพ็คเกจล้มเหลว</string>
+  <string name="compatibility_verification_failure">แพ็คเกจที่กำลังดาวน์โหลดไม่สามารถเข้ากันได้กับเวอร์ชันซอฟต์แวร์ปัจจุบันบนอุปกรณ์</string>
+  <string name="compatibility_verification_failure_df">
+
+โปรดตรวจสอบกับผู้ประสานงาน Dogfood ของคุณ</string>
+  <string name="compatibility_verification_success">ยืนยันสำเร็จ</string>
+  <string name="completed"> การติดตั้งเสร็จสมบูรณ์ คุณจะได้รับแจ้งให้รีสตาร์ทโทรศัพท์ (ขั้นตอนที่ %1$d จาก %2$d)</string>
+  <string name="completed_install">%s เสร็จสมบูรณ์</string>
+  <string name="connect_to_wifi">เชื่อมต่อ Wi-Fi</string>
+  <string name="continue_button">ดำเนินการต่อ</string>
+  <string name="critical_install_message_popup_os_mr">มีการอัปเดตระบบที่สำคัญ โปรดเลือก ติดตั้ง เพื่อใช้การอัปเดต หากไม่ การอัปเดตจะถูกใช้โดยอัตโนมัติในวันที่ %1$s</string>
+  <string name="critical_install_message_popup_smr">มีการอัปเดตความปลอดภัยที่สำคัญ โปรดเลือก ติดตั้ง เพื่อใช้การอัปเดต หากไม่ การอัปเดตจะถูกใช้โดยอัตโนมัติในวันที่ %1$s</string>
+  <string name="critical_install_message_screen">การอัปเดตที่สำคัญนี้จะติดตั้งโดยอัตโนมัติในวันที่ %1$s ตรวจสอบให้แน่ใจว่าคุณมีแบตเตอรี่เพียงพอสำหรับการติดตั้ง</string>
+  <string name="critical_install_notification">เนื่องจากการอัปเดตนี้มีความสำคัญ อุปกรณ์ของคุณจะติดตั้งโดยอัตโนมัติในวันที่ %1$s
+เวลาติดตั้ง: %2$d นาที</string>
+  <string name="critical_restart_message_popup">หากต้องการใช้การอัปเดตที่สำคัญนี้ โปรดรีสตาร์ทโดยเร็วที่สุด หากคุณไม่รีสตาร์ทเอง อุปกรณ์ของคุณจะรีสตาร์ทโดยอัตโนมัติในวันที่ %1$s</string>
+  <string name="critical_restart_message_screen">เนื่องจากนี่เป็นการอัปเดตที่สำคัญ อุปกรณ์ของคุณจะรีสตาร์ทโดยอัตโนมัติในวันที่ %1$s หากคุณยังไม่ได้รีสตาร์ทอุปกรณ์จนถึงช่วงเวลานั้น</string>
+  <string name="critical_restart_notification">การอัปเดตนี้มีความสำคัญ หากคุณไม่สามารถรีสตาร์ทได้ตอนนี้ อุปกรณ์ของคุณจะรีสตาร์ทโดยอัตโนมัติในวันที่ %1$s</string>
+  <string name="critical_update_notification_title">การอัปเดตที่สำคัญ</string>
+  <string name="current_version">เวอร์ชันซอฟต์แวร์ปัจจุบัน:</string>
+  <string name="custom_slot">แบบกำหนดเอง</string>
+  <string name="custom_time">เวลาที่กำหนดเอง</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s เวลา %s</string>
+  <string name="defer_count_expired">เข้าใจแล้ว</string>
+  <string name="deny">ปฏิเสธ</string>
+  <string name="details">รายละเอียด</string>
+  <string name="device_corrupted_msg">เราพบปัญหาในระบบบางประการ เราทราบว่ามันเป็นเรื่องน่าปวดหัว แต่คุณจะต้องไปที่ศูนย์บริการในพื้นที่ของคุณเพื่อแก้ไขปัญหาเหล่านี้
+
+หลังจากที่โทรศัพท์ของคุณได้รับการแก้ไขแล้ว เราจะดำเนินการอัปเดตบนโทรศัพท์ของคุณต่อไปได้</string>
+  <string name="device_corrupted_title">ไม่สามารถอัปเดตโทรศัพท์ได้</string>
+  <string name="dialog_alert_net_message">โปรดตรวจสอบการเชื่อมต่อ Wi-Fi หรือข้อมูลผ่านมือถือแล้วลองอีกครั้ง</string>
+  <string name="dialog_alert_net_title">อุปกรณ์ของคุณออฟไลน์</string>
+  <string name="dialog_alert_title">แบตเตอรี่ใกล้หมด</string>
+  <string name="dialog_progress">กำลังโหลด…</string>
+  <string name="dl_options_mobile_only_warning">ขอแนะนำให้ใช้ Wi-Fi เนื่องจากการดาวน์โหลดด้วยข้อมูลมือถือหรือการใช้ข้อมูลมือถือขณะโรมมิ่งอาจมีการเรียกเก็บค่าใช้จ่ายเพิ่มเติม
+
+การดาวน์โหลดซอฟต์แวร์นี้จะไม่ส่งผลกระทบต่อการทำงานของอุปกรณ์ของคุณ</string>
+  <string name="done">เสร็จสิ้น</string>
+  <string name="dont_show_this_again">ไม่ต้องแสดงอีก</string>
+  <string name="download_cancelled_title">การดาวน์โหลดถูกยกเลิก</string>
+  <string name="download_deferred_status">การดาวน์โหลดซอฟต์แวร์ถูกเลื่อนออกไปเมื่อ</string>
+  <string name="download_failed_status">ไม่สามารถดาวน์โหลดการอัปเดตเมื่อ</string>
+  <string name="download_in_progress_status">กำลังดาวน์โหลดซอฟต์แวร์อยู่</string>
+  <string name="download_later_button">ดาวน์โหลดภายหลัง</string>
+  <string name="download_no_button">ไม่เป็นไร ขอบคุณ</string>
+  <string name="download_note">คุณสามารถใช้อุปกรณ์ของคุณต่อไปได้ในขณะติดตั้งการอัปเดต</string>
+  <string name="download_now">ดาวน์โหลดตอนนี้</string>
+  <string name="download_now_button">ดาวน์โหลด</string>
+  <string name="download_options">ตัวเลือกดาวน์โหลด</string>
+  <string name="download_progress_cancel_message">หากคุณต้องการดาวน์โหลดการอัปเดตนี้ในภายหลัง ให้ไปที่ การตั้งค่า &gt; การอัปเดตระบบ</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">เหลืออีก %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">ดาวน์โหลดแล้ว %s%% (หยุดชั่วคราว)</string>
+  <string name="download_progress_text">การดาวน์โหลดนี้จะดำเนินต่อหากคุณย้อนกลับหรือปิดหน้าต่าง</string>
+  <string name="download_subtitle">ข้อควรรู้ก่อนดาวน์โหลด</string>
+  <string name="download_text_whats_new">ดูว่ามีอะไรใหม่</string>
+  <string name="download_time_left">เหลืออีก %1$s</string>
+  <string name="download_version">เวอร์ชัน %1$s — %2$s</string>
+  <string name="download_wifi_only_error">จำเป็นต้องใช้ Wi-Fi เพื่อดาวน์โหลดการอัปเดตนี้ การดาวน์โหลดจะดำเนินต่อเมื่อการเชื่อมต่อของคุณได้รับการคืนค่า</string>
+  <string name="downloaded_percentage">ดาวน์โหลดแล้ว %1$s</string>
+  <string name="emergency_call_btn_txt">ฉุกเฉิน</string>
+  <string name="emergency_call_text">คุณจะไม่สามารถโทรออกหรือรับสาย รวมถึงการโทรฉุกเฉิน ระหว่างการรีบูต!</string>
+  <string name="enable_wifi_error_txt">เชื่อมต่อกับ Wi-Fi เพื่อดาวน์โหลดการอัปเดตนี้</string>
+  <string name="eol_explore">สำรวจอุปกรณ์ใหม่</string>
+  <string name="eol_last_update_text">ซอฟต์แวร์แก้ไขความปลอดภัย:</string>
+  <string name="eol_promote">ดูโปรโมชันล่าสุด</string>
+  <string name="eol_title">อุปกรณ์ของคุณกำลังใช้ซอฟต์แวร์ล่าสุดที่มีอยู่ในตอนนี้</string>
+  <string name="err_title_contact_server">กำลังติดต่อเซิร์ฟเวอร์…</string>
+  <string name="err_title_memory_low">หน่วยความจำเหลือน้อย…</string>
+  <string name="err_title_temp_error">ข้อผิดพลาดชั่วคราว</string>
+  <string name="err_title_update">ข้อผิดพลาดการอัปเดต</string>
+  <string name="error_code">รหัสข้อผิดพลาด: </string>
+  <string name="error_copyfail">การคัดลอกจากตำแหน่งการ์ด SD ล้มเหลว</string>
+  <string name="error_disabled">ไม่สามารถดาวน์โหลดอัปเดต แพคเกจอัปเดตยังไม่พร้อมใช้งานในขณะนี้ 
+
+ไม่ต้องดำเนินการต่อ</string>
+  <string name="error_fail">ขออภัย เกิดปัญหาในการอัปเดต %1$s ของคุณ ไม่มีการเปลี่ยนแปลงใดเกิดขึ้น โปรดลองอีกครั้งโดยไปที่การตั้งค่า &gt; การอัปเดตระบบ</string>
+  <string name="error_in_call_msg">อุปกรณ์ไม่สามารถอัปเดตได้ในขณะนี้เนื่องจากกำลังใช้สาย</string>
+  <string name="error_in_call_title">กำลังใช้สาย</string>
+  <string name="error_install_title">การติดตั้งล้มเหลว</string>
+  <string name="error_mismatch">เกิดเวอร์ชันไม่ตรงกัน อัพเดตจะปรากฏอีกครั้ง หากมีอัพเดตอยู่ คุณจะได้รับแจ้ง</string>
+  <string name="error_mismatch_sd">ไม่สามารถอัพเดต เวอร์ชันของอัพเดตไม่ตรงกับโทรศัพท์ของคุณ 
+
+โปรดดาวน์โหลดเวอร์ชันที่ถูกต้องสำหรับโทรศัพท์ของคุณและลองอีกครั้ง</string>
+  <string name="error_network">การเชื่อมต่อขาดหายไป โปรดลองอีกครั้งโดยการตรวจสอบอัพเดตด้วยตนเองผ่านการตั้งค่าของโทรศัพท์</string>
+  <string name="error_reboot">เราไม่สามารถดาวน์โหลดการอัปเดตนี้ได้ หากคุณต้องการรับการอัปเดตนี้ในภายหลัง โปรดรีสตาร์ทอุปกรณ์ของคุณแล้วไปที่ การตั้งค่า &gt; การอัปเดตระบบ</string>
+  <string name="error_resources">เราไม่สามารถดาวน์โหลดการอัปเดตนี้ได้ หากคุณต้องการรับการอัปเดตนี้ในภายหลัง ให้ไปที่ การตั้งค่า &gt; การอัปเดตระบบ</string>
+  <string name="error_sdcard_resources_fail_removal">การ์ด SD ถูกถอดออก กระบวนการดาวน์ไม่สำเร็จ
+
+โปรดใส่การ์ด SD กลับเข้าไป แล้วไปที่ การตั้งค่า &gt; การอัปเดตระบบ เพื่อลองอีกครั้ง
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">ดาวน์โหลดไม่สำเร็จ พื้นที่ว่างบนการ์ด SD ไม่เพียงพอ 
+
+เพิ่มพื้นที่ว่าง และไปที่ การตั้งค่า &gt; การอัปเดตระบบ เพื่อลองอีกครั้ง
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">โปรดใส่การ์ด SD เพื่อเริ่มการดาวน์โหลด
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">โปรดติดตั้งการ์ด SD เพื่อเริ่มการดาวน์โหลด 
+
+ไปที่ การตั้งค่า &gt; การจัดเก็บ &gt; ติดตั้งการ์ด SD
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">มีพื้นที่บนการ์ด SD ไม่เพียงพอสำหรับการดาวน์โหลด 
+
+โปรดเพิ่มพื้นที่ว่าง %1$s และไปที่ การตั้งค่า &gt; การอัปเดตระบบ เพื่อลองดาวน์โหลดอีกครั้ง
+
+
+</string>
+  <string name="error_sdcard_resources_title">ข้อผิดพลาด</string>
+  <string name="error_sdcard_resources_warning">กำลังดาวน์โหลดซอฟต์แวร์อัพเดตลงในการ์ด SD 
+
+กรุณาอย่าถอดการ์ด SD จนกว่าจะติดตั้งสำเร็จ
+
+
+</string>
+  <string name="error_server">เกิดข้อผิดพลาดบนเซิร์ฟเวอร์ โปรดลองอีกครั้งในภายหลัง</string>
+  <string name="error_space">การอัปเดตนี้ต้องการพื้นที่ว่าง %1$s ในอุปกรณ์ของคุณ 
+
+โปรดลบแอปที่ไม่ใช้หรือย้ายภาพถ่ายและวิดีโอไปยังอุปกรณ์จัดเก็บอื่น เพื่อเพิ่มพื้นที่ว่าง %2$s 
+
+เมื่อเสร็จสิ้นแล้ว คุณสามารถไปที่ การตั้งค่า &gt; การอัปเดตระบบ เพื่อเริ่มการอัปเดตได้ทุกเวลา</string>
+  <string name="error_space_retry">การอัปเดตนี้ต้องการพื้นที่ว่าง %1$s ในอุปกรณ์ของคุณ 
+
+โปรดลบแอปที่ไม่ใช้หรือย้ายภาพถ่ายและวิดีโอไปยังอุปกรณ์จัดเก็บอื่นเพื่อเพิ่มพื้นที่ว่าง %2$s</string>
+  <string name="error_space_vab">การอัปเดตนี้ต้องการพื้นที่ว่าง %1$s ในอุปกรณ์ของคุณ โปรดเพิ่มพื้นที่ว่างในหน่วยความจำเพื่อให้การอัปเดตสำเร็จ</string>
+  <string name="error_space_vab_make_room_popup">คุณต้องเพิ่มพื้นที่ว่าง %1$s ก่อนการอัปเดต ลองลบแอปที่ไม่ได้ใช้งานหรือย้ายภาพถ่ายและวิดีโอไปยังอุปกรณ์จัดเก็บข้อมูลอื่น</string>
+  <string name="error_title">ดาวน์โหลดล้มเหลว</string>
+  <string name="error_verify">อัพเดตไม่ได้รับการตรวจสอบอย่างถูกต้อง โปรดลองอีกครั้ง</string>
+  <string name="failed">ล้มเหลว</string>
+  <string name="failed_in_roaming">จำเป็นต้องใช้ Wi-Fi สำหรับการอัปเดต</string>
+  <string name="failure_process">ข้อมูลไม่พร้อมใช้งาน</string>
+  <string name="finalizing_patch">กำลังสิ้นสุดการอัปเดต… (ขั้นตอนที่ 5 จาก 6)  </string>
+  <string name="first_net_text">โปรดติดตั้งการอัปเดต ไม่เช่นนั้นอุปกรณ์จะติดตั้งโดยอัตโนมัติในการรีบูตครั้งถัดไป ตรวจสอบว่าระดับแบตเตอรี่มากกว่า %s</string>
+  <string name="forceInstallMessage">การอัปเดตนี้จะติดตั้งโดยอัตโนมัติในวันที่ %1$s</string>
+  <string name="force_install_message_screen"> นี่เป็นการอัปเดตที่สำคัญ ดังนั้นโปรดติดตั้งภายใน %1$s มิฉะนั้น จะมีการติดตั้งโดยอัตโนมัติในเวลาที่อุปกรณ์ของคุณมีการใช้งานน้อยที่สุด ตรวจสอบให้แน่ใจว่าคุณมีอายุการใช้งานแบตเตอรี่เพียงพอสำหรับการติดตั้ง</string>
+  <string name="force_install_notification_message">โปรดติดตั้งภายใน %1$s มิฉะนั้น อุปกรณ์ของคุณจะติดตั้งโดยอัตโนมัติในเวลาที่มีการใช้งานน้อยที่สุด
+เวลาติดตั้ง: %2$d นาที</string>
+  <string name="force_restart_notification_message">โปรดรีสตาร์ทภายใน %1$s มิฉะนั้น อุปกรณ์ของคุณจะรีสตาร์ทโดยอัตโนมัติในเวลาที่มีการใช้งานน้อยที่สุด</string>
+  <string name="force_restart_screen_message">หากคุณไม่ได้รีสตาร์ทภายใน %1$s อุปกรณ์ของคุณจะรีสตาร์ทโดยอัตโนมัติในเวลาที่มีการใช้งานน้อยที่สุด</string>
+  <string name="google">Google</string>
+  <string name="got_it">เข้าใจแล้ว</string>
+  <string name="important_update_install_overdue_message">เวลาที่กำหนดไว้สำหรับการติดตั้งได้ผ่านไปแล้ว การติดตั้งจะเริ่มขึ้นอีกครั้งเมื่ออุปกรณ์ของคุณตรงตามเกณฑ์</string>
+  <string name="important_update_restart_overdue_message">เวลาที่กำหนดไว้สำหรับการรีสตาร์ทได้ผ่านไปแล้ว อุปกรณ์จะรีสตาร์ทเมื่อตรงตามเกณฑ์</string>
+  <string name="initiating_ota_service_msg">โปรดรอ...</string>
+  <string name="initiating_ota_service_title">กำลังเริ่มกระบวนการอัปเดตซอฟต์แวร์</string>
+  <string name="install">ติดตั้ง</string>
+  <string name="install_after_one_hour">ติดตั้งใน 1 ชั่วโมง</string>
+  <string name="install_cancelled_title">ยกเลิกการติดตั้งแล้ว</string>
+  <string name="install_deferred_status">การอัปเดตถูกเลื่อนออกไปเป็น</string>
+  <string name="install_later">ติดตั้งภายหลัง</string>
+  <string name="install_notify_sanity_call_msg">อุปกรณ์ไม่สามารถติดตั้งได้ในขณะนี้เนื่องจากอยู่ระหว่างการโทร</string>
+  <string name="install_notify_sanity_maps_msg">อุปกรณ์ไม่สามารถติดตั้งได้ในขณะนี้เนื่องจากการนำทางเปิดอยู่</string>
+  <string name="install_now">ติดตั้งทันที</string>
+  <string name="install_postponed">การติดตั้งถูกเลื่อนออกไป</string>
+  <string name="install_progress_cancel_message">หากคุณต้องการติดตั้งการอัปเดตนี้ในภายหลัง ให้ไปที่ การตั้งค่า &gt; การอัปเดตระบบ</string>
+  <string name="install_progress_paused_message">เสร็จสมบูรณ์แล้ว %s (ถูกหยุดชั่วคราว)</string>
+  <string name="install_time">เวลาติดตั้ง: %1$d นาที</string>
+  <string name="install_warning">ข้อควรรู้ก่อนติดตั้ง</string>
+  <string name="just_one_more_step">อีกขั้นตอนเดียวเท่านั้น</string>
+  <string name="keep_it_on">เปิดต่อไป</string>
+  <string name="later_button">เตือนฉันภายหลัง</string>
+  <string name="learn_more_online_link">เรียนรู้เพิ่มเติมออนไลน์</string>
+  <string name="low_battery_bg_install">การติดตั้งถูกหยุดชั่วคราวเนื่องจากแบตเตอรี่ต่ำ การติดตั้งจะดำเนินการต่อเมื่อแบตเตอรี่ของคุณเกิน 20%</string>
+  <string name="low_battery_download">การดาวน์โหลดถูกหยุดชั่วคราวเนื่องจากแบตเตอรี่ต่ำ การดาวน์โหลดจะดำเนินต่อเมื่ออุปกรณ์ของคุณได้รับการชาร์จ</string>
+  <string name="low_battery_install">โปรดชาร์จอุปกรณ์ของคุณอย่างน้อย %s ก่อนติดตั้งการอัปเดตนี้</string>
+  <string name="make_space">เพิ่มพื้นที่ว่าง</string>
+  <string name="mandatory_install_notification">หากคุณไม่ติดตั้งการอัปเดตระบบนี้ในเร็วๆนี้ คุณจะพลาดการอัปเดตความปลอดภัยที่สำคัญ รวมถึงคุณสมบัติใหม่ๆ และการแก้ไขข้อบกพร่อง</string>
+  <string name="mandatory_restart_notification">เนื่องจากเป็นการอัปเดตสำคัญ โปรดรีสตาร์ททันที มิฉะนั้นคุณจะพลาดการอัปเดตความปลอดภัย รวมถึงคุณสมบัติใหม่ๆ และการแก้ไขข้อบกพร่อง</string>
+  <string name="medium_channel_name">ตัวแจ้งเตือนดาวน์โหลดซอฟต์แวร์</string>
+  <string name="merge_emergency_call_text">ในระหว่างการรีสตาร์ท คุณจะไม่สามารถโทรออกหรือรับสายได้ รวมถึงการโทรฉุกเฉิน</string>
+  <string name="merge_force_restart_text">หากคุณไม่ต้องการรีสตาร์ทตอนนี้ โทรศัพท์ของคุณจะรีสตาร์ทโดยอัตโนมัติเมื่อไม่ได้ใช้งาน</string>
+  <string name="merge_progress_text">เมื่อการอัปเดตเสร็จสมบูรณ์ เราจะส่งการแจ้งเตือนให้คุณทราบ</string>
+  <string name="merge_progress_title">เสร็จสิ้นการอัปเดต…</string>
+  <string name="merge_restart_text">การอัปเดตจะเสร็จสมบูรณ์หลังจากรีสตาร์ทโทรศัพท์ของคุณ</string>
+  <string name="merge_restart_title">โปรดรีสตาร์ทอีกครั้ง</string>
+  <string name="merge_update_fail_notify_text">เราพบปัญหาในระบบบางประการ กรุณาเยี่ยมชมศูนย์บริการของคุณเพื่อแก้ไขปัญหา</string>
+  <string name="merge_update_fail_notify_title">อัปเดตล้มเหลว</string>
+  <string name="merge_update_fail_text">เราพบปัญหาในระบบบางประการซึ่งจะทำให้คุณไม่สามารถรับการอัปเดตได้ กรุณาเยี่ยมชมศูนย์บริการของคุณเพื่อแก้ไขปัญหานี้
+
+ในระหว่างนี้คุณสามารถใช้งานโทรศัพท์ของคุณได้ตามปกติ</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">เลือกบัญชี</string>
+  <string name="multiple_account_alert">เลือก%1$sบัญชีเพื่ออัปเดตระบบต่อไป</string>
+  <string name="no_thanks">ไม่เป็นไร ขอบคุณ</string>
+  <string name="no_thanks_message">หากคุณต้องการรับการอัปเดตนี้ในภายหลัง ให้ไปที่ การตั้งค่า &gt; การอัปเดตระบบ</string>
+  <string name="no_updates_applied">ไม่มีอัปเดตที่ใช้</string>
+  <string name="not_now">ข้ามไปก่อน</string>
+  <string name="ok">ตกลง</string>
+  <string name="otaservice_perm_desc">สิทธิ์ที่แอปฯ ต้องมีเพื่อโต้ตอบกับ otaservice</string>
+  <string name="package_size">ขนาดดาวน์โหลด: %1$s</string>
+  <string name="personalInfo_instruction">ข้อมูลส่วนตัวของคุณจะไม่สูญหาย</string>
+  <string name="picker_cell_radio">Wi-Fi และข้อมูลมือถือ</string>
+  <string name="picker_title">เลือกวิธีที่คุณต้องการดาวน์โหลดการอัปเดตนี้:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi เท่านั้น</string>
+  <string name="please_restart">โปรดรีสตาร์ทตอนนี้</string>
+  <string name="policy_set">การอัปเดตระบบถูกปิดกั้น โปรดติดต่อผู้ดูแลระบบอุปกรณ์ของคุณสำหรับข้อมูลเพิ่มเติม</string>
+  <string name="press_back_again_to_exit">กดปุ่มย้อนกลับอีกครั้งเพื่อออก</string>
+  <string name="progress_copying_sd">กำลังคัดลอกอัพเดต</string>
+  <string name="progress_deffered">การดาวน์โหลดจะเริ่มต้นในระบบ Wi-Fi/นอกช่วงเวลาการใช้งานสูงสุด</string>
+  <string name="progress_downloading_ota">กำลังดาวน์โหลดการอัปเดตระบบ</string>
+  <string name="progress_downloading_security">การดาวน์โหลดอัปเดตความปลอดภัย</string>
+  <string name="progress_retried">การดาวน์โหลดซอฟต์แวร์ถูกขัดจังหวะ เราจะพยายามต่อไป…</string>
+  <string name="progress_suspended">กำลังรอการเชื่อมต่อข้อมูลเพื่อดาวน์โหลดต่อ</string>
+  <string name="progress_suspended_datasaver">ปิดการจำกัดปริมาณข้อมูลเพื่อดาวน์โหลดต่อ</string>
+  <string name="progress_suspended_no_adminapn">กำลังรอเครือข่าย Wi-Fi หรือซีโร่เรทเพื่อดาวน์โหลดต่อ</string>
+  <string name="progress_suspended_roaming">การดาวน์โหลดหยุดชั่วคราวเนื่องจากเครือข่ายโรมมิ่ง โปรดเปิด Wi-Fi เพื่อดาวน์โหลดต่อ</string>
+  <string name="progress_suspended_wifi">กำลังรอ Wi-Fi เพื่อดาวน์โหลดต่อ...</string>
+  <string name="progress_verify">กำลังตรวจสอบว่าอุปกรณ์ของคุณพร้อมอัปเดต…</string>
+  <string name="progress_verify_allocate_space">กำลังตรวจสอบว่ามีหน่วยความจำเพียงพอหรือไม่</string>
+  <string name="relative_date_time">%1$s เวลา %2$s</string>
+  <string name="release_note_battery_desc">อัปเดตเพื่อเพิ่มอายุการใช้งานแบตเตอรี่และการใช้งาน</string>
+  <string name="release_note_battery_title">แบตเตอรี</string>
+  <string name="release_note_camera_desc">การปรับปรุงเหล่านี้ช่วยให้คุณถ่ายภาพได้อย่างแม่นยำและมีรายละเอียดมากขึ้น</string>
+  <string name="release_note_camera_title">กล้องถ่ายรูป</string>
+  <string name="release_note_cellular_desc">การเปลี่ยนแปลงนี้ช่วยปรับปรุงการเชื่อมต่อข้อมูลของอุปกรณ์</string>
+  <string name="release_note_cellular_title">มือถือ</string>
+  <string name="release_note_charging_desc">การอัปเดตเหล่านี้ช่วยเพิ่มความสามารถในการชาร์จของคุณ</string>
+  <string name="release_note_charging_title">กำลังชาร์จ</string>
+  <string name="release_note_generic_desc">การเปลี่ยนแปลงนี้ช่วยปรับปรุงประสิทธิภาพโดยรวมของอุปกรณ์</string>
+  <string name="release_note_os_update_desc">ธีมสีเดียวใหม่จะทำให้โทรศัพท์ของคุณดูทันสมัยและทำให้วอลเปเปอร์ของคุณโดดเด่น ตรวจสอบวิธีที่แอปใช้และแชร์ข้อมูลของคุณก่อนที่คุณจะให้สิทธิ์แอป และทำให้เข้าถึงได้มากขึ้นด้วยคุณสมบัติการได้ยินและการมองเห็นใหม่ของ Android 14</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">การเปลี่ยนแปลงนี้ช่วยปรับปรุงประสิทธิภาพของอุปกรณ์</string>
+  <string name="release_note_performance_title">ประสิทธิภาพ</string>
+  <string name="release_note_security_desc">รวมถึงแพตช์รักษาความปลอดภัยผ่าน %1$s</string>
+  <string name="release_note_security_title">การอัปเดตความปลอดภัย</string>
+  <string name="release_note_stability_desc">รวมถึงการปรับปรุงและแก้ไขข้อบกพร่องที่ทำให้โทรศัพท์ของคุณมีความน่าเชื่อถือมากยิ่งขึ้น</string>
+  <string name="release_note_stability_title">ความเสถียร</string>
+  <string name="release_note_title">การอัปเดตนี้ประกอบด้วย</string>
+  <string name="release_note_wifi_desc">รวมการอัปเดตการเชื่อมต่อ Wi-Fi ของคุณ</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">ดูคุณสมบัติใหม่ทั้งหมดใน Android %1$s</string>
+  <string name="request_suspended_datasaver">ปิดการจำกัดปริมาณข้อมูลเพื่อเริ่มการดาวน์โหลด</string>
+  <string name="request_suspended_no_network">ไม่มีเครือข่ายครอบคลุมเพื่อเริ่มการดาวน์โหลด</string>
+  <string name="restart_after_one_hour">รีสตาร์ทใน 1 ชั่วโมง</string>
+  <string name="restart_instruction_title">ข้อควรรู้ก่อนรีสตาร์ท</string>
+  <string name="restart_later">ภายหลัง</string>
+  <string name="restart_message">โปรดรีสตาร์ททันทีเพื่ออัปเดต</string>
+  <string name="restart_notification">รีสตาร์ท</string>
+  <string name="restart_notification_text">โปรดรีสตาร์ททันทีเพื่ออัปเดต การอัปเดตรอดำเนินการเป็นเวลา %1$d วัน</string>
+  <string name="restart_notify_sanity_call_msg">อุปกรณ์ไม่สามารถรีบูตได้ในขณะนี้เนื่องจากอยู่ระหว่างการโทร</string>
+  <string name="restart_notify_sanity_maps_msg">อุปกรณ์ไม่สามารถรีบูตได้ในขณะนี้เนื่องจากการนำทางเปิดอยู่</string>
+  <string name="restart_now">รีสตาร์ททันที</string>
+  <string name="restart_postponed">การรีสตาร์ทถูกเลื่อนออกไป</string>
+  <string name="restart_title">รีสตาร์ทอุปกรณ์ของคุณ</string>
+  <string name="resume_download_on_cellular">ใช้ข้อมูลมือถือ</string>
+  <string name="retrieving_token">กำลังตรวจสอบสิทธิ์...</string>
+  <string name="sdcard_predownload_text">
+ในขั้นตอนนี้ คุณจะคัดลอกอัปเดตไปยังหน่วยความจำระบบ อัปเดตจะถูกติดตั้งในขั้นตอนถัดไป 
+
+เชื่อมต่อโทรศัพท์ของคุณเข้ากับแหล่งจ่ายไฟเพื่อให้แน่ใจว่าจะไม่เกิดปัญหาแบตเตอรี่หมด</string>
+  <string name="search_menu_title">ค้นหา</string>
+  <string name="secure_instruction">กระบวนการนี้มีความปลอดภัย</string>
+  <string name="security_download_notification_title">เพิ่มความปลอดภัยของคุณ</string>
+  <string name="security_install_notification_text">การอัปเดตความปลอดภัยใหม่พร้อมติดตั้งแล้ว</string>
+  <string name="security_install_title">การอัปเดตความปลอดภัยพร้อมแล้ว</string>
+  <string name="security_patch">ซอฟต์แวร์แก้ไขความปลอดภัย:</string>
+  <string name="security_update_low_storage_title">การอัปเดตความปลอดภัย</string>
+  <string name="security_update_notification_text">รับการอัปเดตความปลอดภัยล่าสุด</string>
+  <string name="security_update_paused">อัปเดตความปลอดภัยหยุด</string>
+  <string name="security_update_pending_notification_text">รับการอัปเดตความปลอดภัยล่าสุด การอัปเดตรอดำเนินการเป็นเวลา %1$d วัน</string>
+  <string name="security_update_title">การอัปเดตความปลอดภัย</string>
+  <string name="select_account">เลือก%1$sบัญชี</string>
+  <string name="selected_later_time_os_mr">การอัปเดตระบบจะถูกติดตั้งในวัน </string>
+  <string name="selected_later_time_smr">การอัปเดตความปลอดภัยจะถูกติดตั้งในวันที่</string>
+  <string name="setting_sw_summary">อัปเดตเป็นซอฟต์แวร์ล่าสุด </string>
+  <string name="setting_sw_title">การอัปเดตระบบ</string>
+  <string name="smart_cancel_update_toast_msg">การอัปเดตนี้ถูกกำหนดเวลาใหม่เป็น %1$s</string>
+  <string name="smart_end_time">สิ้นสุด</string>
+  <string name="smart_install_message_popup">เนื่องจากคุณได้เปิดใช้การอัปเดตอัจฉริยะ อุปกรณ์ของคุณจะติดตั้งการอัปเดตโดยอัตโนมัติในวันที่ %1$s หากคุณยังไม่ได้ติดตั้งจนถึงช่วงเวลานั้น ตรวจสอบให้แน่ใจว่าคุณมีแบตเตอรี่เพียงพอสำหรับการติดตั้ง</string>
+  <string name="smart_restart_message_popup">เนื่องจากคุณได้เปิดใช้งานการอัปเดตอัจฉริยะ อุปกรณ์ของคุณจะรีสตาร์ทโดยอัตโนมัติในวันที่ %1$s หากคุณยังไม่ได้รีสตาร์ทภายในเวลานั้น</string>
+  <string name="smart_settings_string">การอัปเดตถูกดาวน์โหลดและติดตั้งโดยอัตโนมัติเมื่อคุณเชื่อมต่อกับ Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">การอัปเดตถูกดาวน์โหลดและติดตั้งโดยอัตโนมัติเมื่อคุณเชื่อมต่อกับ Wi-Fi หรือใช้ข้อมูลมือถือ</string>
+  <string name="smart_settings_string_vzw">การอัปเดตถูกดาวน์โหลดและติดตั้งโดยอัตโนมัติ</string>
+  <string name="smart_start_time">เริ่ม</string>
+  <string name="smart_to_string">ถึง</string>
+  <string name="smart_update_advanced">ขั้นสูง</string>
+  <string name="smart_update_note">เพื่อความปลอดภัยของคุณ การอัปเดตความปลอดภัยที่สำคัญทั้งหมดจะดาวน์โหลดโดยอัตโนมัติ ไม่ว่าคุณสมบัตินี้จะเปิดหรือปิดอยู่ก็ตาม</string>
+  <string name="smart_update_note_vzw">เพื่อความปลอดภัยของคุณ การอัปเดตที่สำคัญทั้งหมดจะดาวน์โหลดและติดตั้งโดยอัตโนมัติ ไม่ว่าคุณสมบัตินี้จะเปิดหรือปิดอยู่ก็ตาม</string>
+  <string name="smart_update_pop_up_text">ดูแลอุปกรณ์ให้ปลอดภัยด้วยการอัปเดตอัตโนมัติ</string>
+  <string name="smart_update_recommendation">ลองใช้การอัปเดตอัจฉริยะ</string>
+  <string name="smart_update_suggestion_text">ปลอดภัยอยู่เสมอด้วยการอัปเดตอัตโนมัติ</string>
+  <string name="smart_update_text_AB">ช่วยให้อุปกรณ์ของคุณทำงานได้อย่างปลอดภัยและมีประสิทธิภาพโดยติดตั้งการอัปเดตความปลอดภัยและการแก้ไขข้อบกพร่องใหม่ทั้งหมดโดยอัตโนมัติ</string>
+  <string name="smart_update_text_AB_vzw">การอัปเดตอัจฉริยะช่วยให้อุปกรณ์ของคุณทำงานได้อย่างปลอดภัยและมีประสิทธิภาพ เมื่อคุณเปิดใช้งาน <b>การอัปเดตความปลอดภัย</b>ใหม่ทั้งหมดจะดาวน์โหลดโดยอัตโนมัติ หลังจากดาวน์โหลดแล้ว อุปกรณ์ของคุณจะรีสตาร์ทในเวลาที่คุณเลือก</string>
+  <string name="smart_update_text_classic">การอัปเดตอัจฉริยะช่วยให้อุปกรณ์ของคุณทำงานได้อย่างปลอดภัยและมีประสิทธิภาพ เมื่อคุณเปิดใช้งาน <b>การอัปเดตความปลอดภัยและการแก้ไขข้อบกพร่อง</b>ใหม่ทั้งหมดจะดาวน์โหลดโดยอัตโนมัติ หลังจากดาวน์โหลดแล้ว อุปกรณ์ของคุณจะรีสตาร์ทและติดตั้งในเวลาที่คุณเลือก</string>
+  <string name="smart_update_text_classic_vzw">การอัปเดตอัจฉริยะช่วยให้อุปกรณ์ของคุณทำงานได้อย่างปลอดภัยและมีประสิทธิภาพ เมื่อคุณเปิดใช้งาน <b>การอัปเดตความปลอดภัย</b>ใหม่ทั้งหมดจะดาวน์โหลดโดยอัตโนมัติ หลังจากดาวน์โหลดแล้ว อุปกรณ์ของคุณจะรีสตาร์ทและติดตั้งในเวลาที่คุณเลือก</string>
+  <string name="smart_update_time_slot_text_AB">เลือกเวลาเริ่ม</string>
+  <string name="smart_update_time_slot_text_classic">เลือกเวลาติดตั้ง</string>
+  <string name="smart_update_title">การอัปเดตอัจฉริยะ</string>
+  <string name="software_not_update_to">ซอฟต์แวร์ของคุณยังไม่ได้อัปเดตเป็น</string>
+  <string name="software_update_in_progress">ระบบของคุณกำลังอัปเดตเป็นเวอร์ชัน</string>
+  <string name="software_update_planned_summary">ตรวจสอบเมื่อ- %1$s</string>
+  <string name="software_update_planned_title">วางแผนการอัปเดตซอฟต์แวร์แล้ว</string>
+  <string name="software_update_to">ระบบของคุณได้รับการอัปเดตเป็น</string>
+  <string name="sofware_version">รุ่นซอฟต์แวร์:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">เพิ่มพื้นที่ว่างสำหรับการอัปเดต</string>
+  <string name="su_btn">การตั้งค่า</string>
+  <string name="su_text_off">คุณจะต้องอัปเดตอุปกรณ์ด้วยตนเองเมื่อมีซอฟต์แวร์ใหม่ เปิดการอัปเดตอัจฉริยะเพื่อทำให้กระบวนการเป็นไปโดยอัตโนมัติ แตะเพื่อดูรายละเอียดเพิ่มเติม</string>
+  <string name="su_text_on">ตามค่าเริ่มต้น การอัปเดตอัจฉริยะจะทำงานระหว่าง 01.00 น. - 03.00 น. คุณเปลี่ยนเวลาอัปเดตหรือปิดการอัปเดตอัจฉริยะได้ในการตั้งค่า แตะเพื่อดูรายละเอียดเพิ่มเติม</string>
+  <string name="su_title_off">การอัปเดตอัจฉริยะปิดอยู่</string>
+  <string name="su_title_on">การอัปเดตอัจฉริยะเปิดอยู่</string>
+  <string name="system_download_notification_title">การอัปเดตระบบ</string>
+  <string name="system_install_notification_text">การอัปเดตระบบพร้อมติดตั้งแล้ว</string>
+  <string name="system_install_title">การอัปเดตพร้อมแล้ว</string>
+  <string name="system_pdl_notification_mr_title">รับการแก้ไขข้อบกพร่องและอีกมากมาย</string>
+  <string name="system_pdl_notification_os_title">Android %1$s อยู่ที่นี่แล้ว!</string>
+  <string name="system_update">การอัปเดตระบบ</string>
+  <string name="system_update_desc">ปกป้องอุปกรณ์ของคุณจากภัยคุกคามด้านความปลอดภัยและรับคุณสมบัติล่าสุดของ Motorola และ Android</string>
+  <string name="system_update_info_not_available">ใช้งานไม่ได้</string>
+  <string name="system_update_low_storage_text">แตะที่นี่เพื่อตรวจสอบหน่วยความจำและดำเนินการต่อ</string>
+  <string name="system_update_low_storage_title">การอัปเดตระบบ</string>
+  <string name="system_update_notification_os_text">สัมผัส Android โฉมใหม่</string>
+  <string name="system_update_notification_text">ดาวน์โหลดซอฟต์แวร์ใหม่</string>
+  <string name="system_update_paused">อัปเดตระบบหยุดชั่วคราว</string>
+  <string name="system_update_pending_notification_os_text">สัมผัส Android โฉมใหม่ การอัปเดตรอดำเนินการเป็นเวลา %1$d วัน</string>
+  <string name="system_update_pending_notification_text">ดาวน์โหลดซอฟต์แวร์ใหม่ การอัปเดตรอดำเนินการเป็นเวลา %1$d วัน</string>
+  <string name="system_update_settings_list_item_title">การอัปเดตระบบ</string>
+  <string name="system_update_status">สถานะการอัปเดต</string>
+  <string name="system_update_title">การอัปเดตระบบ</string>
+  <string name="tethered_permission_desc">ส่งผลลัพธ์อัพเดต 3c</string>
+  <string name="tethered_update_result">ปล่อยสัญญาผลลัพธ์อัพเดต</string>
+  <string name="time_picker_text">เริ่มการติดตั้งโดยไม่มีการเตือนความจำ</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">ลองอีกครั้ง</string>
+  <string name="turn_it_off">ปิด</string>
+  <string name="turn_it_on">เปิด</string>
+  <string name="turn_on_smart_updates">เปิดการอัปเดตอัจฉริยะ</string>
+  <string name="update">อัปเดต</string>
+  <string name="update_blocked_by_policy">อัปเดตถูกบล็อกตามนโยบายผู้ดูแลระบบ </string>
+  <string name="update_cancelled_status">การดาวน์โหลดซอฟต์แวร์ถูกยกเลิกเมื่อ</string>
+  <string name="update_fail_desc">เกิดข้อผิดพลาด</string>
+  <string name="update_fail_status">อัปเดตล้มเหลว</string>
+  <string name="update_fail_sucancel_dm_status">การอัปเดตถูกยกเลิกโดยเซิร์ฟเวอร์</string>
+  <string name="update_fail_title">อัปเดตล้มเหลว</string>
+  <string name="update_history_blank">ยังไม่มีประวัติ</string>
+  <string name="update_history_src_target">อัปเดตจาก %1$s เป็น %2$s</string>
+  <string name="update_history_time">อัปเดตเมื่อ %1$s</string>
+  <string name="update_history_title">ประวัติการอัปเดต</string>
+  <string name="update_history_version">ซอฟต์แวร์เวอร์ชัน %1$s</string>
+  <string name="update_info">กำลังอัปเดต…</string>
+  <string name="update_postpone_policy">อัปเดตถูกเลื่อนออกไปตามนโยบายผู้ดูแลระบบ </string>
+  <string name="update_preference">ค่ากำหนดการอัปเดต</string>
+  <string name="update_success_desc">เวอร์ชันซอฟต์แวร์ปัจจุบัน: %1$s</string>
+  <string name="update_success_desc_os">ขอแสดงความยินดี คุณติดตั้ง Android %1$s เรียบร้อยแล้ว ตอนนี้คุณพร้อมสัมผัสประสบการณ์ Android ที่ดีขึ้น อัจฉริยะขึ้น และปลอดภัยยิ่งขึ้นแล้ว</string>
+  <string name="update_success_status">อัปเดตสำเร็จ</string>
+  <string name="update_title">อัปเดตเสร็จสิ้น</string>
+  <string name="update_title_text">ขอให้สนุกกับซอฟต์แวร์ใหม่ของคุณ!</string>
+  <string name="upto_date_title">ทุกอย่างเป็นปกติ</string>
+  <string name="urgent_channel_name">การเตือนการอัปเดตซอฟต์แวร์</string>
+  <string name="use_smart_updates">ใช้การอัปเดตอัจฉริยะ</string>
+  <string name="vab_validation_update_failure_desc">การอัปเดตการตรวจสอบความถูกต้อง VAB ล้มเหลว</string>
+  <string name="vab_validation_update_failure_title">ตรวจสอบความถูกต้อง VAB ไม่สำเร็จ</string>
+  <string name="vab_validation_update_success_desc">ขอแสดงความยินดี! การอัปเดตการตรวจสอบความถูกต้อง VAB สำเร็จแล้ว</string>
+  <string name="vab_validation_update_success_title">ตรวจสอบความถูกต้อง VAB สำเร็จ</string>
+  <string name="verifying_patch">ใช้การอัปเดตแล้ว การยืนยันว่าการสมัครสำเร็จ… (ขั้นตอนที่ 4 จาก 6)  </string>
+  <string name="verity_disabled_msg">อุปกรณ์ของคุณอาจมีความเสี่ยงด้านความปลอดภัย ดำเนินการตามคำสั่งด้านล่างเพื่อการอัปเดตที่ต่อเนื่อง
+
+Verity เปิดใช้งานของ ADB</string>
+  <string name="verity_disabled_title">อุปกรณ์ของคุณจะไม่ได้รับการอัปเดตอีกต่อไป</string>
+  <string name="verizon_failure_notification_text"> อุปกรณ์ของคุณไม่สามารถติดตั้งอัปเดตนี้ได้ ใช้เครื่องมือ Software Upgrade Assistant เพื่อติดตั้ง แตะเพื่อดูข้อมูลเพิ่มเติม</string>
+  <string name="verizon_failure_text">เกิดปัญหาในการอัปเดตอุปกรณ์ของคุณ ไม่มีการเปลี่ยนแปลงใดเกิดขึ้น ในการอัปเดตซอฟต์แวร์ของคุณ คุณสามารถใช้เครื่องมือผู้ช่วยอัปเกรดซอฟต์แวร์
+
+ในการติดตั้งเครื่องมือผู้ช่วยอัปเกรดซอฟต์แวร์:
+
+1. ใช้สาย USB เพื่อเชื่อมต่ออุปกรณ์ของคุณกับคอมพิวเตอร์
+2. เมื่อเมนู USB ปรากฏขึ้นบนอุปกรณ์ของคุณ ให้เลือกไอคอนการตั้งค่าที่ด้านขวาบน
+3. จากการตั้งค่า USB ให้เลือกการติดตั้งซอฟต์แวร์
+4. เปลี่ยนไปใช้พีซีของคุณและมองหาโปรแกรมช่วยการติดตั้ง
+5. ดำเนินการตามโปรแกรมช่วย
+
+เครื่องมือตัวช่วยอัปเกรดซอฟต์แวร์จะช่วยคุณดาวน์โหลดและติดตั้งการอัปเดตซอฟต์แวร์บนอุปกรณ์ของคุณ</string>
+  <string name="vital_applying_updates">กำลังใช้การอัปเดต…</string>
+  <string name="vital_bg_text">อาจใช้เวลาสักครู่</string>
+  <string name="vital_check_for_updates">กำลังมองหาอัปเดต…</string>
+  <string name="vital_check_for_updates_desc">การอัปเดตต่างๆ จะทำให้อุปกรณ์ของคุณปลอดภัยและปรับปรุงการทำงานให้ดีขึ้นอยู่เสมอ</string>
+  <string name="vital_done">เสร็จสิ้น!</string>
+  <string name="vital_error_fail">มีข้อผิดพลาดในการอัปเดต ไม่ได้ทำการเปลี่ยนแปลงใด</string>
+  <string name="vital_go_back">คุณแน่ใจหรือไม่ว่าต้องการหยุดการติดตั้ง</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">รีสตาร์ทเพื่อดำเนินการต่อ</string>
+  <string name="vital_skip">ข้าม</string>
+  <string name="vital_stop">หยุด</string>
+  <string name="wifi_setting">การตั้งค่า Wi-Fi</string>
+</resources>

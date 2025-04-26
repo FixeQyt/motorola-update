@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">To aparat s'impiará danü te %1$d n secunt por completé l'ajornamënt.</item>
+    <item quantity="other">To aparat s'impiará danü te %1$d secunc por completé l'ajornamënt.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">s'impiará danü te %1$d n secunt</item>
+    <item quantity="other">s'impiará danü te %1$d secunc</item>
+  </plurals>
+</resources>

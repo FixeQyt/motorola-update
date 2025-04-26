@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Magre-restart ang iyong device sa loob ng %1$d segundo para makumpleto ang update.</item>
+    <item quantity="other">Magre-restart ang iyong device sa loob ng %1$d (na) segundo para makumpleto ang update.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">I-restart sa loob ng %1$d segundo</item>
+    <item quantity="other">I-restart sa loob ng %1$d segundo</item>
+  </plurals>
+</resources>

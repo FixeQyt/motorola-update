@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Later updaten</string>
+  <string name="ab_download_now">Nu updaten</string>
+  <string name="ab_install_notification_paused_text">Installatie op de achtergrond gepauzeerd</string>
+  <string name="ab_install_notification_text">Installatie op de achtergrond</string>
+  <string name="ab_restart_fullscreen_text">Je bent er bijna! Het zal ongeveer 90 seconden duren om je apparaat opnieuw op te starten. De update is al %1$d dagen beschikbaar.</string>
+  <string name="ab_restart_text">Je bent er bijna! Het zal ongeveer 90 seconden duren om je apparaat opnieuw op te starten</string>
+  <string name="ab_restart_warning_os_mr">Je systeem is bijna geüpdatet. Je apparaat  </string>
+  <string name="ab_restart_warning_smr">Je beveiligingsupdate is bijna geïnstalleerd. Je apparaat </string>
+  <string name="ab_warning_continues"> om de update te voltooien.</string>
+  <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+  <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+  <string name="abc_action_menu_overflow_description">Meer opties</string>
+  <string name="abc_action_mode_done">Gereed</string>
+  <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+  <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+  <string name="abc_capital_off">UIT</string>
+  <string name="abc_capital_on">AAN</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Enter</string>
+  <string name="abc_menu_function_shortcut_label">Functie +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_space_shortcut_label">spatie</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Menu +</string>
+  <string name="abc_search_hint">Zoeken…</string>
+  <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+  <string name="abc_searchview_description_query">Zoekopdracht</string>
+  <string name="abc_searchview_description_search">Zoeken</string>
+  <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+  <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+  <string name="abc_shareactionprovider_share_with">Delen met</string>
+  <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+  <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+  <string name="abupdate_in_progress_status">Software-update is bezig</string>
+  <string name="additional_charges_message">De download wordt voortgezet via mobiele data. Hiervoor kunnen extra kosten in rekening worden gebracht.</string>
+  <string name="alertSubText">Dit wordt gebruikt om een updatepakket te controleren, downloaden en installeren</string>
+  <string name="alertText">Netwerkoperaties voor software-updates toestaan</string>
+  <string name="alertTitle">Updates vereisen de volgende machtiging</string>
+  <string name="alert_dialog_cancel">Stop installatie</string>
+  <string name="alert_dialog_continue">Blijf installeren</string>
+  <string name="alert_dialog_no">Nee</string>
+  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_yes">Ja</string>
+  <string name="allocate_space_success">Het vereiste geheugen voor de update is beschikbaar</string>
+  <string name="allow">Toestaan</string>
+  <string name="android_latest_sw_text">Je gebruikt de nieuwste software</string>
+  <string name="android_version">Android-versie:</string>
+  <string name="app_name">Motorola-software-update</string>
+  <string name="applied">Aan</string>
+  <string name="apply_bug_fix">Op bugfixes toepassen</string>
+  <string name="apply_os_update">Toepassen op alle software-updates</string>
+  <string name="applying_patch">Update toepassen (stap %1$d van %2$d)  </string>
+  <string name="are_you_sure">Slimme updates uitschakelen?</string>
+  <string name="are_you_sure_pop_up_text">Weet je zeker dat je slimme updates wilt uitschakelen? </string>
+  <string name="asc_campaign_assigned">Campagne toegewezen</string>
+  <string name="asc_campaign_is_allowed">Firmware-update</string>
+  <string name="asc_campaign_is_blocked">Firmwareslot</string>
+  <string name="asc_campaign_not_assigned">Apparaat is momenteel niet in een campagne</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Updateperiode: van %s tot %s</string>
+  <string name="asc_sw_up_to_date"> naar de nieuwste versie</string>
+  <string name="asc_target_version"> naar versie </string>
+  <string name="auth_title">Systeemupdate</string>
+  <string name="auto_download_cellualr_charges_warn">Bij het downloaden van updates via het mobiele netwerk kunnen extra kosten in rekening worden gebracht</string>
+  <string name="auto_download_enable_cellular_future_updates">Wil je ook voor toekomstige downloads kiezen voor de optie van mobiele gegevens?</string>
+  <string name="auto_download_settings_title">Instellingen voor automatisch downloaden</string>
+  <string name="auto_download_wifi_cellular">Automatisch downloaden via mobiel netwerk en wifi</string>
+  <string name="auto_download_wifi_cellular_desc">Automatisch downloaden via mobiel netwerk en wifi. Wifi wordt eerst gebruikt als deze beschikbaar is. </string>
+  <string name="auto_download_wifi_only">Automatisch downloaden alleen via wifi</string>
+  <string name="auto_download_wifi_only_desc">Automatisch downloaden uitsluitend via wifi</string>
+  <string name="auto_install_notification_text">Apparaat zal automatisch installeren op %1$s</string>
+  <string name="auto_time_set">Begin:</string>
+  <string name="automatic_bg_install_on_cellular_warning">De update is zo belangrijk dat deze automatisch zal worden geïnstalleerd via mobiele data op %1$s</string>
+  <string name="automatic_download_on_cellular_warning">De update is zo belangrijk dat deze automatisch zal worden gedownload via mobiele data op %1$s</string>
+  <string name="background_install_msg">Deze update wordt voortgezet als je teruggaat of dit venster sluit</string>
+  <string name="background_install_text">Er wordt een update gedownload en geïnstalleerd. Je kunt je apparaat blijven gebruiken.</string>
+  <string name="bad_connection">Geen internet</string>
+  <string name="bad_connection_text">Het lijkt erop dat je apparaat momenteel geen internetverbinding heeft. Tik op de onderste knop om het opnieuw te proberen.</string>
+  <string name="bg_install_cancel_confirm">Weet je zeker dat je de installatie wilt stoppen?</string>
+  <string name="bg_retried">De softwaredownload is onderbroken. We blijven het proberen…</string>
+  <string name="bg_suspended">Wachten op een gegevensverbinding om download en installatie op de achtergrond te hervatten</string>
+  <string name="bg_suspended_non_adminapn">Wachten op wifi-verbinding of zero rated-netwerk om download en installatie op de achtergrond te hervatten...</string>
+  <string name="bg_suspended_roaming">Installatie op de achtergrond is onderbroken wegens netwerkroaming. Zet wifi aan om de installatie op de achtergrond te hervatten.</string>
+  <string name="bg_suspended_wifi">Wachten op wifi-verbinding om download en installatie op de achtergrond te hervatten</string>
+  <string name="bootloader_unlock_msg">Je apparaat ontvangt geen updates meer en loopt mogelijk veiligheidsrisico's.</string>
+  <string name="bootloader_unlock_title">Geen updates beschikbaar</string>
+  <string name="call_notification_answer_action">Beantwoorden</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Weigeren</string>
+  <string name="call_notification_hang_up_action">Ophangen</string>
+  <string name="call_notification_incoming_text">Inkomend gesprek</string>
+  <string name="call_notification_ongoing_text">Actief gesprek</string>
+  <string name="call_notification_screening_text">Een inkomend gesprek screenen</string>
+  <string name="cancel">Annuleren</string>
+  <string name="cancel_download_notification">Annuleren</string>
+  <string name="cancel_install">Annuleren</string>
+  <string name="cancel_update_notification">Annuleren</string>
+  <string name="check_for_updates_title">Op updates controleren</string>
+  <string name="check_update_badparam">Er is een fout opgetreden bij je poging om een upgrade uit te voeren omdat het inloggen is mislukt.
+
+Probeer het later opnieuw.</string>
+  <string name="check_update_checking">Controleren op updates...</string>
+  <string name="check_update_disabled_admin">Updates voor het apparaat beheerd door IT-beheerder</string>
+  <string name="check_update_downloading">Er wordt momenteel een update gedownload.
+
+Je wordt gewaarschuwd als het downloaden is voltooid.</string>
+  <string name="check_update_fail">Er is een onverwachte fout opgetreden.
+
+Het apparaat probeert de update op de achtergrond uit te voeren.</string>
+  <string name="check_update_internal">Controleren op updates niet mogelijk. Probeer het later opnieuw.</string>
+  <string name="check_update_net">Controleer je internetverbinding en probeer het opnieuw</string>
+  <string name="check_update_net_vzw">Je hebt een gegevensverbinding nodig om te controleren op updates. Om je wifi-verbinding te controleren, ga je naar Instellingen &gt; Netwerk en internet &gt; Internet &gt; Wifi.
+
+Je kunt ook motorola.com/systemupdates raadplegen om andere opties voor updates te bekijken.</string>
+  <string name="check_update_not_sys_user">Update controleren is niet toegestaan voor gastprofielen</string>
+  <string name="check_update_processing">Contact maken met onze server...
+Een ogenblik geduld</string>
+  <string name="check_update_roaming">Systeemupdate is uitsluitend beschikbaar in thuisnetwerk. 
+
+Ga naar Instellingen &gt; Netwerk en internet &gt; Wifi om direct een verbinding in te stellen.</string>
+  <string name="check_update_storage_low">De update kan niet worden uitgevoerd wegens onvoldoende vrije opslagruimte op het apparaat.</string>
+  <string name="check_update_temperror">Kan het downloaden van de updates op dit punt niet voltooien.
+
+Probeer het opnieuw.</string>
+  <string name="check_update_text">Je kunt je apparaat beveiligen en de prestaties verbeteren door regelmatig te controleren of er updates beschikbaar zijn</string>
+  <string name="check_update_title_downloading">Bezig met downloaden...</string>
+  <string name="check_update_vab_validation">Updatestatus van VAB-validatie controleren
+Een ogenblik geduld</string>
+  <string name="check_update_wifi_only">Systeemupdate is alleen beschikbaar via wifi.</string>
+  <string name="check_wifi_settings">Wifi-instellingen controleren</string>
+  <string name="clear_space">Geheugen vrijmaken</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Er is een update van de Android Wear-app vereist voor een bepaalde app.</string>
+  <string name="common_android_wear_update_text">Deze app wordt niet uitgevoerd, tenzij u de Android Wear-app bijwerkt.</string>
+  <string name="common_android_wear_update_title">Android Wear bijwerken</string>
+  <string name="common_google_play_services_enable_button">Google Play-services inschak.</string>
+  <string name="common_google_play_services_enable_text">Deze app werkt niet, tenzij u Google Play-services inschakelt.</string>
+  <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Aangevraagd door %1$s</string>
+  <string name="common_google_play_services_install_button">Google Play-services ophalen</string>
+  <string name="common_google_play_services_install_text_phone">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw telefoon.</string>
+  <string name="common_google_play_services_install_text_tablet">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet.</string>
+  <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+  <string name="common_google_play_services_invalid_account_text">Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account.</string>
+  <string name="common_google_play_services_invalid_account_title">Ongeldig account</string>
+  <string name="common_google_play_services_needs_enabling_title">Google Play-services moet zijn ingeschakeld voor een app.</string>
+  <string name="common_google_play_services_network_error_text">Er is een gegevensverbinding nodig om verbinding te kunnen maken met Google Play-services.</string>
+  <string name="common_google_play_services_network_error_title">Netwerkfout</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Google Play-services moet zijn geïnstalleerd voor een app.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Google Play-services moet worden geüpdatet voor een app.</string>
+  <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+  <string name="common_google_play_services_unknown_issue">Onbekend probleem met Google Play-services.</string>
+  <string name="common_google_play_services_unsupported_text">Google Play-services, dat vereist is voor een aantal van uw applicaties, wordt niet ondersteund door uw apparaat. Neem contact op met de fabrikant voor ondersteuning.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play-services</string>
+  <string name="common_google_play_services_update_button">Updaten</string>
+  <string name="common_google_play_services_update_text">Deze app kan niet worden uitgevoerd, tenzij u Google Play-services updatet.</string>
+  <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+  <string name="common_open_on_phone">Openen op telefoon</string>
+  <string name="common_signin_button_text">Inloggen</string>
+  <string name="common_signin_button_text_long">Inloggen met Google</string>
+  <string name="compatibility_failed_title">Pakketverificatie mislukt</string>
+  <string name="compatibility_verification_failure">Het updatepakket dat wordt gedownload is niet compatibel met de huidige softwareversie op het apparaat.</string>
+  <string name="compatibility_verification_failure_df">
+
+Vraag dit na bij je Dogfood-coördinator.</string>
+  <string name="compatibility_verification_success">Geverifieerd</string>
+  <string name="completed"> Installatie voltooid. Je wordt gevraagd om je telefoon opnieuw op te starten (stap %1$d van %2$d)</string>
+  <string name="completed_install">%s voltooid</string>
+  <string name="connect_to_wifi">Verbinden met wifi</string>
+  <string name="continue_button">Doorgaan</string>
+  <string name="critical_install_message_popup_os_mr">Er is een belangrijke systeemupdate beschikbaar. Selecteer Installeren om de update uit te voeren. Als je dit niet doet, wordt de update automatisch uitgevoerd op %1$s.</string>
+  <string name="critical_install_message_popup_smr">Er is een belangrijke systeemupdate beschikbaar. Selecteer Installeren om de update uit te voeren. Als je dit niet doet, wordt de update automatisch uitgevoerd op %1$s.</string>
+  <string name="critical_install_message_screen">Deze belangrijke update wordt automatisch geïnstalleerd op %1$s. Zorg ervoor dat de accu is opgeladen voor installatie.</string>
+  <string name="critical_install_notification">Dit is een belangrijke update, dus op %1$s zal je apparaat deze automatisch installeren.
+Installatieduur: %2$d minuten</string>
+  <string name="critical_restart_message_popup">Start je apparaat zo snel mogelijk opnieuw op om deze belangrijke update toe te passen. Als dat niet mogelijk is, wordt je apparaat automatisch opnieuw opgestart op %1$s.</string>
+  <string name="critical_restart_message_screen">Dit is een belangrijke update. Als je vóór %1$s je apparaat nog niet opnieuw hebt opgestart, wordt het automatisch opnieuw opgestart.</string>
+  <string name="critical_restart_notification">Deze update is belangrijk. Als je nu niet opnieuw kunt opstarten, wordt je apparaat automatisch opnieuw opgestart op %1$s</string>
+  <string name="critical_update_notification_title">Belangrijke update</string>
+  <string name="current_version">Huidige softwareversie:</string>
+  <string name="custom_slot">Aangepast</string>
+  <string name="custom_time">Aangepaste tijd</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s om %s</string>
+  <string name="defer_count_expired">OK</string>
+  <string name="deny">Weigeren</string>
+  <string name="details">Details</string>
+  <string name="device_corrupted_msg">Er zijn systeemproblemen gevonden. We weten dat het vervelend is, maar je moet naar een servicecentrum in de buurt gaan om deze problemen op te lossen.
+
+Nadat je telefoon is gerepareerd, kunnen we updates blijven uitvoeren op je telefoon.</string>
+  <string name="device_corrupted_title">Kan telefoon niet updaten</string>
+  <string name="dialog_alert_net_message">Controleer je wifi- of mobiele-dataverbinding en probeer het opnieuw.</string>
+  <string name="dialog_alert_net_title">Je apparaat is offline</string>
+  <string name="dialog_alert_title">Accu bijna leeg</string>
+  <string name="dialog_progress">Laden…</string>
+  <string name="dl_options_mobile_only_warning">Het gebruik van wifi wordt aanbevolen. Downloaden met mobiele data of via mobiele data tijdens roaming kan leiden tot extra kosten.
+
+Het downloaden van deze software heeft geen invloed op prestaties van je apparaat.</string>
+  <string name="done">Gereed</string>
+  <string name="dont_show_this_again">Niet meer weergeven</string>
+  <string name="download_cancelled_title">Downloaden geannuleerd</string>
+  <string name="download_deferred_status">De softwaredownload is uitgesteld op</string>
+  <string name="download_failed_status">De update kon niet worden gedownload op</string>
+  <string name="download_in_progress_status">Softwaredownload is bezig</string>
+  <string name="download_later_button">Later downloaden</string>
+  <string name="download_no_button">Nee, bedankt</string>
+  <string name="download_note">Je kunt je apparaat blijven gebruiken tijdens de installatie van de update</string>
+  <string name="download_now">Download nu</string>
+  <string name="download_now_button">Downloaden</string>
+  <string name="download_options">Downloadopties</string>
+  <string name="download_progress_cancel_message">Als je deze update later wilt downloaden, ga je naar Instellingen &gt; Systeemupdates</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s over (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% gedownload (gepauzeerd)</string>
+  <string name="download_progress_text">Deze download wordt voortgezet als je teruggaat of dit venster sluit</string>
+  <string name="download_subtitle">Voordat je gaat downloaden</string>
+  <string name="download_text_whats_new">Nieuw</string>
+  <string name="download_time_left">%1$s over</string>
+  <string name="download_version">Versie %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Wifi is vereist om deze update te downloaden. De download zal worden hervat wanneer je verbinding is hersteld.</string>
+  <string name="downloaded_percentage">%1$s gedownload</string>
+  <string name="emergency_call_btn_txt">Noodgeval</string>
+  <string name="emergency_call_text">Tijdens het opnieuw opstarten van je apparaat kun je niet bellen of gebeld worden. Dit geldt ook voor noodoproepen.</string>
+  <string name="enable_wifi_error_txt">Maak verbinding met wifi om deze update te downloaden.</string>
+  <string name="eol_explore">Ontdek nieuwe apparaten</string>
+  <string name="eol_last_update_text">Beveiligingspatch:</string>
+  <string name="eol_promote">Bekijk de nieuwste promoties</string>
+  <string name="eol_title">Je apparaat heeft de nieuwste beschikbare software.</string>
+  <string name="err_title_contact_server">Contact maken met de server…</string>
+  <string name="err_title_memory_low">Weinig geheugen beschikbaar...</string>
+  <string name="err_title_temp_error">Tijdelijke fout</string>
+  <string name="err_title_update">Updatefout</string>
+  <string name="error_code">Foutcode: </string>
+  <string name="error_copyfail">Kopiëren vanaf SD-kaartlocatie mislukt.</string>
+  <string name="error_disabled">Downloaden van update mislukt. Het updatepakket is momenteel niet beschikbaar. 
+
+Er is geen verdere actie vereist.</string>
+  <string name="error_fail">Er is een probleem opgetreden bij het updaten van je %1$s. Er zijn geen wijzigingen aangebracht. Probeer het opnieuw door naar Instellingen &gt; Systeemupdate te gaan.</string>
+  <string name="error_in_call_msg">Het apparaat kan nu niet worden geüpdatet omdat er een actieve oproep gaande is</string>
+  <string name="error_in_call_title">Actieve oproep</string>
+  <string name="error_install_title">Installatie mislukt</string>
+  <string name="error_mismatch">Versies komen niet overeen. Een update wordt opnieuw uitgevoerd. Als een update beschikbaar is, wordt je hierom gevraagd.</string>
+  <string name="error_mismatch_sd">Updaten mislukt. De updateversie komt niet overeen met je telefoon. 
+
+Download de juiste versie voor je telefoon en probeer het opnieuw.</string>
+  <string name="error_network">Verbinding is verloren gegaan. Probeer het opnieuw door handmatig te controleren op updates via Telefooninstellingen.</string>
+  <string name="error_reboot">We konden deze update niet downloaden. Als je deze update later wilt downloaden, start je jouw apparaat opnieuw op en ga je naar Instellingen &gt; Systeemupdates.</string>
+  <string name="error_resources">We konden deze update niet downloaden. Als je deze update later wilt installeren, ga je naar Instellingen &gt; Systeemupdates.</string>
+  <string name="error_sdcard_resources_fail_removal">SD-kaart is verwijderd. Kan het downloaden niet voltooien. 
+
+Plaats de SD-kaart opnieuw en ga naar Instellingen &gt; Systeemupdates om het opnieuw te proberen.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Kan de download niet voltooien. Er is onvoldoende ruimte op de SD-kaart. 
+
+Maak ruimte vrij en ga naar Instellingen &gt; Systeem &gt; Systeemupdates om het opnieuw te proberen.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Plaats een SD-kaart om met downloaden te beginnen.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Koppel de SD-kaart om met downloaden te beginnen. 
+
+Ga naar Instellingen &gt; Opslag &gt; SD-kaart koppelen.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Er is niet genoeg ruimte op de SD-kaart om de download te voltooien. 
+
+Maak %1$s ruimte vrij en probeer opnieuw te downloaden via Instellingen &gt; Systeemupdates.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Fout</string>
+  <string name="error_sdcard_resources_warning">De software-update wordt gedownload naar de SD-kaart. 
+
+Verwijder de SD-kaart niet voor de installatie is voltooid.
+
+
+</string>
+  <string name="error_server">Er is een fout opgetreden op de server. Probeer het later opnieuw.</string>
+  <string name="error_space">Deze update vereist %1$s beschikbaar geheugen op het apparaat. 
+
+Verwijder ongebruikte apps of verplaats je foto's en video's naar een ander opslagapparaat om %2$s ruimte vrij te maken. 
+
+Daarna kun je via Instellingen &gt; Systeemupdates de update op elk gewenst tijdstip starten.</string>
+  <string name="error_space_retry">Deze update vereist %1$s beschikbaar geheugen op je apparaat. 
+
+Verwijder ongebruikte apps of verplaats je foto's en video's naar een ander opslagapparaat om %2$s ruimte vrij te maken.</string>
+  <string name="error_space_vab">Deze update vereist %1$s beschikbaar geheugen op het apparaat. Maak geheugen vrij om succesvol te kunnen updaten</string>
+  <string name="error_space_vab_make_room_popup">Je moet %1$s verwijderen voordat je gaat updaten. Probeer ongebruikte apps te verwijderen of verplaats foto's en video's naar een andere opslagruimte.</string>
+  <string name="error_title">Downloaden mislukt</string>
+  <string name="error_verify">Kan de update niet correct verifiëren. Probeer het opnieuw.</string>
+  <string name="failed">Mislukt</string>
+  <string name="failed_in_roaming">Wifi vereist voor updates</string>
+  <string name="failure_process">Informatie niet beschikbaar</string>
+  <string name="finalizing_patch">Update voltooien… (stap 5 van 6)  </string>
+  <string name="first_net_text">Installeer de update. Als je dit niet doet, wordt de update automatisch geïnstalleerd zodra je het apparaat opnieuw opstart. Zorg ervoor dat er meer dan %s accuvermogen beschikbaar is.</string>
+  <string name="forceInstallMessage">Deze update wordt automatisch geïnstalleerd op %1$s.</string>
+  <string name="force_install_message_screen">Dit is een belangrijke update. Installeer deze voor %1$s. Als je dit niet doet, wordt de update automatisch geïnstalleerd wanneer het apparaat het minst wordt gebruikt. Zorg ervoor dat de accu is opgeladen voor installatie.</string>
+  <string name="force_install_notification_message">Installeer voor %1$s. Als je dit niet doet, installeert je apparaat de update automatisch wanneer je apparaat het minst wordt gebruikt.
+Installatieduur: %2$d minuten</string>
+  <string name="force_restart_notification_message">Start je apparaat opnieuw op voor %1$s. Als je dit niet doet, zal je apparaat automatisch opnieuw worden opgestart wanneer je apparaat het minst wordt gebruikt.</string>
+  <string name="force_restart_screen_message">Als je niet voor %1$s opnieuw opstart, zal je apparaat automatisch opnieuw worden opgestart wanneer je apparaat het minst wordt gebruikt.</string>
+  <string name="google">Google</string>
+  <string name="got_it">OK</string>
+  <string name="important_update_install_overdue_message">De geplande tijd voor de installatie is verstreken. De installatie begint zodra het toestel aan de criteria voldoet.</string>
+  <string name="important_update_restart_overdue_message">De geplande tijd voor opnieuw opstarten is verstreken. Het apparaat wordt opnieuw opgestart zodra het aan de criteria voldoet.</string>
+  <string name="initiating_ota_service_msg">Een ogenblik geduld...</string>
+  <string name="initiating_ota_service_title">Software-updateproces initialiseren</string>
+  <string name="install">Installeren</string>
+  <string name="install_after_one_hour">Over 1 uur installeren</string>
+  <string name="install_cancelled_title">Installatie geannuleerd</string>
+  <string name="install_deferred_status">Update is uitgesteld om</string>
+  <string name="install_later">Later installeren</string>
+  <string name="install_notify_sanity_call_msg">Het apparaat kan nu niet installeren omdat er een actieve oproep gaande is</string>
+  <string name="install_notify_sanity_maps_msg">Het apparaat kan nu niet installeren omdat de navigatie is ingeschakeld</string>
+  <string name="install_now">Nu installeren</string>
+  <string name="install_postponed">Installatie uitgesteld</string>
+  <string name="install_progress_cancel_message">Als je deze update later wilt installeren, ga je naar Instellingen &gt; Systeemupdates</string>
+  <string name="install_progress_paused_message">%s voltooid (gepauzeerd)</string>
+  <string name="install_time">Installatieduur: %1$d minuten</string>
+  <string name="install_warning">Voordat je gaat installeren</string>
+  <string name="just_one_more_step">Nog maar één stap</string>
+  <string name="keep_it_on">Ingeschakeld houden</string>
+  <string name="later_button">Later herinneren</string>
+  <string name="learn_more_online_link">Lees meer online</string>
+  <string name="low_battery_bg_install">Installatie is gepauzeerd omdat de accu bijna leeg is. De installatie wordt hervat als het accuniveau hoger dan 20% is.</string>
+  <string name="low_battery_download">Download is gepauzeerd omdat de accu bijna leeg is. Het downloaden wordt hervat wanneer je apparaat is opgeladen.</string>
+  <string name="low_battery_install">Laad je apparaat op tot ten minste %s voordat je deze update installeert</string>
+  <string name="make_space">Maak ruimte vrij</string>
+  <string name="mandatory_install_notification">Als je deze systeemupdate niet snel installeert, mis je belangrijke beveiligingsupdates en nieuwe functies en bugfixes.</string>
+  <string name="mandatory_restart_notification">Aangezien dit een belangrijke update is, moet je nu opnieuw opstarten. Anders mis je beveiligingsupdates, maar ook nieuwe functies en bugfixes.</string>
+  <string name="medium_channel_name">Melding van softwaredownload</string>
+  <string name="merge_emergency_call_text">Tijdens het opnieuw opstarten van je apparaat kun je niet bellen of gebeld worden. Dit geldt ook voor noodoproepen.</string>
+  <string name="merge_force_restart_text">Als je niet nu opnieuw wilt opstarten, wordt je telefoon automatisch opnieuw opgestart wanneer deze inactief is.</string>
+  <string name="merge_progress_text">Als de update is voltooid, sturen we je een melding</string>
+  <string name="merge_progress_title">Update voltooien…</string>
+  <string name="merge_restart_text">De update wordt voltooid nadat je telefoon opnieuw is opgestart</string>
+  <string name="merge_restart_title">Start je apparaat opnieuw op</string>
+  <string name="merge_update_fail_notify_text">Er zijn systeemproblemen gevonden. Ga naar een servicecentrum om deze problemen op te lossen</string>
+  <string name="merge_update_fail_notify_title">Update mislukt</string>
+  <string name="merge_update_fail_text">Er zijn systeemproblemen gevonden waardoor je geen updates meer ontvangt. Ga naar een servicecentrum om deze problemen op te lossen.
+
+In de tussentijd kun je je telefoon zoals gebruikelijk blijven gebruiken.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Een account kiezen</string>
+  <string name="multiple_account_alert">Kies een %1$s-account om de systeemupdate te voltooien.</string>
+  <string name="no_thanks">Nee, bedankt</string>
+  <string name="no_thanks_message">Als je deze update later wilt installeren, ga je naar Instellingen &gt; Systeemupdates.</string>
+  <string name="no_updates_applied">Er zijn geen updates toegepast</string>
+  <string name="not_now">Niet nu</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Toestemming die apps nodig hebben voor communicatie met otaservice</string>
+  <string name="package_size">Downloadgrootte: %1$s</string>
+  <string name="personalInfo_instruction">Je verliest geen persoonlijke informatie</string>
+  <string name="picker_cell_radio">Wifi- en mobiele data</string>
+  <string name="picker_title">Kies hoe je deze update wilt downloaden:</string>
+  <string name="picker_wifi_only_radio">Alleen wifi</string>
+  <string name="please_restart">Start je apparaat nu opnieuw op</string>
+  <string name="policy_set">Systeemupdate is geblokkeerd. Neem contact op met de toestelbeheerder voor meer informatie.</string>
+  <string name="press_back_again_to_exit">Klik nogmaals op de knop Terug om af te sluiten</string>
+  <string name="progress_copying_sd">Update wordt gekopieerd</string>
+  <string name="progress_deffered">Het downloaden start via wifi/mobiel netwerk</string>
+  <string name="progress_downloading_ota">Systeemupdate downloaden</string>
+  <string name="progress_downloading_security">Beveiligingsupdate downloaden...</string>
+  <string name="progress_retried">De softwaredownload is onderbroken. We blijven het proberen…</string>
+  <string name="progress_suspended">Wachten op gegevensverbinding om downloaden te hervatten</string>
+  <string name="progress_suspended_datasaver">Schakel Gegevensbeperking uit om het downloaden te hervatten</string>
+  <string name="progress_suspended_no_adminapn">Wachten op wifi-verbinding om downloaden te hervatten</string>
+  <string name="progress_suspended_roaming">Je download is onderbroken wegens netwerkroaming. Zet wifi aan om het downloaden te hervatten.</string>
+  <string name="progress_suspended_wifi">Wachten op wifi-verbinding om downloaden te hervatten...</string>
+  <string name="progress_verify">Bevestigen dat je apparaat gereed is voor een update…</string>
+  <string name="progress_verify_allocate_space">Controleren of er genoeg geheugen vrij is</string>
+  <string name="relative_date_time">%1$s om %2$s</string>
+  <string name="release_note_battery_desc">Updates om de levensduur en het gebruik van de accu te verbeteren</string>
+  <string name="release_note_battery_title">Accu</string>
+  <string name="release_note_camera_desc">Deze verbeteringen helpen je om foto's met meer precisie en detail vast te leggen</string>
+  <string name="release_note_camera_title">Camera</string>
+  <string name="release_note_cellular_desc">De wijzigingen helpen de gegevensverbinding van het apparaat te verbeteren</string>
+  <string name="release_note_cellular_title">Mobiel</string>
+  <string name="release_note_charging_desc">Deze update vergroot je oplaadmogelijkheden</string>
+  <string name="release_note_charging_title">Opladen</string>
+  <string name="release_note_generic_desc">De wijzigingen helpen de algehele prestaties van het apparaat te verbeteren</string>
+  <string name="release_note_os_update_desc">Nieuwe monochrome thema's geven je telefoon een strakke look en laten je achtergrond knallen. Bekijk hoe apps je gegevens gebruiken en delen voordat je app-machtigingen geeft en maak je telefoon toegankelijker met de nieuwe audio- en visuele functies van Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">De wijzigingen helpen de prestaties van het apparaat te verbeteren</string>
+  <string name="release_note_performance_title">Prestaties</string>
+  <string name="release_note_security_desc">Bevat beveiligingspatches tot en met %1$s</string>
+  <string name="release_note_security_title">Beveiligingsupdate</string>
+  <string name="release_note_stability_desc">Bevat verbeteringen en bugfixes die je smartphone nog betrouwbaarder maken</string>
+  <string name="release_note_stability_title">Stabiliteit</string>
+  <string name="release_note_title">Deze update omvat</string>
+  <string name="release_note_wifi_desc">Bevat updates voor je wifi-verbinding</string>
+  <string name="release_note_wifi_title">Wifi</string>
+  <string name="release_notes_string">Bekijk alle nieuwe functies in Android %1$s</string>
+  <string name="request_suspended_datasaver">Schakel Databesparing uit om het downloaden te starten</string>
+  <string name="request_suspended_no_network">Geen netwerkdekking om het downloaden te starten</string>
+  <string name="restart_after_one_hour">Start over 1 uur opnieuw op</string>
+  <string name="restart_instruction_title">Voordat je opnieuw opstart</string>
+  <string name="restart_later">Later</string>
+  <string name="restart_message">Start nu opnieuw op om te updaten</string>
+  <string name="restart_notification">Opnieuw opstarten</string>
+  <string name="restart_notification_text">Start nu opnieuw op om te updaten. De update is al %1$d dagen in behandeling.</string>
+  <string name="restart_notify_sanity_call_msg">Het apparaat kan nu niet opnieuw opstarten omdat er een actieve oproep gaande is</string>
+  <string name="restart_notify_sanity_maps_msg">Het apparaat kan nu niet opnieuw opstarten omdat de navigatie is ingeschakeld</string>
+  <string name="restart_now">Nu opnieuw starten</string>
+  <string name="restart_postponed">Opnieuw opstarten uitgesteld</string>
+  <string name="restart_title">Start het apparaat opnieuw op.</string>
+  <string name="resume_download_on_cellular">Mobiele data gebruiken</string>
+  <string name="retrieving_token">Verifiëren...</string>
+  <string name="sdcard_predownload_text">
+In deze stap kopieer je de update naar het systeemgeheugen. De update wordt in de volgende stap geïnstalleerd. 
+
+Sluit je telefoon aan op een voedingsbron om te zorgen dat de accu niet leegraakt.</string>
+  <string name="search_menu_title">Zoeken</string>
+  <string name="secure_instruction">Dit proces is veilig</string>
+  <string name="security_download_notification_title">Verbeter je beveiliging</string>
+  <string name="security_install_notification_text">Een nieuwe beveiligingsupdate kan worden geïnstalleerd</string>
+  <string name="security_install_title">Er staat een beveiligingsupdate klaar</string>
+  <string name="security_patch">Beveiligingspatch:</string>
+  <string name="security_update_low_storage_title">Beveiligingsupdate</string>
+  <string name="security_update_notification_text">Download de nieuwste beveiligingsupdate</string>
+  <string name="security_update_paused">Beveiligingsupdate onderbroken</string>
+  <string name="security_update_pending_notification_text">Download de nieuwste beveiligingsupdate. De update is al %1$d dagen in behandeling.</string>
+  <string name="security_update_title">Beveiligingsupdate</string>
+  <string name="select_account">Een %1$s-account kiezen</string>
+  <string name="selected_later_time_os_mr">Systeemupdate wordt geïnstalleerd op </string>
+  <string name="selected_later_time_smr">Beveiligingsupdate zal worden geïnstalleerd op</string>
+  <string name="setting_sw_summary">Updaten naar de nieuwste software </string>
+  <string name="setting_sw_title">Systeemupdates</string>
+  <string name="smart_cancel_update_toast_msg">De update staat opnieuw gepland voor %1$s</string>
+  <string name="smart_end_time">Einde</string>
+  <string name="smart_install_message_popup">Omdat je Slimme update hebt ingeschakeld, zal je apparaat de update automatisch installeren op %1$s, als je de update dan nog niet hebt geïnstalleerd. Zorg ervoor dat je accu is opgeladen voor installatie.</string>
+  <string name="smart_restart_message_popup">Omdat je Slimme update hebt ingeschakeld, zal je apparaat automatisch opnieuw worden opgestart op %1$s, als je dat dan nog niet zelf hebt gedaan.</string>
+  <string name="smart_settings_string">Updates worden automatisch gedownload en geïnstalleerd wanneer je verbinding hebt met wifi</string>
+  <string name="smart_settings_string_Softbank">Updates worden automatisch gedownload en geïnstalleerd wanneer je verbinding hebt met wifi of mobiele data gebruikt</string>
+  <string name="smart_settings_string_vzw">Updates worden automatisch gedownload en geïnstalleerd</string>
+  <string name="smart_start_time">Begin</string>
+  <string name="smart_to_string">tot</string>
+  <string name="smart_update_advanced">Geavanceerd</string>
+  <string name="smart_update_note">Alle belangrijke beveiligingsupdates worden voor je veiligheid automatisch gedownload, ongeacht of deze functie aan of uit staat</string>
+  <string name="smart_update_note_vzw">Alle kritieke updates worden voor je veiligheid automatisch gedownload en geïnstalleerd, ongeacht of deze functie aan of uit staat.</string>
+  <string name="smart_update_pop_up_text">Bescherm je apparaat met automatische updates</string>
+  <string name="smart_update_recommendation">Slimme updates proberen</string>
+  <string name="smart_update_suggestion_text">Bescherm je apparaat met automatische updates</string>
+  <string name="smart_update_text_AB">Zorg dat je apparaat veilig en efficiënt werkt door automatisch alle nieuwe beveiligingsupdates en bugfixes te installeren.</string>
+  <string name="smart_update_text_AB_vzw">Slimme updates houden je apparaat veilig en efficiënt Als je ze allemaal inschakelt, worden alle nieuwe <b>beveiligingsupdates</b> automatisch gedownload. Nadat een update is gedownload, wordt je apparaat opnieuw opgestart op het tijdstip dat je selecteert.</string>
+  <string name="smart_update_text_classic">Slimme updates houden je apparaat veilig en efficiënt. Als je ze allemaal inschakelt, worden alle nieuwe <b>beveiligingsupdates en bugfixes</b> automatisch gedownload. Nadat een update is gedownload, wordt je apparaat opnieuw opgestart en wordt de update geïnstalleerd op het tijdstip dat je selecteert.</string>
+  <string name="smart_update_text_classic_vzw">Slimme updates houden je apparaat veilig en efficiënt. Als je ze allemaal inschakelt, worden alle nieuwe <b>beveiligingsupdates</b> automatisch gedownload. Nadat een update is gedownload, wordt je apparaat opnieuw opgestart en wordt de update geïnstalleerd op het tijdstip dat je selecteert.</string>
+  <string name="smart_update_time_slot_text_AB">Kies een begintijd</string>
+  <string name="smart_update_time_slot_text_classic">Kies een tijdstip voor installatie</string>
+  <string name="smart_update_title">Slimme updates</string>
+  <string name="software_not_update_to">Je software is nog niet geüpdatet naar</string>
+  <string name="software_update_in_progress">Je systeem wordt bijgewerkt naar versie</string>
+  <string name="software_update_planned_summary">%1$s is gecontroleerd</string>
+  <string name="software_update_planned_title">Software-update gepland</string>
+  <string name="software_update_to">Je systeem is geüpdatet naar</string>
+  <string name="sofware_version">Softwareversie:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Ruimte maken voor een update</string>
+  <string name="su_btn">Instellingen</string>
+  <string name="su_text_off">Je moet je apparaat handmatig updaten als er nieuwe software beschikbaar is. Schakel Slimme updates in om het proces te automatiseren. Tik voor meer details.</string>
+  <string name="su_text_on">Slimme updates worden standaard uitgevoerd tussen 01:00 en 03:00 uur. Je kunt de tijden van de updates wijzigen of Slimme updates uitschakelen in de instellingen. Tik voor meer details.</string>
+  <string name="su_title_off">Slimme updates is uitgeschakeld</string>
+  <string name="su_title_on">Slimme updates is ingeschakeld</string>
+  <string name="system_download_notification_title">Systeemupdate</string>
+  <string name="system_install_notification_text">Een systeemupdate kan worden geïnstalleerd</string>
+  <string name="system_install_title">Er staat een update klaar</string>
+  <string name="system_pdl_notification_mr_title">Ontvang bugfixes en meer</string>
+  <string name="system_pdl_notification_os_title">Android %1$s is nu beschikbaar!</string>
+  <string name="system_update">Systeemupdate</string>
+  <string name="system_update_desc">Bescherm je apparaat tegen beveiligingsrisico's en krijg de nieuwste Motorola en Android-functies</string>
+  <string name="system_update_info_not_available">Niet beschikbaar</string>
+  <string name="system_update_low_storage_text">Tik hier om het geheugen te controleren en door te gaan.</string>
+  <string name="system_update_low_storage_title">Systeemupdate</string>
+  <string name="system_update_notification_os_text">Beleef het nieuwe Android</string>
+  <string name="system_update_notification_text">Download de nieuwe software</string>
+  <string name="system_update_paused">Systeemupdate onderbroken</string>
+  <string name="system_update_pending_notification_os_text">Beleef het nieuwe Android. De update is al %1$d dagen in behandeling.</string>
+  <string name="system_update_pending_notification_text">Download de nieuwe software. De update is al %1$d dagen in behandeling.</string>
+  <string name="system_update_settings_list_item_title">Systeemupdates</string>
+  <string name="system_update_status">Updatestatus</string>
+  <string name="system_update_title">Systeemupdate</string>
+  <string name="tethered_permission_desc">Resultaten 3c-update verzenden</string>
+  <string name="tethered_update_result">Resultaat update via tethering</string>
+  <string name="time_picker_text">Installatie starten zonder herinnering</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Probeer het opnieuw</string>
+  <string name="turn_it_off">Uitschakelen</string>
+  <string name="turn_it_on">Inschakelen</string>
+  <string name="turn_on_smart_updates">Slimme updates inschakelen</string>
+  <string name="update">Updaten</string>
+  <string name="update_blocked_by_policy">Update is geblokkeerd door beheerbeleid </string>
+  <string name="update_cancelled_status">De softwaredownload is geannuleerd op</string>
+  <string name="update_fail_desc">Er is een fout opgetreden</string>
+  <string name="update_fail_status">Update mislukt</string>
+  <string name="update_fail_sucancel_dm_status">Update geannuleerd door server</string>
+  <string name="update_fail_title">Update mislukt</string>
+  <string name="update_history_blank">Nog geen geschiedenis</string>
+  <string name="update_history_src_target">Update van %1$s naar %2$s</string>
+  <string name="update_history_time">Geüpdatet op %1$s</string>
+  <string name="update_history_title">Updategeschiedenis</string>
+  <string name="update_history_version">Softwareversie %1$s</string>
+  <string name="update_info">Updaten…</string>
+  <string name="update_postpone_policy">Update is uitgesteld door beheerbeleid </string>
+  <string name="update_preference">Updatevoorkeuren</string>
+  <string name="update_success_desc">Huidige softwareversie: %1$s</string>
+  <string name="update_success_desc_os">Gefeliciteerd! Je hebt Android %1$s succesvol geïnstalleerd. Nu ben je klaar voor een betere, slimmere en veiligere Android-ervaring.</string>
+  <string name="update_success_status">Update voltooid</string>
+  <string name="update_title">Update voltooid</string>
+  <string name="update_title_text">Geniet van je nieuwe software!</string>
+  <string name="upto_date_title">Alles ziet er goed uit!</string>
+  <string name="urgent_channel_name">Melding van software-update</string>
+  <string name="use_smart_updates">Slimme updates gebruiken</string>
+  <string name="vab_validation_update_failure_desc">Update van VAB-validatie mislukt</string>
+  <string name="vab_validation_update_failure_title">VAB-validatie mislukt</string>
+  <string name="vab_validation_update_success_desc">Gefeliciteerd! Update van VAB-validatie geslaagd</string>
+  <string name="vab_validation_update_success_title">VAB-validatie geslaagd</string>
+  <string name="verifying_patch">Update is toegepast. Bevestigen dat de toepassing is gelukt… (stap 4 van 6)  </string>
+  <string name="verity_disabled_msg">Je apparaat loopt mogelijk veiligheidsrisico's. Voer onderstaande opdracht uit voor het voortzetten van updates
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Je apparaat ontvangt geen updates meer</string>
+  <string name="verizon_failure_notification_text"> Deze update kon niet worden geïnstalleerd op je apparaat. Gebruik de Software Upgrade Assistant-tool om te installeren. Tik voor meer informatie.</string>
+  <string name="verizon_failure_text">Er is een probleem opgetreden bij het updaten van je apparaat. Er zijn geen wijzigingen aangebracht. Als je software wilt updaten, kun je de tool Software Upgrade Assistant gebruiken.
+
+De Software Upgrade Assistant-tool installeren:
+
+1. Gebruik een USB-kabel om je apparaat te verbinden met je computer
+2. Als het USB-menu verschijnt op je apparaat, selecteer je het instellingenpictogram in de rechterbovenhoek
+3. Selecteer Software-installatie in USB-voorkeuren
+4. Schakel naar je pc en zoek de installatiewizard
+5. Doorloop alle stappen in de wizard
+
+De Software Upgrade Assistant-tool helpt je met het downloaden en installeren van software-updates op je apparaat.</string>
+  <string name="vital_applying_updates">Updates toepassen...</string>
+  <string name="vital_bg_text">Dit kan een paar minuten duren.</string>
+  <string name="vital_check_for_updates">Zoeken naar updates...</string>
+  <string name="vital_check_for_updates_desc">Updates houden je apparaat veilig en verbeteren de prestaties.</string>
+  <string name="vital_done">Klaar!</string>
+  <string name="vital_error_fail">Er is een updatefout opgetreden. Er zijn geen wijzigingen aangebracht.</string>
+  <string name="vital_go_back">Weet je zeker dat je de installatie wilt stoppen?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Start opnieuw op om door te gaan</string>
+  <string name="vital_skip">Overslaan</string>
+  <string name="vital_stop">Stoppen</string>
+  <string name="wifi_setting">Wifi-instellingen</string>
+</resources>

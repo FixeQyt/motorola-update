@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">بعد میں تازہ کاری کریں</string>
+  <string name="ab_download_now">ابھی تازہ کاری کریں</string>
+  <string name="ab_install_notification_paused_text">پس منظر تنصیب کاری موقوف ہوگئی</string>
+  <string name="ab_install_notification_text">پس منظر کی تنصیب کاری</string>
+  <string name="ab_restart_fullscreen_text">آپ کا ڈیوائس دوبارہ اسٹارٹ کرنے میں تقریباً 90 سیکنڈز لگیں گے۔ یہ تازہ کاری %1$d دنوں سے دستیاب ہے۔</string>
+  <string name="ab_restart_text">آپ کا ڈیوائس دوبارہ اسٹارٹ کرنے میں تقریباً 90 سیکنڈز لگیں گے۔</string>
+  <string name="ab_restart_warning_os_mr">آپ کے سسٹم کی تازہ کاری تقریباً مکمل ہوگئی ہے۔ آپ کا آلہ ہوگا  </string>
+  <string name="ab_restart_warning_smr">آپ کی سیکیورٹی تازہ کاری تقریباً مکمل ہوگیا ہے۔ آپ کا آلہ ہوگا </string>
+  <string name="ab_warning_continues"> اپ ڈیٹ مکمل کرنے کے لیے۔</string>
+  <string name="abupdate_in_progress_status">سافٹ ویئر کی تازہ کاری پیش رفت میں ہے</string>
+  <string name="additional_charges_message">موبائل ڈیٹا پر ڈاؤن لوڈ کا عمل جاری رہے گا۔ ڈیٹا چارجز کا اطلاق ہو سکتا ہے۔</string>
+  <string name="alertSubText">اسے تازہ کاری پیکیج چیک، ڈاؤن لوڈ اور تنصیب کرنے کے لیے استعمال کیا جاتا ہے</string>
+  <string name="alertText">سافٹ ویئر کی تازہ کاریوں کے لیے نیٹ ورک آپریشنز کی اجازت دیں</string>
+  <string name="alertTitle">تازہ کاری کو مندرجہ ذیل اجازت کی ضرورت ہے</string>
+  <string name="alert_dialog_cancel">تنصیب روکیں</string>
+  <string name="alert_dialog_continue">تنصیب جاری رکھیں</string>
+  <string name="alert_dialog_no">نہیں</string>
+  <string name="alert_dialog_ok">سمجھ آ گئی</string>
+  <string name="alert_dialog_yes">ہاں</string>
+  <string name="allocate_space_success">لازمی میموری تازہ کاری کے لیے دستیاب ہے</string>
+  <string name="allow">اجازت دیں</string>
+  <string name="android_latest_sw_text">آپ تازہ ترین سافٹ ویئر استعمال کر رہے ہیں۔</string>
+  <string name="android_version">‏Android ورژن:</string>
+  <string name="app_name">‏Motorola سافٹ ویئر تازہ کاری</string>
+  <string name="applied">آن</string>
+  <string name="apply_bug_fix">بگ بکس پر اطلاق کریں</string>
+  <string name="apply_os_update">سبھی سافٹ ویئر تازہ کاریوں میں اطلاق کریں</string>
+  <string name="applying_patch">تازی کاری اطلاق کی جارہی ہے… (مرحلہ %2$d میں سے %1$d)  </string>
+  <string name="are_you_sure">اسمارٹ تازہ کاریاں آف کریں؟</string>
+  <string name="are_you_sure_pop_up_text">کیا آپ واقعی اسمارٹ تازہ کاریوں کو آف کرنا چاہتے ہیں؟ </string>
+  <string name="asc_campaign_assigned">مہم تفویض کر دی گئی</string>
+  <string name="asc_campaign_is_allowed">فرم ویئر کی تازہ کاری</string>
+  <string name="asc_campaign_is_blocked">فرم ویئر لاک</string>
+  <string name="asc_campaign_not_assigned">مہم تفویض نہیں کی گئی</string>
+  <string name="asc_sw_up_to_date">تازہ ترین ورژن تک</string>
+  <string name="asc_target_version">ورژن تک</string>
+  <string name="auth_title">سسٹم اپ ڈیٹ</string>
+  <string name="auto_download_cellualr_charges_warn">موبائل نیٹ ورک کے ذریعے سافٹ ویئر پیکیجز ڈاؤن لوڈ کرنے کے دوران اضافی بائیلیبل چارجز کا اطلاق ہو سکتا ہے۔</string>
+  <string name="auto_download_enable_cellular_future_updates">مستقل کی ڈاؤن لوڈز کے لئے بھی کیا آپ سیلولر ڈیٹا استعمال کرنا چاہتے ہیں؟</string>
+  <string name="auto_download_settings_title">خودکار ڈاؤن لوڈ ترتیبات</string>
+  <string name="auto_download_wifi_cellular">سیلولر (صرف ڈومیسٹک) اور Wi-Fi پر خودکار ڈاؤن لوڈ</string>
+  <string name="auto_download_wifi_cellular_desc">سیلولر اور Wi-Fi پر خودکار طور پر ڈاؤن لوڈ کریں دستیاب ہونے پر سب سے پہلے Wi-Fi استعمال کیا جائے گا۔ </string>
+  <string name="auto_download_wifi_only">صرف Wi-Fi پر آٹو ڈاؤن لوڈ</string>
+  <string name="auto_download_wifi_only_desc">صرف Wi-Fi پر خودکار ڈاؤن لوڈ</string>
+  <string name="auto_install_notification_text">آلہ %1$s میں خودکار طورپر تنصیب ہوجائے گا</string>
+  <string name="auto_time_set">شروع کریں:</string>
+  <string name="automatic_bg_install_on_cellular_warning">اس کی اہمیت کی وجہ سے، یہ تازہ کاری %1$s کو موبائل ڈیٹا کے ذریعہ خودکار طورپر تنصیب ہوجائے گا</string>
+  <string name="automatic_download_on_cellular_warning">اس کی اہمیت کی وجہ سے، یہ تازہ کاری %1$s کو موبائل ڈیٹا کے ذریعہ خودکار طورپر ڈاؤن لوڈ ہوجائے گا</string>
+  <string name="background_install_msg">اگر آپ پیچھے جاتے ہیں یا یہ ونڈو بند کردیتے ہیں تو یہ تازہ کاری جاری رہے گی۔</string>
+  <string name="background_install_text">کوئی تازہ کاری &amp; تنصیب ڈاؤن لوڈ کررہا ہے۔ آپ اپنے آلہ کا استعمال جاری رکھ سکتے ہیں۔</string>
+  <string name="bad_connection">کوئی کنکشن نہیں ہے</string>
+  <string name="bad_connection_text">ایسا لگتا ہے کہ آپ کا آلہ فی الحال انٹرنیٹ سے منقطع ہوگیا ہے۔ دوبارہ کوشش کرنے کے لیے نیچے کے بٹن کو ٹیپ کریں۔</string>
+  <string name="bg_install_cancel_confirm">کیا آپ واقعی یہ تنصیب روکنا چاہتے ہیں؟</string>
+  <string name="bg_retried">سافٹ ویئر ڈاؤن لوڈ میں خلل واقع ہو گیا ہے۔ ہم کوشش کرنا جاری رکھیں گے…</string>
+  <string name="bg_suspended">پس منظر ڈاؤن لوڈ اور تنصیب کاری دوبارہ شروع کرنے کے لیے ڈیٹا کنکشن کا انتظار ہے…</string>
+  <string name="bg_suspended_non_adminapn">پس منظر ڈاؤن لوڈ اور تنصیب کاری پھر سے شروع کرنے کے لیے Wi-Fi یا مفت شرح والے نیٹ ورک کا انتظار ہے…</string>
+  <string name="bg_suspended_roaming">رومنگ نیٹ ورک کی وجہ سے پس منظر کی تنصیب کاری موقوف ہوگئی ہے، براہ کرم پس منظر کی تنصیب کاری دوبارہ شروع کرنے کے لیے Wi-Fi کو آن کریں۔</string>
+  <string name="bg_suspended_wifi">پس منظر ڈاؤن لوڈ اور تنصیب کاری دوبارہ شروع کرنے کے لیے Wi-Fi کا انتظار ہے…</string>
+  <string name="bootloader_unlock_msg">اب آپ کے آلے کو تازہ کاریاں نہیں مل رہی ہیں اور وہ سیکیورٹی خطرات کے شکار ہو سکتے ہیں۔</string>
+  <string name="bootloader_unlock_title">کوئی دستیاب تازہ کاریاں نہیں</string>
+  <string name="cancel">منسوخ کریں</string>
+  <string name="cancel_download_notification">منسوخ کریں</string>
+  <string name="cancel_install">منسوخ کریں</string>
+  <string name="cancel_update_notification">منسوخ کریں</string>
+  <string name="check_for_updates_title">برائے تازہ کاری چیک کریں</string>
+  <string name="check_update_badparam">لاگ ان ناکم ہونے کی وجہ سے اپ گریڈ کرنے کی کوشش میں ایک غلطی واقع ہوئی ہے۔
+
+براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+  <string name="check_update_checking">تازہ کاریاں چیک ہورہی ہیں…</string>
+  <string name="check_update_disabled_admin">‏IT ایڈمن کی جانب سے کنٹرول کردہ</string>
+  <string name="check_update_downloading">فی الحال ایک اپ ڈیٹ ڈاؤن لوڈ کیا جارہا ہے۔
+
+آپ کی ڈاؤن لوڈ کے مکمل ہونے پر تشخیص کی جائے گی۔</string>
+  <string name="check_update_fail">ایک غیر متوقع خرابی پیش آگئی ہے۔
+
+آلہ پس منظر میں اپ ڈیٹ کے لیے دوبارہ کوشش کرے گا۔</string>
+  <string name="check_update_internal">تازہ کاریاں چیک کرنے سے قاصر۔ بعد میں دوبارہ کوشش کریں۔</string>
+  <string name="check_update_net">تازہ کاریاں چیک کرنے کے لیے آپ کو ڈیٹا کنکشن کی ضرورت ہے۔ اپنا Wi-Fi کنکشن چیک کرنے کے لیے، ترتیبات &gt; نیٹ ورک اور انٹرنیٹ &gt; انٹرنیٹ &gt; Wi-Fi پر جائیں۔</string>
+  <string name="check_update_net_vzw">تازہ کاریاں چیک کرنے کے لیے آپ کو ڈیٹا کنکشن کی ضرورت ہے۔ اپنا Wi-Fi کنکشن چیک کرنے کے لیے، ترتیبات &gt; نیٹ ورک اور انٹرنیٹ &gt; انٹرنیٹ &gt; Wi-Fi پر جائیں۔‏
+
+آپ دوسری تازہ کاری اختیارات دیکھنے کے لیے motorola.com/systemupdates بھی ملاحظہ کر سکتے ہیں۔</string>
+  <string name="check_update_processing">ہمارے سرور سے رابطہ کررہا ہے…
+براہ کرم انتظار کریں</string>
+  <string name="check_update_roaming">سسٹم اپ ڈیٹ صرف ہوم نیٹ ورک میں دستیاب ہے۔ ‏
+
+ابھی کنکشن سیٹ اپ کرنے کے لیے ترتیبات &gt; نیٹ ورک اور انٹرنیٹ &gt; Wi-Fi میں جائيں۔</string>
+  <string name="check_update_storage_low">آلہ میں اسٹوریج کی جگہ ناکافی ہونے کی وجہ سے تازہ کاری ممکن نہیں ہے۔</string>
+  <string name="check_update_temperror">اپ ڈیٹ کا ڈاؤن لوڈ اس پوائنٹ پر مکمل نہیں کیا جاسکتا۔
+
+براہ کرم دوبارہ کوشش کریں۔</string>
+  <string name="check_update_text">وقتا فوقتا تازہ کاریاں چیک کرنے سے آپ کا آلہ محفوظ رہ سکتا ہے اور اس کی کارکردگی بہتر ہو سکتی ہے۔</string>
+  <string name="check_update_title_downloading">ڈاؤن لوڈ پیش رفت میں ہے…</string>
+  <string name="check_update_vab_validation">‏VAB تصدیقی تازہ کاری کی حالت چیک کریں
+براہ کرم انتظار کریں</string>
+  <string name="check_update_wifi_only">سسٹم اپ ڈیٹ صرف Wi-Fi کے ذریعہ دستیاب ہے۔</string>
+  <string name="check_wifi_settings">‏Wi-Fi ترتیبات چیک کریں</string>
+  <string name="clear_space">جگہ صاف کریں</string>
+  <string name="cloud_picker_title">کلاؤڈ پیکر</string>
+  <string name="common_android_wear_notification_needs_update_text">‏ایک اپیلیکیشن کو Android Wear ایپ کیلئے ایک اپ ڈیٹ درکار ہے۔</string>
+  <string name="common_android_wear_update_text">‏جب تک آپ Android Wear ایپ کو اپ ڈیٹ نہیں کر لیتے یہ ایپ نہیں چلے گی۔</string>
+  <string name="common_android_wear_update_title">‏Android Wear کو اپ ڈیٹ کریں</string>
+  <string name="common_google_play_services_enable_button">‏Google Play سروسز فعال کریں</string>
+  <string name="common_google_play_services_enable_text">‏یہ ایپ تب تک کام نہیں کرے گی جب تک کہ آپ Google Play سروسز فعال نہیں کر لیتے ہیں۔</string>
+  <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">%1$s کے ذریعے درخواست کی گئی</string>
+  <string name="common_google_play_services_install_button">‏Google Play سروسز حاصل کریں</string>
+  <string name="common_google_play_services_install_text_phone">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے فون سے غائب ہے۔</string>
+  <string name="common_google_play_services_install_text_tablet">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے ٹیبلیٹ سے غائب ہے۔</string>
+  <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+  <string name="common_google_play_services_invalid_account_text">متعین اکاؤنٹ اس آلہ پر موجود نہیں ہے۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+  <string name="common_google_play_services_invalid_account_title">غلط اکاؤنٹ</string>
+  <string name="common_google_play_services_needs_enabling_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا فعال ہونا ضروری ہے۔</string>
+  <string name="common_google_play_services_network_error_text">‏Google Play سروسز سے مربوط ہونے کیلئے ایک ڈیٹا کنکشن کی ضرورت ہے۔</string>
+  <string name="common_google_play_services_network_error_title">نیٹ ورک میں خرابی</string>
+  <string name="common_google_play_services_notification_needs_installation_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا انسٹال ہونا ضروری ہے۔</string>
+  <string name="common_google_play_services_notification_needs_update_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کیلئے ایک اپ ڈیٹ ضروری ہے۔</string>
+  <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+  <string name="common_google_play_services_unknown_issue">‏Google Play سروسز کے ساتھ نامعلوم مسئلہ۔</string>
+  <string name="common_google_play_services_unsupported_text">‏Google Play سروسز، جن پر آپ کی کچھ ایپلیکیشنز انحصار کرتی ہیں، آپ کے آلہ کے ذریعے تعاون یافتہ نہیں ہے۔ براہ کرم مدد کیلئے مینوفیکچرر سے رابطہ کریں۔</string>
+  <string name="common_google_play_services_unsupported_title">‏Google Play سروسز</string>
+  <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+  <string name="common_google_play_services_update_text">‏یہ ایپ تب تک نہیں چلے گی جب تک کہ آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں۔</string>
+  <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+  <string name="common_open_on_phone">فون پر کھولیں</string>
+  <string name="common_signin_button_text">سائن ان کریں</string>
+  <string name="common_signin_button_text_long">‏Google کے ساتھ سائن ان کریں</string>
+  <string name="compatibility_failed_title">پیکیج کی تصدیق ناکام ہوگئی</string>
+  <string name="compatibility_verification_failure">ڈاؤن لوڈ کیے جارہے تازہ کاری پیکیج آلہ پر موجود حالیہ سافٹ ویئر کے ورژن کے ساتھ مطابقت پذیر نہیں ہے۔</string>
+  <string name="compatibility_verification_failure_df">‏
+
+براہ کرم اپنے Dogfood کوآرڈینیٹر سے چیک کریں۔</string>
+  <string name="compatibility_verification_success">کامیابی کے ساتھ تصدیق ہوگئی</string>
+  <string name="completed"> تنصیب کاری مکمل ہوگئی۔ (مرحلہ %2$d میں سے %1$d)</string>
+  <string name="completed_install">%s مکمل ہوگیا</string>
+  <string name="continue_button">جاری رکھیں</string>
+  <string name="critical_install_message_popup_os_mr">ایک اہم سسٹم تازہ کاری دستیاب ہے! براہ کرم تازہ کاری اطلاق کرنے کے لیے تنصیب کریں کو منتخب کریں۔ اگر ایسا نہیں کرتے ہیں، تو تازہ کاری %1$s کو خود کار طور پر اطلاق ہو جائے گا۔</string>
+  <string name="critical_install_message_popup_smr">ایک اہم سیکیورٹی تازہ کاری دستیاب ہے۔ براہ کرم تازہ کاری اطلاق کرنے کے لیے تنصیب کریں کو منتخب کریں۔ اگر ایسا نہیں کرتے ہیں، تو تازہ کاری %1$s کو خود کار طور پر اطلاق ہو جائے گا۔</string>
+  <string name="critical_install_message_screen">یہ اہم تازہ کاری %1$s کو خوکار طور پر تنصیب ہوجائے گی۔ یقینی بنائیں کہ تنصیب کاری کے لیے آپ کے پاس کافی بیٹری ہے۔</string>
+  <string name="critical_install_notification">کیوں کہ یہ تازہ کاری اہم ہے، تو آپ کا آلہ خودکار طور پر %1$s کو ری اسٹارٹ ہوجائے گا۔‏
+تنصیب کا وقت: %2$d منٹس</string>
+  <string name="critical_restart_message_popup">براہ کرم جتنا جلد ہوسکے یہ اہم تازہ کاری اطلاق کرنے کے لیے اپنا آلہ ری اسٹارٹ کریں۔ اگر آپ دستی طور پر ری اسٹارٹ نہیں کرتے ہیں، تو آپ کا آلہ %1$s کو خود کار طور پر ری اسٹارٹ ہو جائے گا۔</string>
+  <string name="critical_restart_message_screen">کیوں کہ یہ ایک اہم تازہ کاری ہے، اگر آپ نے ابھی تک ری اسٹارٹ نہیں کیا ہے تو آپ کا آلہ %1$s خودکار طور پر ری اسٹارٹ ہوجائے گا۔</string>
+  <string name="critical_restart_notification">کیوں کہ یہ تازہ کاری اہم ہے، تو آپ کا آلہ %1$s کو خودکار طور پر ری اسٹارٹ ہوجائے گا</string>
+  <string name="critical_update_notification_title">اہم تازہ کاری</string>
+  <string name="current_version">حالیہ سافٹ ویئر ورژن:</string>
+  <string name="custom_slot">حسب ضرورت</string>
+  <string name="date_time">%s میں %s</string>
+  <string name="defer_count_expired">سمجھ آ گئی</string>
+  <string name="deny">رد کریں</string>
+  <string name="details">تفصیلات</string>
+  <string name="dialog_alert_net_message">اپنا Wi-Fi یا موبائل ڈیٹا کنکشن چیک کریں اور دوبارہ کوشش کریں۔</string>
+  <string name="dialog_alert_net_title">آپ کا آلہ آف لائن ہے</string>
+  <string name="dialog_alert_title">بیٹری کمزور ہے</string>
+  <string name="dialog_progress">لوڈ ہو رہی ہے…</string>
+  <string name="dl_options_mobile_only_warning">‏Wi-Fi استعمال کرنے کا مشورہ دیا جاتا ہے۔ رومنگ کے دوران موبائل ڈیٹا سے ڈاؤن لوڈ کرنے یا موبائل ڈیٹا استعمال کرنے سے اضافی چارجز عائد ہوسکتے ہیں۔
+
+یہ سافٹ ویئر ڈاؤن لوڈ کرنے سے آپ کے آلہ کی کارروائی محیط نہیں ہوگی۔</string>
+  <string name="done">ہوگیا</string>
+  <string name="dont_show_this_again">اسے دوبارہ نہ دکھائیں</string>
+  <string name="download_cancelled_title">ڈاؤن لوڈ منسوخ ہوگیا</string>
+  <string name="download_deferred_status">سافٹ ویئر کی ڈاؤن لوڈ موخر ہو گئی تھی مورخہ</string>
+  <string name="download_failed_status">تازہ کاری ڈاؤن لوڈ ہونے میں ناکام ہو گئی مورخہ</string>
+  <string name="download_in_progress_status">سافٹ ویئر کی ڈاؤن لوڈ پیش رفت میں ہے</string>
+  <string name="download_later_button">بعد میں ڈاؤن لوڈ کریں</string>
+  <string name="download_no_button">شکریہ نہیں</string>
+  <string name="download_note">تازہ کاری تنصیب ہونے کے دوران آپ اپنے آلہ کا استعمال جاری رکھ سکتے ہیں</string>
+  <string name="download_now">ابھی ڈاؤن لوڈ کریں</string>
+  <string name="download_now_button">ڈاؤن لوڈ کریں</string>
+  <string name="download_options">اختیارات داؤن لوڈ کریں</string>
+  <string name="download_progress_cancel_message">اگر آپ بعد میں یہ تازہ کاری ڈاؤن لوڈ کرنا چاہتے ہیں، تو ترتیبات &gt; سسٹم تازہ کاریوں پر جائیں</string>
+  <string name="download_progress_fragment_message">‏%1$s/%2$s</string>
+  <string name="download_progress_message">‏%1$s باقی %2$s/%3$s</string>
+  <string name="download_progress_paused_message">‏%s%% ڈاؤن لوڈ کردہ (موقوف ہوگیا)</string>
+  <string name="download_progress_text">اگر آپ پیچھے جاتے ہیں یا یہ ونڈو بند کردیتے ہیں تو یہ ڈاؤن لوڈ جاری رہے گا۔</string>
+  <string name="download_subtitle">آپ کے ڈاؤن لوڈ کرنے سے پہلے کیا جاننا ضروری ہے</string>
+  <string name="download_text_whats_new">دیکھیں کہ نیا کیا ہے</string>
+  <string name="download_time_left">‏%1$s باقی</string>
+  <string name="download_version">نیا ورژن: %1$s</string>
+  <string name="download_wifi_only_error">‏Wi-Fi کے ذریعے یہ تازہ کاری ڈاؤن لوڈ کرنے کی ضرورت ہے۔ آپ کے کنکشن کے بحال ہو جانے کے بعد یہ ڈاؤن لوڈ دوبارہ شروع ہو جائے گا۔</string>
+  <string name="downloaded_percentage">‏%1$s ڈاؤن لوڈ ہوگیا</string>
+  <string name="emergency_call_btn_txt">ہنگامی</string>
+  <string name="emergency_call_text">ریبوٹ کے دوران، آپ ایمرجنسی کالوں سمیت، کالز کر یا وصول کرنے سے قاصر ہوں گے!</string>
+  <string name="enable_wifi_error_txt">یہ تازہ کاری ڈاؤن لوڈ کرنے کے لیے Wi-Fi سے متصل کریں۔</string>
+  <string name="eol_explore">نئے آلات دریافت کریں</string>
+  <string name="eol_last_update_text">سیکیورٹی پیچ:</string>
+  <string name="eol_promote">تازہ ترین پرموشنز دیکھیں</string>
+  <string name="eol_title">آپ کے آلہ میں تازہ ترین دستیاب سافٹ ویئر چل رہا ہے۔</string>
+  <string name="err_title_contact_server">سرور سے مربوط ہو رہا ہے…</string>
+  <string name="err_title_memory_low">میموری کم ہے…</string>
+  <string name="err_title_temp_error">عارضی نقص</string>
+  <string name="err_title_update">تازہ کاری نقص</string>
+  <string name="error_code">غلطی کوڈ: </string>
+  <string name="error_copyfail">SD کارڈ کے محل وقوع سے نقل کرنے میں ناکام۔</string>
+  <string name="error_disabled">اپ ڈیٹ ڈاؤن لوڈ کرنا ناکام ہوگیا۔ اپ ڈیٹ پیکیج اس وقت دستیاب نہیں ہے۔ 
+
+کسی مزید عمل کی ضرورت نہیں ہے۔</string>
+  <string name="error_fail">معاف کیجئے گا، آپ کے %1$s کی تازہ کاری کرنے میں مسئلہ تھا۔ کوئی تبدیلیاں نہیں کی گئیں۔ براہ کرم ترتیبات &gt; سسٹم تازہ کاری میں جا کر دوبارہ کوشش کریں۔</string>
+  <string name="error_in_call_msg">کال زیر عمل ہونے کی وجہ سے آلے کی ابھی تازہ کاری نہ ہو سکی</string>
+  <string name="error_in_call_title">کال زیر عمل ہے</string>
+  <string name="error_install_title">تنصیب کاری ناکام ہوگئی</string>
+  <string name="error_mismatch">ایک غلط مماثلت والا ورزن واقع ہوا ہے۔ ایک اپ ڈیٹ دوبارہ واقع ہوگا۔ اگر ایک دستیاب رہتا ہے، تو آپ کی حوصلہ افزائی کی جائے گی۔</string>
+  <string name="error_mismatch_sd">اپ ڈیٹ کرنے میں ناکام۔ اپ ڈیٹ ورزن آپ کے فون سے میل نہیں کھاتا ہے۔ 
+
+براہ کرم اپنے فون کے لیے صحیح ورزن ڈاؤن لوڈ کریں اور دوبارہ کوشش کریں۔</string>
+  <string name="error_network">مواصلت ضائع ہوچکے ہیں۔ براہ کرم فون ترتیبات کے ذریعہ اپ ڈیٹ کے لیے دستی طورپر چیک کرکے دوبارہ کوشش کریں۔</string>
+  <string name="error_reboot">ہم یہ تازہ کاری ڈاؤن لوڈ کرنے کے اہل نہیں تھے۔ اگر آپ اس تازہ کاری کو بعد میں حاصل کرنا چاہتے ہیں تو براہ کرم اپنا آلہ دوبارہ شروع کریں اور پھر ترتیبات &gt; سسٹم تازہ کاریوں پر جائیں۔</string>
+  <string name="error_resources">ہم یہ تازہ کاری ڈاؤن لوڈ کرنے کے اہل نہیں تھے۔ اگر آپ بعد میں اس تازہ کاری کو حاصل کرنا چاہیں، تو ترتیبات &gt; سسٹم تازہ کاریوں پر جائیں۔</string>
+  <string name="error_sdcard_resources_fail_removal">‏SD کارڈ ہٹادیا گيا تھا۔ ڈاؤن لوڈ کارروائی مکمل نہیں ہوئی۔ 
+
+براہ کرم SD کارڈ دوبارہ داخل کریں اور دوبارہ کوشش کرنے کے لیے ترتیبات &gt; سسٹم تازہ کاری میں جائیں۔
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">ڈاؤن لوڈ مکمل ہونے سے قاصر۔ SD کارڈ میں کافی جگہ نہیں ہے۔ 
+
+براہ کرم تھوڑی جگہ خالی کریں اور دوبارہ کوشش کرنے کے لیے ترتیبات &gt; سسٹم تازہ کاری میں جائیں۔
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">براہ کرم ڈاؤن لوڈ شروع کرنے کے لیے SD کارڈ داخل کریں۔
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">براہ کرم ڈاؤن لوڈ شروع کرنے کے لیے SD کارڈ ماؤنٹ کریں۔ 
+
+ترتیبات &gt; اسٹوریج &gt; ماؤنٹ SD کارڈ پر جائیں۔
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">ڈاؤن لوڈ مکمل کرنے کے لیے SD کارڈ میں کافی جگہ نہیں ہے۔ ‏
+
+براہ کرم دوبارہ ڈاؤن لوڈ کرنے کی کوشش کرنے کے لیے %1$s جگہ خالی کریں اور ترتیبات &gt; سسٹم کی تازہ کاریوں میں جائیں۔
+
+
+</string>
+  <string name="error_sdcard_resources_title">خرابی</string>
+  <string name="error_sdcard_resources_warning">سافٹ ویئر اپ ڈیٹ SD کارڈ پر ڈاؤن لوڈ ہورہا ہے۔ 
+
+براہ کرم SD کارڈ کو نہ ہٹائیں جب تک کہ تنصیب مکمل نہ ہوجائے۔
+
+
+</string>
+  <string name="error_server">سرور پر ایک غلطی واقع ہوگئی ہے۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+  <string name="error_space">اس تازہ کاری کو آپ کے آلہ پر %1$s دستیاب ذخیرہ کی ضرورت ہے۔ ‏
+
+براہ کرم غیر استعمال کردہ ایپس حذف کریں یا %2$s جگہ خالی کرنے کے لیے دیگر ذخیرہ آلہ میں اپنی تصویریں اور ویڈیوز منتقل کریں۔ ‏
+
+مکمل ہو نے کے بعد، آپ کسی بھی وقت تازہ کاری شروع کرنے کے لیے ترتیبات &gt; سسٹم کی تازہ کاریوں میں جا سکتے ہیں۔</string>
+  <string name="error_space_retry">اس تازہ کاری کو آپ کے آلہ پر %1$s دستیاب ذخیرہ کی ضرورت ہے۔ ‏
+
+براہ کرم غیر استعمال کردہ ایپس حذف کریں یا %2$s جگہ خالی کرنے کے لیے دیگر ذخیرہ آلہ میں اپنی تصویریں اور ویڈیوز منتقل کریں۔</string>
+  <string name="error_space_vab">اس تازہ کاری کو آپ کے آلہ پر %1$s دستیاب خالی جگہ کی ضرورت ہے۔ براہ کرم کامیاب تازہ کاریوں کے لیے میموری کو خالی کریں</string>
+  <string name="error_space_vab_make_room_popup">آپ کو تازہ کاری کرنے سے پہلے %1$s جگہ خالی کرنی ہوگی۔ غیر استعمال شدہ ایپس کو حذف کرنے یا تصاویر اور ویڈیوز کو دوسرے ذخیرہ آلہ میں منتقل کرنے کی کوشش کریں۔</string>
+  <string name="error_title">ڈاؤن لوڈ ناکام</string>
+  <string name="error_verify">اپ ڈیٹ کا صحیح طورپر توثیق نہیں کیا جاسکتا۔ براہ کرم دوبارہ کوشش کریں۔</string>
+  <string name="failed">ناکام</string>
+  <string name="failure_process">معلومات دستیاب نہیں ہے</string>
+  <string name="first_net_text">براہ کرم تازہ کاری یا کسی اور کو تنصیب کریں آلہ اگلے پھر بوٹ میں خودکار طورپر تنصیب ہوجائے گا۔ یقینی بنائیں کہ بیٹری سطح %s سے زیادہ ہے</string>
+  <string name="forceInstallMessage">یہ تازہ کاری %1$s کو خوکار طور پر تنصیب ہوجائے گی۔</string>
+  <string name="force_install_message_screen">یہ ایک اہم تازہ کاری ہے، لہذا براہ کرم %1$s کے ذریعے تنصیب کریں۔ ورنہ، آپ کے آلہ کے آخری مرتبہ استعمال کیے جانے کے وقت یہ خود کار طور پر تنصیب ہو جائے گا۔ یقینی بنائیں کہ تنصیب کاری کے لیے آپ کے پاس کافی بیٹری لائف ہے۔</string>
+  <string name="force_install_notification_message">براہ کرم %1$s کے ذریعے تنصیب کریں۔ ورنہ، آپ کے آلہ کے آخری مرتبہ استعمال ہونے کے وقت یہ خود کار طور پر تنصیب ہو جائے گا۔‏
+تنصیب کا وقت: %2$d منٹس</string>
+  <string name="force_restart_notification_message">براہ کرم %1$s کو ری اسٹارٹ کریں۔ ورنہ، آپ کے آلہ کے آخری مرتبہ استعمال ہونے کے وقت یہ خود کار طور پر ری اسٹارٹ ہو جائے گا۔</string>
+  <string name="force_restart_screen_message">اگر آپ %1$s کو ری اسٹارٹ نہیں کرتے ہیں، تو آپ کا آلہ استعمال کیے جانے کے وقت خودکار طورپر ری اسٹارٹ ہوجائے گا۔</string>
+  <string name="google">Google</string>
+  <string name="got_it">سمجھ آ گئی</string>
+  <string name="important_update_install_overdue_message">تنصیب کاری کے لیے مقرر کردہ وقت گزر چکا ہے۔ ایک بار معیار کو پہنچتے ہی آپ کے آلہ کی تنصیب کاری شروع ہوجائے گی۔</string>
+  <string name="important_update_restart_overdue_message">دوبارہ اسٹارٹ کے لیے مقرر کردہ وقت گزر چکا ہے۔ ایک بار معیار کو پہنچتے ہی آلہ کی تنصیب کاری شروع ہوجائے گی۔</string>
+  <string name="initiating_ota_service_msg">براہ کرم انتظار کریں...</string>
+  <string name="initiating_ota_service_title">سافٹ ویئر تازہ کاری کے عمل کی ابتدا کرنا</string>
+  <string name="install">انسٹال کریں</string>
+  <string name="install_after_one_hour">‏1 گھنٹہ میں تنصیب کریں</string>
+  <string name="install_cancelled_title">انسٹالیشن منسوخ ہو گئی</string>
+  <string name="install_deferred_status">تارہ کاری موخر ہو گئی تھی مورخہ</string>
+  <string name="install_later">بعد میں تنصیب کریں</string>
+  <string name="install_notify_sanity_call_msg">کال زیر عمل ہونے کی وجہ سے آلہ ابھی تنصیب نہیں ہوسکتا</string>
+  <string name="install_notify_sanity_maps_msg">نیویگیشن آن ہونے کی وجہ سے آلہ ابھی تنصیب نہیں ہوسکتا</string>
+  <string name="install_now">اب تنصیب کریں</string>
+  <string name="install_postponed">تنصیب ملتوی ہوگئی</string>
+  <string name="install_progress_cancel_message">اگر آپ بعد میں یہ تازہ کاری تنصیب کرنا چاہتے ہیں، تو ترتیبات &gt; سسٹم تازہ کاریوں پر جائیں</string>
+  <string name="install_progress_paused_message">‏%s مکمل شدہ (موقوف شدہ)</string>
+  <string name="install_time">تنصیب کا وقت: %1$d منٹس</string>
+  <string name="install_warning">تنصیب کرنے سے قبل آپ کیا جاننا چاہتے ہیں</string>
+  <string name="just_one_more_step">صرف ایک مرحلہ باقی ہے</string>
+  <string name="keep_it_on">اسے آن رکھیں</string>
+  <string name="later_button">مجھے بعد میں یاد دلائیں</string>
+  <string name="learn_more_online_link">آن لائن مزید جانیں</string>
+  <string name="low_battery_bg_install">کم بیٹری ہو نے کی وجہ سے تنصیب کا عمل موقوف ہو جائے گا۔ آپ کے آلہ کے چارج ہو جانے کے بعد تنصیب کا عمل دوبارہ شروع ہو جائے گا۔</string>
+  <string name="low_battery_download">کم بیٹری ہو نے کی وجہ سے ڈاؤن لوڈ موقوف ہو جائے گا۔ آپ کے آلہ کے چارج ہو جانے کے بعد ڈاؤن لوڈ دوبارہ شروع ہو جائے گا۔</string>
+  <string name="low_battery_install">اس تازہ کاری کو تنصیب کرنے سے قبل براہ کرم اپنے آلہ کو کم از کم %s تک چارج کریں</string>
+  <string name="make_space">جگہ بنائیں</string>
+  <string name="mandatory_install_notification">اگر آپ یہ سسٹم کی تازہ کاری جلدی تنصیب نہیں کرتے ہیں تو، آپ ایک اہم سیکیورٹی کی تازہ کاری، نیز نئی خصوصیات اور بگ فکسز سے بھی محروم ہوجائیں گے۔</string>
+  <string name="mandatory_restart_notification">جیسا کہ یہ ایک اہم تازہ کاری ہے، براہ کرم ابھی دوبارہ اسٹارٹ کریں۔ ورنہ، آپ ایک سیکیورٹی کی تازہ کاری، نیز نئی خصوصیات اور بگ فکسز سے بھی محروم ہوجائیں گے۔</string>
+  <string name="medium_channel_name">سافٹ ویئر ڈاؤن لوڈ نوٹیفائر</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">ایک اکاؤنٹ منتخب کریں</string>
+  <string name="multiple_account_alert">سسٹم تازہ کاری کے ساتھ آگے بڑھنے کے لیے %1$s اکاؤنٹ منتخب کریں۔</string>
+  <string name="no_thanks">شکریہ نہیں</string>
+  <string name="no_thanks_message">اگر آپ بعد میں اس تازہ کاری کو حاصل کرنا چاہیں، تو ترتیبات &gt; سسٹم تازہ کاریوں پر جائیں۔</string>
+  <string name="no_updates_applied">کوئی تازہ کاری اطلاق نہیں ہوئی</string>
+  <string name="not_now">ابھی نہیں</string>
+  <string name="otaservice_perm_desc">اس ایپس کو اوتاسروس کے ساتھ تعامل کرنے کے لیے اجازت کی ضرورت ہے</string>
+  <string name="package_size">ڈاؤن لوڈ کا سائز: %1$s</string>
+  <string name="personalInfo_instruction">آپ کسی بھی ذاتی معلومات سے محروم نہیں ہوں گے</string>
+  <string name="picker_cell_radio">‏Wi-Fi اور موبائل ڈیٹا</string>
+  <string name="picker_title">انتخاب کریں کہ کیسے آپ اس تازہ کاری کو ڈاؤن لوڈ کرنا پسند فرمائیں گے:</string>
+  <string name="picker_wifi_only_radio">‏صرف Wi-Fi</string>
+  <string name="please_restart">براہ کرم اب ری اسٹارٹ کریں</string>
+  <string name="policy_set">سسٹم تازہ کاری بلاک ہے۔ براہ کرم مزید معلومات کے لیے اپنے آلہ کے منتظم سے رابطہ کریں۔</string>
+  <string name="press_back_again_to_exit">باہر نکلنے کے لیے واپسی بٹن دوبارہ دبائیں</string>
+  <string name="progress_copying_sd">اپ ڈیٹ نقل کرنا</string>
+  <string name="progress_deffered">ڈاؤن لوڈ Wi-Fi/سیلولر نیٹ ورک میں شروع ہوجائے گا۔</string>
+  <string name="progress_downloading_ota">سسٹم اپ ڈیٹ ڈاؤن لوڈ کرنا</string>
+  <string name="progress_downloading_security">حفاظتی تازہ کاری ڈاؤن لوڈ ہورہا ہے</string>
+  <string name="progress_retried">سافٹ ویئر ڈاؤن لوڈ میں خلل واقع ہو گیا ہے۔ ہم کوشش کرنا جاری رکھیں گے…</string>
+  <string name="progress_suspended">پھر سے ڈاؤن لوڈ شروع کرنے میں ڈیٹا کنکشن کے لیے انتظار کرنا</string>
+  <string name="progress_suspended_datasaver">ڈاؤن لوڈ جاری رکھنے کے لیے ڈیٹا محفوظ کرنے والا کو آف کریں</string>
+  <string name="progress_suspended_no_adminapn">ڈاؤن لوڈ پھر سے شروع کرنے کے لیے Wi-Fi یا مفت نیٹ ورک کا انتظار ہے</string>
+  <string name="progress_suspended_roaming">رومنگ نیٹ ورک کی وجہ سے ڈاؤن لوڈ موقوف ہوگیا ہے، براہ کرم ڈاؤن لوڈ دوبارہ شروع کرنے کے لیے Wi-Fi کو آن کریں۔</string>
+  <string name="progress_suspended_wifi">پھر سے ڈاؤن لوڈ شروع کرنے کے لیے Wi-Fi کا انتظار ہورہا ہے…</string>
+  <string name="progress_verify">تازہ کاری کی تصدیق کررہاہے…</string>
+  <string name="progress_verify_allocate_space">چیک کریں کہ کیا میموری میں خاطر خواہ جگہ ہے</string>
+  <string name="relative_date_time">‏%1$s بوقت %2$s</string>
+  <string name="release_notes_string">‏Android %1$s میں سبھی نئی خصوصیات چیک کریں</string>
+  <string name="request_suspended_datasaver">ڈاؤن لوڈ شروع کرنے کے لیے ڈیٹا محفوظ کرنے والے کو آف کریں</string>
+  <string name="request_suspended_no_network">ڈاؤن لوڈ شروع کرنے کے لیے نیٹ ورک کا کوئی کوریج نہیں ہے</string>
+  <string name="restart_after_one_hour">‏1 گھنٹے میں دوبارہ شروع کریں</string>
+  <string name="restart_instruction_title">ری اسٹارٹ کرنے سے قبل آپ کے لیے کیا جاننا ضروری ہے</string>
+  <string name="restart_later">بعد</string>
+  <string name="restart_message">تازہ کاری کے لیے براہِ کرم ابھی ری اسٹارٹ کریں</string>
+  <string name="restart_notification">ری اسٹارٹ کریں</string>
+  <string name="restart_notification_text">تازہ کاری کے لیے براہِ کرم ابھی ری اسٹارٹ کریں۔ یہ تازہ کاری %1$d دنوں سے زیرِ التواء ہے۔</string>
+  <string name="restart_notify_sanity_call_msg">کال زیر عمل ہونے کی وجہ سے آلہ ابھی پھر بوٹ نہیں ہوسکتا</string>
+  <string name="restart_notify_sanity_maps_msg">نیویگیشن آن ہونے کی وجہ سے آلہ ابھی پھر بوٹ نہیں ہوسکتا</string>
+  <string name="restart_now">ابھی ری اسٹارٹ کریں</string>
+  <string name="restart_postponed">دوبارہ شروع ملتوی ہوگيا</string>
+  <string name="restart_title">اپنا آلہ دوبارہ چالو کریں</string>
+  <string name="resume_download_on_cellular">موبائل ڈیٹا استعمال</string>
+  <string name="retrieving_token">توثیق کررہا ہے...</string>
+  <string name="sdcard_predownload_text">
+اس مرحلہ میں، آپ سسٹم میموری میں تازہ کاری نقل کریں گے۔ تازہ کاری اگلے مرحلہ پر تنصیب کی جائے گی۔ 
+
+اس بات کو یقینی بنانے کے لیے کہ آپ کی بیٹری ختم نہ ہو جائے، اپنے فون کو پاور سورس سے متصل کریں۔</string>
+  <string name="secure_instruction">یہ عمل محفوظ ہے</string>
+  <string name="security_download_notification_title">اپنی سیکیورٹی کو بہتر بنائیں</string>
+  <string name="security_install_notification_text">ایک نئی حفاظت تازہ کاری تنصیب کے لیے تیار ہے</string>
+  <string name="security_install_title">سیکیورٹی تازہ کاری تیار ہے</string>
+  <string name="security_patch">سیکیورٹی پیچ:</string>
+  <string name="security_update_low_storage_title">سیکیورٹی اپ ڈیٹ</string>
+  <string name="security_update_notification_text">تازہ ترین سیکیورٹی تازہ کاری حاصل کریں</string>
+  <string name="security_update_paused">حفاظتی تازہ کاری موقوف ہوگیا</string>
+  <string name="security_update_pending_notification_text">تازہ ترین سیکیورٹی تازہ کاری حاصل کریں۔ یہ تازہ کاری %1$d دنوں سے زیرِ التواء ہے۔</string>
+  <string name="security_update_title">سیکیورٹی اپ ڈیٹ</string>
+  <string name="select_account">ایک %1$s اکاؤنٹ منتخب کریں</string>
+  <string name="selected_later_time_os_mr">سسٹم تازہ کاری اس دن تنصیب ہوگی </string>
+  <string name="selected_later_time_smr">سیکیورٹی تازہ کاری تنصیب ہو جائے گی</string>
+  <string name="setting_sw_summary">تازہ ترین سافٹ ویئر میں تازہ کاری کریں </string>
+  <string name="setting_sw_title">سسٹم اپ ڈیٹس</string>
+  <string name="smart_cancel_update_toast_msg">تازہ کاری %1$s پر شڈول ہے۔</string>
+  <string name="smart_end_time">ختم کریں</string>
+  <string name="smart_install_message_popup">جیسا کہ آپ نے اسمارٹ تازہ کاریوں کی خصوصیت کو اہل بنایا ہے، اگر آپ نے اس وقت تک تنصیب نہیں کیا ہے تو آپ کا آلہ %1$s کو خودکار طور پر تازہ کاری کو تنصیب کردے گا۔ یقینی بنائیں کہ تنصیب کاری کے لیے آپ کے پاس کافی بیٹری ہے۔</string>
+  <string name="smart_restart_message_popup">جیسا کہ آپ نے اسمارٹ تازہ کاریوں کی خصوصیت کو اہل بنایا ہے، اگر آپ نے اس وقت تک ری اسٹارٹ نہیں کیا ہے تو آپ کے آلہ کی %1$s کو خودکار طور پر تازہ کاری ہو جائے گی۔</string>
+  <string name="smart_settings_string">آپ کے Wi-Fi سے متصل ہونے کے وقت تازہ کاریاں ڈاؤن لوڈ کرکے خودکار طور پر تنصیب کردی جاتی ہیں</string>
+  <string name="smart_settings_string_Softbank">آپ کے Wi-Fi سے متصل ہونے یا موبائل ڈیٹا استعمال کرنے کے وقت تازہ کاریاں ڈاؤن لوڈ کرکے خودکار طور پر تنصیب کردی جاتی ہیں</string>
+  <string name="smart_settings_string_vzw">تازہ کاریاں ڈاؤن لوڈ کرکے خودکار طور پر تنصیب کردی جاتی ہیں</string>
+  <string name="smart_start_time">شروع کریں</string>
+  <string name="smart_to_string">بنام</string>
+  <string name="smart_update_advanced">جدید ترین</string>
+  <string name="smart_update_note">نوٹ: آپ کے تحفظ کے لیے، سبھی اہم سیکیورٹی تازہ کاریاں خودکار طور پر ڈاؤن لوڈ ہوکر تنصیب ہو جائیں گی چاہے یہ خصوصیت آن ہو یا آف ہو۔</string>
+  <string name="smart_update_note_vzw">نوٹ: آپ کے تحفظ کے لیے، سبھی اہم تازہ کاریاں خودکار طور پر ڈاؤن لوڈ ہوکر تنصیب ہو جائیں گی چاہے یہ خصوصیت آن ہو یا آف ہو۔</string>
+  <string name="smart_update_pop_up_text">خودکار تازہ کاری سے اپنے آلہ کو سلامت اور محفوظ رکھیں</string>
+  <string name="smart_update_recommendation">اسمارٹ تازہ کاریاں آزمائیں</string>
+  <string name="smart_update_suggestion_text">خودکار تازہ کاریوں کے ذریعہ محفوظ رہیں</string>
+  <string name="smart_update_text_AB">اسمارٹ تازہ کاریوں سے آپ کے آلہ کو محفوظ اور مؤثر طریقے سے چلنے میں مدد ملے گی۔ جب آپ انہیں آن کرتے ہیں، تو تمام نئی <b>سیکیورٹی تازہ کاریاں اور بگ فکسز</b> خودکار طور پر ڈاؤن لوڈ ہو جائیں گی۔ ڈاؤن لوڈ ہونے کے بعد، آپ کے ذریعے منتخب کیے گئے وقت پر آپ کا آلہ ری اسٹارٹ ہو جائے گا۔</string>
+  <string name="smart_update_text_AB_vzw">اسمارٹ تازہ کاریوں سے آپ کے آلہ کو محفوظ اور مؤثر طریقے سے چلنے میں مدد ملے گی۔ جب آپ انہیں آن کرتے ہیں، تو تمام نئی <b>سیکیورٹی تازہ کاریاں</b> خودکار طور پر ڈاؤن لوڈ ہو جائیں گی۔ ڈاؤن لوڈ ہونے کے بعد، آپ کے ذریعے منتخب کیے گئے وقت پر آپ کا آلہ ری اسٹارٹ ہو جائے گا۔</string>
+  <string name="smart_update_text_classic">اسمارٹ تازہ کاریوں سے آپ کے آلہ کو محفوظ اور مؤثر طریقے سے چلنے میں مدد ملے گی۔ جب آپ انہیں آن کرتے ہیں، تو تمام نئی <b>سیکیورٹی تازہ کاریاں اور بگ فکسز</b> خودکار طور پر ڈاؤن لوڈ ہو جائیں گی۔ ڈاؤن لوڈ ہونے کے بعد، آپ کے ذریعے منتخب کیے گئے وقت پر آپ کا آلہ ری اسٹارٹ اور تنصیب ہو جائے گا۔</string>
+  <string name="smart_update_text_classic_vzw">اسمارٹ تازہ کاریوں سے آپ کے آلہ کو محفوظ اور مؤثر طریقے سے چلنے میں مدد ملے گی۔ جب آپ انہیں آن کرتے ہیں، تو تمام نئی <b>سیکیورٹی تازہ کاریاں</b> خودکار طور پر ڈاؤن لوڈ ہو جائیں گی۔ ڈاؤن لوڈ ہونے کے بعد، آپ کے ذریعے منتخب کیے گئے وقت پر آپ کا آلہ ری اسٹارٹ اور تنصیب ہو جائے گا۔</string>
+  <string name="smart_update_time_slot_text_AB">ری اسٹارٹ کا وقت منتخب کریں</string>
+  <string name="smart_update_time_slot_text_classic">ایک تنصیب کا وقت منتخب کریں</string>
+  <string name="smart_update_title">اسمارٹ تازہ کاریاں</string>
+  <string name="software_not_update_to">آپ کی سافٹ ویئر کی ابھی تک تازہ کاری نہیں ہوئی ہے بطرف</string>
+  <string name="software_update_in_progress">آپ کے سسٹم کی تازہ کاری ورژن پر ہو رہی ہے</string>
+  <string name="software_update_planned_summary">چیک ہوگیا - %1$s</string>
+  <string name="software_update_planned_title">سافٹ ویئر تازہ کاری کا پلان بن گیا</string>
+  <string name="software_update_to">آپ کے سسٹم کی تازہ کاری ہو گئی بطرف</string>
+  <string name="sofware_version">سافٹ ویئر ورژن:</string>
+  <string name="storage_low">ایک اپ ڈیٹ کے لیے روم بنائیں</string>
+  <string name="su_btn">ترتیبات</string>
+  <string name="su_text_off">جب نیا سافٹ ویئر دستیاب ہو تو آپ کو اپنے آلے کی دستی طور پر تازہ کاری کرنے کی ضرورت ہو گی۔ طریقہ کار کو خودکار بنانے کے لئے اسمارٹ تازہ کاریاں آن کریں۔ مزید تفصیلات کے لیے ٹیپ کریں۔</string>
+  <string name="su_text_on">طے شدہ طریقتے سے، رات 1 بجے سے رات 3 کے دوران اسمارٹ تازہ کاریاں چلائی جاتی ہیں۔ آپ تازہ کاری کے اوقات تبدیل کر سکتے ہیں یا ترتیبات میں اسمارٹ تازہ کاریاں آف کر سکتے ہیں۔ مزید تفصیلات کے لیے ٹیپ کریں۔</string>
+  <string name="su_title_off">اسمارٹ تازہ کاریاں آف ہے</string>
+  <string name="su_title_on">اسمارٹ تازہ کاریاں آن ہے</string>
+  <string name="system_download_notification_title">سسٹم اپ ڈیٹ</string>
+  <string name="system_install_notification_text">ایک سسٹم تازہ کاری تنصیب کے لیے تیار ہے</string>
+  <string name="system_install_title">ایک تازہ کاری تیار ہے</string>
+  <string name="system_pdl_notification_mr_title">بگ اصلاحات اور مزید بہت کچھ حاصل کریں</string>
+  <string name="system_pdl_notification_os_title">‏Android %1$s یہاں ہے!</string>
+  <string name="system_update">سسٹم اپ ڈیٹ</string>
+  <string name="system_update_info_not_available">دستیاب نہیں ہے</string>
+  <string name="system_update_low_storage_text">میموری چیک کرنے اور آگے بڑھانے کے لیے یہاں تھپکی دیں۔</string>
+  <string name="system_update_low_storage_title">سسٹم اپ ڈیٹ</string>
+  <string name="system_update_notification_os_text">نئے Android کا تجربہ کریں</string>
+  <string name="system_update_notification_text">نئے سافٹ ویئر ڈاؤن لوڈ کریں</string>
+  <string name="system_update_paused">سسٹم اپ ڈیٹ کو توقف کردیا گیا ہے</string>
+  <string name="system_update_pending_notification_os_text">نئے Android کا تجربہ کریں۔ یہ تازہ کاری %1$d دنوں سے زیرِ التواء ہے۔</string>
+  <string name="system_update_pending_notification_text">نیا سافٹ ویئر ڈاؤن لوڈ کریں۔ یہ تازہ کاری %1$d دنوں سے زیرِ التواء ہے۔</string>
+  <string name="system_update_settings_list_item_title">سسٹم اپ ڈیٹس</string>
+  <string name="system_update_status">سسٹم اپ ڈیٹس کی صورتحال</string>
+  <string name="system_update_title">سسٹم اپ ڈیٹ</string>
+  <string name="tethered_permission_desc">3c اپ ڈیٹ کے نتائج بھیجیں</string>
+  <string name="tethered_update_result">بندھے ہوئے اپ ڈیٹ کے نتائج</string>
+  <string name="time_picker_text">یاد دہانی کے بغیر تنصیب شروع کریں</string>
+  <string name="total_download_size">سائز: %1$s</string>
+  <string name="turn_it_off">اسے آف کریں</string>
+  <string name="turn_it_on">اسے آن کریں</string>
+  <string name="turn_on_smart_updates">اسمارٹ تازہ کاریاں آن کریں</string>
+  <string name="update">تازہ کاری کریں</string>
+  <string name="update_blocked_by_policy">اس تازہ کاری کو ایڈمن پالیسی کے ذریعے بلاک کردیا گیا ہے </string>
+  <string name="update_cancelled_status">سافٹ ویئر کی ڈاؤن لوڈ منسوخ ہو گئی تھی مورخہ</string>
+  <string name="update_fail_desc">آپ کے آلہ کی تازہ کاری کرنے میں مسلہ تھا۔ کوئی تبدیلیاں نہیں کی گئیں۔‏
+براہ کرم ترتیبات &gt; سسٹم تازہ کاری میں جا کر دوبارہ کوشش کریں۔</string>
+  <string name="update_fail_status">اپ ڈیٹ ناکام ہوگیا</string>
+  <string name="update_fail_sucancel_dm_status">سرور نے تازہ کاری منسوخ کردی</string>
+  <string name="update_fail_title">اپ ڈیٹ ناکام ہوگیا</string>
+  <string name="update_history_blank">کوئی سرگزشت نہیں</string>
+  <string name="update_history_src_target">‏%1$s سے %2$s میں تازہ کاری کریں</string>
+  <string name="update_history_time">‏%1$s کو تازہ کاری کی گئی</string>
+  <string name="update_history_title">تازہ کاری کی سرگزشت</string>
+  <string name="update_history_version">سافٹ ویئر ورژن %1$s</string>
+  <string name="update_postpone_policy">اس تازہ کاری کو ایڈمن پالیسی کے ذریعے ملتوی کردیا گیا ہے </string>
+  <string name="update_preference">ترجیحات کی تازہ کاری کریں</string>
+  <string name="update_success_desc">مبارک ہو! آپ نے کامیابی کے ساتھ ورژن %1$s کو تنصیب کردیا۔</string>
+  <string name="update_success_desc_os">مبارک ہو! آپ نے کامیابی کے ساتھ Android %1$s کو تنصیب کردیا۔ اب آپ اچھی طرح، اسمارٹر، اور محفوظ Android تجربہ سے لطف اٹھانے کے لیے تیار ہیں۔</string>
+  <string name="update_success_status">تازہ کاری کامیاب ہوگئی</string>
+  <string name="update_title">مکمل اپ ڈیٹ</string>
+  <string name="update_title_text">اپنے نئے سافٹ ویئر سے لطف اٹھائیں!</string>
+  <string name="upto_date_title">سب کچھ اچھا ہے!</string>
+  <string name="urgent_channel_name">سافٹ ویئر تازہ کاری انتباہ</string>
+  <string name="vab_validation_update_failure_desc">‏VAB کی تصدیقی تازہ کاری نا کام رہی</string>
+  <string name="vab_validation_update_failure_title">‏VAB کی تصدیق نا کام رہی</string>
+  <string name="vab_validation_update_success_desc">مبارک ہو! ‏VAB کی تصدیقی تازہ کاری کامیاب رہی</string>
+  <string name="vab_validation_update_success_title">‏VAB کی تصدیق کامیاب رہی</string>
+  <string name="verity_disabled_msg">آپ کے آلہ میں سیکیورٹی خطرات ہو سکتے ہیں۔ ذیل کے کمانڈ پر مسلسل تازہ کاریوں کے لیے 
+
+adb اہل تصدیق پر عمل کریں</string>
+  <string name="verity_disabled_title">آپ کا آلہ اب مزید تازہ کاریاں وصول نہیں کرتا ہے</string>
+  <string name="verizon_failure_notification_text"> آپ کا آلہ یہ تازہ کاری تنصیب نہ کر سکا۔ تنصیب کرنے کے لیے سافٹ ویئر اپ گریڈ معاون ٹول کا استعمال کریں۔ مزید معلومات کے لیے ٹیپ کریں۔</string>
+  <string name="verizon_failure_text">آپ کے آلہ کی تازہ کاری کرنے میں ایک مسئلہ تھا۔ کوئی تبدیلیاں نہیں کی گئی تھیں۔ اپنے سافٹ ویئر کی تازہ کاری کرنے کے لئے، آپ سافٹ ویئر تازہ کاری معاون ٹول استعمال کر سکتے ہیں۔
+
+سافٹ ویئر اپ گریڈ معاون ٹول کی تنصیب کرنے کے لیے:
+
+1۔ اپنے آلے کو اپنے کمپیوٹر سے منسلک کرنے کے لئے ایک USB تار استعمال کریں
+2۔ جب آپ کے آلے پر USB مینیو پاپ اپ ہوتے ہیں، تو اوپر دائیں کونے میں ترتیبات آئیکن منتخب کریں
+3۔ ‏USB ترجیحات سے، سافٹ تنصیب کاری منتخب کریں
+4۔ اپنے PC پر سوئچ کریں اور تنصیب کاری وزرڈ تلاش کریں
+5۔ وزرڈ کے ذریعے چلیں
+
+سافٹ ویئر تازہ کاری معاون ٹول آپ کے آلہ پر سافٹ ویئر تازہ کاریاں ڈاؤن لوڈ کرنے اور ان کی تنصیب کاری میں آپ کی مدد کرے گا۔</string>
+  <string name="vital_applying_updates">تازہ کاری کا اطلاق ہو رہا ہے...</string>
+  <string name="vital_bg_text">اس میں چند منٹ لگ سکتے ہیں۔</string>
+  <string name="vital_check_for_updates">تازہ کاریاں تلاش کی جارہی ہیں…</string>
+  <string name="vital_check_for_updates_desc">تازہ کاریاں آپ کے آلہ کو محفوظ رکھتی ہیں اور اس کی کارکردگی کو بہتر بناتی ہے۔</string>
+  <string name="vital_done">ہوچکا!</string>
+  <string name="vital_error_fail">تازہ کاری میں ایک نقص تھا۔ کوئی تبدیلیاں نہیں کی گئیں۔</string>
+  <string name="vital_go_back">کیا آپ واقعی یہ تنصیب روکنا چاہتے ہیں</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">جاری رکھنے کیلئے ری اسٹارٹ کریں</string>
+  <string name="vital_skip">چھوڑ دیں</string>
+  <string name="vital_stop">روکیں</string>
+  <string name="wifi_setting">Wi-Fi ترتیبات</string>
+</resources>

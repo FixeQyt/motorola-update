@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Atnaujinti vėliau</string>
+  <string name="ab_download_now">Atnaujinti dabar</string>
+  <string name="ab_install_notification_paused_text">Diegimas fone pristabdytas</string>
+  <string name="ab_install_notification_text">Diegimas fone</string>
+  <string name="ab_restart_fullscreen_text">Beveik užbaigėte! Iš naujo paleisti įrenginį užtruks tik maždaug 90 sekundžių. Atnaujinimas pasiekiamas %1$d d.</string>
+  <string name="ab_restart_text">Beveik užbaigėte! Iš naujo paleisti įrenginį užtruks tik apie 90 sekundžių</string>
+  <string name="ab_restart_warning_os_mr">Jūsų sistemos atnaujinimas beveik baigtas. Jūsų įrenginys  </string>
+  <string name="ab_restart_warning_smr">Jūsų saugumo atnaujinimas beveik baigtas. Jūsų įrenginys  </string>
+  <string name="ab_warning_continues"> atnaujinimui užbaigti.</string>
+  <string name="abc_action_bar_home_description">Eiti į pagrindinį puslapį</string>
+  <string name="abc_action_bar_up_description">Naršyti aukštyn</string>
+  <string name="abc_action_menu_overflow_description">Daugiau parinkčių</string>
+  <string name="abc_action_mode_done">Atlikta</string>
+  <string name="abc_activity_chooser_view_see_all">Žr. viską</string>
+  <string name="abc_activitychooserview_choose_application">Pasirinkite programą</string>
+  <string name="abc_capital_off">IŠJUNGTI</string>
+  <string name="abc_capital_on">ĮJUNGTI</string>
+  <string name="abc_menu_alt_shortcut_label">„Alt“ +</string>
+  <string name="abc_menu_ctrl_shortcut_label">„Ctrl“ +</string>
+  <string name="abc_menu_delete_shortcut_label">„delete“</string>
+  <string name="abc_menu_enter_shortcut_label">„enter“</string>
+  <string name="abc_menu_function_shortcut_label">„Function“ +</string>
+  <string name="abc_menu_meta_shortcut_label">„Meta“ +</string>
+  <string name="abc_menu_shift_shortcut_label">„Shift“ +</string>
+  <string name="abc_menu_space_shortcut_label">„space“</string>
+  <string name="abc_menu_sym_shortcut_label">„Sym“ +</string>
+  <string name="abc_prepend_shortcut_label">„Menu“ +</string>
+  <string name="abc_search_hint">Ieškoti…</string>
+  <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
+  <string name="abc_searchview_description_query">Paieškos užklausa</string>
+  <string name="abc_searchview_description_search">Ieškoti</string>
+  <string name="abc_searchview_description_submit">Pateikti užklausą</string>
+  <string name="abc_searchview_description_voice">Paieška balsu</string>
+  <string name="abc_shareactionprovider_share_with">Bendrinti su</string>
+  <string name="abc_shareactionprovider_share_with_application">Bendrinti naudojant programą „%s“</string>
+  <string name="abc_toolbar_collapse_description">Sutraukti</string>
+  <string name="abupdate_in_progress_status">Vyksta programinės įrangos naujinimas</string>
+  <string name="additional_charges_message">Atsisiuntimas bus tęsiamas naudojant mobiliuosius duomenis. Gali būti taikomi duomenų persiuntimo įkainiai.</string>
+  <string name="alertSubText">Ši funkcija naudojama norint patikrinti, atsisiųsti ir įdiegti atnaujinimo paketą.</string>
+  <string name="alertText">Leidimas atlikti tinklo operacijas programinės įrangos atnaujinimams</string>
+  <string name="alertTitle">Atnaujinimams reikalingi šie leidimai</string>
+  <string name="alert_dialog_cancel">Stabdyti diegimą</string>
+  <string name="alert_dialog_continue">Tęsti diegimą</string>
+  <string name="alert_dialog_no">Ne</string>
+  <string name="alert_dialog_ok">Supratau</string>
+  <string name="alert_dialog_yes">Taip</string>
+  <string name="allocate_space_success">Atnaujinimui reikalingos atminties pakanka</string>
+  <string name="allow">Leisti</string>
+  <string name="android_latest_sw_text">Naudojate naujausią programinę įrangą</string>
+  <string name="android_version">„Android“ versija:</string>
+  <string name="app_name">„Motorola“ programinės įrangos naujinimas</string>
+  <string name="applied">Įjungta</string>
+  <string name="apply_bug_fix">Taikyti klaidų taisymams</string>
+  <string name="apply_os_update">Taikyti visiems programinės įrangos naujiniams</string>
+  <string name="applying_patch">Diegiamas naujinys (%1$d veiksmas iš %2$d)  </string>
+  <string name="are_you_sure">Išjungti išmanųjį naujinimą?</string>
+  <string name="are_you_sure_pop_up_text">Ar tikrai norite išjungti išmanųjį naujinimą? </string>
+  <string name="asc_campaign_assigned">Kampanija priskirta</string>
+  <string name="asc_campaign_is_allowed">Programinės aparatinės įrangos naujinys</string>
+  <string name="asc_campaign_is_blocked">Programinės aparatinės įrangos užraktas</string>
+  <string name="asc_campaign_not_assigned">Įrenginys šiuo metu nedalyvauja kampanijoje</string>
+  <string name="asc_campaign_status_prefix">
+Būsena: </string>
+  <string name="asc_campaign_window_period_status">
+Naujinimo langas: iš %s į %s</string>
+  <string name="asc_sw_up_to_date"> iki naujausios versijos</string>
+  <string name="asc_target_version"> iki versijos </string>
+  <string name="auth_title">Sistemos atnaujinimas</string>
+  <string name="auto_download_cellualr_charges_warn">Naujinius atsisiunčiant per mobiliojo ryšio tinklą gali būti taikomi papildomi mokesčiai</string>
+  <string name="auto_download_enable_cellular_future_updates">Ar norite pasirinkti ir mobiliųjų duomenų parinktį būsimiems atsisiuntimams?</string>
+  <string name="auto_download_settings_title">Automatinio atsisiuntimo nuostatos</string>
+  <string name="auto_download_wifi_cellular">Atsisiųskite automatiškai naudodami mobilųjį ryšį ir „Wi-Fi“</string>
+  <string name="auto_download_wifi_cellular_desc">Atsisiųskite automatiškai naudodami mobilųjį ryšį ir „Wi-Fi“. Pirmiausia bus naudojamas „Wi-Fi“ (jei pasiekiamas). </string>
+  <string name="auto_download_wifi_only">Automatinis atsisiuntimas tik prisijungus prie „Wi-Fi“</string>
+  <string name="auto_download_wifi_only_desc">Automatinis atsisiuntimas naudojant tik „Wi-Fi“</string>
+  <string name="auto_install_notification_text">Įrenginys bus automatiškai įdiegtas %1$s</string>
+  <string name="auto_time_set">Pradžia:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Kadangi šis naujinimas yra svarbus, jis bus įdiegtas automatiškai naudojant mobiliuosius duomenis iš %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Kadangi šis naujinimas yra svarbus, jis bus atsisiunčiamas automatiškai naudojant mobiliuosius duomenis iš %1$s</string>
+  <string name="background_install_msg">Naujinimas bus tęsiamas, jei grįšite atgal arba uždarysite šį langą</string>
+  <string name="background_install_text">Atsisiunčiamas ir diegiamas naujinys. Galite toliau naudoti savo įrenginį.</string>
+  <string name="bad_connection">Nėra interneto</string>
+  <string name="bad_connection_text">Atrodo, kad jūsų įrenginys šiuo metu atjungtas nuo interneto. Bakstelėkite apatinį mygtuką ir bandykite dar kartą.</string>
+  <string name="bg_install_cancel_confirm">Ar tikrai norite sustabdyti diegimą?</string>
+  <string name="bg_retried">Programinės įrangos atsisiuntimas buvo nutrauktas. Bandysime toliau…</string>
+  <string name="bg_suspended">Laukiama duomenų ryšio, kad būtų galima atnaujinti foninį atsisiuntimą ir diegimą</string>
+  <string name="bg_suspended_non_adminapn">Laukiama, kol „Wi-Fi“ arba „Zero Rated“ tinklas atnaujins foninį atsisiuntimą ir diegimą…</string>
+  <string name="bg_suspended_roaming">Foninis diegimas pristabdytas dėl tarptinklinio tinklo, norėdami atnaujinti foninį diegimą, įjunkite „Wi-Fi“.</string>
+  <string name="bg_suspended_wifi">Laukiama, kol „Wi-Fi“ atnaujins foninį atsisiuntimą ir diegimą</string>
+  <string name="bootloader_unlock_msg">Jūsų įrenginys nebegauna atnaujinimų ir gali būti pažeidžiamas dėl saugumo rizikos.</string>
+  <string name="bootloader_unlock_title">Atnaujinimų nėra</string>
+  <string name="call_notification_answer_action">Atsakyti</string>
+  <string name="call_notification_answer_video_action">Vaizdo įrašas</string>
+  <string name="call_notification_decline_action">Atmesti</string>
+  <string name="call_notification_hang_up_action">Baigti pok.</string>
+  <string name="call_notification_incoming_text">Gaunamasis skambutis</string>
+  <string name="call_notification_ongoing_text">Vykstantis skambutis</string>
+  <string name="call_notification_screening_text">Gaunamojo skambučio tikrinimas</string>
+  <string name="cancel">Atšaukti</string>
+  <string name="cancel_download_notification">Atšaukti</string>
+  <string name="cancel_install">Atšaukti</string>
+  <string name="cancel_update_notification">Atšaukti</string>
+  <string name="check_for_updates_title">Ieškoti naujinių</string>
+  <string name="check_update_badparam">Ieškant naujinių įvyko klaida dėl nepavykusio prisijungimo.
+
+Bandykite dar kartą vėliau.</string>
+  <string name="check_update_checking">Ieškoma naujinių…</string>
+  <string name="check_update_disabled_admin">Įrenginio naujinius kontroliuoja IT administratorius</string>
+  <string name="check_update_downloading">Šiuo metu atsisiunčiamas naujinys.
+
+Jums bus pranešta, kai atsisiuntimas bus baigtas.</string>
+  <string name="check_update_fail">Įvyko netikėta klaida.
+
+Įrenginys iš naujo bandys atlikti atnaujinimą fone.</string>
+  <string name="check_update_internal">Nepavyksta patikrinti, ar yra naujinimų. Bandykite dar kartą vėliau.</string>
+  <string name="check_update_net">Patikrinkite interneto ryšį ir bandykite dar kartą</string>
+  <string name="check_update_net_vzw">Norint patikrinti, ar yra atnaujinimų, reikia duomenų ryšio. Norėdami patikrinti „Wi-Fi“ ryšį, eikite į Nustatymai &gt; Tinklas ir internetas &gt; Internetas &gt; „Wi-Fi“.
+
+Taip pat galite apsilankyti svetainėje motorola.com/systemupdates ir peržiūrėti kitas naujinimo parinktis.</string>
+  <string name="check_update_not_sys_user">Naujinių tikrinimas neleidžiamas naudojant svečių profilius</string>
+  <string name="check_update_processing">Jungiamasi prie mūsų serverio…
+Palaukite</string>
+  <string name="check_update_roaming">Sistemos naujinys prieinamas tik per namų tinklą. 
+
+Eikite į Nustatymai &gt; Tinklas ir internetas &gt; „Wi-Fi“, jei norite nustatyti ryšį dabar.</string>
+  <string name="check_update_storage_low">Atnaujinti neįmanoma dėl nepakankamos atminties vietos įrenginyje.</string>
+  <string name="check_update_temperror">Šiuo metu naujinio atsiuntimo nebuvo galima užbaigti tinkamai
+
+Bandykite dar kartą.</string>
+  <string name="check_update_text">Reguliariai tikrindami, ar yra naujinių, užtikrinate didesnį įrenginio saugumą ir pagerinate jo veikimą.</string>
+  <string name="check_update_title_downloading">Vyksta atsisiuntimas…</string>
+  <string name="check_update_vab_validation">Tikrinama VAB patvirtinimo naujinio būsena
+Palaukite</string>
+  <string name="check_update_wifi_only">Sistemos naujinys prieinamas tik per „Wi-Fi“.</string>
+  <string name="check_wifi_settings">Patikrinkite „Wi-Fi“ nuostatas</string>
+  <string name="clear_space">Atlaisvinti vietos</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Programai reikalingas „Android Wear“ programos naujinys.</string>
+  <string name="common_android_wear_update_text">Ši programa veiks tik atnaujinus „Android Wear“ programą.</string>
+  <string name="common_android_wear_update_title">Atnaujinkite „Android Wear“</string>
+  <string name="common_google_play_services_enable_button">Įgal. „Google Play“ paslaugas</string>
+  <string name="common_google_play_services_enable_text">Ši programa neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+  <string name="common_google_play_services_enable_title">Įgalinti „Google Play“ paslaugas</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Užklausą pateikė „%1$s“</string>
+  <string name="common_google_play_services_install_button">Gauti „Google Play“ paslaugų</string>
+  <string name="common_google_play_services_install_text_phone">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos telefone.</string>
+  <string name="common_google_play_services_install_text_tablet">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos planšetiniame kompiuteryje.</string>
+  <string name="common_google_play_services_install_title">Gauti „Google Play“ paslaugų</string>
+  <string name="common_google_play_services_invalid_account_text">Nurodytos paskyros šiame įrenginyje nėra. Pasirinkite kitą paskyrą.</string>
+  <string name="common_google_play_services_invalid_account_title">Netinkama paskyra</string>
+  <string name="common_google_play_services_needs_enabling_title">Norint naudoti programą būtina įgalinti „Google Play“ paslaugas.</string>
+  <string name="common_google_play_services_network_error_text">Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio.</string>
+  <string name="common_google_play_services_network_error_title">Tinklo klaida</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Norint naudoti programą būtina įdiegti „Google Play“ paslaugas.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Norint naudoti programą būtina atnaujinti „Google Play“ paslaugas.</string>
+  <string name="common_google_play_services_notification_ticker">„Google Play“ paslaugų klaida</string>
+  <string name="common_google_play_services_unknown_issue">Nežinoma „Google Play“ paslaugų problema.</string>
+  <string name="common_google_play_services_unsupported_text">Jūsų įrenginys nepalaiko „Google Play“ paslaugų, kuriomis remiasi kai kurios programos. Jei reikia pagalbos, susisiekite su gamintoju.</string>
+  <string name="common_google_play_services_unsupported_title">„Google Play“ paslaugos</string>
+  <string name="common_google_play_services_update_button">Atnaujinti</string>
+  <string name="common_google_play_services_update_text">Ši programa neveiks, jei neatnaujinsite „Google Play“ paslaugų.</string>
+  <string name="common_google_play_services_update_title">Atnaujinti „Google Play“ paslaugas</string>
+  <string name="common_open_on_phone">Atidaryti telefonu</string>
+  <string name="common_signin_button_text">Prisij.</string>
+  <string name="common_signin_button_text_long">Prisij. naud. „Google“</string>
+  <string name="compatibility_failed_title">Paketo patikrinimas nepavyko</string>
+  <string name="compatibility_verification_failure">Atsisiunčiamas naujinimo paketas nesuderinamas su dabartine įrenginio programinės įrangos versija.</string>
+  <string name="compatibility_verification_failure_df">
+
+Pasitarkite su testavimo koordinatoriumi.</string>
+  <string name="compatibility_verification_success">Patvirtinta sėkmingai</string>
+  <string name="completed"> Diegimas baigtas. Būsite paraginti paleisti telefoną iš naujo (%1$d žingsnis iš %2$d)</string>
+  <string name="completed_install">%s baigta</string>
+  <string name="connect_to_wifi">Prisijungti prie „Wi-Fi“</string>
+  <string name="continue_button">Tęsti</string>
+  <string name="critical_install_message_popup_os_mr">Parengtas svarbus sistemos atnaujinimas. Pasirinkite „Įdiegti“, kad būtų pritaikytas atnaujinimas. Jei ne, atnaujinimas bus pritaikytas automatiškai %1$s.</string>
+  <string name="critical_install_message_popup_smr">Parengtas svarbus saugumo atnaujinimas. Pasirinkite „Įdiegti“, kad būtų pritaikytas naujinimas. Jei ne, atnaujinimas bus pritaikytas automatiškai %1$s.</string>
+  <string name="critical_install_message_screen">Šis svarbus atnaujinimas bus automatiškai įdiegtas %1$s. Pasirūpinkite, kad būtų pakankamai baterijos įkrovos diegimui.</string>
+  <string name="critical_install_notification">Kadangi tai svarbus atnaujinimas, jūsų prietaisas bus automatiškai įdiegtas %1$s.
+Diegimo laikas: %2$d min.</string>
+  <string name="critical_restart_message_popup">Kad kuo greičiau pritaikytumėte šį svarbų naujinį, kaip įmanoma greičiau paleiskite įrenginį iš naujo. Jei negalite, įrenginys bus automatiškai paleistas iš naujo %1$s.</string>
+  <string name="critical_restart_message_screen">Kadangi tai svarbus atnaujinimas, jūsų prietaisas bus automatiškai iš naujo paleistas %1$s, jei iki to laiko dar nebūsite paleidę iš naujo.</string>
+  <string name="critical_restart_notification">Šis naujinys yra svarbus. Jei dabar negalite paleisti iš naujo, įrenginys bus automatiškai paleistas iš naujo %1$s.</string>
+  <string name="critical_update_notification_title">Kritinis naujinys</string>
+  <string name="current_version">Dabartinė programinės įrangos versija</string>
+  <string name="custom_slot">Pasirinktinis</string>
+  <string name="custom_time">Pasirinktinis laikas</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s %s</string>
+  <string name="defer_count_expired">Supratau</string>
+  <string name="deny">Atmesti</string>
+  <string name="details">Išsami informacija</string>
+  <string name="device_corrupted_msg">Radome kelias su sistema susijusias problemas. Suprantame, kad nenorite gaišti, tačiau turėsite apsilankyti vietiniame paslaugų centre ir jas pašalinti.
+
+Tada, kai telefonas bus sutvarkytas, galėsime atlikti telefono naujinimus.</string>
+  <string name="device_corrupted_title">Nepavyko atnaujinti telefono</string>
+  <string name="dialog_alert_net_message">Patikrinkite savo „Wi-Fi“ arba mobilųjį duomenų ryšį ir bandykite dar kartą.</string>
+  <string name="dialog_alert_net_title">Jūsų įrenginys neprijungtas</string>
+  <string name="dialog_alert_title">Beveik išeikvota baterija</string>
+  <string name="dialog_progress">Įkeliama…</string>
+  <string name="dl_options_mobile_only_warning">Rekomenduojama naudoti „Wi-Fi“. Atsisiunčiant mobiliuosius duomenis arba naudojant mobiliuosius duomenis tarptinkliniu ryšiu gali būti taikomi papildomi mokesčiai.
+
+Šios programinės įrangos atsisiuntimas neturės įtakos įrenginio veikimui.</string>
+  <string name="done">Atlikta</string>
+  <string name="dont_show_this_again">Daugiau to nerodyti</string>
+  <string name="download_cancelled_title">Atsisiuntimas atšauktas</string>
+  <string name="download_deferred_status">Programinės įrangos atsisiuntimas buvo atidėtas</string>
+  <string name="download_failed_status">Naujinio nepavyko atsisiųsti</string>
+  <string name="download_in_progress_status">Vyksta programinės įrangos atsisiuntimas</string>
+  <string name="download_later_button">Atsisiųsti vėliau</string>
+  <string name="download_no_button">Ne, ačiū</string>
+  <string name="download_note">Galite toliau naudotis įrenginiu, kol bus įdiegtas naujinys </string>
+  <string name="download_now">Atsisiųsti dabar</string>
+  <string name="download_now_button">Atsisiųsti</string>
+  <string name="download_options">Atsisiuntimo parinktys</string>
+  <string name="download_progress_cancel_message">Jei šį naujinį norite atsisiųsti vėliau, eikite į Nuostatos &gt; Sistemos naujiniai.</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Liko %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s %% atsisiųsta (pristabdyta)</string>
+  <string name="download_progress_text">Atsisiuntimas bus tęsiamas, jei grįšite atgal arba uždarysite šį langą</string>
+  <string name="download_subtitle">Ką reikia žinoti prieš atsisiunčiant</string>
+  <string name="download_text_whats_new">Žiūrėkite, kas naujo</string>
+  <string name="download_time_left">Liko %1$s</string>
+  <string name="download_version">Versija %1$s – %2$s</string>
+  <string name="download_wifi_only_error">Norint atsisiųsti šį naujinį, reikalingas „Wi-Fi“ ryšys. Atsisiuntimas bus atnaujintas atkūrus ryšį.</string>
+  <string name="downloaded_percentage">%1$s atsisiųsta</string>
+  <string name="emergency_call_btn_txt">Pavojus</string>
+  <string name="emergency_call_text">Paleidžiant įrenginį iš naujo negalėsite skambinti ar atsiliepti į skambučius, įskaitant pagalbos skambučius!</string>
+  <string name="enable_wifi_error_txt">Prisijunkite prie „Wi-Fi“, kad atsisiųstumėte šį naujinį.</string>
+  <string name="eol_explore">Susipažinkite su naujais įrenginiais</string>
+  <string name="eol_last_update_text">Saugumo pataisa: </string>
+  <string name="eol_promote">Peržiūrėkite naujausias akcijas</string>
+  <string name="eol_title">Jūsų prietaise įdiegta naujausia turima programinė įranga.</string>
+  <string name="err_title_contact_server">Jungiamasi prie serverio…</string>
+  <string name="err_title_memory_low">Trūksta atminties…</string>
+  <string name="err_title_temp_error">Laikina klaida</string>
+  <string name="err_title_update">Atnaujinimo klaida</string>
+  <string name="error_code">Klaidos kodas: </string>
+  <string name="error_copyfail">Nepavyko nukopijuoti iš SD kortelės.</string>
+  <string name="error_disabled">Nepavyko atsisiųsti naujinimo. Šiuo metu naujinimų paketo nėra. 
+
+Jokių papildomų veiksmų imtis nereikia.</string>
+  <string name="error_fail">Atsiprašome, iškilo problema atnaujinant jūsų %1$s. Neatlikta jokių pakeitimų. Bandykite dar kartą nuėję į Nustatymai &gt; Sistemos atnaujinimas.</string>
+  <string name="error_in_call_msg">Įrenginys šiuo metu negali atnaujinti, nes vyksta pokalbis</string>
+  <string name="error_in_call_title">Vyksta pokalbis</string>
+  <string name="error_install_title">Įdiegti nepavyko</string>
+  <string name="error_mismatch">Įvyko versijų neatitikimas. Naujinimas bus vykdomas vėl. Jei jis atsiras, jums bus pranešta.</string>
+  <string name="error_mismatch_sd">Atnaujinti nepavyko Naujinio versija neatitinka jūsų telefono versijos. 
+
+Atsisiųskite tinkamą jūsų telefonui versiją ir bandykite dar kartą.</string>
+  <string name="error_network">Dingo ryšys. Bandykite dar kartą rankiniu būdu ieškodami naujinių per telefono nustatymus.</string>
+  <string name="error_reboot">Negalime atsisiųsti šio naujinimo. Jei šį naujinį norite gauti vėliau, paleiskite savo įrenginį iš naujo ir eikite į Nustatymai &gt; Sistemos naujiniai.</string>
+  <string name="error_resources">Negalime atsisiųsti šio naujinimo. Jei šį naujinį norite gauti vėliau, eikite į Nustatymai &gt; Sistemos naujiniai.</string>
+  <string name="error_sdcard_resources_fail_removal">SD kortelė išimta. Atsisiuntimo procesas nebaigtas. 
+
+Iš naujo įdėkite SD kortelę ir perėję į Nustatymai &gt; Sistemos atnaujinimai bandykite dar kartą.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Nepavyksta užbaigti atsisiuntimo. SD kortelėje nepakanka vietos. 
+
+Atlaisvinkite vietos ir perėję į Nustatymai &gt; Sistemos naujinimai bandykite dar kartą.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Jei norite pradėti atsisiuntimą, įdėkite SD kortelę.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Jei norite pradėti atsisiuntimą, įstatykite SD kortelę. 
+
+Eikite į Nustatymai &gt; Atmintis &gt; Įdėti SD kortelę.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">SD kortelėje nepakanka vietos atsisiuntimui užbaigti. 
+
+Atlaisvinkite %1$s vietos ir perėję į Nustatymai &gt; Sistemos naujinimai vėl bandykite atsisiųsti.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Klaida</string>
+  <string name="error_sdcard_resources_warning">Programinės įrangos naujinimas atsisiunčiamas į SD kortelę. 
+
+Neišimkite SD kortelės, kol diegimas nebaigtas.
+
+
+</string>
+  <string name="error_server">Įvyko klaida serveryje. Bandykite dar kartą vėliau.</string>
+  <string name="error_space">Šiam naujinimui reikia %1$s laisvos atminties jūsų įrenginyje. 
+
+Pašalinkite nenaudojamas programas arba perkelkite nuotraukas ir vaizdo įrašus į kitą saugojimo įrenginį ir atlaisvinkite %2$s vietos. 
+
+Tai atlikę eikite į Nustatymai &gt; Sistemos naujinimai, kad galėtumėte bet kuriuo metu pradėti naujinimą.</string>
+  <string name="error_space_retry">Šiam naujinimui reikia %1$s laisvos atminties jūsų įrenginyje. 
+
+Pašalinkite nenaudojamas programas arba perkelkite nuotraukas ir vaizdo įrašus į kitą saugojimo įrenginį ir atlaisvinkite %2$s vietos.</string>
+  <string name="error_space_vab">Šiam naujinimui reikia %1$s laisvos vietos jūsų įrenginyje. Atlaisvinkite atmintį sėkmingiems atnaujinimams</string>
+  <string name="error_space_vab_make_room_popup">Prieš naujindami turite atlaisvinti %1$s atminties. Pabandykite ištrinti nenaudojamas programas arba perkelti nuotraukas ir vaizdo įrašus į kitą atminties įrenginį.</string>
+  <string name="error_title">Atsisiųsti nepavyko</string>
+  <string name="error_verify">Naujinio nepavyko tinkamai patvirtinti. Bandykite dar kartą.</string>
+  <string name="failed">Nepavyko</string>
+  <string name="failed_in_roaming">Naujinimams reikalingas „Wi-Fi“</string>
+  <string name="failure_process">Informacijos nėra</string>
+  <string name="finalizing_patch">Baigiamas naujinimas… (5 žingsnis iš 6)  </string>
+  <string name="first_net_text">Įdiekite naujinį, arba įrenginys bus įdiegtas automatiškai atliekant kitą paleidimą iš naujo. Įsitikinkite, kad baterijos įkrovos lygis yra didesnis nei %s</string>
+  <string name="forceInstallMessage">Šis svarbus atnaujinimas bus automatiškai įdiegtas %1$s.</string>
+  <string name="force_install_message_screen">Tai svarbus atnaujinimas, todėl įdiekite jį iki %1$s. Priešingu atveju jis bus automatiškai įdiegtas tuo metu, kai jūsų įrenginys bus mažiausiai naudojamas. Pasirūpinkite, kad būtų likę pakankamai baterijos įkrovos diegimui.</string>
+  <string name="force_install_notification_message">Įdiekite iki %1$s. Priešingu atveju įrenginys bus automatiškai įdiegtas tuo metu, kai jis bus mažiausiai naudojamas.
+Diegimo laikas:  %2$d min.</string>
+  <string name="force_restart_notification_message">Paleiskite iš naujo %1$s. Priešingu atveju įrenginys bus automatiškai paleistas iš naujo tuo metu, kai jis bus mažiausiai naudojamas.</string>
+  <string name="force_restart_screen_message">Jei nepaleisite iš naujo %1$s, įrenginys bus automatiškai paleistas iš naujo tuo metu, kai jis bus mažiausiai naudojamas.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Supratau</string>
+  <string name="important_update_install_overdue_message">Numatytas diegimo laikas jau praėjo. Diegimas bus pradėtas, kai jūsų prietaisas atitiks kriterijus.</string>
+  <string name="important_update_restart_overdue_message">Numatytas paleidimo iš naujo laikas jau praėjo. Įrenginys bus paleistas iš naujo, kai atitiks kriterijus.</string>
+  <string name="initiating_ota_service_msg">Palaukite...</string>
+  <string name="initiating_ota_service_title">Programinės įrangos atnaujinimo proceso inicijavimas</string>
+  <string name="install">Įdiegti</string>
+  <string name="install_after_one_hour">Įdiegti po 1 valandos</string>
+  <string name="install_cancelled_title">Diegimo procesas atšauktas</string>
+  <string name="install_deferred_status">Atnaujinimas buvo atidėtas</string>
+  <string name="install_later">Diegti vėliau</string>
+  <string name="install_notify_sanity_call_msg">Įrenginys šiuo metu negali būti įdiegtas, nes vyksta pokalbis</string>
+  <string name="install_notify_sanity_maps_msg">Įrenginys negali būti įdiegtas, nes įjungta navigacija</string>
+  <string name="install_now">Įdiegti dabar</string>
+  <string name="install_postponed">Diegimas atidėtas</string>
+  <string name="install_progress_cancel_message">Jei šį naujinį norite įdiegti vėliau, eikite į Nuostatos &gt; Sistemos naujiniai.</string>
+  <string name="install_progress_paused_message">%s baigta (pristabdyta)</string>
+  <string name="install_time">Diegimo laikas: %1$d min.</string>
+  <string name="install_warning">Ką reikia žinoti prieš diegiant</string>
+  <string name="just_one_more_step">Liko vos vienas žingsnis</string>
+  <string name="keep_it_on">Palikti įjungtą</string>
+  <string name="later_button">Priminti vėliau</string>
+  <string name="learn_more_online_link">Sužinokite daugiau internete</string>
+  <string name="low_battery_bg_install">Diegimas pristabdytas dėl išsikrovusios baterijos. Diegimas bus atnaujintas, kai akumuliatoriaus įkrova bus didesnė nei 20 %.</string>
+  <string name="low_battery_download">Atsisiuntimas pristabdytas dėl išsikrovusio akumuliatoriaus. Atsisiuntimas bus atnaujintas, kai įrenginys bus įkrautas.</string>
+  <string name="low_battery_install">Įkraukite įrenginį mažiausiai %s prieš diegdami šį naujinimą</string>
+  <string name="make_space">Atlaisvinti vietos</string>
+  <string name="mandatory_install_notification">Jei netrukus neįdiegsite šio sistemos naujinio, negausite svarbių saugumo naujinių, naujų funkcijų ir klaidų taisymų.</string>
+  <string name="mandatory_restart_notification">Kadangi tai svarbus atnaujinimas, paleiskite jį iš naujo dabar. Priešingu atveju negausite saugumo naujinių, naujų funkcijų ir klaidų taisymų.</string>
+  <string name="medium_channel_name">Programinės įrangos atsisiuntimo pranešimas</string>
+  <string name="merge_emergency_call_text">Paleidžiant iš naujo negalėsite skambinti ar atsiliepti į skambučius, įskaitant pagalbos skambučius.</string>
+  <string name="merge_force_restart_text">Jei dabar nenorite paleisti iš naujo, telefonas bus paleistas iš naujo, kai jis taps neaktyvus.</string>
+  <string name="merge_progress_text">Kai naujinimas bus baigtas, atsiųsime pranešimą</string>
+  <string name="merge_progress_title">Baigiamas atnaujinimas…</string>
+  <string name="merge_restart_text">Atnaujinimas bus baigtas, kai telefonas bus paleistas iš naujo</string>
+  <string name="merge_restart_title">Paleiskite iš naujo</string>
+  <string name="merge_update_fail_notify_text">Radome kelias su sistema susijusias problemas. Apsilankykite paslaugų centre ir jas pašalinkite</string>
+  <string name="merge_update_fail_notify_title">Atnaujinti nepavyko</string>
+  <string name="merge_update_fail_text">Aptikome kelias sistemos problemas, kurios neleidžia gauti naujinių. Apsilankykite paslaugų centre ir jas pašalinkite.
+
+Kol kas galite toliau įprastai naudotis telefonu.</string>
+  <string name="motorola">„Motorola“</string>
+  <string name="multiple_account">Pasirinkti paskyrą</string>
+  <string name="multiple_account_alert">Jei norite tęsti sistemos atnaujinimą, pasirinkite %1$s paskyrą.</string>
+  <string name="no_thanks">Ne, ačiū</string>
+  <string name="no_thanks_message">Jei šį naujinį norite gauti vėliau, eikite į Nustatymai &gt; Sistemos naujiniai.</string>
+  <string name="no_updates_applied">Nebuvo pritaikyti jokie naujiniai</string>
+  <string name="not_now">Ne dabar</string>
+  <string name="ok">Gerai</string>
+  <string name="otaservice_perm_desc">Leidimas, kad programoms reikia sąveikauti su OTA paslauga</string>
+  <string name="package_size">Atsisiuntimo dydis: %1$s</string>
+  <string name="personalInfo_instruction">Neprarasite jokios asmeninės informacijos</string>
+  <string name="picker_cell_radio">„Wi-Fi“ ir mobilieji duomenys</string>
+  <string name="picker_title">Pasirinkite, kaip norite atsisiųsti šį naujinį:</string>
+  <string name="picker_wifi_only_radio">Tik „Wi-Fi“</string>
+  <string name="please_restart">Paleiskite iš naujo dabar</string>
+  <string name="policy_set">Sistemos naujinimas užblokuotas. Norėdami gauti daugiau informacijos, kreipkitės į įrenginio administratorių.</string>
+  <string name="press_back_again_to_exit">Norėdami išeiti, dar kartą paspauskite ATGAL</string>
+  <string name="progress_copying_sd">Kopijuojamas naujinys</string>
+  <string name="progress_deffered">Atsisiuntimas bus pradėtas per „Wi-Fi“ arba mobilųjį tinklą.</string>
+  <string name="progress_downloading_ota">Atsisiunčiamas sistemos naujinys</string>
+  <string name="progress_downloading_security">Atsisiunčiamas saugumo naujinys</string>
+  <string name="progress_retried">Programinės įrangos atsisiuntimas buvo nutrauktas. Bandysime toliau…</string>
+  <string name="progress_suspended">Laukiama duomenų ryšio, kad būtų galima tęsti duomenų atsisiuntimą</string>
+  <string name="progress_suspended_datasaver">Išjunkite duomenų saugojimo priemonę, kad atnaujintumėte atsisiuntimą</string>
+  <string name="progress_suspended_no_adminapn">Laukiama „Wi-Fi“ arba nulinio tarifo tinklo, kad būtų galima tęsti atsisiuntimą</string>
+  <string name="progress_suspended_roaming">Atsisiuntimas pristabdytas dėl tarptinklinio ryšio tinklo, norėdami atnaujinti atsisiuntimą, įjunkite „Wi-Fi“.</string>
+  <string name="progress_suspended_wifi">Laukiama „Wi-Fi“, kad būtų galima tęsti atsisiuntimą…</string>
+  <string name="progress_verify">Tikrinama, ar įrenginys paruoštas naujinti…</string>
+  <string name="progress_verify_allocate_space">Tikrinama, ar pakanka atminties</string>
+  <string name="relative_date_time">%1$s %2$s</string>
+  <string name="release_note_battery_desc">Akumuliatoriaus veikimo trukmę ir naudojimą pagerinantys atnaujinimai</string>
+  <string name="release_note_battery_title">Akumuliatorius</string>
+  <string name="release_note_camera_desc">Šie patobulinimai padeda fotografuoti tiksliau ir detaliau</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Pakeitimai padeda pagerinti įrenginio duomenų ryšį</string>
+  <string name="release_note_cellular_title">Korinis ryšys</string>
+  <string name="release_note_charging_desc">Šie naujiniai paspartina įkrovimą</string>
+  <string name="release_note_charging_title">Įkraunama</string>
+  <string name="release_note_generic_desc">Pakeitimai padeda pagerinti bendrą įrenginio veikimą</string>
+  <string name="release_note_os_update_desc">Naujos vienspalvės temos suteikia telefonui elegantišką išvaizdą ir išryškina ekrano užsklandą. Peržiūrėkite, kaip programos naudoja ir bendrina duomenis prieš suteikdami programai leidimą, ir padarykite ją prieinamesnę naudodami „Android“ 14 naujas girdėjimo ir matymo funkcijas.</string>
+  <string name="release_note_os_update_title">„Android“ %1$s</string>
+  <string name="release_note_performance_desc">Pakeitimai padeda pagerinti įrenginio veikimą</string>
+  <string name="release_note_performance_title">Našumas</string>
+  <string name="release_note_security_desc">Apima saugumo pataisas iki %1$s</string>
+  <string name="release_note_security_title">Saugumo naujinys</string>
+  <string name="release_note_stability_desc">Apima patobulinimus ir klaidų pataisymus, kad telefonas būtų dar patikimesnis</string>
+  <string name="release_note_stability_title">Stabilumas</string>
+  <string name="release_note_title">Šis naujinys apima</string>
+  <string name="release_note_wifi_desc">Apima „Wi-Fi“ ryšio atnaujinimus</string>
+  <string name="release_note_wifi_title">„Wi-Fi“</string>
+  <string name="release_notes_string">Peržiūrėkite visas naujas „Android %1$s“ funkcijas </string>
+  <string name="request_suspended_datasaver">Norėdami pradėti atsisiuntimą, išjunkite duomenų taupymo priemonę</string>
+  <string name="request_suspended_no_network">Nėra tinklo ryšio, kad galėtumėte pradėti atsisiuntimą</string>
+  <string name="restart_after_one_hour">Paleisti iš naujo po 1 valandos</string>
+  <string name="restart_instruction_title">Ką reikia žinoti prieš paleidžiant iš naujo</string>
+  <string name="restart_later">Vėliau</string>
+  <string name="restart_message">Paleiskite iš naujo dabar ir atnaujinkite</string>
+  <string name="restart_notification">Paleisti iš naujo</string>
+  <string name="restart_notification_text">Paleiskite iš naujo dabar ir atnaujinkite. Atnaujinimas yra laukiantis %1$d d.</string>
+  <string name="restart_notify_sanity_call_msg">Įrenginys šiuo metu negali būti paleistas iš naujo, nes vyksta pokalbis</string>
+  <string name="restart_notify_sanity_maps_msg">Įrenginys negali būti paleistas iš naujo, nes įjungta navigacija</string>
+  <string name="restart_now">Paleisti iš naujo dabar</string>
+  <string name="restart_postponed">Paleidimas iš naujo atidėtas</string>
+  <string name="restart_title">Iš naujo paleiskite įrenginį</string>
+  <string name="resume_download_on_cellular">Mobiliųjų duomenų naudojimas</string>
+  <string name="retrieving_token">Nustatoma tapatybė...</string>
+  <string name="sdcard_predownload_text">
+Atlikdami šį veiksmą nukopijuosite naujinį į sistemos atmintį. Naujinys bus įdiegtas kitame etape. 
+
+Prijunkite telefoną prie maitinimo šaltinio, kad neišsikrautų baterija.</string>
+  <string name="search_menu_title">Ieškoti</string>
+  <string name="secure_instruction">Šis procesas yra saugus</string>
+  <string name="security_download_notification_title">Pagerinkite savo saugumą</string>
+  <string name="security_install_notification_text">Naujas saugumo atnaujinimas paruoštas įdiegti</string>
+  <string name="security_install_title">Saugumo atnaujinimas paruoštas</string>
+  <string name="security_patch">Saugumo pataisa:</string>
+  <string name="security_update_low_storage_title">Saugumo naujinys</string>
+  <string name="security_update_notification_text">Gaukite naujausią saugumo naujinį</string>
+  <string name="security_update_paused">Saugumo atnaujinimas pristabdytas</string>
+  <string name="security_update_pending_notification_text">Gaukite naujausią saugumo atnaujinimą. Atnaujinimas yra laukiantis %1$d d.</string>
+  <string name="security_update_title">Saugumo naujinys</string>
+  <string name="select_account">Pasirinkite %1$s paskyrą</string>
+  <string name="selected_later_time_os_mr">Sistemos naujinys bus įdiegtas </string>
+  <string name="selected_later_time_smr">Saugumo atnaujinimas bus įdiegtas </string>
+  <string name="setting_sw_summary">Atnaujinimas į naujausią programinę įrangą </string>
+  <string name="setting_sw_title">Sistemos naujiniai</string>
+  <string name="smart_cancel_update_toast_msg">Atnaujinimas perkeltas į %1$s</string>
+  <string name="smart_end_time">Pabaiga</string>
+  <string name="smart_install_message_popup">Kadangi įjungėte išmanųjį atnaujinimą, įrenginyje bus automatiškai įdiegtas naujinys %1$s, jei iki to laiko jo neįdiegėte. Pasirūpinkite, kad būtų pakankamai baterijos įkrovos diegimui.</string>
+  <string name="smart_restart_message_popup">Kadangi suaktyvinote išmanųjį naujinimą, įrenginys bus automatiškai paleistas iš naujo %1$s, jei iki to laiko nepaleisite jo iš naujo.</string>
+  <string name="smart_settings_string">Naujiniai atsisiunčiami ir įdiegiami automatiškai, kai esate prisijungę prie „Wi-Fi“</string>
+  <string name="smart_settings_string_Softbank">Naujiniai atsisiunčiami ir įdiegiami automatiškai, kai esate prisijungę prie „Wi-Fi“ arba naudojatės mobiliaisiais duomenimis</string>
+  <string name="smart_settings_string_vzw">Naujiniai atsisiunčiami ir įdiegiami automatiškai</string>
+  <string name="smart_start_time">Pradžia</string>
+  <string name="smart_to_string">Iki</string>
+  <string name="smart_update_advanced">Išplėstiniai</string>
+  <string name="smart_update_note">Saugumo sumetimais visi svarbūs saugumo naujiniai bus atsisiunčiami automatiškai, neatsižvelgiant į tai, ar ši funkcija įjungta, ar išjungta.</string>
+  <string name="smart_update_note_vzw">Saugumo sumetimais visi itin svarbūs naujiniai bus atsisiunčiami ir įdiegiami automatiškai, neatsižvelgiant į tai, ar ši funkcija įjungta, ar išjungta.</string>
+  <string name="smart_update_pop_up_text">Užtikrinkite įrenginio saugumą ir apsaugą naudodami automatinį naujinimą</string>
+  <string name="smart_update_recommendation">Išbandykite išmanųjį naujinimą</string>
+  <string name="smart_update_suggestion_text">Likite saugūs su automatiniais naujiniais</string>
+  <string name="smart_update_text_AB">Padėkite savo įrenginiui veikti saugiai ir efektyviai automatiškai įdiegdami visus naujausius saugumo naujinius ir klaidų taisymus.</string>
+  <string name="smart_update_text_AB_vzw">Išmanieji naujinimai užtikrina saugų ir efektyvų įrenginio veikimą. Kai juos įjungiate, visi tolesni <b>saugumo naujiniai</b> bus atsisiunčiami automatiškai. Atsisiuntus įrenginys bus paleistas iš naujo jūsų pasirinktu laiku.</string>
+  <string name="smart_update_text_classic">Išmanieji naujinimai užtikrina saugų ir efektyvų įrenginio veikimą. Kai juos įjungiate, visi tolesni <b>saugumo naujiniai ir klaidų pataisymai</b> bus atsisiunčiami automatiškai. Atsisiuntus įrenginys bus paleistas iš naujo ir pradės diegimą jūsų pasirinktu laiku.</string>
+  <string name="smart_update_text_classic_vzw">Išmanieji naujinimai užtikrina saugų ir efektyvų įrenginio veikimą. Kai juos įjungiate, visi tolesni <b>saugumo naujiniai</b> bus atsisiunčiami automatiškai. Atsisiuntus įrenginys bus paleistas iš naujo ir pradės diegimą jūsų pasirinktu laiku.</string>
+  <string name="smart_update_time_slot_text_AB">Pasirinkite pradžios laiką</string>
+  <string name="smart_update_time_slot_text_classic">Pasirinkite diegimo laiką</string>
+  <string name="smart_update_title">Išmanusis naujinimas</string>
+  <string name="software_not_update_to">Jūsų programinė įranga dar nėra atnaujinta į</string>
+  <string name="software_update_in_progress">Jūsų sistema atnaujinama į versiją</string>
+  <string name="software_update_planned_summary">Patikrina – %1$s</string>
+  <string name="software_update_planned_title">Suplanuotas programinės įrangos atnaujinimas</string>
+  <string name="software_update_to">Jūsų sistema buvo atnaujinta į</string>
+  <string name="sofware_version">Programinės įrangos versija:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Atlaisvinkite vietos atnaujinimui</string>
+  <string name="su_btn">Nuostatos</string>
+  <string name="su_text_off">Savo įrenginį turėsite atnaujinti rankiniu būdu, kai bus išleista nauja programinė įranga. Kad šis procesas būtų vykdomas automatiškai, įjunkite išmaniuosius atnaujinimus. Bakstelėkite ir peržiūrėkite daugiau informacijos.</string>
+  <string name="su_text_on">Pagal numatytąsias nuostatas išmanieji atnaujinimai vykdomi nuo 1.00 iki 3.00. Nuostatose galite keisti atnaujinimo laikus arba išjungti išmaniuosius atnaujinimus. Bakstelėkite ir peržiūrėkite daugiau informacijos.</string>
+  <string name="su_title_off">Išmanieji atnaujinimai išjungti</string>
+  <string name="su_title_on">Išmanieji atnaujinimai įjungti</string>
+  <string name="system_download_notification_title">Sistemos atnaujinimas</string>
+  <string name="system_install_notification_text">Sistemos naujinys paruoštas įdiegti</string>
+  <string name="system_install_title">Naujinys paruoštas</string>
+  <string name="system_pdl_notification_mr_title">Bus ištaisytos klaidos ir t. t.</string>
+  <string name="system_pdl_notification_os_title">„Android %1$s“ jau čia!</string>
+  <string name="system_update">Sistemos atnaujinimas</string>
+  <string name="system_update_desc">Apsaugokite savo įrenginį nuo grėsmių ir naudokitės naujausiomis „Motorola“ bei „Android“ funkcijomis</string>
+  <string name="system_update_info_not_available">Negalima</string>
+  <string name="system_update_low_storage_text">Bakstelėkite čia, jei norite patikrinti, kiek liko atminties, ir tęsti.</string>
+  <string name="system_update_low_storage_title">Sistemos naujinys</string>
+  <string name="system_update_notification_os_text">Išbandykite naująją „Android“</string>
+  <string name="system_update_notification_text">Atsisiųskite naują programinę įrangą</string>
+  <string name="system_update_paused">Sistemos atnaujinimas pristabdytas</string>
+  <string name="system_update_pending_notification_os_text">Išbandykite naująją „Android“. Atnaujinimas yra laukiantis %1$d d.</string>
+  <string name="system_update_pending_notification_text">Atsisiųskite naują programinę įrangą. Atnaujinimas yra laukiantis %1$d d.</string>
+  <string name="system_update_settings_list_item_title">Sistemos naujiniai</string>
+  <string name="system_update_status">Atnaujinimo būsena</string>
+  <string name="system_update_title">Sistemos atnaujinimas</string>
+  <string name="tethered_permission_desc">Siųsti 3C naujinio rezultatus</string>
+  <string name="tethered_update_result">Modemo režimo naujinio rezultatas</string>
+  <string name="time_picker_text">Pradėti diegti be priminimo</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Bandykite dar kartą</string>
+  <string name="turn_it_off">Išjungti</string>
+  <string name="turn_it_on">Įjungti</string>
+  <string name="turn_on_smart_updates">Įjungti išmanųjį naujinimą?</string>
+  <string name="update">Atnaujinti</string>
+  <string name="update_blocked_by_policy">Atnaujinimas blokuojamas pagal administratoriaus politiką </string>
+  <string name="update_cancelled_status">Programinės įrangos atsisiuntimas buvo atšauktas</string>
+  <string name="update_fail_desc">Kažkas negerai</string>
+  <string name="update_fail_status">Atnaujinti nepavyko</string>
+  <string name="update_fail_sucancel_dm_status">Atnaujinimą atšaukė serveris</string>
+  <string name="update_fail_title">Atnaujinti nepavyko</string>
+  <string name="update_history_blank">Dar nėra istorijos</string>
+  <string name="update_history_src_target">Naujinys iš %1$s į %2$s</string>
+  <string name="update_history_time">Atnaujinta %1$s</string>
+  <string name="update_history_title">Atnaujinimų istorija</string>
+  <string name="update_history_version">Programinės įrangos versija %1$s</string>
+  <string name="update_info">Atnaujinama...</string>
+  <string name="update_postpone_policy">Atnaujinimas atidėtas pagal administratoriaus politiką </string>
+  <string name="update_preference">Naujinimo nuostatos</string>
+  <string name="update_success_desc">Dabartinė programinės įrangos versija: %1$s</string>
+  <string name="update_success_desc_os">Sveikiname! Sėkmingai įdiegėte „Android %1$s“. Dabar galite mėgautis geresniu, išmanesniu ir saugesniu „Android“ naudojimu.</string>
+  <string name="update_success_status">Atnaujinimas sėkmingas</string>
+  <string name="update_title">Naujinimas užbaigtas</string>
+  <string name="update_title_text">Mėgaukitės naująja programine įranga!</string>
+  <string name="upto_date_title">Viskas atrodo puikiai!</string>
+  <string name="urgent_channel_name">Įspėjimas apie programinės įrangos naujinimą</string>
+  <string name="use_smart_updates">Naudoti išmaniuosius naujinimus</string>
+  <string name="vab_validation_update_failure_desc">VAB naujinio patvirtinimas nesėkmingas</string>
+  <string name="vab_validation_update_failure_title">VAB patvirtinimas nesėkmingas</string>
+  <string name="vab_validation_update_success_desc">Sveikiname! VAB naujinio patvirtinimas sėkmingas</string>
+  <string name="vab_validation_update_success_title">VAB patvirtinimas sėkmingas</string>
+  <string name="verifying_patch">Naujinys pritaikytas. Patvirtinama, kad pritaikymas pavyko… (4 žingsnis iš 6)  </string>
+  <string name="verity_disabled_msg">Jūsų įrenginiui gali kilti saugumo rizika. Vykdykite žemiau pateiktą komandą, kad galėtumėte tęsti atnaujinimus
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Jūsų įrenginys nebegauna atnaujinimų</string>
+  <string name="verizon_failure_notification_text"> Jūsų įrenginyje nepavyko įdiegti šio naujinio. Įdiegti naudokite įrankį „Software Upgrade Assistant“. Bakstelėkite, jei norite gauti daugiau informacijos.</string>
+  <string name="verizon_failure_text">Iškilo problema atnaujinant jūsų įrenginį. Neatlikta jokių pakeitimų. Jei norite atnaujinti programinę įrangą, galite pasinaudoti „Software Upgrade Assistant“ priemone.
+
+Jei norite įdiegti „Software Upgrade Assistant“ priemonę:
+
+1. USB laidu prijunkite įrenginį prie kompiuterio
+2. Įrenginyje pasirodžius USB meniu iškylančiajam langui pasirinkite nuostatų piktogramą viršutiniame dešiniajame kampe
+3. USB nuostatose pasirinkite „Programinės įrangos diegimas“
+4. Pereikite prie kompiuterio ir ieškokite diegimo vedlio
+5. Vadovaukitės vedlio pateikiamomis instrukcijomis
+
+„Software Upgrade Assistant“ priemonė padės atsisiųsti ir įdiegti programinės įrangos naujinius jūsų įrenginyje.</string>
+  <string name="vital_applying_updates">Taikomi naujiniai…</string>
+  <string name="vital_bg_text">Tai gali užtrukti kelias minutes.</string>
+  <string name="vital_check_for_updates">Ieškoma naujinių…</string>
+  <string name="vital_check_for_updates_desc">Atnaujinimai užtikrina prietaiso saugumą ir gerina jo veikimą.</string>
+  <string name="vital_done">Atlikta!</string>
+  <string name="vital_error_fail">Įvyko atnaujinimo klaida. Jokių pakeitimų nepadaryta.</string>
+  <string name="vital_go_back">Ar tikrai norite sustabdyti diegimą?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Norėdami tęsti, paleiskite iš naujo</string>
+  <string name="vital_skip">Praleisti</string>
+  <string name="vital_stop">Stabdyti</string>
+  <string name="wifi_setting">„Wi-Fi“ nuostatos</string>
+</resources>

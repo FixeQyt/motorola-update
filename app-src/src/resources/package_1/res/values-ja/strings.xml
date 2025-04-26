@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">後でアップデート</string>
+  <string name="ab_download_now">今すぐアップデート</string>
+  <string name="ab_install_notification_paused_text">バックグラウンドのインストールが一時停止しました</string>
+  <string name="ab_install_notification_text">バックグラウンドのインストール</string>
+  <string name="ab_restart_fullscreen_text">もうすぐ完了です。デバイスの再起動には約90秒しかかかりません。アップデートは%1$d日間保留にされていました。</string>
+  <string name="ab_restart_text">もうすぐ完了です。デバイスの再起動にかかる時間は約90秒です</string>
+  <string name="ab_restart_warning_os_mr">システムアップデートがもうすぐ完了します。デバイスは です </string>
+  <string name="ab_restart_warning_smr">セキュリティアップデートがもうすぐ完了します。デバイスは </string>
+  <string name="ab_warning_continues"> アップデートを完了します。</string>
+  <string name="abc_action_bar_home_description">ホームに戻る</string>
+  <string name="abc_action_bar_up_description">前に戻る</string>
+  <string name="abc_action_menu_overflow_description">その他のオプション</string>
+  <string name="abc_action_mode_done">完了</string>
+  <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+  <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">Space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">検索…</string>
+  <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+  <string name="abc_searchview_description_query">検索キーワード</string>
+  <string name="abc_searchview_description_search">検索</string>
+  <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+  <string name="abc_searchview_description_voice">音声検索</string>
+  <string name="abc_shareactionprovider_share_with">共有</string>
+  <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+  <string name="abc_toolbar_collapse_description">折りたたむ</string>
+  <string name="abupdate_in_progress_status">ソフトウェアアップデートが進行中です</string>
+  <string name="additional_charges_message">モバイルデータのダウンロードは続行されます。データ料金が適用される場合があります。</string>
+  <string name="alertSubText">これは、アップデートパッケージのチェック、ダウンロード、インストールに使用されます</string>
+  <string name="alertText">ネットワーク運用のソフトウェアアップデートを許可します</string>
+  <string name="alertTitle">アップデートには次の権限が必要です</string>
+  <string name="alert_dialog_cancel">インストールを中断する</string>
+  <string name="alert_dialog_continue">インストールを続ける</string>
+  <string name="alert_dialog_no">いいえ</string>
+  <string name="alert_dialog_ok">了解</string>
+  <string name="alert_dialog_yes">はい</string>
+  <string name="allocate_space_success">アップデートに必要なメモリの準備ができました</string>
+  <string name="allow">許可</string>
+  <string name="android_latest_sw_text">最新のソフトウェアを使用しています</string>
+  <string name="android_version">Androidバージョン:</string>
+  <string name="app_name">Motorolaソフトウェアのアップデート</string>
+  <string name="applied">アップデート日時</string>
+  <string name="apply_bug_fix">バグ修正を適用する</string>
+  <string name="apply_os_update">すべてのソフトウェアアップデートに適用</string>
+  <string name="applying_patch">アップデートを適用中(手順 %1$d/%2$d)  </string>
+  <string name="are_you_sure">スマートアップデートをOFFにしますか?</string>
+  <string name="are_you_sure_pop_up_text">本当にスマートアップデートをOFFにしてもよろしいですか?</string>
+  <string name="asc_campaign_assigned">キャンペーンが割り当てられています</string>
+  <string name="asc_campaign_is_allowed">ファームウェアアップデート</string>
+  <string name="asc_campaign_is_blocked">ファームウェアロック</string>
+  <string name="asc_campaign_not_assigned">デバイスは現在キャンペーンに含まれていません</string>
+  <string name="asc_campaign_status_prefix">
+ステータス: </string>
+  <string name="asc_campaign_window_period_status">
+アップデートウィンドウ: %sから%s</string>
+  <string name="asc_sw_up_to_date"> から最新バージョン</string>
+  <string name="asc_target_version"> からバージョン </string>
+  <string name="auth_title">システムアップデート</string>
+  <string name="auto_download_cellualr_charges_warn">モバイルネットワーク経由でアップデートをダウンロードする際は、追加料金が適用される可能性があります</string>
+  <string name="auto_download_enable_cellular_future_updates">今後のダウンロードのために、セルラーデータオプションをオプトインしますか?</string>
+  <string name="auto_download_settings_title">自動ダウンロード設定</string>
+  <string name="auto_download_wifi_cellular">携帯電話およびWi-Fiで自動ダウンロード</string>
+  <string name="auto_download_wifi_cellular_desc">セルラーおよびWi-Fiで自動ダウンロードWi-Fiが使用できる場合は優先的に使用されます。</string>
+  <string name="auto_download_wifi_only">自動ダウンロードはWi-Fi経由でのみ可能</string>
+  <string name="auto_download_wifi_only_desc">Wi-Fiのみで自動ダウンロード</string>
+  <string name="auto_install_notification_text">デバイスは、%1$sに自動インストールを行います</string>
+  <string name="auto_time_set">開始:</string>
+  <string name="automatic_bg_install_on_cellular_warning">このアップデートは重要であるため、%1$sにモバイルデータを使用して自動的にインストールされます</string>
+  <string name="automatic_download_on_cellular_warning">このアップデートは重要であるため、%1$sにモバイルデータを使用して自動的にダウンロードされます</string>
+  <string name="background_install_msg">前の画面に戻るかこのウィンドウを閉じても、このアップデートは続行されます</string>
+  <string name="background_install_text">アップデートのダウンロードとインストール中です。デバイスは使い続けることができます。</string>
+  <string name="bad_connection">インターネットなし</string>
+  <string name="bad_connection_text">デバイスのインターネット接続が切断されているようです。下のボタンをタップして、もう一度試してください。</string>
+  <string name="bg_install_cancel_confirm">インストールを中断してもよろしいですか?</string>
+  <string name="bg_retried">ソフトウェアのダウンロードが中断されました。完了するように試行を続けます…</string>
+  <string name="bg_suspended">バックグラウンドでダウンロードおよびインストールを再開するためのデータ接続を待機中</string>
+  <string name="bg_suspended_non_adminapn">バックグラウンドでダウンロードおよびインストールを再開するためのWi-Fiまたはゼロレーティングのネットワークを待機中…</string>
+  <string name="bg_suspended_roaming">ローミングネットワークのため、バックグラウンドインストールが一時停止しました。バックグラウンドインストールを再開するには、Wi-FiをONにしてください。</string>
+  <string name="bg_suspended_wifi">バックグラウンドでダウンロードおよびインストールを再開するためのWi-Fiを待機中</string>
+  <string name="bootloader_unlock_msg">デバイスがアップデートを受信しなくなったため、セキュリティリスクを受けやすくなっている可能性があります。</string>
+  <string name="bootloader_unlock_title">利用できるアップデートがありません</string>
+  <string name="call_notification_answer_action">応答</string>
+  <string name="call_notification_answer_video_action">ビデオ</string>
+  <string name="call_notification_decline_action">拒否</string>
+  <string name="call_notification_hang_up_action">通話終了</string>
+  <string name="call_notification_incoming_text">着信</string>
+  <string name="call_notification_ongoing_text">通話中</string>
+  <string name="call_notification_screening_text">着信をスクリーニング中</string>
+  <string name="cancel">キャンセル</string>
+  <string name="cancel_download_notification">キャンセル</string>
+  <string name="cancel_install">キャンセル</string>
+  <string name="cancel_update_notification">キャンセル</string>
+  <string name="check_for_updates_title">アップデートの確認</string>
+  <string name="check_update_badparam">ログインに失敗したため、アップグレードの実行にエラーが発生しました。
+
+後でもう一度実行してください。</string>
+  <string name="check_update_checking">アップデートの確認中…</string>
+  <string name="check_update_disabled_admin">デバイスのアップデートはIT管理者により制御されています</string>
+  <string name="check_update_downloading">アップデートを現在ダウンロードしています。
+
+ダウンロードが完了したら通知されます。</string>
+  <string name="check_update_fail">予期せぬエラーが発生しました。
+
+デバイスは、バックグラウンドでアップデートを再試行します。</string>
+  <string name="check_update_internal">アップデートを確認できません。後でやり直してください。</string>
+  <string name="check_update_net">インターネット接続を確認して、再度試してください</string>
+  <string name="check_update_net_vzw">アップデートを確認するには、データ接続が必要です。Wi-Fi接続を確認するには、[設定] &gt; [ネットワークとインターネット] &gt; [インターネット] &gt; [Wi-Fi]に移動します。
+
+motorola.com/systemupdatesにアクセスして、その他のアップデートオプションを確認することもできます。</string>
+  <string name="check_update_not_sys_user">ゲストプロフィールでは、アップデートの確認が許可されていません</string>
+  <string name="check_update_processing">サーバーに接続中…
+お待ちください</string>
+  <string name="check_update_roaming">システムアップデートはホームネットワークでしか実行できません。
+
+[設定] &gt; [ネットワークとインターネット] &gt; [Wi-Fi]に移動して、今すぐ接続をセットアップします。</string>
+  <string name="check_update_storage_low">デバイスに十分な空き容量がないため、アップデートを実行できません。</string>
+  <string name="check_update_temperror">アップデートのダウンロードはこのポイントでは完了できませんでした。
+
+後でもう一度実行してください。</string>
+  <string name="check_update_text">時々アップデートを確認することで、デバイスを安全に保ち、パフォーマンスを向上させることができます</string>
+  <string name="check_update_title_downloading">ダウンロード進行中...</string>
+  <string name="check_update_vab_validation">VAB検証のアップデートステータスを確認しています
+お待ちください</string>
+  <string name="check_update_wifi_only">システムアップデートはWi-Fi経由でのみ利用できます。</string>
+  <string name="check_wifi_settings">Wi-Fi設定を確認する</string>
+  <string name="clear_space">容量をクリア</string>
+  <string name="cloud_picker_title">クラウドピッカー</string>
+  <string name="common_android_wear_notification_needs_update_text">Android Wearアプリの更新が必要です。</string>
+  <string name="common_android_wear_update_text">Android Wearアプリを使用するにはアプリの更新が必要です。</string>
+  <string name="common_android_wear_update_title">Android Wearの更新</string>
+  <string name="common_google_play_services_enable_button">Play開発者サービスの有効化</string>
+  <string name="common_google_play_services_enable_text">このアプリの実行には、Google Play開発者サービスの有効化が必要です。</string>
+  <string name="common_google_play_services_enable_title">Play開発者サービスの有効化</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">%1$sによるリクエスト</string>
+  <string name="common_google_play_services_install_button">Play開発者サービスの入手</string>
+  <string name="common_google_play_services_install_text_phone">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いの携帯端末にはインストールされていません。</string>
+  <string name="common_google_play_services_install_text_tablet">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。</string>
+  <string name="common_google_play_services_install_title">Play開発者サービスの入手</string>
+  <string name="common_google_play_services_invalid_account_text">指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。</string>
+  <string name="common_google_play_services_invalid_account_title">無効なアカウント</string>
+  <string name="common_google_play_services_needs_enabling_title">アプリではGoogle Play開発者サービスを有効にする必要があります</string>
+  <string name="common_google_play_services_network_error_text">Google Play開発者サービスに接続するには、データ接続が必要です。</string>
+  <string name="common_google_play_services_network_error_title">ネットワークエラー</string>
+  <string name="common_google_play_services_notification_needs_installation_title">アプリではGoogle Play開発者サービスをインストールする必要があります</string>
+  <string name="common_google_play_services_notification_needs_update_title">アプリではGoogle Play開発者サービスを更新する必要があります</string>
+  <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+  <string name="common_google_play_services_unknown_issue">Google Play開発者サービスで原因不明の問題が発生しました。</string>
+  <string name="common_google_play_services_unsupported_text">一部のアプリが使用しているGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは、端末メーカーまでお問い合わせください。</string>
+  <string name="common_google_play_services_unsupported_title">Google Play開発者サービス</string>
+  <string name="common_google_play_services_update_button">更新</string>
+  <string name="common_google_play_services_update_text">このアプリの実行には、Google Play開発者サービスの更新が必要です。</string>
+  <string name="common_google_play_services_update_title">Play開発者サービスの更新</string>
+  <string name="common_open_on_phone">端末で開く</string>
+  <string name="common_signin_button_text">ログイン</string>
+  <string name="common_signin_button_text_long">Googleでログイン</string>
+  <string name="compatibility_failed_title">パッケージ検証に失敗しました</string>
+  <string name="compatibility_verification_failure">ダウンロード中のアップデートパッケージは、デバイスの現在のソフトウェアバージョンとの互換性がありません。</string>
+  <string name="compatibility_verification_failure_df">
+
+Dogfoodコーディネータに確認してください。</string>
+  <string name="compatibility_verification_success">正常に検証されました</string>
+  <string name="completed"> インストールが完了しました。電話の再起動を求められます(手順%1$d/%2$d)</string>
+  <string name="completed_install">%s完了</string>
+  <string name="connect_to_wifi">Wi-Fiに接続する</string>
+  <string name="continue_button">続行</string>
+  <string name="critical_install_message_popup_os_mr">重要なシステムアップデートが利用できます。[インストール]を選択してアップデートを適用してください。そうでなければ、%1$sに自動で適用されます。</string>
+  <string name="critical_install_message_popup_smr">重要なセキュリティアップデートを利用できます。[インストール]を選択してアップデートを適用してください。そうでなければ、%1$sに自動で適用されます。</string>
+  <string name="critical_install_message_screen">この重要なアップデートは、%1$sに自動的にインストールされます。インストールに充分なバッテリーがあるか確認してください。</string>
+  <string name="critical_install_notification">このアップデートは重要なため、デバイスは%1$sに自動的にインストールします。
+インストール時間: %2$d分</string>
+  <string name="critical_restart_message_popup">この重要なアップデートが適用されるよう、なるべく早急にデバイスを再起動してください。できない場合、デバイスは%1$sに自動的に再起動します。</string>
+  <string name="critical_restart_message_screen">このアップデートは重要なので、再起動が行われていない場合、%1$sに自動的に再起動されます。</string>
+  <string name="critical_restart_notification">このアップデートは重要です。今すぐ再起動できない場合、デバイスは%1$sに自動的に再起動します</string>
+  <string name="critical_update_notification_title">重要なアップデート</string>
+  <string name="current_version">現在のソフトウェアバージョン:</string>
+  <string name="custom_slot">カスタム</string>
+  <string name="custom_time">時刻のカスタマイズ</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s%s</string>
+  <string name="defer_count_expired">了解</string>
+  <string name="deny">拒否</string>
+  <string name="details">詳細</string>
+  <string name="device_corrupted_msg">何らかのシステムの問題が見つかりました。お手数ですが、ローカルのサービスセンターにアクセスし、これらの問題を修正する必要があります。
+
+電話の問題が修正された後に、電話でアップデートの実行を継続できます。</string>
+  <string name="device_corrupted_title">電話をアップデートできません</string>
+  <string name="dialog_alert_net_message">Wi-Fiまたはモバイルデータ通信を確認し、もう一度試してください。</string>
+  <string name="dialog_alert_net_title">デバイスがオフラインです</string>
+  <string name="dialog_alert_title">バッテリー残量不足</string>
+  <string name="dialog_progress">読み込み中…</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fiの使用を推奨します。モバイルデータでダウンロードするか、またはローミング中にモバイルデータを使用すると追加料金がかかることがあります。
+
+このソフトウェアのダウンロードはデバイスの操作に影響を及ぼしません。</string>
+  <string name="done">完了</string>
+  <string name="dont_show_this_again">今後表示しない</string>
+  <string name="download_cancelled_title">ダウンロードをキャンセルしました</string>
+  <string name="download_deferred_status">ソフトウェアダウンロードが次の日付に延期されました:</string>
+  <string name="download_failed_status">次の日付にアップデートのダウンロードに失敗しました:</string>
+  <string name="download_in_progress_status">ソフトウェアダウンロードが進行中です</string>
+  <string name="download_later_button">後でダウンロード</string>
+  <string name="download_no_button">いいえ</string>
+  <string name="download_note">アップデートのインストール中もデバイスを使用できます</string>
+  <string name="download_now">今すぐダウンロード</string>
+  <string name="download_now_button">ダウンロード</string>
+  <string name="download_options">ダウンロードオプション</string>
+  <string name="download_progress_cancel_message">このアップデートを後でダウンロードする場合は、[設定] &gt; [システムアップデート]に移動します</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">残り%1$s(%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%%ダウンロード済み(中断)</string>
+  <string name="download_progress_text">前の画面に戻ったりこのウィンドウを閉じても、このダウンロードは続行されます</string>
+  <string name="download_subtitle">ダウンロード前の注意事項</string>
+  <string name="download_text_whats_new">最新情報を確認する</string>
+  <string name="download_time_left">残り%1$s</string>
+  <string name="download_version">バージョン%1$s ～ %2$s</string>
+  <string name="download_wifi_only_error">このアップデートをダウンロードするためにWi-Fiが必要です。接続が復元されたら、ダウンロードが再開されます。</string>
+  <string name="downloaded_percentage">%1$sダウンロード済み</string>
+  <string name="emergency_call_btn_txt">緊急</string>
+  <string name="emergency_call_text">再起動中は緊急通報を含めて、電話の発信も着信もできません。</string>
+  <string name="enable_wifi_error_txt">このアップデートをダウンロードするには、Wi-Fiに接続してください。</string>
+  <string name="eol_explore">新しいデバイスを見つける</string>
+  <string name="eol_last_update_text">セキュリティパッチ:</string>
+  <string name="eol_promote">最新のプロモーションをご覧ください</string>
+  <string name="eol_title">デバイスが利用可能な最新のソフトウェアを実行しています。</string>
+  <string name="err_title_contact_server">サーバーに接続中…</string>
+  <string name="err_title_memory_low">メモリが少なくなっています…</string>
+  <string name="err_title_temp_error">一時的なエラー</string>
+  <string name="err_title_update">アップデートエラー</string>
+  <string name="error_code">エラーコード: </string>
+  <string name="error_copyfail">SDカードからのコピーに失敗しました。</string>
+  <string name="error_disabled">アップデートのダウンロードに失敗しました。現在、アップデートパッケージがありません。
+
+処置は必要ありません。</string>
+  <string name="error_fail">%1$sのアップデート中に問題が発生しました。変更されていません。[設定] &gt; [システムアップデート]の順に移動して、再度お試しください。</string>
+  <string name="error_in_call_msg">通話中のため、現在デバイスはアップデートできません。</string>
+  <string name="error_in_call_title">通話中です</string>
+  <string name="error_install_title">インストールに失敗しました</string>
+  <string name="error_mismatch">バージョン不一致が発生しました。アップデートがもう一度行われます。利用可能であれば、知らされます。</string>
+  <string name="error_mismatch_sd">アップデートに失敗しました。アップデートバージョンはこの電話に一致しません。
+
+この電話に適したバージョンをダウンロードしてからもう一度試してください。</string>
+  <string name="error_network">接続が切れました。電話の設定からアップデートを手動でチェックしてもう一度試してください。</string>
+  <string name="error_reboot">このアップデートをダウンロードできませんでした。このアップデートを後で入手する場合は、デバイスを再起動して、[設定] &gt; [システムアップデート]に移動します。</string>
+  <string name="error_resources">このアップデートをダウンロードできませんでした。このアップデートを後で入手する場合は、[設定] &gt; [システムアップデート]に移動します。</string>
+  <string name="error_sdcard_resources_fail_removal">SDカードが外されています。ダウンロードプロセスは完了していません。
+
+SDカードを再度挿入して、[設定] &gt; [システムアップデート]の順に移動してから、もう一度試してください。
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">ダウンロードを完了できません。SDカードに十分な空き容量がありません。
+
+空き容量を解放して、[設定] &gt; [システムアップデート]の順に移動してから、もう一度試してください。
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">SDカードを挿入してダウンロードを開始してください。
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">SDカードをマウントし、ダウンロードを始めてください。
+
+[設定] &gt; [ストレージ] &gt; [SDカードをマウント]に移動します。
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">SDカードにダウンロードを完了するための十分な空き容量がありません。
+
+%1$sの空き容量を用意し、[設定] &gt; [システムアップデート]に移動してもう一度ダウンロードしてください。
+
+
+</string>
+  <string name="error_sdcard_resources_title">エラー</string>
+  <string name="error_sdcard_resources_warning">ソフトウェアアップデートをSDカードにダウンロードしています。
+
+インストールが完了するまでSDカードを外さないでください。
+
+
+</string>
+  <string name="error_server">サーバーでエラーが発生しました。後でもう一度やり直してください。</string>
+  <string name="error_space">このアップデートではデバイス上に%1$sの空き容量が必要です。
+
+未使用のアプリを削除するか写真やビデオを他のストレージデバイス に移動して、%2$sの空き容量を用意してください。
+
+完了したら、いつでも[設定] &gt; [システムアップデート]に移動してアップデートを開始できます。</string>
+  <string name="error_space_retry">このアップデートではデバイス上に%1$sの空き容量が必要です。
+
+未使用のアプリを削除するか写真やビデオを他のストレージデバイスに移動して、%2$sの空き容量を用意してください。</string>
+  <string name="error_space_vab">このアップデートでは、デバイス上に%1$sの空き容量が必要です。アップデートを完了するため、メモリを解放してください</string>
+  <string name="error_space_vab_make_room_popup">アップデートの前に、%1$sの容量をクリアする必要があります。未使用のアプリを削除するか、写真や動画を別のストレージデバイスに移動させてください。</string>
+  <string name="error_title">ダウンロードに失敗しました</string>
+  <string name="error_verify">アップデートを正しく検証できませんでした。もう一度試してください。</string>
+  <string name="failed">失敗</string>
+  <string name="failed_in_roaming">Wi-Fiのアップデートが必要です</string>
+  <string name="failure_process">情報を使用できません</string>
+  <string name="finalizing_patch">アップデートを完了しています… (手順5/6)  </string>
+  <string name="first_net_text">アップデートをインストールしてください。そうでなければ、次の再起動時にデバイスが自動的にインストールされます。バッテリー残量が%s以上であることを確認してください。</string>
+  <string name="forceInstallMessage">このアップデートは、%1$sに自動的にインストールされます。</string>
+  <string name="force_install_message_screen">これは重要なアップデートのため、%1$sまでにインストールしてください。インストールしない場合は、デバイスがほとんど使用されていないときに自動的にインストールします。インストールに十分なバッテリー寿命があるか確認してください。</string>
+  <string name="force_install_notification_message">%1$sまでにインストールしてください。インストールしない場合は、デバイスがほとんど使用されていないときに自動的にインストールします。
+インストール時間: %2$d分</string>
+  <string name="force_restart_notification_message">%1$sまでに再起動してください。再起動しない場合は、デバイスがほとんど使用されていないときに自動的に再起動します。</string>
+  <string name="force_restart_screen_message">%1$sまでに再起動しない場合は、デバイスがほとんど使用されていないときに自動的に再起動します。</string>
+  <string name="google">Google</string>
+  <string name="got_it">了解</string>
+  <string name="important_update_install_overdue_message">インストールの予定時間を過ぎています。デバイスが条件を満たすとインストールが開始されます。</string>
+  <string name="important_update_restart_overdue_message">再起動の予定時間を過ぎています。デバイスが条件を満たすと再起動します。</string>
+  <string name="initiating_ota_service_msg">お待ちください...</string>
+  <string name="initiating_ota_service_title">ソフトウェアアップデートプロセスの初期化</string>
+  <string name="install">インストール</string>
+  <string name="install_after_one_hour">1時間後にインストールする</string>
+  <string name="install_cancelled_title">インストールをキャンセルしました</string>
+  <string name="install_deferred_status">アップデートは延期されました。日時:</string>
+  <string name="install_later">後でインストール</string>
+  <string name="install_notify_sanity_call_msg">通話中のため、現在デバイスはインストールできません。</string>
+  <string name="install_notify_sanity_maps_msg">ナビゲーションがONのため、現在デバイスはインストールできません。</string>
+  <string name="install_now">今すぐインストール</string>
+  <string name="install_postponed">インストールは延期されました</string>
+  <string name="install_progress_cancel_message">このアップデートを後でインストールする場合は、[設定] &gt; [システムアップデート]に移動します</string>
+  <string name="install_progress_paused_message">%s完了(一時停止)</string>
+  <string name="install_time">インストール時間: %1$d分</string>
+  <string name="install_warning">インストール前の注意事項</string>
+  <string name="just_one_more_step">あともう少しです</string>
+  <string name="keep_it_on">ONのままにする</string>
+  <string name="later_button">後で通知する</string>
+  <string name="learn_more_online_link">オンラインで詳細を確認</string>
+  <string name="low_battery_bg_install">バッテリー残量が少ないため、インストールが中断されました。バッテリー残量が20%以上になるとインストールが再開されます。</string>
+  <string name="low_battery_download">バッテリー残量が少ないため、ダウンロードが中断されました。デバイスが充電されたら、ダウンロードが再開されます。</string>
+  <string name="low_battery_install">このアップデートをインストールするには、デバイスを最低%s充電する必要があります</string>
+  <string name="make_space">容量を増やす</string>
+  <string name="mandatory_install_notification">このシステムアップデートをすぐにインストールしないと、重要なセキュリティアップデートだけでなく、新機能やバグ修正も入手できなくなります。</string>
+  <string name="mandatory_restart_notification">重要なアップデートのため、今すぐ再起動してください。そうでないと、セキュリティアップデートだけでなく、新機能やバグ修正も入手できなくなります。</string>
+  <string name="medium_channel_name">ソフトウェアダウンロードの通知</string>
+  <string name="merge_emergency_call_text">再起動中は緊急通報を含めて、電話の発信も着信もできません。</string>
+  <string name="merge_force_restart_text">今すぐ再起動しない場合は、電話がアイドル状態になったときに自動的に再起動します。</string>
+  <string name="merge_progress_text">アップデートが完了すると、通知が送信されます</string>
+  <string name="merge_progress_title">アップデートを完了中…</string>
+  <string name="merge_restart_text">アップデートは、電話が再起動した後に完了します。</string>
+  <string name="merge_restart_title">再起動してください</string>
+  <string name="merge_update_fail_notify_text">何らかのシステムの問題が見つかりました。サービスセンターにアクセスして修正してください</string>
+  <string name="merge_update_fail_notify_title">アップデートに失敗しました</string>
+  <string name="merge_update_fail_text">アップデートの受信ができない原因となっている何らかのシステムの問題が見つかりました。サービスセンターにアクセスしてこの問題を修正してください。
+
+その間、通常通り、電話の使用を続けることができます。</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">アカウントを選択</string>
+  <string name="multiple_account_alert">システムアップデートを続行する%1$sアカウントを選択します。</string>
+  <string name="no_thanks">いいえ</string>
+  <string name="no_thanks_message">このアップデートを後で入手する場合は、[設定] &gt; [システムアップデート]に移動します。</string>
+  <string name="no_updates_applied">適用されているアップデートはありません</string>
+  <string name="not_now">後で行う</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">otaserviceとやり取りするうえでアプリが必要とする許可</string>
+  <string name="package_size">ダウンロードサイズ: %1$s</string>
+  <string name="personalInfo_instruction">個人情報が失われることはありません</string>
+  <string name="picker_cell_radio">Wi-Fiとモバイルデータ</string>
+  <string name="picker_title">このアップデートのダウンロード方法を選択してください:</string>
+  <string name="picker_wifi_only_radio">Wi-Fiのみ</string>
+  <string name="please_restart">今すぐ再起動してください</string>
+  <string name="policy_set">システムアップデートがブロックされています。詳細については、デバイス管理者にお問い合わせください。</string>
+  <string name="press_back_again_to_exit">[戻る]を再度押して終了する</string>
+  <string name="progress_copying_sd">アップデートをコピーしています</string>
+  <string name="progress_deffered">ダウンロードはWi-Fi/携帯電話ネットワークで開始されます。</string>
+  <string name="progress_downloading_ota">システムアップデートをダウンロード中</string>
+  <string name="progress_downloading_security">セキュリティアップデートをダウンロード中</string>
+  <string name="progress_retried">ソフトウェアのダウンロードが中断されました。続行します…</string>
+  <string name="progress_suspended">ダウンロードを再開するためのデータ接続を待機中</string>
+  <string name="progress_suspended_datasaver">ダウンロードを再開するにはデータセーバーをOFFにします</string>
+  <string name="progress_suspended_no_adminapn">ダウンロードを再開するためのWi-Fiまたはゼロレーティングのネットワークを待機中</string>
+  <string name="progress_suspended_roaming">ローミングネットワークのため、ダウンロードが一時停止しました。ダウンロードを再開するには、Wi-FiをONにしてください。</string>
+  <string name="progress_suspended_wifi">ダウンロードを再開するためのWi-Fiを待機中…</string>
+  <string name="progress_verify">デバイスのアップデート準備ができているか確認中です…</string>
+  <string name="progress_verify_allocate_space">メモリが十分かどうか確認しています</string>
+  <string name="relative_date_time">%1$s %2$s</string>
+  <string name="release_note_battery_desc">バッテリーの駆動時間と使用法を改良するためのアップデートです</string>
+  <string name="release_note_battery_title">バッテリー</string>
+  <string name="release_note_camera_desc">これらの機能強化により、より精度が高く鮮明な写真を撮影することができます</string>
+  <string name="release_note_camera_title">カメラ</string>
+  <string name="release_note_cellular_desc">この変更により、デバイスのデータ接続が向上します</string>
+  <string name="release_note_cellular_title">モバイル</string>
+  <string name="release_note_charging_desc">これらのアップデートによって、充電機能が向上します</string>
+  <string name="release_note_charging_title">充電</string>
+  <string name="release_note_generic_desc">この変更は、デバイスの全体的なパフォーマンスを向上させるのに役立ちます</string>
+  <string name="release_note_os_update_desc">新しいモノクロのテーマが電話を洗練された見た目にし、壁紙がポップになります。アプリに権限を与える前に、アプリがデータをどのように使用し共有しているかを確認できます。視聴覚に関するAndroid 14の新しい機能でアクセスがより簡単になります。</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">この変更は、デバイスのパフォーマンスを向上させるのに役立ちます</string>
+  <string name="release_note_performance_title">パフォーマンス</string>
+  <string name="release_note_security_desc">%1$sまでのセキュリティパッチを含みます</string>
+  <string name="release_note_security_title">セキュリティアップデート</string>
+  <string name="release_note_stability_desc">電話の信頼性をさらに高める改良とバグ修正が含まれています</string>
+  <string name="release_note_stability_title">安定性</string>
+  <string name="release_note_title">今回のアップデートは次のとおりです。</string>
+  <string name="release_note_wifi_desc">Wi-Fi接続のアップデートが含まれます</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Android %1$sの新しい機能のすべてを確認します</string>
+  <string name="request_suspended_datasaver">ダウンロードを開始するにはデータセーバーをOFFにします</string>
+  <string name="request_suspended_no_network">ダウンロードを開始できるネットワーク通信圏内ではありません</string>
+  <string name="restart_after_one_hour">1時間後に再起動</string>
+  <string name="restart_instruction_title">再起動する前の注意事項</string>
+  <string name="restart_later">後で</string>
+  <string name="restart_message">今すぐ再起動してアップデートしてください</string>
+  <string name="restart_notification">再起動</string>
+  <string name="restart_notification_text">今すぐ再起動してアップデートしてください。アップデートは%1$d日間保留になっています。</string>
+  <string name="restart_notify_sanity_call_msg">通話中のため、現在デバイスは再起動できません。</string>
+  <string name="restart_notify_sanity_maps_msg">ナビゲーションがONのため、現在デバイスは再起動できません。</string>
+  <string name="restart_now">今すぐ再起動</string>
+  <string name="restart_postponed">再起動を延期</string>
+  <string name="restart_title">デバイスを再起動</string>
+  <string name="resume_download_on_cellular">モバイルデータを使用</string>
+  <string name="retrieving_token">認証中...</string>
+  <string name="sdcard_predownload_text">
+この手順では、システムメモリにアップデートがコピーされます。アップデートは次の手順でインストールされます。
+
+電話を電源に接続して、バッテリー残量がなくならないようにしてください。</string>
+  <string name="search_menu_title">検索</string>
+  <string name="secure_instruction">このプロセスは安全です</string>
+  <string name="security_download_notification_title">セキュリティを向上させてください</string>
+  <string name="security_install_notification_text">新しいセキュリティアップデートをインストールする準備ができました</string>
+  <string name="security_install_title">セキュリティアップデートの準備ができました</string>
+  <string name="security_patch">セキュリティパッチ:</string>
+  <string name="security_update_low_storage_title">セキュリティの更新</string>
+  <string name="security_update_notification_text">最新のセキュリティアップデートを入手できます</string>
+  <string name="security_update_paused">セキュリティアップデートが一時停止しました</string>
+  <string name="security_update_pending_notification_text">最新のセキュリティアップデートを入手できます。アップデートは%1$d日間保留になっています。</string>
+  <string name="security_update_title">セキュリティの更新</string>
+  <string name="select_account">%1$sアカウントを選択</string>
+  <string name="selected_later_time_os_mr">システムアップデート: </string>
+  <string name="selected_later_time_smr">セキュリティアップデートは、次の日時にインストールされます:</string>
+  <string name="setting_sw_summary">最新のソフトウェアにアップデートします</string>
+  <string name="setting_sw_title">システムアップデート</string>
+  <string name="smart_cancel_update_toast_msg">アップデートは%1$sに再スケジュールされています</string>
+  <string name="smart_end_time">終了</string>
+  <string name="smart_install_message_popup">スマートアップデートを有効にしているため、それまでにインストールしなかった場合、アップデートは%1$sに自動でインストールされます。インストールに充分な電池があるか確認してください。</string>
+  <string name="smart_restart_message_popup">スマートアップデートが有効になっているので、再起動が行われていない場合、デバイスは%1$sに自動的に再起動します。</string>
+  <string name="smart_settings_string">アップデートのダウンロードとインストールは、Wi-Fiに接続している時に自動的に行われます</string>
+  <string name="smart_settings_string_Softbank">アップデートのダウンロードとインストールは、Wi-Fiへの接続時またはモバイルデータの使用時に自動的に行われます</string>
+  <string name="smart_settings_string_vzw">アップデートのダウンロードとインストールは、自動で行われます</string>
+  <string name="smart_start_time">開始</string>
+  <string name="smart_to_string">～</string>
+  <string name="smart_update_advanced">詳細設定</string>
+  <string name="smart_update_note">安全のため、すべての重要なセキュリティアップデートのダウンロードは、この機能のON/OFFにかかわらず自動的に行われます</string>
+  <string name="smart_update_note_vzw">安全のため、すべての重要なアップデートのダウンロードとインストールは、この機能のON/OFFにかかわらず自動的に行われます。</string>
+  <string name="smart_update_pop_up_text">自動アップデートにより、デバイスの安全とセキュリティを確保します</string>
+  <string name="smart_update_recommendation">スマートアップデートを試す</string>
+  <string name="smart_update_suggestion_text">自動アップデートで安全を確保する</string>
+  <string name="smart_update_text_AB">新しいセキュリティアップデートおよびバグ修正をすべて自動インストールすることで、デバイスを安全かつ効率的に使用できます。</string>
+  <string name="smart_update_text_AB_vzw">スマートアップデートにより、デバイスが安全で効率的に実行されます。これをONにすると、すべての新しい<b>セキュリティアップデート</b>が自動的にダウンロードされます。ダウンロード後、選択した時間に再起動されます。</string>
+  <string name="smart_update_text_classic">スマートアップデートにより、デバイスが安全で効率的に実行されます。これをONにすると、すべての新しい<b>セキュリティアップデートとバグ修正</b>が自動的にダウンロードされます。ダウンロード後、選択した時間に再起動およびインストールが行われます。</string>
+  <string name="smart_update_text_classic_vzw">スマートアップデートにより、デバイスが安全で効率的に実行されます。これをONにすると、すべての新しい<b>セキュリティアップデート</b>が自動的にダウンロードされます。ダウンロード後、選択した時間に再起動およびインストールが行われます。</string>
+  <string name="smart_update_time_slot_text_AB">開始時間を選択します</string>
+  <string name="smart_update_time_slot_text_classic">インストールする時刻を選択してください</string>
+  <string name="smart_update_title">スマートアップデート</string>
+  <string name="software_not_update_to">ソフトウェアは次のバージョンにまだアップデートされていません:</string>
+  <string name="software_update_in_progress">システムは次のバージョンにアップデート中です:</string>
+  <string name="software_update_planned_summary">確認済み - %1$s</string>
+  <string name="software_update_planned_title">ソフトウェアアップデートが予定されています</string>
+  <string name="software_update_to">システムは次のバージョンにアップデートされました:</string>
+  <string name="sofware_version">ソフトウェアバージョン:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">アップデートに必要な空き容量を用意してください</string>
+  <string name="su_btn">設定</string>
+  <string name="su_text_off">新しいソフトウェアが利用可能な場合は、手動でデバイスをアップデートする必要があります。スマートアップデートをONにして、プロセスを自動化します。タップして詳細を表示します。</string>
+  <string name="su_text_on">デフォルトでは、スマートアップデートは午前1時から午前3時の間に実行されます。設定で、アップデートの時間の変更や、スマートアップデートのOFFが可能です。タップして詳細を表示します。</string>
+  <string name="su_title_off">スマートアップデートがOFFです</string>
+  <string name="su_title_on">スマートアップデートがONです</string>
+  <string name="system_download_notification_title">システムアップデート</string>
+  <string name="system_install_notification_text">システムアップデートをインストールする準備ができました</string>
+  <string name="system_install_title">アップデートの準備ができました</string>
+  <string name="system_pdl_notification_mr_title">バグ修正その他を入手できます</string>
+  <string name="system_pdl_notification_os_title">Android %1$sをインストールできます。</string>
+  <string name="system_update">システムアップデート</string>
+  <string name="system_update_desc">お使いのデバイスをセキュリティ脅威から保護し、MotorolaとAndroidの最新の機能を入手しましょう</string>
+  <string name="system_update_info_not_available">利用不可</string>
+  <string name="system_update_low_storage_text">メモリ容量を確認して続行するにはここをタップします。</string>
+  <string name="system_update_low_storage_title">システムアップデート</string>
+  <string name="system_update_notification_os_text">新しいAndroidのエクスペリエンスを体験できます</string>
+  <string name="system_update_notification_text">新しいソフトウェアをダウンロードしてください</string>
+  <string name="system_update_paused">システムアップデートを一時停止</string>
+  <string name="system_update_pending_notification_os_text">新しいAndroidを体験できます。アップデートは%1$d日間保留になっています。</string>
+  <string name="system_update_pending_notification_text">新しいソフトウェアをダウンロードしてください。アップデートは%1$d日間保留になっています。</string>
+  <string name="system_update_settings_list_item_title">システムアップデート</string>
+  <string name="system_update_status">アップデートのステータス</string>
+  <string name="system_update_title">システムアップデート</string>
+  <string name="tethered_permission_desc">3cアップデート結果の送信</string>
+  <string name="tethered_update_result">アップデート結果をテザリングしました</string>
+  <string name="time_picker_text">通知なしでインストールを開始</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">再試行</string>
+  <string name="turn_it_off">OFFにする</string>
+  <string name="turn_it_on">ONにする</string>
+  <string name="turn_on_smart_updates">スマートアップデートをONにする</string>
+  <string name="update">アップデートする</string>
+  <string name="update_blocked_by_policy">管理ポリシーによりアップデートはブロックされました </string>
+  <string name="update_cancelled_status">ソフトウェアダウンロードはキャンセルされました。日時:</string>
+  <string name="update_fail_desc">問題が発生しました</string>
+  <string name="update_fail_status">アップデートできませんでした</string>
+  <string name="update_fail_sucancel_dm_status">サーバーによってアップデートがキャンセルされました</string>
+  <string name="update_fail_title">アップデートに失敗しました。</string>
+  <string name="update_history_blank">まだ履歴がありません</string>
+  <string name="update_history_src_target">%1$sから%2$sにアップデート</string>
+  <string name="update_history_time">%1$sにアップデートされました</string>
+  <string name="update_history_title">アップデート履歴</string>
+  <string name="update_history_version">ソフトウェアバージョン%1$s</string>
+  <string name="update_info">アップデート中...</string>
+  <string name="update_postpone_policy">管理ポリシーによりアップデートは延期されました </string>
+  <string name="update_preference">基本設定を更新する</string>
+  <string name="update_success_desc">現在のソフトウェアバージョン: %1$s</string>
+  <string name="update_success_desc_os">おめでとうございます!Android %1$sを正常にインストールしました。これで、より快適で向上した安全なAndroidエクスペリエンスを楽しむ準備ができました。</string>
+  <string name="update_success_status">アップデートが終了しました</string>
+  <string name="update_title">アップデート完了</string>
+  <string name="update_title_text">新しいソフトウェアをお楽しみください!</string>
+  <string name="upto_date_title">問題ありません!</string>
+  <string name="urgent_channel_name">ソフトウェアアップデートアラート</string>
+  <string name="use_smart_updates">スマートアップデートを使用</string>
+  <string name="vab_validation_update_failure_desc">VAB検証アップデートに失敗しました</string>
+  <string name="vab_validation_update_failure_title">VAB検証に失敗しました</string>
+  <string name="vab_validation_update_success_desc">おめでとうございます!VAB検証アップデートに成功しました</string>
+  <string name="vab_validation_update_success_title">VAB検証に成功しました</string>
+  <string name="verifying_patch">アップデートが適用されました。適用が正常に行われたか確認中… (手順4/6)  </string>
+  <string name="verity_disabled_msg">デバイスがセキュリティリスクを受けやすくなっている可能性があります。以下のコマンドを実行してアップデートを続行します
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">デバイスがアップデートを受信しなくなりました</string>
+  <string name="verizon_failure_notification_text">デバイスはこのアップデートをインストールできませんでした。Software Upgrade Assistantツールを使用してインストールしてください。タップして詳細を表示します。</string>
+  <string name="verizon_failure_text">デバイスのアップデート中に問題が発生しました。変更されていません。ソフトウェアのアップデートには、Software Upgrade Assistantツールを使用できます。
+
+Software Upgrade Assistantツールをインストールするには:
+
+1.USBケーブルを使用して、デバイスをコンピュータに接続します
+2.USBメニューがデバイスに表示されたら、右上の設定アイコンを選択します
+3.[USBの基本設定]で、[ソフトウェアのインストール]を選択します
+4.PCに切り替えて、インストールウィザードを探します
+5.ウィザードを一通り確認します
+
+Software Upgrade Assistantツールが、デバイスでのソフトウェアアップデートのダウンロードとインストールをサポートします。</string>
+  <string name="vital_applying_updates">アップデートの適用中...</string>
+  <string name="vital_bg_text">これは数分かかることがあります。</string>
+  <string name="vital_check_for_updates">アップデートが必要です...</string>
+  <string name="vital_check_for_updates_desc">アップデートすることで、デバイスの安全性が保たれ、パフォーマンスが向上します。</string>
+  <string name="vital_done">完了!</string>
+  <string name="vital_error_fail">アップデートエラーが発生しました。変更は行われませんでした。</string>
+  <string name="vital_go_back">インストールを中断してもよろしいですか</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">再起動して続行</string>
+  <string name="vital_skip">スキップ</string>
+  <string name="vital_stop">停止</string>
+  <string name="wifi_setting">Wi-Fi設定</string>
+</resources>

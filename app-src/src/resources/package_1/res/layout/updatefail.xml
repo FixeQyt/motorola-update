@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:id="@id/update_fail_layout"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_marginStart="@dimen/paragraph_spacing"
+              android:layout_marginEnd="@dimen/paragraph_spacing" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <com.airbnb.lottie.LottieAnimationView android:id="@id/lottieAlertMark"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true" />
+  <LinearLayout android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+    <TextView android:textSize="@dimen/title_text"
+              android:gravity="center"
+              android:id="@id/update_failed_title"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/update_fail_title"
+              style="@style/TextAppearance.BigTitleBarText" />
+    <TextView android:textAppearance="@style/TextAppearance.MaterialComponents.Body2"
+              android:gravity="center"
+              android:id="@id/update_fail_desc"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/list_starting_padding_top"
+              android:paddingStart="@dimen/button_height_padding"
+              android:paddingEnd="@dimen/button_height_padding" />
+  </LinearLayout>
+  <ScrollView android:scrollbarStyle="outsideOverlay"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_marginTop="@dimen/list_starting_padding_top"
+              android:layout_weight="1.0">
+    <TextView android:id="@id/postinstallfailnote"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              style="@style/TextAppearance.MaterialComponents.Body2" />
+  </ScrollView>
+  <com.google.android.material.button.MaterialButton android:gravity="center"
+                        android:layout_gravity="bottom|center|end"
+                        android:id="@id/update_status_ok"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/got_it"
+                        ota:cornerRadius="@dimen/button_corner_radius"
+                        style="@style/MaterialButtonColoredStyle" />
+</LinearLayout>

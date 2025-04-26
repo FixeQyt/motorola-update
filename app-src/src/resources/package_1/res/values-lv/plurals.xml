@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="zero">Pēc %1$d sekundēm ierīce tiks restartēta, lai pabeigtu atjaunināšanu.</item>
+    <item quantity="one">Pēc %1$d sekundēm ierīce tiks restartēta, lai pabeigtu atjaunināšanu.</item>
+    <item quantity="other">Pēc %1$d sekundēm ierīce tiks restartēta, lai pabeigtu atjaunināšanu.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="zero">restartēsies pēc %1$d sekundēm</item>
+    <item quantity="one">restartēsies pēc %1$d sekundēm</item>
+    <item quantity="other">restartēsies pēc %1$d sekundēm</item>
+  </plurals>
+</resources>

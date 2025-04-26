@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">עדכן מאוחר יותר</string>
+  <string name="ab_download_now">עדכן כעת</string>
+  <string name="ab_install_notification_paused_text">ההתקנה ברקע מושהית</string>
+  <string name="ab_install_notification_text">התקנה ברקע</string>
+  <string name="ab_restart_fullscreen_text">כמעט סיימת! הפעלה מחדש של המכשיר שלך תארך כ-90 שניות. העדכון זמין %1$d ימים.</string>
+  <string name="ab_restart_text">כמעט סיימת! הפעלה מחדש של המכשיר שלך תארך כ-90 שניות.</string>
+  <string name="ab_restart_warning_os_mr">עדכון המערכת כמעט הושלם. המכשיר   </string>
+  <string name="ab_restart_warning_smr">עדכון האבטחה כמעט הושלם. המכשיר  </string>
+  <string name="ab_warning_continues">  עד להשלמת העדכון.</string>
+  <string name="abc_action_bar_home_description">ניווט לדף הבית</string>
+  <string name="abc_action_bar_up_description">ניווט למעלה</string>
+  <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+  <string name="abc_action_mode_done">סיום</string>
+  <string name="abc_activity_chooser_view_see_all">הצגת הכול</string>
+  <string name="abc_activitychooserview_choose_application">בחירת אפליקציה</string>
+  <string name="abc_capital_off">כבוי</string>
+  <string name="abc_capital_on">מופעל</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+  <string name="abc_menu_delete_shortcut_label">מחיקה</string>
+  <string name="abc_menu_enter_shortcut_label">Enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">רווח</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">תפריט+</string>
+  <string name="abc_search_hint">חיפוש…</string>
+  <string name="abc_searchview_description_clear">מחיקת השאילתה</string>
+  <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+  <string name="abc_searchview_description_search">חיפוש</string>
+  <string name="abc_searchview_description_submit">שליחת שאילתה</string>
+  <string name="abc_searchview_description_voice">חיפוש קולי</string>
+  <string name="abc_shareactionprovider_share_with">שיתוף עם</string>
+  <string name="abc_shareactionprovider_share_with_application">שיתוף עם %s</string>
+  <string name="abc_toolbar_collapse_description">כיווץ</string>
+  <string name="abupdate_in_progress_status">עדכון התוכנה מתבצע</string>
+  <string name="additional_charges_message">ההורדה תמשיך באמצעות נתונים לנייד. ייתכן שיחולו חיובי נתונים.</string>
+  <string name="alertSubText">משמש לבדיקה, הורדה והתקנה של חבילת העדכון</string>
+  <string name="alertText">אפשר פעולות רשת לצורך עדכוני תוכנה</string>
+  <string name="alertTitle">עדכונים מחייבים את האישור הבא</string>
+  <string name="alert_dialog_cancel">עצור התקנה</string>
+  <string name="alert_dialog_continue">המשך בהתקנה</string>
+  <string name="alert_dialog_no">לא</string>
+  <string name="alert_dialog_ok">הבנתי</string>
+  <string name="alert_dialog_yes">כן</string>
+  <string name="allocate_space_success">הזיכרון הנדרש זמין לעדכון</string>
+  <string name="allow">אפשר</string>
+  <string name="android_latest_sw_text">אתה משתמש בתוכנה העדכנית ביותר</string>
+  <string name="android_version">גרסת Android:</string>
+  <string name="app_name">עדכון תוכנה של Motorola</string>
+  <string name="applied">פועל</string>
+  <string name="apply_bug_fix">חל על תיקוני באגים</string>
+  <string name="apply_os_update">החל לכל עדכוני התוכנה</string>
+  <string name="applying_patch">מחיל עדכון (שלב %1$d מתוך %2$d)  </string>
+  <string name="are_you_sure">האם לכבות את התכונה 'עדכונים חכמים'?</string>
+  <string name="are_you_sure_pop_up_text">האם אתה בטוח שברצונך לכבות את התכונה 'עדכונים חכמים'? </string>
+  <string name="asc_campaign_assigned">קמפיין הוקצה</string>
+  <string name="asc_campaign_is_allowed">עדכון קושחה</string>
+  <string name="asc_campaign_is_blocked">נעילת קושחה</string>
+  <string name="asc_campaign_not_assigned">המכשיר אינו נמצא בקמפיין כרגע</string>
+  <string name="asc_campaign_status_prefix">‏
+סטטוס: </string>
+  <string name="asc_campaign_window_period_status">‏
+חלון עדכון: מ-%s עד %s</string>
+  <string name="asc_sw_up_to_date">‏ עד הגרסה העדכנית ביותר</string>
+  <string name="asc_target_version">‏ עד גרסה </string>
+  <string name="auth_title">עדכון מערכת</string>
+  <string name="auto_download_cellualr_charges_warn">בעת הורדת עדכונים דרך רשת סלולרית, ייתכן שיחולו חיובים נוספים</string>
+  <string name="auto_download_enable_cellular_future_updates">האם ברצונך להצטרף לאפשרות נתונים סלולריים גם בהורדות עתידיות?</string>
+  <string name="auto_download_settings_title">הגדרות הורדה אוטומטיות</string>
+  <string name="auto_download_wifi_cellular">הורד אוטומטית ברשת סלולרית וב-Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">הורדה אוטומטית ברשת סלולרית וב-Wi-Fi השימוש ב-Wi-Fi יתחיל ברגע שהוא יהיה זמין. </string>
+  <string name="auto_download_wifi_only">הורד אוטומטית ב-Wi-Fi בלבד</string>
+  <string name="auto_download_wifi_only_desc">הורדה אוטומטית ב-Wi-Fi בלבד</string>
+  <string name="auto_install_notification_text">המכשיר יותקן באופן אוטומטי ב-%1$s</string>
+  <string name="auto_time_set">התחל בשעה:</string>
+  <string name="automatic_bg_install_on_cellular_warning">עקב חשיבותו של עדכון זה, התקנתו תתבצע באופן אוטומטי באמצעות נתונים לנייד ב-%1$s</string>
+  <string name="automatic_download_on_cellular_warning">עקב חשיבותו של עדכון זה, הורדתו תתבצע באופן אוטומטי באמצעות נתונים לנייד ב-%1$s</string>
+  <string name="background_install_msg">עדכון זה ימשיך אם תחזור לאחור או תסגור חלון זה</string>
+  <string name="background_install_text">מתבצעת הורדה &amp; התקנה של עדכון. תוכל להמשיך ולהשתמש במכשיר שלך.</string>
+  <string name="bad_connection">אין אינטרנט</string>
+  <string name="bad_connection_text">נראה שהמכשיר שלך מנותק כרגע מהאינטרנט. הקש על הלחצן התחתון ונסה שוב.</string>
+  <string name="bg_install_cancel_confirm">אתה בטוח שאתה רוצה לעצור את ההתקנה?</string>
+  <string name="bg_retried">הורדת התוכנה נקטעה. נמשיך לנסות…</string>
+  <string name="bg_suspended">ממתין לחיבור נתונים כדי לחדש את ההורדה וההתקנה ברקע</string>
+  <string name="bg_suspended_non_adminapn">ממתין ל-Wi-Fi או לרשת ללא עלות כדי לחדש את ההורדה וההתקנה ברקע...</string>
+  <string name="bg_suspended_roaming">ההתקנה ברקע נעצרה בגלל נדידת רשת. נסה לחדש את ההתקנה ברקע באמצעות Wi-Fi.</string>
+  <string name="bg_suspended_wifi">בהמתנה ל-Wi-Fi כדי לחדש את ההורדה וההתקנה ברקע</string>
+  <string name="bootloader_unlock_msg">המכשיר שלך כבר לא מקבל עדכונים, והוא עלול להיות חשוף לסיכוני אבטחה.</string>
+  <string name="bootloader_unlock_title">אין עדכונים זמינים</string>
+  <string name="call_notification_answer_action">מענה</string>
+  <string name="call_notification_answer_video_action">וידאו</string>
+  <string name="call_notification_decline_action">דחייה</string>
+  <string name="call_notification_hang_up_action">ניתוק</string>
+  <string name="call_notification_incoming_text">שיחה נכנסת</string>
+  <string name="call_notification_ongoing_text">שיחה פעילה</string>
+  <string name="call_notification_screening_text">סינון שיחה נכנסת</string>
+  <string name="cancel">בטל</string>
+  <string name="cancel_download_notification">בטל</string>
+  <string name="cancel_install">בטל</string>
+  <string name="cancel_update_notification">בטל</string>
+  <string name="check_for_updates_title">בדוק אם יש עדכונים</string>
+  <string name="check_update_badparam">ניסיון השדרוג נכשל בזמן הכניסה.
+
+נסה שוב מאוחר יותר.</string>
+  <string name="check_update_checking">בדוק אם קיימים עדכונים...</string>
+  <string name="check_update_disabled_admin">עדכוני המכשיר בשליטת מנהל IT</string>
+  <string name="check_update_downloading">הורדת עדכון מתבצעת כעת.
+
+תקבל הודעה כאשר ההורדה תסתיים.</string>
+  <string name="check_update_fail">אירעה שגיאה לא צפויה.
+
+ההתקן ינסה לבצע שוב עדכון ברקע.</string>
+  <string name="check_update_internal">לא ניתן לבדוק האם קיימים עדכונים. נסה שוב מאוחר יותר.</string>
+  <string name="check_update_net">בדוק את החיבור לאינטרנט ונסה שוב</string>
+  <string name="check_update_net_vzw">יש צורך בחיבור נתונים כדי לבדוק האם קיימים עדכונים. כדי לבדוק את חיבור ה-Wi-Fi, עבור אל הגדרות &gt; רשת ואינטרנט &gt; אינטרנט &gt; Wi-Fi.‏
+
+ניתן גם לעיין באתר motorola.com/systemupdates כדי לראות אפשרויות עדכון נוספות.</string>
+  <string name="check_update_not_sys_user">בדיקת עדכונים אינה אפשרית עבור פרופילים של אורחים</string>
+  <string name="check_update_processing">מתחבר לשרת שלנו...
+ נא להמתין</string>
+  <string name="check_update_roaming">ניתן לבדוק אם קיים 'עדכון מערכת' ברשת ביתית בלבד. 
+
+עבור אל 'הגדרות &gt; רשת ואינטרנט &gt; הגדרת חיבור Wi-Fi' כדי להגדיר כעת חיבור.</string>
+  <string name="check_update_storage_low">לא ניתן לעדכן את המערכת, כי אין מספיק שטח אחסון במכשיר.</string>
+  <string name="check_update_temperror">לא ניתן להשלים הורדת עדכונים בנקודה זאת.
+
+נסה שנית.</string>
+  <string name="check_update_text">בודק מעת לעת אם קיימים עדכונים כדי לשמור על המכשיר בטוח ולשפר את ביצועיו</string>
+  <string name="check_update_title_downloading">ההורדה מתבצעת...</string>
+  <string name="check_update_vab_validation">בודק מצב עדכון אימות VAB
+נא להמתין</string>
+  <string name="check_update_wifi_only">עדכון המערכת זמין באמצעות Wi-Fi בלבד.</string>
+  <string name="check_wifi_settings">בדוק את הגדרות ה-Wi-Fi</string>
+  <string name="clear_space">פנה שטח</string>
+  <string name="cloud_picker_title">בורר ענן</string>
+  <string name="common_android_wear_notification_needs_update_text">‏אפליקציה מסוימת דורשת עדכון לאפליקציה Android Wear.</string>
+  <string name="common_android_wear_update_text">‏אפליקציה זו לא תפעל עד שתעדכן את האפליקציה Android Wear.</string>
+  <string name="common_android_wear_update_title">‏עדכון Android Wear</string>
+  <string name="common_google_play_services_enable_button">‏הפעל את שירותי Google Play</string>
+  <string name="common_google_play_services_enable_text">‏אפליקציה זו לא תעבוד אם לא תפעיל את שירותי Google Play.</string>
+  <string name="common_google_play_services_enable_title">‏הפעלת שירותי Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">התבקשה על ידי %1$s</string>
+  <string name="common_google_play_services_install_button">‏קבל את שירותי Google Play</string>
+  <string name="common_google_play_services_install_text_phone">‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטלפון שלך.</string>
+  <string name="common_google_play_services_install_text_tablet">‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטאבלט שלך.</string>
+  <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">החשבון שצוין לא קיים במכשיר זה. בחר חשבון אחר.</string>
+  <string name="common_google_play_services_invalid_account_title">חשבון לא חוקי</string>
+  <string name="common_google_play_services_needs_enabling_title">‏קיימת אפליקציה המחייבת הפעלה של שירותי Google Play.</string>
+  <string name="common_google_play_services_network_error_text">‏דרוש חיבור נתונים כדי להתחבר לשירותי Google Play.</string>
+  <string name="common_google_play_services_network_error_title">שגיאת רשת.</string>
+  <string name="common_google_play_services_notification_needs_installation_title">‏קיימת אפליקציה המחייבת התקנה של שירותי Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">‏קיימת אפליקציה המחייבת עדכון עבור שירותי Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+  <string name="common_google_play_services_unknown_issue">‏בעיה לא ידועה בשירותי Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">‏שירותי Google Play, שחלק מהאפליקציות שלך מתבססות עליהם, אינם נתמכים על ידי המכשיר שברשותך. צור קשר עם היצרן לקבלת סיוע.</string>
+  <string name="common_google_play_services_unsupported_title">‏שירותי Google Play</string>
+  <string name="common_google_play_services_update_button">עדכן</string>
+  <string name="common_google_play_services_update_text">‏אפליקציה זו לא תפעל אם לא תעדכן את שירותי Google Play.</string>
+  <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+  <string name="common_open_on_phone">פתח בטלפון</string>
+  <string name="common_signin_button_text">היכנס</string>
+  <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+  <string name="compatibility_failed_title">אימות החבילה נכשל</string>
+  <string name="compatibility_verification_failure">חבילת העדכון שיורדת אינה תואמת לגרסת התוכנה הנוכחית במכשיר.</string>
+  <string name="compatibility_verification_failure_df">‏
+
+בדוק עם מתאם Dogfood שלך.</string>
+  <string name="compatibility_verification_success">אומת בהצלחה</string>
+  <string name="completed"> התקנה הושלמה. תקבל בקשה לבצע הפעלה מחדש לטלפון (שלב %1$d מתוך %2$d)</string>
+  <string name="completed_install">‏%s הושלם</string>
+  <string name="connect_to_wifi">התחבר ל-Wi-Fi</string>
+  <string name="continue_button">המשך</string>
+  <string name="critical_install_message_popup_os_mr">עדכון מערכת חשוב זמין. בחר באפשרות 'התקנה' כדי להחיל את העדכון. אחרת, העדכון יוחל אוטומטית בתאריך %1$s.</string>
+  <string name="critical_install_message_popup_smr">עדכון אבטחה חשוב זמין עכשיו. בחר באפשרות 'התקנה' כדי להחיל את העדכון. אחרת, העדכון יוחל אוטומטית בתאריך %1$s.</string>
+  <string name="critical_install_message_screen">עדכון חשוב זה יותקן אוטומטית בתאריך %1$s. ודא שהסוללה טעונה ברמה מספיקה להתקנה.</string>
+  <string name="critical_install_notification">מאחר שמדובר בעדכון חשוב, המכשיר שלך יבצע את ההתקנה באופן אוטומטי ב-%1$s.
+משך ההתקנה: %2$d דקות</string>
+  <string name="critical_restart_message_popup">כדי להחיל עדכון חשוב זה, הפעל מחדש ברגע שניתן. אם אינך יכול לעשות זאת, המכשיר שלך יופעל מחדש אוטומטית ב-%1$s.</string>
+  <string name="critical_restart_message_screen">מאחר שמדובר בעדכון חשוב, המכשיר שלך יופעל מחדש באופן אוטומטי ב-%1$s אם לא תפעיל אותו מחדש עד אז.</string>
+  <string name="critical_restart_notification">עדכון זה הוא חשוב. אם אינך יכול לבצע הפעלה ידנית מחדש עכשיו, המכשיר שלך יופעל מחדש אוטומטית ב-%1$s</string>
+  <string name="critical_update_notification_title">עדכון קריטי</string>
+  <string name="current_version">גרסה התוכנה הנוכחית:</string>
+  <string name="custom_slot">התאמה אישית</string>
+  <string name="custom_time">התאמת זמן</string>
+  <string name="dash">‏—</string>
+  <string name="date_time">%s בשעה %s</string>
+  <string name="defer_count_expired">הבנתי</string>
+  <string name="deny">לא, אין מצב</string>
+  <string name="details">פרטים</string>
+  <string name="dialog_alert_net_message">בדוק את ה-Wi-Fi או את חיבור הנתונים לנייד ונסה שוב.</string>
+  <string name="dialog_alert_net_title">המכשיר שלך לא מקוון</string>
+  <string name="dialog_alert_title">סוללה חלשה</string>
+  <string name="dialog_progress">טוען…</string>
+  <string name="dl_options_mobile_only_warning">מומלץ להשתמש ב-Wi-Fi. הורדה באמצעות נתונים לנייד או שימוש בנתונים לנייד בעת נדידה עשויים להוביל לחיובים נוספים.
+
+הורדת התוכנה הזו לא תשפיע על פעולת המכשיר שלך.</string>
+  <string name="done">בוצע</string>
+  <string name="dont_show_this_again">אל תציג זאת שוב</string>
+  <string name="download_cancelled_title">ההורדה בוטלה</string>
+  <string name="download_deferred_status">הורדת התוכנה נדחתה ב-</string>
+  <string name="download_failed_status">הורדת העדכון נכשלה ב-</string>
+  <string name="download_in_progress_status">הורדת התוכנה מתבצעת</string>
+  <string name="download_later_button">הורד מאוחר יותר</string>
+  <string name="download_no_button">לא, תודה</string>
+  <string name="download_note">תוכל להמשיך ולהשתמש במכשיר שלך במהלך התקנת העדכון</string>
+  <string name="download_now">הורד כעת</string>
+  <string name="download_now_button">הורד</string>
+  <string name="download_options">אפשרויות הורדה</string>
+  <string name="download_progress_cancel_message">אם ברצונך להוריד עדכון זה מאוחר יותר, עבור אל 'הגדרות' &gt; 'עדכוני מערכת'</string>
+  <string name="download_progress_fragment_message">‏ %1$s/%2$s</string>
+  <string name="download_progress_message">נותרו %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">‏%s%% הורדו (הושהה)</string>
+  <string name="download_progress_text">הורדה זו תמשיך אם תחזור לאחור או תסגור חלון זה</string>
+  <string name="download_subtitle">מה חשוב לדעת לפני ההורדה</string>
+  <string name="download_text_whats_new">ראה מה חדש</string>
+  <string name="download_time_left">נותרו %1$s</string>
+  <string name="download_version">גרסה %1$s — %2$s</string>
+  <string name="download_wifi_only_error">יש צורך ברשת Wi-Fi כדי להוריד עדכון זה. ההורדה תתחדש עם חידוש החיבור.</string>
+  <string name="downloaded_percentage">‏ %1$sהורדו </string>
+  <string name="emergency_call_btn_txt">חירום</string>
+  <string name="emergency_call_text">לא תוכל לבצע או לקבל שיחות טלפון, כולל שיחות חירום, במהלך אתחול!</string>
+  <string name="enable_wifi_error_txt">התחבר ל-Wi-Fi כדי להוריד את העדכון.</string>
+  <string name="eol_explore">סקור מכשירים חדשים</string>
+  <string name="eol_last_update_text">תיקון אבטחה:</string>
+  <string name="eol_promote">ראה את המבצעים העדכניים ביותר</string>
+  <string name="eol_title">במכשיר שלך מותקנת התוכנה הזמינה העדכנית ביותר.</string>
+  <string name="err_title_contact_server">מתחבר לשרת...</string>
+  <string name="err_title_memory_low">כמות זיכרון נמוכה...</string>
+  <string name="err_title_temp_error">שגיאה זמנית</string>
+  <string name="err_title_update">שגיאה בעדכון</string>
+  <string name="error_code">קוד שגיאה: </string>
+  <string name="error_copyfail">העתקה ממיקום כרטיס SD נכשלה.</string>
+  <string name="error_disabled">הורדת העדכון נכשלה. חבילת העדכון אינה זמינה כעת. 
+
+לא נדרשת פעולה נוספת.</string>
+  <string name="error_fail">מצטערים, הייתה בעיה בעדכון %1$s שלך. לא בוצעו שינויים. נסה שוב על-ידי מעבר להגדרות &gt; עדכון המערכת.</string>
+  <string name="error_in_call_msg">המכשיר לא יכול לבצע שדרוג כרגע, כי מתבצעת שיחה</string>
+  <string name="error_in_call_title">שיחה מתבצעת</string>
+  <string name="error_install_title">ההתקנה נכשלה</string>
+  <string name="error_mismatch">אירעה אי-התאמתה בגרסה. עדכון יחול שוב. אם יהיה עדכון זמין, תקבל הנחיה.</string>
+  <string name="error_mismatch_sd">העדכון נכשל. גרסת העדכון אינה תואמת לטלפון שלך. 
+
+הורד את הגרסה המתאימה לטלפון שלך ונסה שוב.</string>
+  <string name="error_network">הקישוריות אבדה. נסה שוב על-ידי בדיקה ידנית של עדכונים דרך הגדרות הטלפון.</string>
+  <string name="error_reboot">לא הצלחנו להוריד את העדכון. אם ברצונך לקבל עדכון זה מאוחר יותר, הפעל מחדש את המכשיר ולאחר מכן עבור אל 'הגדרות' &gt; 'עדכוני מערכת'.</string>
+  <string name="error_resources">לא הצלחנו להוריד את העדכון. אם ברצונך לקבל עדכון זה מאוחר יותר, עבור אל 'הגדרות' &gt; 'עדכוני מערכת'.</string>
+  <string name="error_sdcard_resources_fail_removal">כרטיס ה-SD הוסר. תהליך ההורדה לא הושלם. 
+
+הכנס מחדש את כרטיס ה-SD ועבור אל 'הגדרות' &gt; 'עדכוני מערכת' כדי לנסות שוב.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">לא ניתן להשלים את ההורדה. אין מספיק מקום בכרטיס ה-SD.‏ 
+
+פנה מקום ועבור אל 'הגדרות' &gt; 'עדכוני מערכת' כדי לנסות שוב.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">הכנס כרטיס SD כדי להתחיל בהורדה.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">טען את כרטיס ה-SD כדי להתחיל בהורדה. 
+
+עבור אל הגדרות &gt; אחסון &gt; טען כרטיס SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">אין מספיק שטח אחסון בכרטיס ה-SD להשלמת ההורדה. 
+
+שחרר%1$s שטח אחסון ועבור על 'הגדרות &gt; עדכוני מערכת' כדי לנסות שוב את ההורדה.
+
+
+</string>
+  <string name="error_sdcard_resources_title">שגיאה</string>
+  <string name="error_sdcard_resources_warning">מתבצעת הורדת עדכון תוכנה לכרטיס SD. 
+
+אל תוציא את כרטיס ה-SD לפני השלמת ההתקנה.
+
+
+</string>
+  <string name="error_server">אירעה שגיאה בשרת. נסה שוב מאוחר יותר.</string>
+  <string name="error_space">עדכון זה מחייב שטח אחסון זמין בנפח %1$s במכשיר שלך. 
+
+מחק יישומים שאינם בשימוש או העבר את התצלומים והסרטונים אל מכשיר אחסון אחר כדי לפנות %2$sשטח. 
+
+בסיום, תוכל לעבור אל 'הגדרות &gt; עדכוני מערכת' כדי להתחיל בעדכון בכל עת.</string>
+  <string name="error_space_retry">עדכון זה מחייב שטח אחסון זמין בנפח %1$s במכשיר שלך. 
+
+מחק יישומים שאינם בשימוש או העבר את התצלומים והסרטונים אל מכשיר אחסון אחר כדי לפנות שטח בנפח %2$s.</string>
+  <string name="error_space_vab">עדכון זה מצריך %1$s של שטח פנוי במכשיר. אנא פנה שטח זיכרון, כדי לאפשר עדכונים</string>
+  <string name="error_space_vab_make_room_popup">עליך לפנות %1$s שטח לפני העדכון. נסה לאתר אפליקציות שאינן בשימוש או להזיז תמונות וסרטונים למכשיר אחסון אחר.</string>
+  <string name="error_title">ההורדה נכשלה</string>
+  <string name="error_verify">לא ניתן היה לאמת כראוי את העדכון. נסה שוב.</string>
+  <string name="failed">נכשל</string>
+  <string name="failure_process">המידע אינו זמין</string>
+  <string name="finalizing_patch">מסיים עדכון… (שלב 5 מתוך 6)  </string>
+  <string name="first_net_text">התקן את העדכון, אחרת המכשיר יתקין זאת באופן אוטומטי באתחול הבא. ודא שעוצמת הסוללה עומדת על %s לכל הפחות</string>
+  <string name="forceInstallMessage">עדכון זה יותקן אוטומטית בתאריך %1$s.</string>
+  <string name="force_install_message_screen">זהו עדכון חשוב, לכן יש להתקינו עד %1$s. אחרת הוא יותקן אוטומטית בזמן שהשימוש במכשיר שלך מועט. ודא שהסוללה טעונה ברמה מספיקה להתקנה.</string>
+  <string name="force_install_notification_message">התקן עד %1$s. אחרת, ההתקנה במכשיר שלך תבוצע אוטומטית בשעה שהוא אינו בשימוש תכוף.
+משך ההתקנה: %2$d דקות</string>
+  <string name="force_restart_notification_message">הפעל מחדש עד %1$s. אחרת המכשיר יופעל מחדש אוטומטית בשעה שהוא אינו בשימוש תכוף.</string>
+  <string name="force_restart_screen_message">אם לא תפעיל מחדש עד %1$s, המכשיר שלך יופעל מחדש באופן אוטומטי בשעה שהוא אינו בשימוש תכוף.</string>
+  <string name="google">Google</string>
+  <string name="got_it">הבנתי</string>
+  <string name="important_update_install_overdue_message">השעה שתוזמנה עבור התקנה חלפה. ההתקנה תתחיל כשהמכשיר יעמוד בקריטריונים.</string>
+  <string name="important_update_restart_overdue_message">השעה שתוזמנה עבור הפעלה מחדש חלפה. הפעלה מחדש תתחיל כשהמכשיר יעמוד בקריטריונים.</string>
+  <string name="initiating_ota_service_msg">נא להמתין...</string>
+  <string name="initiating_ota_service_title">מתחיל תהליך עדכון תוכנה</string>
+  <string name="install">התקן</string>
+  <string name="install_after_one_hour">התקן בעוד שעה</string>
+  <string name="install_cancelled_title">ההתקנה בוטלה</string>
+  <string name="install_deferred_status">העדכון נדחה ב-</string>
+  <string name="install_later">התקן מאוחר יותר</string>
+  <string name="install_notify_sanity_call_msg">המכשיר לא יכול לבצע התקנה כרגע, כי מתבצעת שיחה</string>
+  <string name="install_notify_sanity_maps_msg">המכשיר לא יכול לבצע התקנה כרגע, כי הניווט מופעל</string>
+  <string name="install_now">התקן כעת</string>
+  <string name="install_postponed">ההתקנה נדחתה</string>
+  <string name="install_progress_cancel_message">אם ברצונך להתקין עדכון זה מאוחר יותר, עבור אל 'הגדרות' &gt; 'עדכוני מערכת'</string>
+  <string name="install_progress_paused_message">‏%s הושלם (בהשהיה)</string>
+  <string name="install_time">משך ההתקנה: %1$d דקות</string>
+  <string name="install_warning">מה חשוב לדעת לפני ההתקנה</string>
+  <string name="just_one_more_step">רק עוד שלב אחד</string>
+  <string name="keep_it_on">השאר אותו פועל</string>
+  <string name="later_button">הזכר לי מאוחר יותר</string>
+  <string name="learn_more_online_link">מידע נוסף מקוון</string>
+  <string name="low_battery_bg_install">ההתקנה הושעתה עקב סוללה חלשה. ההתקנה תתחדש לאחר שטעינת הסוללה תהיה מעל 20%.</string>
+  <string name="low_battery_download">ההורדה הושעתה עקב סוללה חלשה. ההורדה תתחדש כשהמכשיר יהיה טעון.</string>
+  <string name="low_battery_install">יש לטעון את המכשיר ל-%s לפחות כדי להתקין עדכון זה</string>
+  <string name="make_space">פנה מקום</string>
+  <string name="mandatory_install_notification">אם לא תתקין את עדכון המערכת הזה בקרוב, תפספס עדכוני אבטחה חשובים וכן תכונות חדשות ותיקוני באגים.</string>
+  <string name="mandatory_restart_notification">מדובר בעדכון חשוב, לכן עליך לאתחל עכשיו. אחרת תפספס עדכוני אבטחה חשובים וכן תכונות חדשות ותיקוני באגים.</string>
+  <string name="medium_channel_name">מיידע על הורדת תוכנה</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">בחר חשבון</string>
+  <string name="multiple_account_alert">בחר חשבון %1$s כדי להמשיך בעדכון המערכת.</string>
+  <string name="no_thanks">לא, תודה</string>
+  <string name="no_thanks_message">אם ברצונך לקבל עדכון זה מאוחר יותר, עבור אל 'הגדרות' &gt; 'עדכוני מערכת'.</string>
+  <string name="no_updates_applied">לא הוחל אף עדכון</string>
+  <string name="not_now">לא עכשיו</string>
+  <string name="otaservice_perm_desc">הרשאה הדרושה ליישומים כדי ליצור אינטראקציה עם otaservice</string>
+  <string name="package_size">גודל הורדה: %1$s</string>
+  <string name="personalInfo_instruction">לא תאבד מידע אישי</string>
+  <string name="picker_cell_radio">נתונים לנייד ו-Wi-Fi</string>
+  <string name="picker_title">בחר כיצד ברצונך להוריד עדכון זה:</string>
+  <string name="picker_wifi_only_radio">‏Wi-Fi בלבד</string>
+  <string name="please_restart">הפעל מחדש כעת</string>
+  <string name="policy_set">עדכון המערכת חסום. צור קשר עם מנהל המכשיר שלך למידע נוסף.</string>
+  <string name="press_back_again_to_exit">לחץ שוב על הלחצן 'הקודם' כדי לצאת</string>
+  <string name="progress_copying_sd">מעתיק עדכון</string>
+  <string name="progress_deffered">ההורדה תתחיל ב-Wi-Fi/רשת סלולרית</string>
+  <string name="progress_downloading_ota">מוריד עדכון מערכת</string>
+  <string name="progress_downloading_security">מוריד עדכון אבטחה</string>
+  <string name="progress_retried">הורדת התוכנה נקטעה. נמשיך לנסות…</string>
+  <string name="progress_suspended">ממתין שחיבור נתונים יחדש הורדה</string>
+  <string name="progress_suspended_datasaver">כבה את שומר הנתונים כדי לחדש את ההורדה</string>
+  <string name="progress_suspended_no_adminapn">ממתין ל-Wi-Fi או לרשת ללא עלות כדי לחדש את ההורדה</string>
+  <string name="progress_suspended_roaming">ההורדה נעצרה בגלל נדידת רשת. נסה לחדש את ההורדה באמצעות Wi-Fi.</string>
+  <string name="progress_suspended_wifi">ממתין שרשת ה-Wi-Fi תחדש את ההורדה...</string>
+  <string name="progress_verify">מתבצע אימות שהמכשיר שלך מוכן לעדכון…</string>
+  <string name="progress_verify_allocate_space">בודק אם יש מספיק זיכרון</string>
+  <string name="relative_date_time">‏%1$s בשעה %2$s</string>
+  <string name="release_note_battery_desc">עדכונים לשיפור חיי הסוללה והשימוש</string>
+  <string name="release_note_battery_title">סוללה</string>
+  <string name="release_note_camera_desc">שיפורים אלה יעזרו לך לצלם תמונות בדיוק ובפירוט גדולים יותר</string>
+  <string name="release_note_camera_title">מצלמה</string>
+  <string name="release_note_cellular_desc">השינויים יעזרו לשפר את חיבוריות המכשיר</string>
+  <string name="release_note_cellular_title">סלולרי</string>
+  <string name="release_note_charging_desc">עדכונים אלה משפרים את יכולות הטעינה</string>
+  <string name="release_note_charging_title">טוען</string>
+  <string name="release_note_generic_desc">השינויים יעזרו לשפר את הביצועים הכוללים של המכשיר</string>
+  <string name="release_note_os_update_desc">ערכות נושא חד-צבעיות חדשות מעניקות לטלפון מראה חלק וגורמות לטפט לבלוט. ראה כיצד אפליקציות משתמשות במידע שלך ומשתפות אותו לפני שתתן הסכמתך והפוך אותו לנגיש יותר עם תכונות השמע והצפייה החדשות של Android 14.</string>
+  <string name="release_note_os_update_title">‏Android %1$s</string>
+  <string name="release_note_performance_desc">השינויים יעזרו לשפר את הביצועים הכוללים של המכשיר</string>
+  <string name="release_note_performance_title">ביצוע</string>
+  <string name="release_note_security_desc">כולל טלאי עדכון אבטחה באמצעות %1$s</string>
+  <string name="release_note_security_title">עדכון אבטחה</string>
+  <string name="release_note_stability_desc">כולל שיפורים ותיקוני באגים שהופכים את הטלפון לאמין יותר</string>
+  <string name="release_note_stability_title">יציבות</string>
+  <string name="release_note_title">עדכון זה כולל</string>
+  <string name="release_note_wifi_desc">כולל עדכונים לחיבוריות Wi-Fi</string>
+  <string name="release_note_wifi_title">‏Wi-Fi</string>
+  <string name="release_notes_string">בדוק את כל התכונות החדשות של Android %1$s</string>
+  <string name="request_suspended_datasaver">כבה את שומר הנתונים כדי להתחיל בהורדה</string>
+  <string name="request_suspended_no_network">אין כיסוי רשת כדי להתחיל את ההורדה</string>
+  <string name="restart_after_one_hour">הפעל מחדש בעוד שעה</string>
+  <string name="restart_instruction_title">מה חשוב לדעת לפני שמפעילים מחדש</string>
+  <string name="restart_later">מאוחר יותר</string>
+  <string name="restart_message">הפעל מחדש כעת כדי לעדכן</string>
+  <string name="restart_notification">הפעלה מחדש</string>
+  <string name="restart_notification_text">הפעל מחדש עכשיו כדי לעדכן. העדכון ממתין %1$d ימים.</string>
+  <string name="restart_notify_sanity_call_msg">המכשיר לא יכול לבצע אתחול כרגע, כי מתבצעת שיחה</string>
+  <string name="restart_notify_sanity_maps_msg">המכשיר לא יכול לבצע אתחול כרגע, כי הניווט מופעל</string>
+  <string name="restart_now">הפעל מחדש עכשיו</string>
+  <string name="restart_postponed">הפעלה מחדש נדחתה</string>
+  <string name="restart_title">הפעל מחדש את המכשיר</string>
+  <string name="resume_download_on_cellular">השתמש בנתונים לנייד</string>
+  <string name="retrieving_token">מאמת...</string>
+  <string name="sdcard_predownload_text">
+בשלב זה, תעתיק את העדכון לזיכרון המערכת העדכון יותקן בשלב הבא. 
+
+חבר את הטלפון למקור מתח כדי לוודא שתישמר לך אנרגיית הסוללה.</string>
+  <string name="search_menu_title">חיפוש</string>
+  <string name="secure_instruction">התהליך מאובטח</string>
+  <string name="security_download_notification_title">שפר את האבטחה שלך</string>
+  <string name="security_install_notification_text">עדכון אבטחה חדש מוכן להתקנה</string>
+  <string name="security_install_title">קיים עדכון אבטחה מוכן</string>
+  <string name="security_patch">תיקון אבטחה:</string>
+  <string name="security_update_low_storage_title">עדכון אבטחה</string>
+  <string name="security_update_notification_text">קבל עת עדכון האבטחה העדכני ביותר</string>
+  <string name="security_update_paused">עדכון האבטחה הושהה</string>
+  <string name="security_update_pending_notification_text">קבל את עדכון האבטחה העדכני ביותר. העדכון ממתין %1$d ימים.</string>
+  <string name="security_update_title">עדכון אבטחה</string>
+  <string name="select_account">בחר חשבון %1$s</string>
+  <string name="selected_later_time_os_mr">עדכון מערכת יותקן ביום </string>
+  <string name="selected_later_time_smr">עדכון אבטחה יותקן בתאריך</string>
+  <string name="setting_sw_summary">עדכן לתוכנה העדכנית ביותר </string>
+  <string name="setting_sw_title">עדכוני מערכת</string>
+  <string name="smart_cancel_update_toast_msg">העדכון תוזמן מחדש ל-%1$s</string>
+  <string name="smart_end_time">סיום</string>
+  <string name="smart_install_message_popup">מכיוון שהפעלת את התכונה 'עדכונים חכמים', המכשיר שלך יעודכן אוטומטית ב-%1$s אם לא הפעלת אותו מחדש עד אז. ודא שהסוללה טעונה ברמה מספיקה להתקנה.</string>
+  <string name="smart_restart_message_popup">מכיוון שהפעלת את התכונה 'עדכונים חכמים', המכשיר שלך יעודכן אוטומטית ב-%1$s אם לא הפעלת אותו מחדש עד אז.</string>
+  <string name="smart_settings_string">עדכונים יורדים ומותקנים אוטומטית כאשר אתה מחובר ל-Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">עדכונים יורדים ומותקנים אוטומטית כשאתה מחובר ל-Wi-Fi או משתמש בנתונים ניידים</string>
+  <string name="smart_settings_string_vzw">עדכונים יורדים ומותקנים אוטומטית</string>
+  <string name="smart_start_time">התחל</string>
+  <string name="smart_to_string">אל</string>
+  <string name="smart_update_advanced">אפשרויות מתקדמות</string>
+  <string name="smart_update_note">למען בטיחותך, כל עדכוני האבטחה החשובים יורדו באופן אוטומטי גם כשתכונה זו מכובית</string>
+  <string name="smart_update_note_vzw">למען בטיחותך, כל העדכונים הקריטיים יורדו ויותקנו באופן אוטומטי גם כשתכונה זו מכובית.</string>
+  <string name="smart_update_pop_up_text">שמור על המכשיר שלך מוגן ומאובטח בעזרת עדכונים אוטומטיים</string>
+  <string name="smart_update_recommendation">נסה את העדכונים החכמים</string>
+  <string name="smart_update_suggestion_text">שמור על בטחונך עם עדכונים אוטומטיים</string>
+  <string name="smart_update_text_AB">עזור למכשיר לפעול בבטחה וביעילות על ידי התקנה אוטומטית של כל עדכוני האבטחה ותיקוני הבאגים החדשים.</string>
+  <string name="smart_update_text_AB_vzw">התכונה 'עדכונים חכמים' מסייעת למכשיר לפעול באופן בטוח ויעיל יותר. כשתפעיל אותם, כל <b>עדכוני האבטחה</b> החדשים ירדו באופן אוטומטי. לאחר ההורדה, המכשיר יופעל מחדש במועד שתבחר.</string>
+  <string name="smart_update_text_classic">התכונה 'עדכונים חכמים' מסייעת למכשיר לפעול באופן בטוח ויעיל יותר. כשתפעיל אותם, כל <b>עדכוני האבטחה ותיקוני הבאגים</b> החדשים ירדו באופן אוטומטי. לאחר ההורדה, המכשיר יופעל מחדש ויתקין את העדכון במועד שתבחר.</string>
+  <string name="smart_update_text_classic_vzw">התכונה 'עדכונים חכמים' מסייעת למכשיר לפעול באופן בטוח ויעיל יותר. כשתפעיל אותם, כל <b>עדכוני האבטחה</b> החדשים ירדו באופן אוטומטי. לאחר ההורדה, המכשיר יופעל מחדש ויתקין את העדכון במועד שתבחר.</string>
+  <string name="smart_update_time_slot_text_AB">בחר שעת התחלה</string>
+  <string name="smart_update_time_slot_text_classic">בחר מועד להתקנה</string>
+  <string name="smart_update_title">עדכונים חכמים</string>
+  <string name="software_not_update_to">התוכנה עדיין לא עודכנה ל-</string>
+  <string name="software_update_in_progress">המערכת מעדכנת לגרסה</string>
+  <string name="software_update_planned_summary">נבדק - %1$s</string>
+  <string name="software_update_planned_title">עדכון תוכנה מתוכנן</string>
+  <string name="software_update_to">המערכת עודכנה ל-</string>
+  <string name="sofware_version">גרסת תוכנה:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">פנה מקום עבור עדכון</string>
+  <string name="su_btn">הגדרות</string>
+  <string name="su_text_off">יש לעדכן את המכשיר באופן ידני כשתוכנה חדשה זמינה. הפעל את העדכונים החכמים כדי שהתהליך יהיה אוטומטי. הקש לפרטים נוספים.</string>
+  <string name="su_text_on">לפי ברירית המחדל, עדכונים חכמים מתבצעים בשעות 3:00-1:00 בלילה. ניתן לשנות את שעות העדכונים או לכבות את העדכונים החכמים בהגדרות. הקש לפרטים נוספים.</string>
+  <string name="su_title_off">העדכונים החכמים כבויים</string>
+  <string name="su_title_on">העדכונים החכמים מופעלים</string>
+  <string name="system_download_notification_title">עדכון מערכת</string>
+  <string name="system_install_notification_text">עדכון תוכנה של המערכת מוכן להתקנה</string>
+  <string name="system_install_title">עדכון תוכנה מוכן</string>
+  <string name="system_pdl_notification_mr_title">קבל תיקוני באגים ועוד</string>
+  <string name="system_pdl_notification_os_title">‏ Android%1$s הגיע!</string>
+  <string name="system_update">עדכון מערכת</string>
+  <string name="system_update_desc">הגן על המכשיר מפני איומי אבטחה וקבל את תכונות Motorola ו-Android האחרונות</string>
+  <string name="system_update_info_not_available">לא זמין</string>
+  <string name="system_update_low_storage_text">הקש כאן כדי לבדוק את הזיכרון ולהמשיך.</string>
+  <string name="system_update_low_storage_title">עדכון מערכת</string>
+  <string name="system_update_notification_os_text">נסה את Android החדש</string>
+  <string name="system_update_notification_text">הורד את התוכנה החדשה</string>
+  <string name="system_update_paused">עדכון מערכת מושהה</string>
+  <string name="system_update_pending_notification_os_text">נסה את ה-Android החדש. העדכון ממתין %1$d ימים.</string>
+  <string name="system_update_pending_notification_text">הורד את התוכנה החדשה. העדכון ממתין %1$d ימים.</string>
+  <string name="system_update_settings_list_item_title">עדכוני מערכת</string>
+  <string name="system_update_status">עדכן את הסטטוס</string>
+  <string name="system_update_title">עדכון מערכת</string>
+  <string name="tethered_permission_desc">שלח תוצאות עדכון של 3c</string>
+  <string name="tethered_update_result">תוצאת עדכון קשורה</string>
+  <string name="time_picker_text">התחל בהתקנה ללא תזכורת</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">נסה שוב</string>
+  <string name="turn_it_off">השבת אותו</string>
+  <string name="turn_it_on">הפעל</string>
+  <string name="turn_on_smart_updates">הפעלת עדכונים חכמים</string>
+  <string name="update">עדכן</string>
+  <string name="update_blocked_by_policy">העדכון נחסם לפי מדיניות מנהל המערכת </string>
+  <string name="update_cancelled_status">הורדת התוכנה בוטלה ב-</string>
+  <string name="update_fail_desc">משהו השתבש</string>
+  <string name="update_fail_status">העדכון נכשל</string>
+  <string name="update_fail_sucancel_dm_status">העדכון בוטל על-ידי השרת</string>
+  <string name="update_fail_title">העדכון נכשל</string>
+  <string name="update_history_blank">אין היסטוריה עדיין</string>
+  <string name="update_history_src_target">עודכנה מ-%1$s ל-%2$s</string>
+  <string name="update_history_time">עודכנה ב-%1$s</string>
+  <string name="update_history_title">היסטוריית עדכונים</string>
+  <string name="update_history_version">גרסת תוכנה %1$s</string>
+  <string name="update_info">מעדכן...</string>
+  <string name="update_postpone_policy">העדכון נדחה לפי מדיניות מנהל המערכת </string>
+  <string name="update_preference">עדכון העדפות</string>
+  <string name="update_success_desc">גרסה התוכנה הנוכחית: %1$s</string>
+  <string name="update_success_desc_os">ברכותינו! התקנת בהצלחה את גרסה Android %1$s. כעת אתה מוכן ליהנות מחוויית Android טובה, חכמה ובטוחה יותר.</string>
+  <string name="update_success_status">העדכון הצליח</string>
+  <string name="update_title">העדכון הושלם</string>
+  <string name="update_title_text">תהנה מהתוכנה החדשה שלך!</string>
+  <string name="upto_date_title">הכל נראה טוב!</string>
+  <string name="urgent_channel_name">התרעת עדכון תוכנה</string>
+  <string name="use_smart_updates">השתמש בעדכונים חכמים</string>
+  <string name="vab_validation_update_failure_desc">עדכון אימות VAB נכשל</string>
+  <string name="vab_validation_update_failure_title">אימות VAB נכשל</string>
+  <string name="vab_validation_update_success_desc">ברכותינו! עדכון אימות VAB הצליח</string>
+  <string name="vab_validation_update_success_title">אימות VAB הסתיים בהצלחה</string>
+  <string name="verifying_patch">העדכון הוחל. אישור האפליקציה בוצע בהצלחה… (שלב 4 מתוך 6)  </string>
+  <string name="verity_disabled_msg">המכשיר שלך עלול להיות חשוף לסיכוני אבטחה. בצע את הפקודה שמופיעה למטה
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">המכשיר שלך כבר אינו מקבל עדכונים</string>
+  <string name="verizon_failure_notification_text"> המכשיר שלך אינו יכול להתקין עדכון זה.  השתמש בכלי 'מסייע לשדרוג תוכנה' כדי לבצע את ההתקנה. הקש לקבלת מידע נוסף.</string>
+  <string name="verizon_failure_text">הייתה בעיה בעדכון המכשיר שלך. לא בוצעו שינויים. כדי לעדכן את התוכנה, תוכל להשתמש בכלי 'מסייע לשדרוג התוכנה'.
+
+כדי להתקין את הכלי 'מסייע לשדרוג התוכנה':
+
+1. השתמש בכבל USB כדי לחבר את המכשיר למחשב
+2. כשתפריט ה-USB יופיע במכשיר, בחר בסמל ההגדרות בפינה הימנית העליונה
+3. בהעדפות USB, בחר בהתקנת תוכנה
+4. החלף למחשב וחפש את אשף ההתקנה
+5. עקוב אחר הוראות האשף
+
+הכלי 'מסייע לשדרוג תוכנה' יעזור לך להוריד ולהתקין עדכוני תוכנה למכשיר.</string>
+  <string name="vital_applying_updates">מחיל עדכונים...</string>
+  <string name="vital_bg_text">פעולה זו עשויה להימשך כמה דקות.</string>
+  <string name="vital_check_for_updates">מחפש עדכונים...</string>
+  <string name="vital_check_for_updates_desc">עדכונים שומרים על אבטחת המכשיר שלך ומשפרים את ביצועיו.</string>
+  <string name="vital_done">בוצע!</string>
+  <string name="vital_error_fail">אירעה שגיאה בעדכון. לא בוצעו שינויים.</string>
+  <string name="vital_go_back">אתה בטוח שברצונך לעצור את ההתקנה?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">הפעל מחדש כדי להמשיך</string>
+  <string name="vital_skip">דלג</string>
+  <string name="vital_stop">עצור</string>
+  <string name="wifi_setting">הגדרות Wi-Fi</string>
+</resources>

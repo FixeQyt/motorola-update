@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Laite käynnistyy uudelleen %1$d sekunnin kuluttua päivityksen viimeistelemiseksi.</item>
+    <item quantity="other">Laite käynnistyy uudelleen %1$d sekunnin kuluttua päivityksen viimeistelemiseksi.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">käynnistyy uudelleen %1$d sekunnin kuluttua</item>
+    <item quantity="other">käynnistyy uudelleen %1$d sekunnin kuluttua</item>
+  </plurals>
+</resources>

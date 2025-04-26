@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Cập nhật sau</string>
+  <string name="ab_download_now">Cập nhật ngay</string>
+  <string name="ab_install_notification_paused_text">Đã tạm dừng cài đặt nền</string>
+  <string name="ab_install_notification_text">Cài đặt nền</string>
+  <string name="ab_restart_fullscreen_text">Bạn sắp hoàn thành! Chỉ cần 90 giây để khởi động thiết bị. Cập nhật đã có được %1$d ngày.</string>
+  <string name="ab_restart_text">Bạn sắp hoàn thành! Chỉ cần 90 giây để khởi động thiết bị</string>
+  <string name="ab_restart_warning_os_mr">Cập nhật hệ thống sắp hoàn tất. Thiết bị của bạn sẽ  </string>
+  <string name="ab_restart_warning_smr">Bản cập nhật bảo mật của bạn sắp hoàn tất. Thiết bị của bạn sẽ  </string>
+  <string name="ab_warning_continues"> để hoàn tất cập nhật.</string>
+  <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
+  <string name="abc_action_bar_up_description">Di chuyển lên</string>
+  <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+  <string name="abc_action_mode_done">Xong</string>
+  <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+  <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+  <string name="abc_capital_off">TẮT</string>
+  <string name="abc_capital_on">BẬT</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Tìm kiếm…</string>
+  <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+  <string name="abc_searchview_description_query">Truy vấn tìm kiếm</string>
+  <string name="abc_searchview_description_search">Tìm kiếm</string>
+  <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+  <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+  <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+  <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+  <string name="abc_toolbar_collapse_description">Thu gọn</string>
+  <string name="abupdate_in_progress_status">Đang cập nhật phần mềm</string>
+  <string name="additional_charges_message">Tải về sẽ tiếp tục trên dữ liệu di động. Có thể áp dụng phí dữ liệu.</string>
+  <string name="alertSubText">Tính năng này được dùng để kiểm tra, tải về và cài đặt gói cập nhật</string>
+  <string name="alertText">Cho phép hoạt động mạng để cập nhật phần mềm</string>
+  <string name="alertTitle">Cập nhật cần quyền sau</string>
+  <string name="alert_dialog_cancel">Dừng cài đặt</string>
+  <string name="alert_dialog_continue">Tiếp tục cài đặt</string>
+  <string name="alert_dialog_no">Không</string>
+  <string name="alert_dialog_ok">Hiểu rồi</string>
+  <string name="alert_dialog_yes">Có</string>
+  <string name="allocate_space_success">Bộ nhớ bắt buộc có sẵn để cập nhật</string>
+  <string name="allow">Cho phép</string>
+  <string name="android_latest_sw_text">Bạn đang sử dụng phần mềm mới nhất</string>
+  <string name="android_version">Phiên bản Android:</string>
+  <string name="app_name">Cập nhật phần mềm Motorola</string>
+  <string name="applied">Bật</string>
+  <string name="apply_bug_fix">Áp dụng cho bản sửa lỗi</string>
+  <string name="apply_os_update">Áp dụng cho tất cả cập nhật phần mềm</string>
+  <string name="applying_patch">Đang áp dụng bản cập nhật (Bước %1$d / %2$d)  </string>
+  <string name="are_you_sure">Tắt cập nhật thông minh?</string>
+  <string name="are_you_sure_pop_up_text">Bạn có chắc chắn muốn tắt cập nhật thông minh không? </string>
+  <string name="asc_campaign_assigned">Đã chỉ định chiến dịch</string>
+  <string name="asc_campaign_is_allowed">Cập nhật phần mềm cơ sở</string>
+  <string name="asc_campaign_is_blocked">Khóa phần mềm cơ sở</string>
+  <string name="asc_campaign_not_assigned">Thiết bị hiện không nằm trong một chiến dịch</string>
+  <string name="asc_campaign_status_prefix">
+Trạng thái: </string>
+  <string name="asc_campaign_window_period_status">
+Cửa sổ cập nhật: Từ %s đến %s</string>
+  <string name="asc_sw_up_to_date"> đến phiên bản mới nhất</string>
+  <string name="asc_target_version"> đến phiên bản </string>
+  <string name="auth_title">Cập nhật hệ thống</string>
+  <string name="auto_download_cellualr_charges_warn">Khi tải bản cập nhật về qua mạng di động, có thể áp dụng phí bổ sung</string>
+  <string name="auto_download_enable_cellular_future_updates">Bạn có muốn chọn tùy chọn dữ liệu di động cho tải về trong tương lai không?</string>
+  <string name="auto_download_settings_title">Cài đặt tự động tải về</string>
+  <string name="auto_download_wifi_cellular">Tự động tải về qua mạng di động và Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Tự động tải về qua mạng di động và Wi-Fi. Wi-Fi sẽ được sử dụng trước tiên khi khả dụng. </string>
+  <string name="auto_download_wifi_only">Tự động tải về chỉ qua Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Tự động tải về chỉ qua Wi-Fi</string>
+  <string name="auto_install_notification_text">Thiết bị sẽ tự động cài đặt vào %1$s</string>
+  <string name="auto_time_set">Bắt đầu lúc:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Do tầm quan trọng của bản cập nhật này, nó sẽ tự động được cài đặt bằng dữ liệu di động vào %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Do tầm quan trọng của bản cập nhật này, nó sẽ tự động được tải về bằng dữ liệu di động vào %1$s</string>
+  <string name="background_install_msg">Cập nhật này sẽ tiếp tục nếu bạn quay lại hoặc đóng cửa sổ này</string>
+  <string name="background_install_text">Bản cập nhật đang tải về &amp; cài đặt. Bạn có thể tiếp tục sử dụng thiết bị.</string>
+  <string name="bad_connection">Không có Internet</string>
+  <string name="bad_connection_text">Có vẻ thiết bị của bạn hiện đã ngắt kết nối với internet. Chạm nút dưới cùng để thử lại.</string>
+  <string name="bg_install_cancel_confirm">Bạn có chắc muốn dừng cài đặt không?</string>
+  <string name="bg_retried">Tải về phần mềm đã bị ngắt. Chúng tôi sẽ tiếp tục thử…</string>
+  <string name="bg_suspended">Đang chờ kết nối dữ liệu để tiếp tục tải về và cài đặt dưới nền</string>
+  <string name="bg_suspended_non_adminapn">Đang chờ Wi-Fi hoặc mạng Không cước phí để tiếp tục tải về và cài đặt nền...</string>
+  <string name="bg_suspended_roaming">Cài đặt nền bị tạm dừng do chuyển vùng mạng, vui lòng bật Wi-Fi để tiếp tục cài đặt nền.</string>
+  <string name="bg_suspended_wifi">Đang chờ Wi-Fi để tiếp tục tải về và cài đặt nền</string>
+  <string name="bootloader_unlock_msg">Thiết bị của bạn không còn nhận bản cập nhật nữa và dễ gặp rủi ro bảo mật.</string>
+  <string name="bootloader_unlock_title">Không có cập nhật khả dụng</string>
+  <string name="call_notification_answer_action">Trả lời</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Từ chối</string>
+  <string name="call_notification_hang_up_action">Kết thúc</string>
+  <string name="call_notification_incoming_text">Cuộc gọi đến</string>
+  <string name="call_notification_ongoing_text">Cuộc gọi đang thực hiện</string>
+  <string name="call_notification_screening_text">Đang sàng lọc cuộc gọi đến</string>
+  <string name="cancel">Hủy</string>
+  <string name="cancel_download_notification">Hủy</string>
+  <string name="cancel_install">Hủy</string>
+  <string name="cancel_update_notification">Hủy</string>
+  <string name="check_for_updates_title">Kiểm tra bản cập nhật</string>
+  <string name="check_update_badparam">Xuất hiện lỗi khi thử nâng cấp do đăng nhập không thành công.
+
+Hãy thử lại sau.</string>
+  <string name="check_update_checking">Đang kiểm tra cập nhật...</string>
+  <string name="check_update_disabled_admin">Cập nhật thiết bị do quản trị viên CNTT kiểm soát</string>
+  <string name="check_update_downloading">Hiện đang tải về bản cập nhật.
+
+Chúng tôi sẽ thông báo khi quá trình tải về hoàn tất.</string>
+  <string name="check_update_fail">Đã xảy ra lỗi không mong muốn.
+
+Thiết bị sẽ thử lại để tải bản cập nhật trong nền.</string>
+  <string name="check_update_internal">Không thể kiểm tra bản cập nhật. Thử lại sau.</string>
+  <string name="check_update_net">Vui lòng kiểm tra kết nối internet và thử lại</string>
+  <string name="check_update_net_vzw">Bạn cần kết nối dữ liệu để kiểm tra bản cập nhật. Để kiểm tra kết nối Wi-Fi, hãy đi đến Cài đặt &gt; Mạng &amp; internet &gt; Internet &gt; Wi-Fi.
+
+Bạn cũng có thể truy cập motorola.com/systemupdates để xem tùy chọn cập nhật khác.</string>
+  <string name="check_update_not_sys_user">Kiểm tra cập nhật không được phép cho hồ sơ Khách</string>
+  <string name="check_update_processing">Đang liên hệ máy chủ...
+Vui lòng chờ</string>
+  <string name="check_update_roaming">Cập nhật hệ thống chỉ có trong mạng gia đình. 
+
+Đi đến Cài đặt &gt; Mạng &amp; internet &gt; Wi-Fi để thiết lập kết nối ngay.</string>
+  <string name="check_update_storage_low">Không thể cập nhật do không đủ dung lượng bộ nhớ trên thiết bị.</string>
+  <string name="check_update_temperror">Chưa thể tải về bản cập nhật vào lúc này.
+
+Hãy thử lại.</string>
+  <string name="check_update_text">Thỉnh thoảng kiểm tra bản cập nhật giúp thiết bị của bạn an toàn và cải thiện hiệu suất</string>
+  <string name="check_update_title_downloading">Đang tải về...</string>
+  <string name="check_update_vab_validation">Đang kiểm tra trạng thái cập nhật Xác thực VAB
+Vui lòng chờ</string>
+  <string name="check_update_wifi_only">Cập nhật hệ thống chỉ sẵn dùng qua Wi-Fi.</string>
+  <string name="check_wifi_settings">Kiểm tra cài đặt Wi-Fi</string>
+  <string name="clear_space">Xóa dung lượng</string>
+  <string name="cloud_picker_title">Bộ chọn đám mây</string>
+  <string name="common_android_wear_notification_needs_update_text">Ứng dụng yêu cầu cập nhật lên ứng dụng Android Wear.</string>
+  <string name="common_android_wear_update_text">Ứng dụng này chỉ chạy khi bạn cập nhật ứng dụng Android Wear.</string>
+  <string name="common_android_wear_update_title">Cập nhật Android Wear</string>
+  <string name="common_google_play_services_enable_button">Bật dịch vụ của Google Play</string>
+  <string name="common_google_play_services_enable_text">Ứng dụng này sẽ không hoạt động trừ khi bạn bật dịch vụ của Google Play.</string>
+  <string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Được yêu cầu bởi %1$s</string>
+  <string name="common_google_play_services_install_button">Cài đặt dịch vụ của Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Ứng dụng này sẽ không chạy nếu không có dịch vụ của Google Play. Điện thoại của bạn bị thiếu dịch vụ này.</string>
+  <string name="common_google_play_services_install_text_tablet">Ứng dụng này sẽ không chạy nếu không có dịch vụ của Google Play. Máy tính bảng của bạn bị thiếu dịch vụ này.</string>
+  <string name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Tài khoản đã chỉ định không tồn tại trên thiết bị này. Vui lòng chọn một tài khoản khác.</string>
+  <string name="common_google_play_services_invalid_account_title">Tài khoản không hợp lệ</string>
+  <string name="common_google_play_services_needs_enabling_title">Một ứng dụng yêu cầu bật các dịch vụ của Google Play.</string>
+  <string name="common_google_play_services_network_error_text">Cần có kết nối dữ liệu để kết nối với các dịch vụ của Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Lỗi mạng</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Một ứng dụng yêu cầu cài đặt các dịch vụ của Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Một ứng dụng yêu cầu cập nhật đối với các dịch vụ của Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Sự cố không xác định với dịch vụ của Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Các dịch vụ của Google Play mà một số ứng dụng của bạn dựa vào không được thiết bị của bạn hỗ trợ. Vui lòng liên hệ với nhà sản xuất để được hỗ trợ.</string>
+  <string name="common_google_play_services_unsupported_title">Dịch vụ của Google Play</string>
+  <string name="common_google_play_services_update_button">Cập nhật</string>
+  <string name="common_google_play_services_update_text">Ứng dụng này sẽ không chạy trừ khi bạn cập nhật dịch vụ của Google Play.</string>
+  <string name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+  <string name="common_open_on_phone">Mở trên điện thoại</string>
+  <string name="common_signin_button_text">Đăng nhập</string>
+  <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+  <string name="compatibility_failed_title">Xác nhận gói không thành công</string>
+  <string name="compatibility_verification_failure">Gói cập nhật được tải về không tương thích với phiên bản phần mềm hiện tại trên thiết bị.</string>
+  <string name="compatibility_verification_failure_df">
+
+Vui lòng kiểm tra điều phối viên Dogfood của bạn.</string>
+  <string name="compatibility_verification_success">Xác minh thành công</string>
+  <string name="completed"> Cài đặt hoàn tất. Bạn sẽ được nhắc khởi động lại điện thoại (Bước %1$d / %2$d)</string>
+  <string name="completed_install">Hoàn tất %s</string>
+  <string name="connect_to_wifi">Kết nối với Wi-Fi</string>
+  <string name="continue_button">Tiếp tục</string>
+  <string name="critical_install_message_popup_os_mr">Đã có bản cập hệ thống quan trọng. Vui lòng cài đặt để áp dụng bản cập nhật. Nếu không, bản cập nhật sẽ tự động được áp dụng vào %1$s.</string>
+  <string name="critical_install_message_popup_smr">Đã có bản cập nhật bảo mật quan trọng. Vui lòng chọn Cài đặt để áp dụng bản cập nhật. Nếu không, bản cập nhật sẽ tự động được áp dụng vào %1$s.</string>
+  <string name="critical_install_message_screen">Bản cập nhật quan trọng này sẽ tự động cài đặt vào %1$s. Đảm bảo bạn có đủ pin để cài đặt.</string>
+  <string name="critical_install_notification">Vì đây là bản cập nhật quan trọng, thiết bị của bạn sẽ cài đặt tự động vào %1$s.
+Thời gian cài đặt: %2$d phút</string>
+  <string name="critical_restart_message_popup">Để áp dụng bản cập nhật quan trọng này, vui lòng khởi động lại ngay khi có thể. Nếu bạn không thể làm vậy, thiết bị sẽ tự động khởi động lại vào %1$s.</string>
+  <string name="critical_restart_message_screen">Vì đây là bản cập nhật quan trọng, thiết bị của bạn sẽ tự khởi động lại vào %1$s nếu đến lúc đó bạn vẫn chưa khởi động lại.</string>
+  <string name="critical_restart_notification">Đây là bản cập nhật quan trọng. Nếu bạn không khởi động lại bây giờ, thiết bị sẽ tự động khởi động lại vào %1$s</string>
+  <string name="critical_update_notification_title">Cập nhật quan trọng</string>
+  <string name="current_version">Phiên bản phần mềm hiện tại:</string>
+  <string name="custom_slot">Tùy chỉnh</string>
+  <string name="custom_time">Tùy chỉnh thời gian</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s lúc %s</string>
+  <string name="defer_count_expired">Hiểu rồi</string>
+  <string name="deny">Từ chối</string>
+  <string name="details">Chi tiết</string>
+  <string name="device_corrupted_msg">Chúng tôi tìm thấy một số vấn đề hệ thống. Chúng tôi biết việc này bất tiện, nhưng bạn cần đến trung tâm dịch vụ địa phương để khắc phục các vấn đề đó.
+
+Sau khi điện thoại của bạn được sửa xong, chúng tôi có thể tiếp tục chạy cập nhật trên điện thoại của bạn.</string>
+  <string name="device_corrupted_title">Không thể cập nhật điện thoại</string>
+  <string name="dialog_alert_net_message">Kiểm tra Wi-Fi hoặc kết nối dữ liệu di động và thử lại.</string>
+  <string name="dialog_alert_net_title">Thiết bị của bạn đã ngoại tuyến</string>
+  <string name="dialog_alert_title">Pin yếu</string>
+  <string name="dialog_progress">Đang tải…</string>
+  <string name="dl_options_mobile_only_warning">Sử dụng Wi-Fi được đề xuất. Tải về bằng dữ liệu di động hoặc sử dụng dữ liệu di động trong khi chuyển vùng có thể bị tính phí bổ sung.
+
+Việc tải về phần mềm này sẽ không ảnh hưởng đến hoạt động của thiết bị.</string>
+  <string name="done">Xong</string>
+  <string name="dont_show_this_again">Không hiển thị lại</string>
+  <string name="download_cancelled_title">Đã hủy tải xuống</string>
+  <string name="download_deferred_status">Tải về phần mềm được hoãn vào</string>
+  <string name="download_failed_status">Không thể tải về cập nhật</string>
+  <string name="download_in_progress_status">Đang tải về phần mềm</string>
+  <string name="download_later_button">Tải xuống sau</string>
+  <string name="download_no_button">Hủy</string>
+  <string name="download_note">Bạn có thể tiếp tục sử dụng thiết bị trong khi cài đặt bản cập nhật</string>
+  <string name="download_now">Tải về ngay</string>
+  <string name="download_now_button">Tải xuống</string>
+  <string name="download_options">Tùy chọn tải về</string>
+  <string name="download_progress_cancel_message">Nếu bạn muốn tải về bản cập nhật này sau, hãy đi đến Cài đặt &gt; Cập nhật hệ thống</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Còn lại %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">Đã tải về %s%% (tạm dừng)</string>
+  <string name="download_progress_text">Tải về này sẽ tiếp tục nếu bạn quay lại hoặc đóng cửa sổ này</string>
+  <string name="download_subtitle">Điều bạn cần biết trước khi tải về</string>
+  <string name="download_text_whats_new">Xem những tính năng mới</string>
+  <string name="download_time_left">Còn lại %1$s</string>
+  <string name="download_version">Phiên bản %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Cần Wi-Fi để tải về bản cập nhật này. Tải về sẽ tiếp tục khi kết nối được khôi phục.</string>
+  <string name="downloaded_percentage">Đã tải về %1$s</string>
+  <string name="emergency_call_btn_txt">Khẩn cấp</string>
+  <string name="emergency_call_text">Bạn sẽ không thể thực hiện hoặc nhận cuộc gọi, bao gồm cuộc gọi khẩn cấp khi đang khởi động lại!</string>
+  <string name="enable_wifi_error_txt">Kết nối với Wi-Fi để tải về bản cập nhật này.</string>
+  <string name="eol_explore">Khám phá thiết bị mới</string>
+  <string name="eol_last_update_text">Bản vá lỗi bảo mật:</string>
+  <string name="eol_promote">Xem khuyến mãi mới nhất</string>
+  <string name="eol_title">Thiết bị của bạn đang chạy phần mềm khả dụng mới nhất.</string>
+  <string name="err_title_contact_server">Đang liên hệ máy chủ…</string>
+  <string name="err_title_memory_low">Bộ nhớ thấp…</string>
+  <string name="err_title_temp_error">Lỗi tạm thời</string>
+  <string name="err_title_update">Lỗi cập nhật</string>
+  <string name="error_code">Mã lỗi: </string>
+  <string name="error_copyfail">Không thể sao chép từ vị trí thẻ SD.</string>
+  <string name="error_disabled">Không thể tải xuống bản cập nhật. Hiện không có gói cập nhật tại thời điểm này. 
+
+Không cần thực hiện thêm thao tác nào.</string>
+  <string name="error_fail">Rất tiếc, đã có sự cố khi cập nhật %1$s của bạn. Không thay đổi nào được thực hiện. Vui lòng thử lại bằng cách đi đến Cài đặt &gt; Cập nhật hệ thống.</string>
+  <string name="error_in_call_msg">Thiết bị không thể cập nhật ngay vì đang có cuộc gọi</string>
+  <string name="error_in_call_title">Đang có cuộc gọi</string>
+  <string name="error_install_title">Cài đặt không thành công</string>
+  <string name="error_mismatch">Đã xuất hiện một phiên bản không phù hợp. Cập nhật sẽ diễn ra lại. Nếu có bản cập nhật, bạn sẽ được nhắc.</string>
+  <string name="error_mismatch_sd">Không thể cập nhật. Phiên bản cập nhật không phù hợp với điện thoại của bạn. 
+
+Hãy tải xuống phiên bản chính xác cho điện thoại của bạn và thử lại.</string>
+  <string name="error_network">Đã bị mất kết nối. Hãy thử lại bằng cách kiểm tra theo cách thủ công các bản cập nhật qua Cài đặt điện thoại.</string>
+  <string name="error_reboot">Chúng tôi không thể tải về cập nhật này. Nếu bạn muốn nhận bản cập nhật này sau, hãy khởi động lại thiết bị, sau đó đến Cài đặt &gt; Cập nhật hệ thống.</string>
+  <string name="error_resources">Chúng tôi không thể tải về cập nhật này. Nếu bạn muốn nhận bản cập nhật này sau, hãy đi đến Cài đặt &gt; Cập nhật hệ thống.</string>
+  <string name="error_sdcard_resources_fail_removal">Thẻ SD đã bị tháo. Quy trình tải về chưa hoàn tất. 
+
+Vui lòng gắn lại Thẻ SD và chuyển đến Cài đặt &gt; Cập nhật hệ thống để thử lại.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Không thể hoàn tất tải về. Không đủ dung lượng trên thẻ SD. 
+
+Hãy giải phóng dung lượng và chuyển đến Cài đặt &gt; Cập nhật hệ thống để thử lại.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Hãy lắp thẻ SD trước khi bắt đầu tải xuống.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Hãy kết nối thẻ SD để bắt đầu tải xuống. 
+
+Đi tới Cài đặt &gt; Bộ nhớ &gt; Kết nối thẻ SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Không đủ dung lượng trên Thẻ SD để hoàn tất tải về. 
+
+Vui lòng giải phóng %1$s dung lượng và đi đến Cài đặt &gt; Cập nhật hệ thống để thử tải về lại.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Lỗi</string>
+  <string name="error_sdcard_resources_warning">Cập nhật phần mềm đang tải xuống thẻ SD. 
+
+Không tháo thẻ SD cho đến khi cài đặt hoàn tất.
+
+
+</string>
+  <string name="error_server">Đã xảy ra lỗi trên máy chủ. Vui lòng thử lại sau.</string>
+  <string name="error_space">Bản cập nhật này cần %1$s bộ nhớ có sẵn trên thiết bị. 
+
+Hãy xóa các ứng dụng không dùng hoặc chuyển ảnh và video của bạn sang một thiết bị lưu trữ khác để giải phóng %2$s dung lượng. 
+
+Khi bạn hoàn tất, bạn có thể đi đến Cài đặt &gt; Cập nhật hệ thống để bắt đầu cập nhật vào mọi lúc.</string>
+  <string name="error_space_retry">Bản cập nhật này cần %1$s bộ nhớ có sẵn trên thiết bị. 
+
+Hãy xóa các ứng dụng không dùng hoặc chuyển ảnh và video của bạn sang một thiết bị lưu trữ khác để giải phóng %2$s dung lượng.</string>
+  <string name="error_space_vab">Bản cập nhật này cần %1$s dung lượng trống có sẵn trên thiết bị. Vui lòng giải phóng bộ nhớ để cập nhật thành công</string>
+  <string name="error_space_vab_make_room_popup">Bạn cần xóa %1$s dung lượng trước khi cập nhật. Thử xóa ứng dụng chưa sử dụng hoặc di chuyển ảnh và video sang thiết bị lưu trữ khác.</string>
+  <string name="error_title">Tải xuống không thành công</string>
+  <string name="error_verify">Không thể xác thực đúng cách bản cập nhật. Hãy thử lại.</string>
+  <string name="failed">Không thành công</string>
+  <string name="failed_in_roaming">Cần có Wi-Fi để cập nhật</string>
+  <string name="failure_process">Không có thông tin</string>
+  <string name="finalizing_patch">Đang hoàn tất cập nhật… (Bước 5 / 6)  </string>
+  <string name="first_net_text">Vui lòng cài đặt bản cập nhật nếu không thiết bị sẽ tự động cài đặt vào lần khởi động lại tiếp theo. Đảm bảo pin còn hơn %s</string>
+  <string name="forceInstallMessage">Bản cập nhật này sẽ tự động cài đặt vào %1$s.</string>
+  <string name="force_install_message_screen">Đây là bản cập nhật quan trọng, vì vậy vui lòng cài đặt trước %1$s. Nếu không, bản cập nhật sẽ tự động cài đặt vào lúc thiết bị ít được sử dụng nhất. Đảm bảo bạn có đủ thời lượng pin để cài đặt.</string>
+  <string name="force_install_notification_message">Vui lòng cài đặt trước %1$s. Nếu không, thiết bị sẽ tự động cài đặt bản cập nhật vào lúc nó ít được sử dụng nhất.
+Thời gian cài đặt: %2$d phút</string>
+  <string name="force_restart_notification_message">Vui lòng khởi động trước %1$s. Nếu không, thiết bị sẽ tự động khởi động lại vào lúc nó ít được sử dụng nhất.</string>
+  <string name="force_restart_screen_message">Nếu bạn không khởi động lại trước %1$s, thiết bị của bạn sẽ tự động khởi động lại vào lúc nó ít được sử dụng nhất.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Hiểu rồi</string>
+  <string name="important_update_install_overdue_message">Thời gian lên lịch cài đặt đã qua. Cài đặt sẽ bắt đầu sau khi thiết bị của bạn đáp ứng tiêu chí.</string>
+  <string name="important_update_restart_overdue_message">Thời gian lên lịch khởi động lại đã qua. Thiết bị sẽ khởi động lại khi đáp ứng tiêu chí.</string>
+  <string name="initiating_ota_service_msg">Vui lòng chờ...</string>
+  <string name="initiating_ota_service_title">Đang khởi chạy quy trình cập nhật phần mềm</string>
+  <string name="install">Cài đặt</string>
+  <string name="install_after_one_hour">Cài đặt trong 1 giờ</string>
+  <string name="install_cancelled_title">Đã hủy cài đặt</string>
+  <string name="install_deferred_status">Cập nhật bị hoãn lúc</string>
+  <string name="install_later">Cài đặt sau</string>
+  <string name="install_notify_sanity_call_msg">Thiết bị không thể cài đặt ngay vì đang có cuộc gọi</string>
+  <string name="install_notify_sanity_maps_msg">Thiết bị không thể cài đặt ngay vì điều hướng đang bật</string>
+  <string name="install_now">Cài đặt ngay</string>
+  <string name="install_postponed">Cài đặt bị hoãn</string>
+  <string name="install_progress_cancel_message">Nếu bạn muốn cài đặt bản cập nhật này sau, hãy đi đến Cài đặt &gt; Cập nhật hệ thống</string>
+  <string name="install_progress_paused_message">Hoàn tất %s (Tạm dừng)</string>
+  <string name="install_time">Thời gian cài đặt: %1$d phút</string>
+  <string name="install_warning">Điều bạn cần biết trước khi cài đặt</string>
+  <string name="just_one_more_step">Chỉ còn một bước nữa thôi</string>
+  <string name="keep_it_on">Giữ NFC bật</string>
+  <string name="later_button">Nhắc tôi sau</string>
+  <string name="learn_more_online_link">Tìm hiểu thêm trực tuyến</string>
+  <string name="low_battery_bg_install">Cài đặt tạm dừng do pin yếu. Cài đặt sẽ tiếp tục khi pin trên 20%.</string>
+  <string name="low_battery_download">Tải về tạm dừng do pin yếu. Tải về sẽ tiếp tục khi thiết bị của bạn được sạc.</string>
+  <string name="low_battery_install">Vui lòng sạc thiết bị đến ít nhất %s trước khi cài đặt bản cập nhật này</string>
+  <string name="make_space">Dọn chỗ</string>
+  <string name="mandatory_install_notification">Nếu bạn không cài đặt bản cập nhật hệ thống này sớm, bạn sẽ bỏ lỡ các bản cập nhật bảo mật quan trọng, cũng như các tính năng mới và bản sửa lỗi.</string>
+  <string name="mandatory_restart_notification">Vì đây là bản cập nhật quan trọng, vui lòng khởi động lại ngay. Nếu không, bạn sẽ bỏ lỡ các bản cập nhật bảo mật, cũng như các tính năng mới và sửa lỗi.</string>
+  <string name="medium_channel_name">Thông báo tải về phần mềm</string>
+  <string name="merge_emergency_call_text">Bạn sẽ không thể thực hiện hoặc nhận cuộc gọi, bao gồm cuộc gọi khẩn cấp khi đang khởi động lại.</string>
+  <string name="merge_force_restart_text">Nếu bạn không muốn khởi động lại bây giờ, điện thoại của bạn sẽ tự động khởi động lại khi nó không hoạt động.</string>
+  <string name="merge_progress_text">Khi cập nhật hoàn tất, chúng tôi sẽ gửi thông báo cho bạn</string>
+  <string name="merge_progress_title">Đang hoàn tất cập nhật…</string>
+  <string name="merge_restart_text">Cập nhật sẽ hoàn tất sau khi điện thoại khởi động lại</string>
+  <string name="merge_restart_title">Vui lòng khởi động lại</string>
+  <string name="merge_update_fail_notify_text">Chúng tôi tìm thấy một số vấn đề hệ thống. Vui lòng ghé trung tâm dịch vụ để khắc phục</string>
+  <string name="merge_update_fail_notify_title">Cập nhật không thành công</string>
+  <string name="merge_update_fail_text">Chúng tôi tìm thấy một số vấn đề hệ thống sẽ ngăn bạn nhận bản cập nhật. Vui lòng ghé trung tâm dịch vụ để khắc phục vấn đề này.
+
+Trong lúc này, bạn có thể tiếp tục sử dụng điện thoại như bình thường.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Chọn tài khoản</string>
+  <string name="multiple_account_alert">Chọn %1$s tài khoản để tiến hành cập nhật hệ thống.</string>
+  <string name="no_thanks">Hủy</string>
+  <string name="no_thanks_message">Nếu bạn muốn nhận bản cập nhật này sau, hãy đi đến Cài đặt &gt; Cập nhật hệ thống.</string>
+  <string name="no_updates_applied">Chưa áp dụng bản cập nhật nào</string>
+  <string name="not_now">Để sau</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Quyền ứng dụng cần có để tương tác với otaservice</string>
+  <string name="package_size">Kích cỡ tải về: %1$s</string>
+  <string name="personalInfo_instruction">Bạn sẽ không bị mất bất kỳ thông tin cá nhân nào</string>
+  <string name="picker_cell_radio">Wi-Fi và dữ liệu di động</string>
+  <string name="picker_title">Chọn cách bạn muốn tải về bản cập nhật này:</string>
+  <string name="picker_wifi_only_radio">Chỉ Wi-Fi</string>
+  <string name="please_restart">Vui lòng khởi động ngay</string>
+  <string name="policy_set">Cập nhật hệ thống đã bị chặn. Vui lòng liên hệ quản trị viên thiết bị để biết thêm thông tin.</string>
+  <string name="press_back_again_to_exit">Nhấn nút QUAY LẠI lần nữa để thoát</string>
+  <string name="progress_copying_sd">Đang sao chép cập nhật</string>
+  <string name="progress_deffered">Tải xuống sẽ bắt đầu qua Wi-Fi/Ngoài giờ cao điểm</string>
+  <string name="progress_downloading_ota">Tải về bản cập nhật hệ thống</string>
+  <string name="progress_downloading_security">Đang tải cập nhật bảo mật</string>
+  <string name="progress_retried">Tải về phần mềm đã bị ngắt. Chúng tôi sẽ tiếp tục thử…</string>
+  <string name="progress_suspended">Đang chờ kết nối dữ liệu để tiếp tục tải xuống</string>
+  <string name="progress_suspended_datasaver">Tắt trình tiết kiệm dữ liệu để tiếp tục tải về</string>
+  <string name="progress_suspended_no_adminapn">Đang chờ Wi-Fi hoặc mạng không cước phí để tiếp tục tải xuống</string>
+  <string name="progress_suspended_roaming">Tải về bị tạm dừng do chuyển vùng mạng, vui lòng bật Wi-Fi để tiếp tục tải về.</string>
+  <string name="progress_suspended_wifi">Đang chờ Wi-Fi để tiếp tục tải về...</string>
+  <string name="progress_verify">Đang xác minh thiết bị của bạn đã sẵn sàng để cập nhật…</string>
+  <string name="progress_verify_allocate_space">Kiểm tra xem có đủ bộ nhớ không</string>
+  <string name="relative_date_time">%1$s vào %2$s</string>
+  <string name="release_note_battery_desc">Cập nhật để tăng cường tuổi thọ pin và sử dụng</string>
+  <string name="release_note_battery_title">Pin</string>
+  <string name="release_note_camera_desc">Những cải thiện này giúp bạn chụp ảnh với độ chính xác và chi tiết cao hơn</string>
+  <string name="release_note_camera_title">Máy ảnh</string>
+  <string name="release_note_cellular_desc">Thay đổi giúp cải thiện khả năng kết nối dữ liệu của thiết bị</string>
+  <string name="release_note_cellular_title">Di động</string>
+  <string name="release_note_charging_desc">Những bản cập nhật này tăng công suất sạc của bạn</string>
+  <string name="release_note_charging_title">Sạc</string>
+  <string name="release_note_generic_desc">Những thay đổi này giúp cải thiện hiệu suất tổng thể của thiết bị</string>
+  <string name="release_note_os_update_desc">Những chủ đề đơn sắc mới cho điện thoại của bạn diện mạo đẹp và làm hình nền của bạn nổi bật. Xem lại cách ứng dụng sử dụng và chia sẻ dữ liệu của bạn trước khi bạn cấp quyền cho ứng dụng và làm cho dễ truy cập vào các tính năng nghe và nhìn mới của Android 14 hơn.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Những thay đổi này cải thiện hiệu suất tổng thể của thiết bị</string>
+  <string name="release_note_performance_title">Hiệu suất</string>
+  <string name="release_note_security_desc">Bao gồm các bản vá bảo mật cho đến %1$s</string>
+  <string name="release_note_security_title">Cập nhật bảo mật</string>
+  <string name="release_note_stability_desc">Bao gồm cải thiện và gỡ lỗi giúp điện thoại của bạn đáng tin cậy hơn nữa</string>
+  <string name="release_note_stability_title">Độ ổn định</string>
+  <string name="release_note_title">Bản cập nhật này bao gồm</string>
+  <string name="release_note_wifi_desc">Bao gồm các bản cập nhật cho kết nối Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Kiểm tra tất cả tính năng mới trong Android %1$s</string>
+  <string name="request_suspended_datasaver">Tắt trình tiết kiệm dữ liệu để bắt đầu tải về</string>
+  <string name="request_suspended_no_network">Không nằm trong vùng phủ sóng mạng để bắt đầu tải về</string>
+  <string name="restart_after_one_hour">Khởi động lại sau 1 giờ</string>
+  <string name="restart_instruction_title">Điều bạn cần biết trước khi khởi động</string>
+  <string name="restart_later">Để sau</string>
+  <string name="restart_message">Vui lòng khởi động lại ngay để cập nhật</string>
+  <string name="restart_notification">Khởi động lại</string>
+  <string name="restart_notification_text">Vui lòng khởi động lại ngay để cập nhật. Cập nhật đã chờ xử lý được %1$d ngày.</string>
+  <string name="restart_notify_sanity_call_msg">Thiết bị không thể khởi động lại ngay vì đang có cuộc gọi</string>
+  <string name="restart_notify_sanity_maps_msg">Thiết bị không thể khởi động lại ngay vì điều hướng đang bật</string>
+  <string name="restart_now">Khởi động lại ngay</string>
+  <string name="restart_postponed">Khởi động lại bị trì hoãn</string>
+  <string name="restart_title">Khởi động lại thiết bị</string>
+  <string name="resume_download_on_cellular">Sử dụng dữ liệu di động</string>
+  <string name="retrieving_token">Đang xác thực...</string>
+  <string name="sdcard_predownload_text">
+Trong bước này, bạn sẽ sao chép cập nhật vào bộ nhớ hệ thống. Cập nhật sẽ được cài đặt ở bước tiếp theo. 
+
+Kết nối điện thoại với nguồn điện để bảo đảm bạn không hết pin.</string>
+  <string name="search_menu_title">Tìm kiếm</string>
+  <string name="secure_instruction">Quy trình này được bảo mật</string>
+  <string name="security_download_notification_title">Cải thiện độ bảo mật của bạn</string>
+  <string name="security_install_notification_text">Phần mềm bảo mật mới sẵn sàng để cài đặt</string>
+  <string name="security_install_title">Bản cập nhật bảo mật đã sẵn sàng</string>
+  <string name="security_patch">Bản vá lỗi bảo mật:</string>
+  <string name="security_update_low_storage_title">Cập nhật bảo mật</string>
+  <string name="security_update_notification_text">Nhận bản cập nhật bảo mật mới nhất</string>
+  <string name="security_update_paused">Dừng cập nhật bảo mật</string>
+  <string name="security_update_pending_notification_text">Nhận bản cập nhật bảo mật mới nhất. Cập nhật đã chờ xử lý được %1$d ngày.</string>
+  <string name="security_update_title">Cập nhật bảo mật</string>
+  <string name="select_account">Chọn %1$s tài khoản</string>
+  <string name="selected_later_time_os_mr">Bản cập nhật hệ thống sẽ được cài đặt vào </string>
+  <string name="selected_later_time_smr">Bản cập nhật bảo mật sẽ được cài đặt vào</string>
+  <string name="setting_sw_summary">Cập nhật phần mềm mới nhất </string>
+  <string name="setting_sw_title">Bản cập nhật hệ thống</string>
+  <string name="smart_cancel_update_toast_msg">Cập nhật được lên lịch đến %1$s</string>
+  <string name="smart_end_time">Kết thúc</string>
+  <string name="smart_install_message_popup">Vì bạn đã bật tính năng Cập nhật thông minh, thiết bị sẽ tự động cài đặt bản cập nhật vào %1$s nếu bạn chưa cài đặt vào lúc đó. Đảm bảo bạn có đủ pin để cài đặt.</string>
+  <string name="smart_restart_message_popup">Vì bạn đã bật tính năng Cập nhật thông minh, thiết bị sẽ tự động cập nhật vào %1$s nếu bạn chưa khởi động lại vào lúc đó.</string>
+  <string name="smart_settings_string">Cập nhật được tải về và cài đặt tự động khi bạn được kết nối với Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Cập nhật được tải về và cài đặt tự động khi bạn được kết nối với Wi-Fi hoặc sử dụng dữ liệu di động</string>
+  <string name="smart_settings_string_vzw">Cập nhật được tải về và cài đặt tự động</string>
+  <string name="smart_start_time">Bắt đầu</string>
+  <string name="smart_to_string">Để</string>
+  <string name="smart_update_advanced">Nâng cao</string>
+  <string name="smart_update_note">Vì sự an toàn của bạn, tất cả bản cập nhật bảo mật quan trọng sẽ tải về tự động dù tính năng này bật hay tắt</string>
+  <string name="smart_update_note_vzw">Vì sự an toàn của bạn, tất cả bản cập nhật quan trọng sẽ tải về và cài đặt tự động dù tính năng này bật hay tắt.</string>
+  <string name="smart_update_pop_up_text">Giữ cho thiết bị của bạn an toàn và bảo mật với các bản cập nhật tự động</string>
+  <string name="smart_update_recommendation">Hãy thử cập nhật thông minh</string>
+  <string name="smart_update_suggestion_text">An toàn với các bản cập nhật tự động</string>
+  <string name="smart_update_text_AB">Giúp thiết bị của bạn hoạt động an toàn và hiệu quả bằng cách tự động cài đặt tất cả bản cập nhật bảo mật và bản gỡ lỗi mới.</string>
+  <string name="smart_update_text_AB_vzw">Cập nhật thông minh giúp thiết bị của bạn hoạt động an toàn và hiệu quả. Khi bạn bật chúng, tất cả <b>cập nhật bảo mật</b> mới sẽ tự động tải về. Sau khi tải về, thiết bị của bạn sẽ khởi động lại vào thời gian bạn chọn.</string>
+  <string name="smart_update_text_classic">Cập nhật thông minh giúp thiết bị của bạn hoạt động an toàn và hiệu quả. Khi bạn bật chúng, tất cả <b>cập nhật bảo mật và bản sửa lỗi</b> mới sẽ tự động tải về. Sau khi tải về, thiết bị của bạn sẽ khởi động lại và cài đặt vào thời gian bạn chọn.</string>
+  <string name="smart_update_text_classic_vzw">Cập nhật thông minh giúp thiết bị của bạn hoạt động an toàn và hiệu quả. Khi bạn bật chúng, tất cả <b>cập nhật bảo mật</b> mới sẽ tự động tải về. Sau khi tải về, thiết bị của bạn sẽ khởi động lại và cài đặt vào thời gian bạn chọn.</string>
+  <string name="smart_update_time_slot_text_AB">Chọn thời gian bắt đầu</string>
+  <string name="smart_update_time_slot_text_classic">Chọn thời gian cài đặt</string>
+  <string name="smart_update_title">Cập nhật thông minh</string>
+  <string name="software_not_update_to">Phần mềm của bạn vẫn chưa được cập nhật lên</string>
+  <string name="software_update_in_progress">Hệ thống của bạn đang cập nhật lên phiên bản</string>
+  <string name="software_update_planned_summary">Đã kiểm tra - %1$s</string>
+  <string name="software_update_planned_title">Đã lên kế hoạch cập nhật phần mềm</string>
+  <string name="software_update_to">Hệ thống của bạn đã được cập nhật lên</string>
+  <string name="sofware_version">Phiên bản phần mềm:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Dọn chỗ cho bản cập nhật</string>
+  <string name="su_btn">Cài đặt</string>
+  <string name="su_text_off">Bạn sẽ cần cập nhật thủ công thiết bị khi có phần mềm mới. Bật Cập nhật thông minh để quy trình diễn ra tự động. Chạm để biết thêm chi tiết.</string>
+  <string name="su_text_on">Theo mặc định, Cập nhật thông minh chạy từ 1 giờ sáng đến 3 giờ sáng. Bạn có thể thay đổi thời gian cập nhật hoặc tắt Cập nhật thông minh trong cài đặt. Chạm để biết thêm chi tiết.</string>
+  <string name="su_title_off">Cập nhật thông minh đã tắt</string>
+  <string name="su_title_on">Cập nhật thông minh đang bật</string>
+  <string name="system_download_notification_title">Cập nhật hệ thống</string>
+  <string name="system_install_notification_text">Bản cập nhật hệ thống sẵn sàng để cài đặt</string>
+  <string name="system_install_title">Bản cập nhật đã sẵn sàng</string>
+  <string name="system_pdl_notification_mr_title">Nhận bản sửa lỗi &amp; nhiều điều khác</string>
+  <string name="system_pdl_notification_os_title">Android %1$s đã sẵn sàng!</string>
+  <string name="system_update">Cập nhật hệ thống</string>
+  <string name="system_update_desc">Bảo vệ thiết bị tránh các mối đe dọa bảo mật và nhận các tính năng Android và Motorola mới nhất</string>
+  <string name="system_update_info_not_available">Không khả dụng</string>
+  <string name="system_update_low_storage_text">Chạm vào đây để kiểm tra bộ nhớ và tiến hành.</string>
+  <string name="system_update_low_storage_title">Cập nhật hệ thống</string>
+  <string name="system_update_notification_os_text">Trải nghiệm Android mới</string>
+  <string name="system_update_notification_text">Tải về phần mềm mới</string>
+  <string name="system_update_paused">Cập nhật hệ thống đã tạm dừng</string>
+  <string name="system_update_pending_notification_os_text">Trải nghiệm Android mới. Cập nhật đã chờ xử lý được %1$d ngày.</string>
+  <string name="system_update_pending_notification_text">Tải về phần mềm mới. Cập nhật đã chờ xử lý được %1$d ngày.</string>
+  <string name="system_update_settings_list_item_title">Bản cập nhật hệ thống</string>
+  <string name="system_update_status">Trạng thái cập nhật</string>
+  <string name="system_update_title">Cập nhật hệ thống</string>
+  <string name="tethered_permission_desc">Gửi kết quả cập nhật 3c</string>
+  <string name="tethered_update_result">Kết quả cập nhật kết nối</string>
+  <string name="time_picker_text">Bắt đầu cài đặt không cần nhắc nhở</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Thử lại</string>
+  <string name="turn_it_off">Tắt NFC</string>
+  <string name="turn_it_on">Bật</string>
+  <string name="turn_on_smart_updates">Bật cập nhật thông minh</string>
+  <string name="update">Cập nhật</string>
+  <string name="update_blocked_by_policy">Cập nhật bị chặn bởi chính sách quản trị viên </string>
+  <string name="update_cancelled_status">Tải về phần mềm được hủy vào</string>
+  <string name="update_fail_desc">Đã xảy ra sự cố</string>
+  <string name="update_fail_status">Cập nhật không thành công</string>
+  <string name="update_fail_sucancel_dm_status">Đã hủy cập nhật bởi máy chủ</string>
+  <string name="update_fail_title">Cập nhật không thành công</string>
+  <string name="update_history_blank">Chưa có lịch sử</string>
+  <string name="update_history_src_target">Cập nhật từ %1$s đến %2$s</string>
+  <string name="update_history_time">Đã cập nhật vào %1$s</string>
+  <string name="update_history_title">Lịch sử cập nhật</string>
+  <string name="update_history_version">Phiên bản phần mềm %1$s</string>
+  <string name="update_info">Đang cập nhật…</string>
+  <string name="update_postpone_policy">Cập nhật bị hoãn bởi chính sách quản trị viên </string>
+  <string name="update_preference">Tùy chọn cập nhật</string>
+  <string name="update_success_desc">Phiên bản phần mềm hiện tại: %1$s</string>
+  <string name="update_success_desc_os">Xin chúc mừng! Bạn đã cài đặt thành công phiên bản Android %1$s. Bây giờ, bạn đã sẵn sàng để tận hưởng trải nghiệm Android tốt hơn, thông minh hơn và an toàn hơn.</string>
+  <string name="update_success_status">Cập nhật thành công</string>
+  <string name="update_title">Cập nhật hoàn tất</string>
+  <string name="update_title_text">Tận hưởng phần mềm mới nhất!</string>
+  <string name="upto_date_title">Mọi thứ đều tốt!</string>
+  <string name="urgent_channel_name">Cảnh báo cập nhật phần mềm</string>
+  <string name="use_smart_updates">Sử dụng Cập nhật thông minh</string>
+  <string name="vab_validation_update_failure_desc">Cập nhật xác thực VAB thất bại</string>
+  <string name="vab_validation_update_failure_title">Xác thực VAB thất bại</string>
+  <string name="vab_validation_update_success_desc">Xin chúc mừng! Cập nhật xác thực VAB thành công</string>
+  <string name="vab_validation_update_success_title">Xác thực VAB thành công</string>
+  <string name="verifying_patch">Bản cập nhật đã được áp dụng. Đang xác nhận ứng dụng thành công… (Bước 4 / 6)  </string>
+  <string name="verity_disabled_msg">Thiết bị của bạn có thể dễ gặp rủi ro bảo mật hơn. Thực thi lệnh dưới đây để tiếp tục cập nhật
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Thiết bị của bạn không còn nhận bản cập nhật nữa</string>
+  <string name="verizon_failure_notification_text"> Thiết bị không thể cài đặt bản cập nhật này. Sử dụng công cụ Trợ lý nâng cấp phần mềm để cài đặt. Chạm để biết thêm thông tin.</string>
+  <string name="verizon_failure_text">Có sự cố khi cập nhật thiết bị của bạn. Không thay đổi nào được thực hiện. Để cập nhật phần mềm của bạn, bạn có thể sử dụng công cụ Trợ lý nâng cấp phần mềm.
+
+Cách cài đặt công cụ Trợ lý nâng cấp phần mềm:
+
+1. Sử dụng cáp USB để kết nối thiết bị với máy tính của bạn
+2. Khi menu USB bật lên trên thiết bị của bạn, chọn biểu tượng cài đặt ở trên bên phải
+3. Từ Tùy chọn USB, chọn cài đặt Phần mềm
+4. Chuyển sang máy tính của bạn và tìm trình hướng dẫn cài đặt
+5. Xem qua trình hướng dẫn
+
+Công cụ Trợ lý nâng cấp phần mềm sẽ giúp bạn tải về và cài đặt bản cập nhật phần mềm trên thiết bị của bạn.</string>
+  <string name="vital_applying_updates">Đang áp dụng cập nhật...</string>
+  <string name="vital_bg_text">Thao tác này có thể mất vài phút.</string>
+  <string name="vital_check_for_updates">Đang tìm bản cập nhật...</string>
+  <string name="vital_check_for_updates_desc">Cập nhật giúp thiết bị của bạn an toàn và cải thiện hiệu suất thiết bị.</string>
+  <string name="vital_done">Xong!</string>
+  <string name="vital_error_fail">Có lỗi cập nhật. Không thay đổi nào được thực hiện.</string>
+  <string name="vital_go_back">Bạn có chắc chắn muốn dừng cài đặt không</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Khởi động lại để tiếp tục</string>
+  <string name="vital_skip">Bỏ qua</string>
+  <string name="vital_stop">Dừng</string>
+  <string name="wifi_setting">Cài đặt Wi-Fi</string>
+</resources>

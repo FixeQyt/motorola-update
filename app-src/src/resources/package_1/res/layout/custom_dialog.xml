@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:background="@drawable/corner_rounded"
+              android:padding="@dimen/activity_left_margin"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ota="http://schemas.android.com/apk/res-auto">
+  <TextView android:textStyle="bold"
+            android:textColor="@color/switch_track_stroke_color_off_disabled"
+            android:id="@id/custom_alert_title"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.MaterialComponents.Headline6" />
+  <TextView android:textColor="@color/switch_track_stroke_color_off_disabled"
+            android:id="@id/custom_alert_text"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:layout_marginBottom="@dimen/activity_left_margin"
+            style="@style/TextAppearance.MaterialComponents.Subtitle1" />
+  <LinearLayout android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/list_starting_padding_top">
+    <Button android:textStyle="bold"
+            android:gravity="center"
+            android:id="@id/custom_btn_deny"
+            android:visibility="gone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:paddingStart="@dimen/activity_left_margin"
+            android:paddingEnd="@dimen/activity_left_margin"
+            style="@style/MaterialButtonNoStyle" />
+    <com.google.android.material.button.MaterialButton android:textStyle="bold"
+                          android:gravity="center"
+                          android:id="@id/custom_btn_allow"
+                          android:visibility="gone"
+                          android:layout_width="fill_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_weight="1.0"
+                          android:autoSizeTextType="uniform"
+                          ota:cornerRadius="@dimen/button_corner_radius"
+                          style="@style/MaterialButtonColoredStyle" />
+  </LinearLayout>
+</LinearLayout>

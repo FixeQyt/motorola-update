@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">O dispositivo será reiniciado em %1$d segundo para concluir a atualização.</item>
+    <item quantity="other">O dispositivo será reiniciado em %1$d segundos para concluir a atualização.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">reiniciado em %1$d segundo</item>
+    <item quantity="other">reiniciado em %1$d segundos</item>
+  </plurals>
+</resources>

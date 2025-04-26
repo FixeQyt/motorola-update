@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="zero">ستتم إعادة تشغيل جهازك بعد ⁦%1$d⁩ من الثواني لإكمال التحديث.</item>
+    <item quantity="one">ستتم إعادة تشغيل جهازك بعد ⁦%1$d⁩ ثانية لإكمال التحديث.</item>
+    <item quantity="two">ستتم إعادة تشغيل جهازك بعد ثانيتين ⁦%1$d⁩ لإكمال التحديث.</item>
+    <item quantity="few">ستتم إعادة تشغيل جهازك بعد ⁦%1$d⁩ من الثواني لإكمال التحديث.</item>
+    <item quantity="many">ستتم إعادة تشغيل جهازك بعد ⁦%1$d⁩ من الثواني لإكمال التحديث.</item>
+    <item quantity="other">ستتم إعادة تشغيل جهازك بعد ⁦%1$d⁩ من الثواني لإكمال التحديث.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="zero">إعادة التشغيل بعد %1$d من الثواني</item>
+    <item quantity="one">إعادة التشغيل بعد %1$d ثانية</item>
+    <item quantity="two">إعادة التشغيل بعد %1$d من الثواني</item>
+    <item quantity="few">إعادة التشغيل بعد %1$d من الثواني</item>
+    <item quantity="many">إعادة التشغيل بعد %1$d من الثواني</item>
+    <item quantity="other">إعادة التشغيل بعد %1$d من الثواني</item>
+  </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Ka tīmata anō tō pūrere i %1$d hekona hei whakaoti i te whakahōu.</item>
+    <item quantity="other">Ka tīmata anō tō pūrere i %1$d hēkona hei whakaoti i te whakahōu.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">tīmata anō i te %1$d tuarua</item>
+    <item quantity="other">tīmata anō i te %1$d hēkona</item>
+  </plurals>
+</resources>

@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Päivitä myöhemmin</string>
+  <string name="ab_download_now">Päivitä nyt</string>
+  <string name="ab_install_notification_paused_text">Tausta-asennus on keskeytetty</string>
+  <string name="ab_install_notification_text">Asennetaan taustalla</string>
+  <string name="ab_restart_fullscreen_text">Melkein valmista! Laitteen uudelleenkäynnistykseen kuluu vain 90 sekuntia. Päivitys on ollut saatavilla %1$d päivän ajan.</string>
+  <string name="ab_restart_text">Melkein valmista! Laitteen uudelleenkäynnistykseen kuluu vain noin 90 sekuntia.</string>
+  <string name="ab_restart_warning_os_mr">Järjestelmän asennus on melkein valmis. Laite  </string>
+  <string name="ab_restart_warning_smr">Suojauspäivitys on melkein valmis. Laite </string>
+  <string name="ab_warning_continues"> ja päivitys viimeistellään.</string>
+  <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+  <string name="abc_action_bar_up_description">Siirry ylös</string>
+  <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+  <string name="abc_action_mode_done">Valmis</string>
+  <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+  <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+  <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+  <string name="abc_capital_on">PÄÄLLÄ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Fn+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+  <string name="abc_menu_space_shortcut_label">välilyönti</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Valikko+</string>
+  <string name="abc_search_hint">Haku…</string>
+  <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+  <string name="abc_searchview_description_query">Hakukysely</string>
+  <string name="abc_searchview_description_search">Haku</string>
+  <string name="abc_searchview_description_submit">Lähetä kysely</string>
+  <string name="abc_searchview_description_voice">Puhehaku</string>
+  <string name="abc_shareactionprovider_share_with">Jaa…</string>
+  <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
+  <string name="abupdate_in_progress_status">Ohjelmistopäivitys käynnissä</string>
+  <string name="additional_charges_message">Lataus jatkuu mobiilidatayhteydellä. Siitä saattaa aiheutua kustannuksia.</string>
+  <string name="alertSubText">Käytetään päivityspaketin tarkistamiseen, lataamiseen ja asentamiseen</string>
+  <string name="alertText">Salli ohjelmistopäivitys verkon kautta</string>
+  <string name="alertTitle">Päivitykset edellyttävät seuraavia käyttöoikeuksia</string>
+  <string name="alert_dialog_cancel">Lopeta asennus</string>
+  <string name="alert_dialog_continue">Jatka asennusta</string>
+  <string name="alert_dialog_no">Ei</string>
+  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_yes">Kyllä</string>
+  <string name="allocate_space_success">Vaadittu muisti on saatavilla päivitystä varten</string>
+  <string name="allow">Salli</string>
+  <string name="android_latest_sw_text">Käytät uusinta ohjelmistoa</string>
+  <string name="android_version">Android-versio:</string>
+  <string name="app_name">Motorolan ohjelmistopäivitys</string>
+  <string name="applied">Käytössä</string>
+  <string name="apply_bug_fix">Käytä virheiden korjaukseen</string>
+  <string name="apply_os_update">Käytä kaikkiin ohjelmistopäivityksiin</string>
+  <string name="applying_patch">Päivitetään (vaihe %1$d/%2$d)  </string>
+  <string name="are_you_sure">Poistetaanko älykkäät päivitykset käytöstä?</string>
+  <string name="are_you_sure_pop_up_text">Haluatko varmasti poistaa älykkäät päivitykset käytöstä? </string>
+  <string name="asc_campaign_assigned">Kampanja määritetty</string>
+  <string name="asc_campaign_is_allowed">Laiteohjelmiston päivitys</string>
+  <string name="asc_campaign_is_blocked">Laiteohjelmiston lukitus</string>
+  <string name="asc_campaign_not_assigned">Laite ei ole tällä hetkellä mukana kampanjassa</string>
+  <string name="asc_campaign_status_prefix">
+Tila: </string>
+  <string name="asc_campaign_window_period_status">
+Päivityksen aikaikkuna: %s – %s</string>
+  <string name="asc_sw_up_to_date"> uusimpaan versioon</string>
+  <string name="asc_target_version"> versioon </string>
+  <string name="auth_title">Järjestelmäpäivitys</string>
+  <string name="auto_download_cellualr_charges_warn">Lisämaksuja saatetaan veloittaa, kun päivityksiä ladataan mobiiliverkon kautta</string>
+  <string name="auto_download_enable_cellular_future_updates">Haluatko myös ottaa käyttöön matkapuhelindatavaihtoehdon tulevia latauksia varten?</string>
+  <string name="auto_download_settings_title">Automaattisen latauksen asetukset</string>
+  <string name="auto_download_wifi_cellular">Automaattinen lataus matkapuhelinverkon ja Wi-Fin kautta</string>
+  <string name="auto_download_wifi_cellular_desc">Automaattinen lataus matkapuhelinverkon ja Wi-Fin kautta. Wi-Fiä käytetään ensisijaisesti, jos se on käytettävissä. </string>
+  <string name="auto_download_wifi_only">Automaattinen lataus vain Wi-Fin kautta</string>
+  <string name="auto_download_wifi_only_desc">Automaattinen lataus vain Wi-Fin kautta</string>
+  <string name="auto_install_notification_text">Päivitys asennetaan automaattisesti %1$s</string>
+  <string name="auto_time_set">Aloitus:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Koska päivitys on tärkeä, se asennetaan automaattisesti %1$s käyttämällä mobiilidataa</string>
+  <string name="automatic_download_on_cellular_warning">Koska päivitys on tärkeä, se ladataan automaattisesti %1$s käyttämällä mobiilidataa</string>
+  <string name="background_install_msg">Päivitys jatkuu, jos palaat takaisin tai suljet tämän ikkunan</string>
+  <string name="background_install_text">Päivitys latautuu ja sitä asennetaan. Voit jatkaa laitteen käyttämistä.</string>
+  <string name="bad_connection">Ei internet-yhteyttä</string>
+  <string name="bad_connection_text">Laite ei ole yhteydessä internetiin. Yritä uudelleen napauttamalla alapainiketta.</string>
+  <string name="bg_install_cancel_confirm">Haluatko varmasti lopettaa asennuksen?</string>
+  <string name="bg_retried">Ohjelmiston lataus on keskeytetty. Yritämme vielä…</string>
+  <string name="bg_suspended">Odotetaan datayhteyttä taustalatauksen ja -asennuksen jatkamiseksi</string>
+  <string name="bg_suspended_non_adminapn">Odotetaan Wi-Fi-yhteyttä tai maksutonta dataverkkoa taustalatauksen ja -asennuksen jatkamiseksi...</string>
+  <string name="bg_suspended_roaming">Tausta-asennus keskeytettiin verkkovierailun vuoksi, jatka tausta-asennusta ottamalla Wi-Fi käyttöön.</string>
+  <string name="bg_suspended_wifi">Odotetaan Wi-Fi-yhteyttä taustalatauksen ja -asennuksen jatkamiseksi</string>
+  <string name="bootloader_unlock_msg">Laitteesi ei enää saa päivityksiä. Se saattaa olla alttiina turvallisuusriskeille.</string>
+  <string name="bootloader_unlock_title">Ei päivityksiä saatavilla</string>
+  <string name="call_notification_answer_action">Vastaa</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Hylkää</string>
+  <string name="call_notification_hang_up_action">Lopeta puhelu</string>
+  <string name="call_notification_incoming_text">Saapuva puhelu</string>
+  <string name="call_notification_ongoing_text">Käynnissä oleva puhelu</string>
+  <string name="call_notification_screening_text">Seulotaan saapuvaa puhelua</string>
+  <string name="cancel">Peruuta</string>
+  <string name="cancel_download_notification">Peruuta</string>
+  <string name="cancel_install">Peruuta</string>
+  <string name="cancel_update_notification">Peruuta</string>
+  <string name="check_for_updates_title">Tarkista päivitykset</string>
+  <string name="check_update_badparam">Päivityksessä tapahtui virhe, joka johtuu epäonnistuneesta kirjautumisesta.
+
+Yritä myöhemmin uudelleen.</string>
+  <string name="check_update_checking">Tarkistetaan päivityksiä...</string>
+  <string name="check_update_disabled_admin">IT-järjestelmänvalvoja hallinnoi laitepäivityksiä</string>
+  <string name="check_update_downloading">Päivitystä ladataan.
+
+Saat ilmoituksen, kun lataus on valmis.</string>
+  <string name="check_update_fail">Tapahtui odottamaton virhe.
+
+Laite yrittää päivitystä uudelleen taustalla.</string>
+  <string name="check_update_internal">Voit tarkistaa päivitykset Yritä myöhemmin uudelleen.</string>
+  <string name="check_update_net">Tarkista internet-yhteys ja yritä uudelleen</string>
+  <string name="check_update_net_vzw">Päivitysten tarkistamiseen vaaditaan datayhteys. Tarkista Wi-Fi-yhteys valitsemalla Asetukset &gt; Verkko ja internet &gt; Internet &gt; Wi-Fi.
+
+Tietoja muista päivitysvaihtoehdoista on osoitteessa motorola.com/systemupdates.</string>
+  <string name="check_update_not_sys_user">Vierasprofiilit eivät voi tarkistaa päivityksiä</string>
+  <string name="check_update_processing">Yhdistetään palvelimeemme...
+Odota</string>
+  <string name="check_update_roaming">Järjestelmäpäivitys on saatavilla vain kotiverkossa. 
+
+Määritä yhteys valitsemalla Asetukset &gt; Verkko ja Internet &gt; Wi-Fi.</string>
+  <string name="check_update_storage_low">Päivitystä ei voida suorittaa, koska laitteen muisti ei riitä.</string>
+  <string name="check_update_temperror">Päivitysten latausta ei voi suorittaa loppuun juuri nyt.
+
+Yritä myöhemmin uudelleen.</string>
+  <string name="check_update_text">Päivitysten säännöllinen tarkistaminen pitää laitteen turvallisena ja parantaa sen suorituskykyä</string>
+  <string name="check_update_title_downloading">Lataus meneillään...</string>
+  <string name="check_update_vab_validation">Tarkistetaan VAB-vahvistuksen päivityksen tilaa
+Odota</string>
+  <string name="check_update_wifi_only">Järjestelmäpäivitys on saatavilla vain Wi-Fi-yhteyden kautta.</string>
+  <string name="check_wifi_settings">Tarkista Wi-Fi-asetukset</string>
+  <string name="clear_space">Vapauta tilaa</string>
+  <string name="cloud_picker_title">Pilven valitsin</string>
+  <string name="common_android_wear_notification_needs_update_text">Android Wear -sovellus täytyy päivittää toisen sovelluksen takia.</string>
+  <string name="common_android_wear_update_text">Tämä sovellus ei toimi, ellet päivitä Android Wear -sovellusta.</string>
+  <string name="common_android_wear_update_title">Päivitä Android Wear</string>
+  <string name="common_google_play_services_enable_button">Ota Google Play -palv. käyttöön</string>
+  <string name="common_google_play_services_enable_text">Tämä sovellus ei toimi, ellet ota Google Play -palveluita käyttöön.</string>
+  <string name="common_google_play_services_enable_title">Ota Google Play -palvelut käyttöön</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Pyynnön teki %1$s</string>
+  <string name="common_google_play_services_install_button">Asenna Google Play -palvelut</string>
+  <string name="common_google_play_services_install_text_phone">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat puhelimesta.</string>
+  <string name="common_google_play_services_install_text_tablet">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat tablet-laitteesta.</string>
+  <string name="common_google_play_services_install_title">Asenna Google Play -palvelut</string>
+  <string name="common_google_play_services_invalid_account_text">Kyseistä tiliä ei ole tällä laitteella. Valitse toinen tili.</string>
+  <string name="common_google_play_services_invalid_account_title">Tili ei kelpaa</string>
+  <string name="common_google_play_services_needs_enabling_title">Ota käyttöön Google Play -palvelut, jotta sovellus toimii.</string>
+  <string name="common_google_play_services_network_error_text">Google Play -palveluiden käyttöön tarvitaan tietoliikenneyhteys.</string>
+  <string name="common_google_play_services_network_error_title">Verkkovirhe</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Asenna Google Play -palvelut, jotta sovellus toimii.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Päivitä Google Play -palvelut, jotta sovellus toimii.</string>
+  <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+  <string name="common_google_play_services_unknown_issue">Tuntematon ongelma käytettäessä Google Play -palveluita.</string>
+  <string name="common_google_play_services_unsupported_text">Google Play -palveluita, joita osa sovelluksistasi käyttää, ei tueta laitteellasi. Pyydä ohjeita laitteen valmistajalta.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play -palvelut</string>
+  <string name="common_google_play_services_update_button">Päivitä</string>
+  <string name="common_google_play_services_update_text">Tämä sovellus ei toimi, ellet päivitä Google Play -palveluita.</string>
+  <string name="common_google_play_services_update_title">Päivitä Google Play -palvelut</string>
+  <string name="common_open_on_phone">Avaa puhelimessa</string>
+  <string name="common_signin_button_text">Kirjaudu</string>
+  <string name="common_signin_button_text_long">Kirjaudu Google-tiliin</string>
+  <string name="compatibility_failed_title">Paketin varmennus epäonnistui</string>
+  <string name="compatibility_verification_failure">Ladattava päivityspaketti ei ole yhteensopiva laitteen nykyisen ohjelmistoversion kanssa.</string>
+  <string name="compatibility_verification_failure_df">
+
+Tarkista asia Dogfood-koordinaattorilta.</string>
+  <string name="compatibility_verification_success">Vahvistus onnistui</string>
+  <string name="completed"> Asennus on valmis. Saat kehotuksen käynnistää puhelimesi uudelleen (vaihe %1$d/%2$d)</string>
+  <string name="completed_install">%s valmiina</string>
+  <string name="connect_to_wifi">Yhdistä Wi-Fi-verkkoon</string>
+  <string name="continue_button">Jatka</string>
+  <string name="critical_install_message_popup_os_mr">Tärkeä järjestelmäpäivitys on saatavilla. Asenna päivitys valitsemalla Asenna. Jos ei, päivitys asennetaan automaattisesti %1$s.</string>
+  <string name="critical_install_message_popup_smr">Tärkeä tietosuojapäivitys on saatavilla. Asenna päivitys valitsemalla Asenna. Jos ei, päivitys asennetaan automaattisesti %1$s.</string>
+  <string name="critical_install_message_screen">Tämä tärkeä päivitys asennetaan automaattisesti %1$s. Varmista, että akussa on tarpeeksi virtaa asennusta varten.</string>
+  <string name="critical_install_notification">Koska kyseessä on tärkeä päivitys, laite asentaa sen automaattisesti %1$s.
+Asennusaika: %2$d minuuttia</string>
+  <string name="critical_restart_message_popup">Käynnistä laite uudelleen mahdollisimman pian, jotta voit asentaa tämän tärkeän päivityksen. Jos et voi käynnistää laitetta uudelleen, se käynnistyy uudelleen automaattisesti %1$s.</string>
+  <string name="critical_restart_message_screen">Koska kyseessä on tärkeä päivitys, laite käynnistyy uudelleen automaattisesti %1$s, jos et ole käynnistänyt sitä uudelleen siihen mennessä.</string>
+  <string name="critical_restart_notification">Päivitys on tärkeä. Laite käynnistyy uudelleen automaattisesti %1$s, jos et voi käynnistää sitä uudelleen nyt.</string>
+  <string name="critical_update_notification_title">Kriittinen päivitys</string>
+  <string name="current_version">Nykyinen ohjelmistoversio:</string>
+  <string name="custom_slot">Mukautettu</string>
+  <string name="custom_time">Mukautettu aika</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s klo %s</string>
+  <string name="defer_count_expired">Selvä</string>
+  <string name="deny">Estä</string>
+  <string name="details">Tiedot</string>
+  <string name="device_corrupted_msg">Havaitsimme järjestelmäongelmia. Tiedämme, että tästä aiheutuu vaivaa, mutta sinun on vierailtava paikallisessa palvelukeskuksessasi, jotta ongelmat voidaan korjata.
+
+Kun puhelin on korjattu, voimme suorittaa siinä uusia päivityksiä.</string>
+  <string name="device_corrupted_title">Puhelinta ei voi päivittää</string>
+  <string name="dialog_alert_net_message">Tarkista Wi-Fi- tai mobiilidatayhteys ja yritä uudelleen.</string>
+  <string name="dialog_alert_net_title">Laite on offline-tilassa</string>
+  <string name="dialog_alert_title">Akku lähes tyhjä</string>
+  <string name="dialog_progress">Ladataan…</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fin käyttöä suositellaan. Lataaminen tai verkkovierailu mobiilidatan kautta voi aiheuttaa ylimääräisiä maksuja.
+
+Tämän ohjelmiston lataaminen ei vaikuta laitteen toimintaan.</string>
+  <string name="done">Valmis</string>
+  <string name="dont_show_this_again">Älä näytä tätä uudelleen</string>
+  <string name="download_cancelled_title">Lataaminen peruutettu</string>
+  <string name="download_deferred_status">Ohjelmiston latausta siirrettiin</string>
+  <string name="download_failed_status">Päivityksen lataus epäonnistui</string>
+  <string name="download_in_progress_status">Ohjelmiston lataus käynnissä</string>
+  <string name="download_later_button">Lataa myöhemmin</string>
+  <string name="download_no_button">Ei kiitos</string>
+  <string name="download_note">Voit jatkaa laitteen käyttämistä päivityksen aikana</string>
+  <string name="download_now">Lataa nyt</string>
+  <string name="download_now_button">Lataa</string>
+  <string name="download_options">Latausvalinnat</string>
+  <string name="download_progress_cancel_message">Voit ladata tämän päivityksen myöhemmin valitsemalla Asetukset &gt; Järjestelmäpäivitykset.</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s jäljellä (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% ladattu (keskeytetty)</string>
+  <string name="download_progress_text">Lataus jatkuu, jos palaat takaisin tai suljet tämän ikkunan</string>
+  <string name="download_subtitle">Hyvä tietää ennen lataamista</string>
+  <string name="download_text_whats_new">Uutta</string>
+  <string name="download_time_left">%1$s jäljellä</string>
+  <string name="download_version">Versio %1$s – %2$s</string>
+  <string name="download_wifi_only_error">Päivityksen lataamiseen tarvitaan Wi-Fi-yhteys. Lataus jatkuu, kun yhteys palautuu.</string>
+  <string name="downloaded_percentage">%1$s ladattu</string>
+  <string name="emergency_call_btn_txt">Hätätilanne</string>
+  <string name="emergency_call_text">Uudelleenkäynnistyksen aikana ei voi soittaa eikä vastaanottaa puheluja. Tämä koskee myös hätäpuheluja!</string>
+  <string name="enable_wifi_error_txt">Muodosta Wi-Fi-yhteys päivityksen lataamista varten.</string>
+  <string name="eol_explore">Tutustu uusiin laitteisiin</string>
+  <string name="eol_last_update_text">Suojauspäivitys:</string>
+  <string name="eol_promote">Näytä uusimmat tarjoukset</string>
+  <string name="eol_title">Laitteessa on uusin ohjelmistoversio.</string>
+  <string name="err_title_contact_server">Otetaan yhteyttä palvelimeen...</string>
+  <string name="err_title_memory_low">Muisti vähissä...</string>
+  <string name="err_title_temp_error">Tilapäinen virhe</string>
+  <string name="err_title_update">Päivitysvirhe</string>
+  <string name="error_code">Virhekoodi: </string>
+  <string name="error_copyfail">Kopiointi SD-kortilta epäonnistui</string>
+  <string name="error_disabled">Päivityksen lataaminen epäonnistui. Päivityspaketti ei ole käytettävissä tällä hetkellä. 
+
+Lisätoimia ei tarvita.</string>
+  <string name="error_fail">Ongelma päivitettäessä %1$s -laitetta. Muutoksia ei tehty. Yritä uudelleen siirtymällä kohtaan Asetukset &gt; Järjestelmäpäivitys.</string>
+  <string name="error_in_call_msg">Laitetta ei voi päivittää, koska puhelu on käynnissä</string>
+  <string name="error_in_call_title">Puhelut käynnissä</string>
+  <string name="error_install_title">Asennus epäonnistui</string>
+  <string name="error_mismatch">Versioristiriita. Päivitystä yritetään uudestaan. Jos päivitys on saatavana, siitä näytetään kehote.</string>
+  <string name="error_mismatch_sd">Päivitys epäonnistui. Päivitysversio ei sovi puhelimeesi. 
+
+Lataa puhelimeesi sopiva versio ja yritä uudelleen.</string>
+  <string name="error_network">Yhteys on katkennut. Yritä uudelleen tarkistamalla päivitykset manuaalisesti puhelimen asetuksista.</string>
+  <string name="error_reboot">Tätä päivitystä ei voitu ladata. Voit asentaa tämän päivityksen myöhemmin käynnistämällä laitteen uudelleen ja valitsemalla Asetukset &gt; Järjestelmäpäivitykset.</string>
+  <string name="error_resources">Tätä päivitystä ei voitu ladata. Voit asentaa tämän päivityksen myöhemmin valitsemalla Asetukset &gt; Järjestelmäpäivitykset.</string>
+  <string name="error_sdcard_resources_fail_removal">SD-kortti poistettiin. Latausta ei suoritettu loppuun. 
+
+Aseta SD-kortti takaisin ja yritä uudelleen valitsemalla Asetukset &gt; Järjestelmäpäivitykset.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Latausta ei voi suorittaa loppuun. SD-kortin tila ei riitä. 
+
+Vapauta tilaa ja yritä latausta uudelleen valitsemalla Asetukset &gt; Järjestelmäpäivitykset.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Aloita lataaminen asettamalla SD-kortti.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Aloita lataaminen ottamalla SD-kortti käyttöön. 
+
+Valitse Asetukset &gt; Tallennus &gt; Ota SD-kortti käyttöön.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">SD-kortilla ei ole tarpeeksi tilaa lataamista varten. 
+
+Vapauta %1$s tilaa ja valitse Asetukset &gt; Järjestelmäpäivitykset ja yritä lataamista uudelleen.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Virhe</string>
+  <string name="error_sdcard_resources_warning">Ohjelmistopäivitys latautuu SD-korttiin. 
+
+Älä poista SD-korttia, ennen kuin asennus on valmis.
+
+
+</string>
+  <string name="error_server">Palvelimessa on tapahtunut virhe. Yritä myöhemmin uudelleen.</string>
+  <string name="error_space">Tämä päivitys vaati %1$s vapaata tallennustilaa laitteessasi. 
+
+Vapauta %2$s tallennustilaa poistamalla käyttämättömiä sovelluksia tai siirtämällä valokuvia ja videoita toiseen tallennuslaitteeseen . 
+
+Kun se on tehty, voit käynnistää päivityksen koska tahansa valitsemalla Järjestelmä &gt; Järjestelmäpäivitykset.</string>
+  <string name="error_space_retry">Tämä päivitys vaati %1$s vapaata tallennustilaa laitteessasi. 
+
+Vapauta %2$s tallennustilaa poistamalla käyttämättömiä sovelluksia tai siirtämällä valokuvia ja videoita toiseen tallennuslaitteeseen.</string>
+  <string name="error_space_vab">Tämä päivitys vaati %1$s vapaata tallennustilaa laitteessasi. Vapauta tilaa, jotta päivitys voidaan tehdä</string>
+  <string name="error_space_vab_make_room_popup">Vapauta %1$s tilaa päivitystä varten. Poista turhia sovelluksia tai siirrä kuvia ja videoita toiseen tallennuslaitteeseen.</string>
+  <string name="error_title">Lataus epäonnistui</string>
+  <string name="error_verify">Päivitystä ei voi varmistaa. Yritä uudelleen.</string>
+  <string name="failed">Epäonnistui</string>
+  <string name="failed_in_roaming">Päivityksiin tarvitaan Wi-Fi</string>
+  <string name="failure_process">Tietoja ei ole saatavana</string>
+  <string name="finalizing_patch">Viimeistellään päivitystä… (vaihe 5/6)  </string>
+  <string name="first_net_text">Asenna päivitys. Muutoin laite asentaa automaattisesti seuraavan uudelleenkäynnistyksen yhteydessä. Varmista, että akun taso on yli %s</string>
+  <string name="forceInstallMessage">Päivitys asennetaan automaattisesti %1$s.</string>
+  <string name="force_install_message_screen">Tämä on tärkeä päivitys, joten asenna se %1$s mennessä. Muutoin se asennetaan automaattisesti silloin, kun käytät laitettasi vähiten. Varmista, että akussa on tarpeeksi virtaa asennusta varten.</string>
+  <string name="force_install_notification_message">Asenna viimeistään %1$s. Muutoin se asennetaan automaattisesti silloin, kun käytät laitettasi vähiten.
+Asennusaika: %2$d minuuttia</string>
+  <string name="force_restart_notification_message">Käynnistä uudelleen %1$s mennessä. Muutoin laite käynnistyy automaattisesti uudelleen silloin, kun käytät laitettasi vähiten.</string>
+  <string name="force_restart_screen_message">Jos et käynnistä uudelleen %1$s mennessä, uudelleenkäynnistys tehdään automaattisesti, kun laitettasi käytetään vähiten.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Selvä</string>
+  <string name="important_update_install_overdue_message">Asennuksen ajoitettu ajankohta on ohitettu. Asennus alkaa, kun laitteesi täyttää kriteerit.</string>
+  <string name="important_update_restart_overdue_message">Uudelleenkäynnistyksen ajoitettu ajankohta on ohitettu. Laite käynnistetään uudelleen, kun se täyttää kriteerit.</string>
+  <string name="initiating_ota_service_msg">Odota hetki...</string>
+  <string name="initiating_ota_service_title">Ohjelmistopäivitystä valmistellaan</string>
+  <string name="install">Asenna</string>
+  <string name="install_after_one_hour">Asennus 1 tunnin kuluttua</string>
+  <string name="install_cancelled_title">Asennus peruutettu</string>
+  <string name="install_deferred_status">Päivitystä siirretty</string>
+  <string name="install_later">Asenna myöhemmin</string>
+  <string name="install_notify_sanity_call_msg">Laite ei voi suorittaa asennusta, koska puhelu on käynnissä</string>
+  <string name="install_notify_sanity_maps_msg">Laite ei voi suorittaa asennusta, koska navigointi on käytössä</string>
+  <string name="install_now">Asenna nyt</string>
+  <string name="install_postponed">Asennusta lykätty</string>
+  <string name="install_progress_cancel_message">Voit asentaa tämän päivityksen myöhemmin valitsemalla Asetukset &gt; Järjestelmäpäivitykset.</string>
+  <string name="install_progress_paused_message">%s valmiina (keskeytetty)</string>
+  <string name="install_time">Asennusaika: %1$d minuuttia</string>
+  <string name="install_warning">Tietoa ennen asentamista</string>
+  <string name="just_one_more_step">Enää yksi vaihe</string>
+  <string name="keep_it_on">Pidä käytössä</string>
+  <string name="later_button">Muistuta myöhemmin</string>
+  <string name="learn_more_online_link">Katso lisätietoja verkosta</string>
+  <string name="low_battery_bg_install">Asennus on keskeytetty akun pienen varauksen takia. Lataus jatkuu, kun akkuvirtaa on yli 20 %.</string>
+  <string name="low_battery_download">Lataus on keskeytetty akun matalan varaustilan takia. Lataus jatkuu, kun laite on ladattu.</string>
+  <string name="low_battery_install">Päivityksen asentamista varten laitteen akun varauksen on oltava vähintään %s.</string>
+  <string name="make_space">Vapauta tilaa</string>
+  <string name="mandatory_install_notification">Jos et asenna tätä järjestelmäpäivitystä nyt, et saa tärkeitä suojauspäivityksiä etkä uusia ominaisuuksia ja virheenkorjauksia.</string>
+  <string name="mandatory_restart_notification">Päivitys on tärkeä, joten käynnistä laite uudelleen nyt. Muuten et saa tärkeitä suojauspäivityksiä etkä uusia ominaisuuksia ja virheenkorjauksia.</string>
+  <string name="medium_channel_name">Ohjelmistolatauksen ilmoitus</string>
+  <string name="merge_emergency_call_text">Uudelleenkäynnistyksen aikana et voi soittaa tai vastaanottaa puheluja. Tämä koskee myös hätäpuheluja.</string>
+  <string name="merge_force_restart_text">Jos et halua käynnistää puhelinta uudelleen nyt, se käynnistyy automaattisesti uudelleen, kun sitä ei enää käytetä.</string>
+  <string name="merge_progress_text">Saat ilmoituksen, kun päivitys on suoritettu</string>
+  <string name="merge_progress_title">Viimeistellään päivitystä…</string>
+  <string name="merge_restart_text">Päivitys viimeistellään sitten, kun puhelin on käynnistetty uudelleen</string>
+  <string name="merge_restart_title">Käynnistä uudelleen</string>
+  <string name="merge_update_fail_notify_text">Havaitsimme järjestelmäongelmia. Pyydä apua niiden korjaamiseen palvelukeskuksestasi</string>
+  <string name="merge_update_fail_notify_title">Päivitysvirhe</string>
+  <string name="merge_update_fail_text">Löysimme järjestelmäongelmia, jotka estävät puhelimen päivittämisen. Pyydä apua tilanteen ratkaisemiseen palvelukeskuksestasi.
+
+Voit toistaiseksi jatkaa puhelimen käyttöä tavalliseen tapaan.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Valitse tili</string>
+  <string name="multiple_account_alert">Jatka järjestelmäpäivitystä valitsemalla %1$s tili.</string>
+  <string name="no_thanks">Ei kiitos</string>
+  <string name="no_thanks_message">Voit asentaa tämän päivityksen myöhemmin valitsemalla Asetukset &gt; Järjestelmäpäivitykset.</string>
+  <string name="no_updates_applied">Ei käyttöön otettuja päivityksiä</string>
+  <string name="not_now">Ei nyt</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Lupa, jonka sovellukset tarvitsevat otaservice-käyttöön</string>
+  <string name="package_size">Latauskoko: %1$s</string>
+  <string name="personalInfo_instruction">Et menetä mitään omia tietojasi</string>
+  <string name="picker_cell_radio">Wi-Fi ja mobiilidata</string>
+  <string name="picker_title">Valitse tämän päivityksen lataustapa:</string>
+  <string name="picker_wifi_only_radio">Vain Wi-Fi</string>
+  <string name="please_restart">Käynnistä uudelleen nyt</string>
+  <string name="policy_set">Järjestelmäpäivitys on estetty. Kysy lisätietoja laitteen järjestelmänvalvojalta.</string>
+  <string name="press_back_again_to_exit">Poistu painamalla Takaisin-painiketta</string>
+  <string name="progress_copying_sd">Kopioidaan päivitystä</string>
+  <string name="progress_deffered">Lataus aloitetaan Wi-Fi-yhteydellä/matkapuhelinverkossa</string>
+  <string name="progress_downloading_ota">Järjestelmäpäivitystä ladataan</string>
+  <string name="progress_downloading_security">Ladataan suojauspäivitystä</string>
+  <string name="progress_retried">Ohjelmiston lataus on keskeytetty. Yritämme vielä…</string>
+  <string name="progress_suspended">Odotetaan datayhteyttä latauksen jatkamiseksi</string>
+  <string name="progress_suspended_datasaver">Jatka lataamista poistamalla tietojen tallentaja käytöstä</string>
+  <string name="progress_suspended_no_adminapn">Odotetaan Wi-Fi-yhteyttä tai maksutonta dataverkkoa latauksen jatkamiseksi</string>
+  <string name="progress_suspended_roaming">Lataus keskeytettiin verkkovierailun vuoksi, jatka lataamista ottamalla Wi-Fi käyttöön.</string>
+  <string name="progress_suspended_wifi">Odotetaan Wi-Fi-yhteyttä, jotta lataus jatkuu...</string>
+  <string name="progress_verify">Varmistetaan, että laite on valmis päivitettäväksi…</string>
+  <string name="progress_verify_allocate_space">Tarkistetaan muistin riittävyyttä</string>
+  <string name="relative_date_time">%1$s klo %2$s</string>
+  <string name="release_note_battery_desc">Akun kestoa ja käyttöä parantavat päivitykset</string>
+  <string name="release_note_battery_title">Akku</string>
+  <string name="release_note_camera_desc">Nämä parannukset lisäävät valokuvauksen tarkkuutta ja yksityiskohtaisuutta</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Muutokset parantavat laitteen datayhteyttä</string>
+  <string name="release_note_cellular_title">Mobiili</string>
+  <string name="release_note_charging_desc">Nämä päivitykset tehostavat lataamista</string>
+  <string name="release_note_charging_title">Lataaminen</string>
+  <string name="release_note_generic_desc">Muutokset parantavat laitteen yleistä suorituskykyä</string>
+  <string name="release_note_os_update_desc">Uudet yksiväriteemat tekevät puhelimestasi tyylikkäämmän ja saavat taustakuvan erottumaan. Katso, miten sovellukset käyttävät ja jakavat tietojasi, ennen kuin annat sovelluksille oikeuksia. Lisäksi Android 14:n uudet kuulo- ja näköominaisuudet parantavat käytettävyyttä.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Muutokset parantavat laitteen suorituskykyä</string>
+  <string name="release_note_performance_title">Suorituskyky</string>
+  <string name="release_note_security_desc">Sisältää tietosuojakorjaukset %1$s asti</string>
+  <string name="release_note_security_title">Suojauspäivitys</string>
+  <string name="release_note_stability_desc">Sisältää parannuksia ja virheenkorjauksia, jotka lisäävät puhelimen luotettavuutta entisestään</string>
+  <string name="release_note_stability_title">Vakaus</string>
+  <string name="release_note_title">Päivityksen sisältö:</string>
+  <string name="release_note_wifi_desc">Sisältää Wi-Fi-yhteytesi päivityksiä</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Tutustu Android %1$s:n uusiin ominaisuuksiin</string>
+  <string name="request_suspended_datasaver">Aloita lataaminen poistamalla datayhteyden säästötoiminto käytöstä</string>
+  <string name="request_suspended_no_network">Ei verkkosignaalia käytettävissä latauksen aloittamiseen</string>
+  <string name="restart_after_one_hour">Käynnistä uudelleen 1 tunnin kuluttua</string>
+  <string name="restart_instruction_title">Kannattaa tietää ennen uudelleenkäynnistystä</string>
+  <string name="restart_later">Myöhemmin</string>
+  <string name="restart_message">Päivitä käynnistämällä uudelleen nyt</string>
+  <string name="restart_notification">Käynnistä uudelleen</string>
+  <string name="restart_notification_text">Päivitä käynnistämällä uudelleen. Päivitys on odottanut %1$d päivän ajan.</string>
+  <string name="restart_notify_sanity_call_msg">Laite ei voi käynnistyä uudelleen, koska puhelu on käynnissä</string>
+  <string name="restart_notify_sanity_maps_msg">Laite ei voi käynnistyä uudelleen, koska navigointi on käytössä</string>
+  <string name="restart_now">Käynnistä uudelleen nyt</string>
+  <string name="restart_postponed">Uudelleenkäynnistystä lykätty</string>
+  <string name="restart_title">Käynnistä laite uudelleen</string>
+  <string name="resume_download_on_cellular">Käytä mobiilidataa</string>
+  <string name="retrieving_token">Todennetaan...</string>
+  <string name="sdcard_predownload_text">
+Tässä vaiheessa päivitys kopioidaan järjestelmän muistiin. Päivitys asennetaan seuraavassa vaiheessa. 
+
+Varmista virransaanti liittämällä puhelin virtalähteeseen.</string>
+  <string name="search_menu_title">Haku</string>
+  <string name="secure_instruction">Toimenpide on turvallinen</string>
+  <string name="security_download_notification_title">Paranna suojausta</string>
+  <string name="security_install_notification_text">Uusi suojauspäivitys on valmis asennettavaksi</string>
+  <string name="security_install_title">Suojauspäivitys on valmiina</string>
+  <string name="security_patch">Suojauspäivitys:</string>
+  <string name="security_update_low_storage_title">Suojauspäivitys</string>
+  <string name="security_update_notification_text">Lataa uusin suojauspäivitys</string>
+  <string name="security_update_paused">Suojauspäivitys keskeytetty</string>
+  <string name="security_update_pending_notification_text">Hanki uusin suojauspäivitys. Päivitys on odottanut %1$d päivän ajan.</string>
+  <string name="security_update_title">Suojauspäivitys</string>
+  <string name="select_account">Valitse %1$s tili</string>
+  <string name="selected_later_time_os_mr">Järjestelmäpäivitys asennetaan </string>
+  <string name="selected_later_time_smr">Suojauspäivitys asennetaan </string>
+  <string name="setting_sw_summary">Päivitä uusimpaan ohjelmistoon </string>
+  <string name="setting_sw_title">Järjestelmäpäivitykset</string>
+  <string name="smart_cancel_update_toast_msg">Päivitys on ajastettu uudelleen aikaan %1$s</string>
+  <string name="smart_end_time">Päättyy</string>
+  <string name="smart_install_message_popup">Koska olet ottanut älykkäät päivitykset käyttöön, päivitys asennetaan automaattisesti %1$s, ellet ole asentanut päivitystä sitä ennen. Varmista, että akussa on tarpeeksi virtaa asennusta varten.</string>
+  <string name="smart_restart_message_popup">Koska olet ottanut älykkäät päivitykset käyttöön, laite käynnistetään uudelleen automaattisesti
+%1$s, ellet ole käynnistänyt laitetta uudelleen sitä ennen.</string>
+  <string name="smart_settings_string">Päivitykset ladataan ja asennetaan automaattisesti, kun Wi-Fi-yhteys on käytössä</string>
+  <string name="smart_settings_string_Softbank">Päivitykset ladataan ja asennetaan automaattisesti, kun Wi-Fi-yhteys on käytössä tai käytät mobiilidataa</string>
+  <string name="smart_settings_string_vzw">Päivitykset ladataan ja asennetaan automaattisesti</string>
+  <string name="smart_start_time">Alkaa</string>
+  <string name="smart_to_string">–</string>
+  <string name="smart_update_advanced">Lisäasetukset</string>
+  <string name="smart_update_note">Turvallisuussyistä kaikki tärkeät suojauspäivitykset ladataan automaattisesti riippumatta siitä, onko toiminto käytössä vai poissa käytöstä</string>
+  <string name="smart_update_note_vzw">Turvallisuussyistä kaikki kriittiset päivitykset ladataan ja asennetaan automaattisesti riippumatta siitä, onko toiminto käytössä vai poissa käytöstä.</string>
+  <string name="smart_update_pop_up_text">Suojaa laitteesi automaattisilla päivityksillä</string>
+  <string name="smart_update_recommendation">Kokeile älykkäitä päivityksiä</string>
+  <string name="smart_update_suggestion_text">Pidä tietoturva kunnossa automaattisilla päivityksillä</string>
+  <string name="smart_update_text_AB">Auta laitettasi toimimaan turvallisesti ja tehokkaasti asentamalla automaattisesti kaikki uudet suojauspäivitykset ja virheenkorjaukset.</string>
+  <string name="smart_update_text_AB_vzw">Älykkäiden päivitysten avulla laite toimii turvallisesti ja tehokkaasti. Kun otat ne käyttöön, kaikki tulevat <b>suojauspäivitykset</b> ladataan automaattisesti. Latauksen jälkeen laite käynnistyy uudelleen valitsemanasi aikana.</string>
+  <string name="smart_update_text_classic">Älykkäiden päivitysten avulla laite toimii turvallisesti ja tehokkaasti. Kun otat ne käyttöön, kaikki tulevat <b>suojauspäivitykset ja virheenkorjaukset</b> ladataan automaattisesti. Latauksen jälkeen laite käynnistyy uudelleen ja suorittaa asennuksen valitsemanasi aikana.</string>
+  <string name="smart_update_text_classic_vzw">Älykkäiden päivitysten avulla laite toimii turvallisesti ja tehokkaasti. Kun otat ne käyttöön, kaikki tulevat <b>suojauspäivitykset</b> ladataan automaattisesti. Latauksen jälkeen laite käynnistyy uudelleen ja suorittaa asennuksen valitsemanasi aikana.</string>
+  <string name="smart_update_time_slot_text_AB">Valitse aloitusaika</string>
+  <string name="smart_update_time_slot_text_classic">Valitse asennusaika</string>
+  <string name="smart_update_title">Älykkäät päivitykset</string>
+  <string name="software_not_update_to">Ohjelmistoa ei ole vielä päivitetty versioon</string>
+  <string name="software_update_in_progress">Järjestelmä on päivittymässä versioon</string>
+  <string name="software_update_planned_summary">Tarkistettu - %1$s</string>
+  <string name="software_update_planned_title">Suunniteltu ohjelmistopäivitys</string>
+  <string name="software_update_to">Järjestelmä on päivitetty versioon</string>
+  <string name="sofware_version">Ohjelmistoversio:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Tee tilaa päivitykselle</string>
+  <string name="su_btn">Asetukset</string>
+  <string name="su_text_off">Sinun on päivitettävä laite manuaalisesti, kun uusia ohjelmistoja on saatavilla. Tee prosessista automaattinen ottamalla Älykkäät päivitykset käyttöön. Saat lisätietoja napauttamalla.</string>
+  <string name="su_text_on">Älykkäät päivitykset suoritetaan oletusarvoisesti välillä 01.00–03.00. Voit muuttaa päivitysaikoja tai poistaa Älykkäät päivitykset käytöstä asetuksissa. Saat lisätietoja napauttamalla.</string>
+  <string name="su_title_off">Älykkäät päivitykset eivät ole käytössä</string>
+  <string name="su_title_on">Älykkäät päivitykset ovat käytössä</string>
+  <string name="system_download_notification_title">Järjestelmäpäivitys</string>
+  <string name="system_install_notification_text">Järjestelmäpäivitys on asennettavissa</string>
+  <string name="system_install_title">Päivitys on valmiina</string>
+  <string name="system_pdl_notification_mr_title">Lataa vikakorjauksia ja muita</string>
+  <string name="system_pdl_notification_os_title">Android %1$s on täällä!</string>
+  <string name="system_update">Järjestelmäpäivitys</string>
+  <string name="system_update_desc">Suojaa laitteesi tietoturvauhkilta ja hanki uusimmat Motorola- ja Android-ominaisuudet</string>
+  <string name="system_update_info_not_available">Ei käytettävissä</string>
+  <string name="system_update_low_storage_text">Tarkista muisti ja jatka napauttamalla tätä.</string>
+  <string name="system_update_low_storage_title">Järjestelmäpäivitys</string>
+  <string name="system_update_notification_os_text">Koe uusi Android</string>
+  <string name="system_update_notification_text">Lataa uusin ohjelmisto</string>
+  <string name="system_update_paused">Järjestelmäpäivitys pysäytetty</string>
+  <string name="system_update_pending_notification_os_text">Koe uusi Android. Päivitys on odottanut %1$d päivän ajan.</string>
+  <string name="system_update_pending_notification_text">Lataa uusi ohjelmisto. Päivitys on odottanut %1$d päivän ajan.</string>
+  <string name="system_update_settings_list_item_title">Järjestelmäpäivitykset</string>
+  <string name="system_update_status">Päivityksen tila</string>
+  <string name="system_update_title">Järjestelmäpäivitys</string>
+  <string name="tethered_permission_desc">Lähetä 3c-päivityksen tulokset</string>
+  <string name="tethered_update_result">Verkon jakamisen päivitystulos</string>
+  <string name="time_picker_text">Aloita asennus ilman muistutusta</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Yritä uudelleen</string>
+  <string name="turn_it_off">Poista käytöstä</string>
+  <string name="turn_it_on">Ota käyttöön</string>
+  <string name="turn_on_smart_updates">Ota älykkäät päivitykset käyttöön</string>
+  <string name="update">Päivitä</string>
+  <string name="update_blocked_by_policy">Järjestelmänvalvoja on estänyt päivityksen </string>
+  <string name="update_cancelled_status">Ohjelmiston lataus peruutettiin</string>
+  <string name="update_fail_desc">Jotain meni pieleen</string>
+  <string name="update_fail_status">Päivitysvirhe</string>
+  <string name="update_fail_sucancel_dm_status">Palvelin peruutti päivityksen</string>
+  <string name="update_fail_title">Päivitysvirhe</string>
+  <string name="update_history_blank">Ei vielä historiaa</string>
+  <string name="update_history_src_target">Päivitys %1$s — %2$s</string>
+  <string name="update_history_time">Päivitetty %1$s</string>
+  <string name="update_history_title">Päivityshistoria</string>
+  <string name="update_history_version">Ohjelmistoversio %1$s</string>
+  <string name="update_info">Päivitetään…</string>
+  <string name="update_postpone_policy">Järjestelmänvalvoja lykkää päivitystä </string>
+  <string name="update_preference">Päivitysasetukset</string>
+  <string name="update_success_desc">Nykyinen ohjelmistoversio: %1$s</string>
+  <string name="update_success_desc_os">Onnittelut! Olet asentanut Android-version %1$s. Nyt voit nauttia paremmasta, älykkäämmästä ja turvallisemmasta Android-kokemuksesta.</string>
+  <string name="update_success_status">Päivitys onnistui</string>
+  <string name="update_title">Päivitys valmis</string>
+  <string name="update_title_text">Nauti uudesta ohjelmistosta!</string>
+  <string name="upto_date_title">Kaikki on kunnossa!</string>
+  <string name="urgent_channel_name">Ohjelmistopäivityksen ilmoitus</string>
+  <string name="use_smart_updates">Käytä Älykkäitä päivityksiä</string>
+  <string name="vab_validation_update_failure_desc">VAB-vahvistuksen päivitys epäonnistui</string>
+  <string name="vab_validation_update_failure_title">VAB-vahvistus epäonnistui</string>
+  <string name="vab_validation_update_success_desc">Onnittelut! VAB-vahvistuksen päivitys onnistui</string>
+  <string name="vab_validation_update_success_title">VAB-vahvistus onnistui</string>
+  <string name="verifying_patch">Päivitys on ajettu. Vahvistetaan, että päivitys onnistui… (vaihe 4/6)  </string>
+  <string name="verity_disabled_msg">Laitteeseen saattaa kohdistua suojausriskejä. Suorita seuraava komento, jotta saat edelleen päivityksiä
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Laitteesi ei saa enää päivityksiä</string>
+  <string name="verizon_failure_notification_text"> Laite ei voinut asentaa päivitystä. Asenna Software Upgrade Assistant -työkalulla. Lue lisää napauttamalla.</string>
+  <string name="verizon_failure_text">Ongelma päivitettäessä laitetta. Muutoksia ei tehty. Voit päivittää ohjelmistosi Software Upgrade Assistant -työkalulla.
+
+Software Upgrade Assistant -työkalun asentaminen:
+
+1. Yhdistä laitteesi tietokoneeseen USB-kaapelilla
+2. Kun näet USB-valikon laitteessasi, valitse asetuskuvake yläoikealta
+3. Valitse Ohjelmiston asennus USB-asetuksissa
+4. Vaihda tietokoneeseen ja etsi ohjattu asennustoiminto
+5. Suorita ohjattu asennustoiminto loppuun
+
+Software Upgrade Assistant -työkalun avulla voit ladata ja asentaa ohjelmistopäivityksiä laitteeseesi.</string>
+  <string name="vital_applying_updates">Päivitetään…</string>
+  <string name="vital_bg_text">Tämä voi kestää muutaman minuutin.</string>
+  <string name="vital_check_for_updates">Etsitään päivityksiä…</string>
+  <string name="vital_check_for_updates_desc">Päivitykset suojaavat laitetta ja parantavat sen suorituskykyä.</string>
+  <string name="vital_done">Valmis!</string>
+  <string name="vital_error_fail">Tapahtui päivitysvirhe. Muutoksia ei ole tehty.</string>
+  <string name="vital_go_back">Haluatko varmasti lopettaa asennuksen</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Jatka käynnistämällä uudelleen</string>
+  <string name="vital_skip">Ohita</string>
+  <string name="vital_stop">Lopeta</string>
+  <string name="wifi_setting">Wi-Fi-asetukset</string>
+</resources>

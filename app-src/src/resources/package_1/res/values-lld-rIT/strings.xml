@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Ajornëia plü tert</string>
+  <string name="ab_download_now">Ajornëia sëgn</string>
+  <string name="ab_install_notification_paused_text">Istalaziun tl background architada</string>
+  <string name="ab_install_notification_text">Istalaziun tl background</string>
+  <string name="ab_restart_fullscreen_text">T'as tosc rové! Ara dorará plü o manco ma 90 secunc da fá pié ia danü to aparat. L'ajornamënt é sté a desposiziun por %1$d dis.</string>
+  <string name="ab_restart_text">T'as tosc rové! Ara dorará ma plü o manco 90 secunc da fá pié ia danü to aparat.</string>
+  <string name="ab_restart_warning_os_mr">To ajornamënt de sistem é prësc rové. To aparat  </string>
+  <string name="ab_restart_warning_smr">To ajornamënt de segurëza é prësc rové. To aparat  </string>
+  <string name="ab_warning_continues"> por stlüje jö l'ajornamënt.</string>
+  <string name="abupdate_in_progress_status">Tl laur da desćiarié jö la software</string>
+  <string name="additional_charges_message">Le download jará inant sön i dac mobii. Al podess gní metü en cunt cosć por la trasmisciun di dac.</string>
+  <string name="alertSubText">Chësc vëgn adoré por controlé, desćiarié jö y istalé le pachet d'ajornamënt</string>
+  <string name="alertText">Autorisëia operaziuns dla rëi por ajornamënc dla software</string>
+  <string name="alertTitle">I ajornamënc se damana chësta autorisaziun</string>
+  <string name="alert_dialog_cancel">Archita l'istalaziun</string>
+  <string name="alert_dialog_continue">Vá inant cun l'istalaziun</string>
+  <string name="alert_dialog_no">No</string>
+  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_yes">Sce</string>
+  <string name="allocate_space_success">Al é memoria assá a desposiziun por l'ajornamënt</string>
+  <string name="allow">Autorisëia</string>
+  <string name="android_latest_sw_text">T'es tl laur da adoré la software ajornada</string>
+  <string name="android_version">Verjiun Android:</string>
+  <string name="app_name">Ajornamënt dla software Motorola</string>
+  <string name="applied">Impié</string>
+  <string name="apply_bug_fix">Surantol pro la coreziun de fai</string>
+  <string name="apply_os_update">Surantol por düc i ajornamënc dla software</string>
+  <string name="applying_patch">L'ajornamënt vëgn surantut (Vare %1$d de %2$d)  </string>
+  <string name="are_you_sure">Dejativé i ajornamënc inteliënc?</string>
+  <string name="are_you_sure_pop_up_text">Oste bëgn dejativé i ajornamënc inteliënc? </string>
+  <string name="asc_campaign_assigned">Campagna assegnada</string>
+  <string name="asc_campaign_is_allowed">Ajornamënt dla firmware</string>
+  <string name="asc_campaign_is_blocked">Blocada dla firmware</string>
+  <string name="asc_campaign_not_assigned">Por chësc aparat n'él al momënt degöna aziun de reclam</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Finestra d'ajornamënt: Dales %s ales %s</string>
+  <string name="asc_sw_up_to_date"> cina l'ultima verjiun</string>
+  <string name="asc_target_version"> cina la verjiun </string>
+  <string name="auth_title">Ajornamënt de sistem</string>
+  <string name="auto_download_cellualr_charges_warn">Canche al vëgn desćiarié jö ajornamënc tres la rëi mobila, podessel gní a s'al dé cosć implü</string>
+  <string name="auto_download_enable_cellular_future_updates">Oste chirí fora la rëi di dac mobii coche opziun ince por desćiarié jö tl dagní?</string>
+  <string name="auto_download_settings_title">Impostaziuns dl download automatich</string>
+  <string name="auto_download_wifi_cellular">Download automatich tres rëi mobila y Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Download automatich tres rëi mobila y Wi-Fi. Le Wi-Fi gnará adoré por pröm canche al é a desposiziun. </string>
+  <string name="auto_download_wifi_only">Download automatich ma tres Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Download automatich ma tres Wi-Fi</string>
+  <string name="auto_install_notification_text">L'aparat fajará na istalaziun automatica ai %1$s</string>
+  <string name="auto_time_set">Mët man dales:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Deache al é important, gnará chësc ajornamënt istalé automaticamënter adoran dac mobii ai %1$s</string>
+  <string name="automatic_download_on_cellular_warning">Deache al é important, gnará chësc ajornamënt desćiarié jö automaticamënter adoran dac mobii ai %1$s</string>
+  <string name="background_install_msg">Chësc ajornamënt jará inant ince sce te vas zoruch o sce te stlüjes chësta finestra</string>
+  <string name="background_install_text">Tl laur da desćiarié jö y istalé n ajornamënt. Te pos adoré inant to aparat.</string>
+  <string name="bad_connection">Degun internet</string>
+  <string name="bad_connection_text">Al pé che to aparat sides al momënt descolié da internet. Azica le botun dessot por porvé ciamó n iade.</string>
+  <string name="bg_install_cancel_confirm">Oste bëgn archité l'istalaziun?</string>
+  <string name="bg_retried">Le download dla software é gnü archité. I porvarun inant...</string>
+  <string name="bg_suspended">Tl laur da aspeté n coliamënt de dac por jí inant cun le download y l'istalaziun tl background</string>
+  <string name="bg_suspended_non_adminapn">Tl laur da aspeté le Wi-Fi o la rëi Zero-rating por jí inant cun le download y l'istalaziun tl background…</string>
+  <string name="bg_suspended_roaming">L'istalaziun tl background é gnüda architada por gauja dla rëi de roaming. Prëibel impëia le Wi-Fi por jí inant cun l'istalaziun tl background.</string>
+  <string name="bg_suspended_wifi">Tl laur da aspeté le Wi-Fi por jí inant cun le download y l'istalaziun tl background</string>
+  <string name="bootloader_unlock_msg">To aparat ne ciafa bele plü dî degügn ajornamënc y al podess ester tl prigo por ci che reverda la segurëza.</string>
+  <string name="bootloader_unlock_title">Degügn ajornamënc a desposiziun</string>
+  <string name="cancel">Anulëia</string>
+  <string name="cancel_download_notification">Anulëia</string>
+  <string name="cancel_install">Anulëia</string>
+  <string name="cancel_update_notification">Anulëia</string>
+  <string name="check_for_updates_title">Ciara do sce al é ajornamënc</string>
+  <string name="check_update_badparam">Tratan le tentatif da fá l'upgrade él gnü a s'al dé n fal da se registré.
+
+Prëibel proa ciamó n iade plü tert.</string>
+  <string name="check_update_checking">Tl laur da chirí ajornamënc...</string>
+  <string name="check_update_disabled_admin">Ajornamënc dl aparat controlá dal aministradú IT</string>
+  <string name="check_update_downloading">Tl laur da desćiarié jö n ajornamënt.
+
+Te ciafaras na notificaziun canche le download é stlüt jö.</string>
+  <string name="check_update_fail">Al é sozedü n fal nia preodü.
+
+L'aparat porvará da fá n ajornamënt tl background.</string>
+  <string name="check_update_internal">Ara ne vá nia da ciaré do sce al é ajornamënc. Proa indô plü tert.</string>
+  <string name="check_update_net">Prëibel controlëia la conesciun internet y proa ciamó n iade</string>
+  <string name="check_update_net_vzw">T'adores na conesciun de dac por chirí ajornamënc. Por controlé tüa conesciun Wi-Fi, vá sön Impostaziuns &gt; Rëi y internet &gt; Internet &gt; Wi-Fi.
+
+Te pos ince vijité motorola.com/systemupdates por odëi d'atres opziuns d'ajornamënt.</string>
+  <string name="check_update_not_sys_user">I ajornamënc ne pó nia gní controlá da profii ghest</string>
+  <string name="check_update_processing">Tl laur da contaté nosc server...
+Prëibel aspeta</string>
+  <string name="check_update_roaming">L'Ajornamënt de sistem é a desposiziun ma söla rëi de ciasa. 
+
+Vá sön Impostaziuns &gt; Rëi y internet &gt; Wi-Fi por imposté na conesciun sëgn.</string>
+  <string name="check_update_storage_low">Ara ne vá nia da fá l'ajornamënt, deache al n'é nia lerch d'archiviaziun assá söl aparat.</string>
+  <string name="check_update_temperror">Sëgn n'éra nia jüda da completé le download di ajornamënc.
+
+Prëibel proa ciamó n iade.</string>
+  <string name="check_update_text">Chirí bindicé ajornamënc pó sconé deplü to aparat y miorëia sües prestaziuns</string>
+  <string name="check_update_title_downloading">Tl laur da fá le download...</string>
+  <string name="check_update_vab_validation">Tl laur da ciaré do le status d'ajornamënt dl'autenticaziun VAB
+Prëibel aspeta</string>
+  <string name="check_update_wifi_only">L'ajornamënt de sistem é a desposiziun ma tres le Wi-Fi.</string>
+  <string name="check_wifi_settings">Controlëia les impostaziuns Wi-Fi</string>
+  <string name="clear_space">Fá lerch tla memoria</string>
+  <string name="cloud_picker_title">Selezionadú dla cloud</string>
+  <string name="compatibility_failed_title">La verifica dl pachet n'é nia jüda a bun fin</string>
+  <string name="compatibility_verification_failure">Le pachet d'ajornamënt che vëgn desćiarié jö ne vá nia a öna cun la verjiun dla software atuala sön to aparat.</string>
+  <string name="compatibility_verification_failure_df">
+
+Prëibel controlëia cun to coordinadú Dogfood.</string>
+  <string name="compatibility_verification_success">Verifiché cun suzes</string>
+  <string name="completed">Istalaziun completada. Al te gnará damané da impié danü to telefon (Vare %1$d de %2$d)</string>
+  <string name="completed_install">%s completé</string>
+  <string name="connect_to_wifi">Coliëiete cun le Wi-Fi</string>
+  <string name="continue_button">Vá inant</string>
+  <string name="critical_install_message_popup_os_mr">N ajornamënt de sistem important é a desposiziun. Prëibel selezionëia la funziun Istalé por ativé l'ajornamënt. Scenó gnará l'ajornamënt istalé automaticamënter ai %1$s.</string>
+  <string name="critical_install_message_popup_smr">N ajornamënt de segurëza important é a desposiziun. Prëibel selezionëia la funziun Istalé por ativé l'ajornamënt. Scenó gnará l'ajornamënt istalé automaticamënter ai %1$s.</string>
+  <string name="critical_install_message_screen">Chësc ajornamënt important gnará istalé automaticamënter ai %1$s. Assigurëiete che t'ais patrî assá por l'istalaziun.</string>
+  <string name="critical_install_notification">Deache chësc ajornamënt é important, fajará to aparat l'istalaziun automatica ai %1$s.
+Tëmp de istalaziun: %2$d menüc</string>
+  <string name="critical_restart_message_popup">Por istalé chësc ajornamënt important, fá prëibel pié ia danü to aparat pornanche ara vá. Sce te ne pos nia, se impiará to aparat automaticamënter danü ai %1$s.</string>
+  <string name="critical_restart_message_screen">Deache chësc ajornamënt é important, piará ia to aparat danü automaticamënter ai %1$ssce te ne l'as nia bele fat pié ia denant.</string>
+  <string name="critical_restart_notification">Chësc ajornamënt é important. Sce te ne pos nia impié danü to telefon sëgn, se impiarál automaticamënter danü ai %1$s</string>
+  <string name="critical_update_notification_title">Ajornamënt essenzial</string>
+  <string name="current_version">Verjiun atuala dla software:</string>
+  <string name="custom_slot">Personalisé</string>
+  <string name="custom_time">Tëmp personalisé</string>
+  <string name="dash"> — </string>
+  <string name="date_time">%s dales %s</string>
+  <string name="defer_count_expired">OK</string>
+  <string name="deny">Refodëia</string>
+  <string name="details">Detais</string>
+  <string name="dialog_alert_net_message">Controlëia la conesciun cun Wi-Fi o cun i dac mobii y proa danü</string>
+  <string name="dialog_alert_net_title">To aparat é offline</string>
+  <string name="dialog_alert_title">Livel dla patrî bas</string>
+  <string name="dialog_progress">Tl laur da gní ciarié sö...</string>
+  <string name="dl_options_mobile_only_warning">Al vëgn aconsié da adoré le Wi-Fi. Le download cun dac mobii o adoré dac mobii tratan le roaming podess fá aumenté i cosć.
+
+Le desćiarié jö chësta software n'ará degöna faziun negativa söl funzionamënt de to aparat.</string>
+  <string name="done">Fat</string>
+  <string name="dont_show_this_again">No plü mostré chësc</string>
+  <string name="download_cancelled_title">Download anulé</string>
+  <string name="download_deferred_status">Le download dla software é gnü sburlé ai</string>
+  <string name="download_failed_status">Ara n'é nia jüda da desćiarié jö l'ajornamënt ai</string>
+  <string name="download_in_progress_status">Tl laur da desćiarié jö la software</string>
+  <string name="download_later_button">Desćiaria jö plü tert</string>
+  <string name="download_no_button">No, dilan</string>
+  <string name="download_note">Te pos adoré inant to aparat tratan che al vëgn istalé l'ajornamënt </string>
+  <string name="download_now">Desćiaria jö sëgn</string>
+  <string name="download_now_button">Desćiaria jö</string>
+  <string name="download_options">Opziuns da desćiarié jö</string>
+  <string name="download_progress_cancel_message">Sce t'os desćiarié jö chësc ajornamënt plü tert, vá tles Impostaziuns &gt; Ajornamënc de sistem</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Ara döra ciamó %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% desćiarié jö (Archité)</string>
+  <string name="download_progress_text">Chësc download jará inant ince sce te vas zoruch o sce te stlüjes chësta finestra</string>
+  <string name="download_subtitle">Informaziuns da savëi denanco desćiarié jö</string>
+  <string name="download_text_whats_new">Chësc él de nü</string>
+  <string name="download_time_left">%1$s de tëmp che resta</string>
+  <string name="download_version">Verjiun %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Ara vá debojëgn dl Wi-Fi por desćiarié jö chësc ajornamënt. Le download jará inant canche tüa conesciun funzionará indô.</string>
+  <string name="downloaded_percentage">%1$s Desćiarié jö</string>
+  <string name="emergency_call_btn_txt">Emergënzes</string>
+  <string name="emergency_call_text">Te ne podaras nia fá o ciafé telefonades tratan che al pëia ia danü, lapró chëres d'emergënza!</string>
+  <string name="enable_wifi_error_txt">Coliëiete cun le Wi-Fi por desćiarié jö chësc ajornamënt.</string>
+  <string name="eol_explore">Esplorëia aparac nüs</string>
+  <string name="eol_last_update_text">Patch de segurëza: </string>
+  <string name="eol_promote">Ciariti ales ultimes promoziuns</string>
+  <string name="eol_title">To aparat á bele l'ultima verjiun dla software a desposiziun.</string>
+  <string name="err_title_contact_server">Tl laur da contaté le server...</string>
+  <string name="err_title_memory_low">Pücia memoria...</string>
+  <string name="err_title_temp_error">Fal temporan</string>
+  <string name="err_title_update">Fal d'ajornamënt</string>
+  <string name="error_code">Codesc de fal: </string>
+  <string name="error_copyfail">Ara n'é nia jüda da copié la cherta SD.</string>
+  <string name="error_disabled">Ara n'é nia jüda da desćiarié jö l'ajornamënt. Le pachet dl ajornamënt n'é nia a desposiziun al momënt. 
+
+ Al ne vëgn ghiré degöna atra aziun.</string>
+  <string name="error_fail">Baldi él gnü a s'al dé n problem da ajorné to %1$s. Al n'é gnü fat degöna mudaziun. Prëibel proa danü sot a Impostaziuns &gt; Ajornamënt de sistem.</string>
+  <string name="error_in_call_msg">L'aparat ne pó nia fá sëgn l'ajornamënt, deache al vëgn fat na telefonada</string>
+  <string name="error_in_call_title">Tl laur da telefoné</string>
+  <string name="error_install_title">L'istalaziun n'é nia jüda a bun fin</string>
+  <string name="error_mismatch">La verjiun ne corespogn nia. Al é debojëgn de n ajornamënt nü. Canche al nen sará un a desposiziun, gnaraste informé.</string>
+  <string name="error_mismatch_sd">Ara n'é nia jüda da ajorné. La verjiun dl ajornamënt ne vá nia a öna cun to telefon. 
+
+Prëibel desćiaria jö la dërta verjiun por to telefon y proa danü.</string>
+  <string name="error_network">La conetivité é tomada. Prëibel proa ciamó n iade y chir a man i ajornamënc tres les Impostaziuns dl telefon.</string>
+  <string name="error_reboot">Ara n'é nia jüda da desćiarié jö chësc ajornamënt. Sce t'os desćiarié jö chësc ajornamënt plü tert, fá prëibel pié ia to aparat danü y spo vá sön Impostaziuns &gt; Ajornamënc de sistem.</string>
+  <string name="error_resources">Ara n'é nia jüda da desćiarié jö chësc ajornamënt. Sce t'os desćiarié jö chësc ajornamënt plü tert, vá tles Impostaziuns &gt; Ajornamënc de sistem.</string>
+  <string name="error_sdcard_resources_fail_removal">La cherta SD é gnüda tuta demez. Le prozes da desćiarié jö n'é nia gnü stlüt jö. 
+
+Prëibel mët ite danü la cherta SD y vá sön Impostaziuns &gt; Ajornamënc de sistem por porvé ciamó n iade.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Ara ne vá nia da stlüje jö le download. Al n'é nia lerch assá söla cherta SD. 
+
+ Fá n pü' de lerch y vá sön Impostaziuns &gt; Ajornamënc de sistem por porvé ciamó n iade.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Prëibel mët ite la cherta SD por mëte man da desćiarié jö.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Prëibel arjigna ca la cherta SD por mëte man l'ajornamënt. 
+
+Vá sön Impostaziuns &gt; Archif &gt; Arjigna ca na cherta SD.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Al n'é nia lerch assá söla cherta SD por stlüje jö le download. 
+
+Prëibel fá %1$s de lerch y vá sön Impostaziuns &gt; Ajornamënc de sistem por porvé da desćiarié jö ciamó n iade.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Fal</string>
+  <string name="error_sdcard_resources_warning">L'ajornamënt dla software vëgn desćiarié jö söla cherta SD. 
+
+Prëibel no tó fora la cherta SD cina che l'istalaziun n'é nia stlüta jö.
+
+
+</string>
+  <string name="error_server">Al é sozedü n fal söl server. Prëibel proa ciamó n iade plü tert.</string>
+  <string name="error_space">Chësc ajornamënt adora %1$s de lerch d'archiviaziun a desposiziun sön to aparat. 
+
+Prëibel eliminëia apps nia adorades o sposta tües fotografies y videos sön n ater aparat d'archiviaziun por fá %2$s de lerch . 
+
+Canche t'as fat chësta operaziun, poste jí sön Impostaziuns &gt; Ajornamënc de sistem por scomencé l'ajornamënt te vigni momënt.</string>
+  <string name="error_space_retry">Chësc ajornamënt adora %1$s de lerch d'archiviaziun a desposiziun sön to aparat. 
+
+Prëibel eliminëia apps nia adorades o sposta tües fotografies y videos sön n ater aparat d'archiviaziun por fá %2$sde lerch.</string>
+  <string name="error_space_vab">Chësc ajornamënt adora %1$s de lerch a desposiziun sön to aparat. Prëibel fá lerch tla memoria por podëi stlüje jö cun suzes i ajornamënc</string>
+  <string name="error_space_vab_make_room_popup">Denanco mëte man cun l'ajornamënt mësseste eliminé %1$sy fá lerch. Proa da eliminé les apps che te n'adores nia o da sposté fotografies y videos sön n ater meso d'archiviaziun.</string>
+  <string name="error_title">Le download n'é nia jü a bun fin</string>
+  <string name="error_verify">L'ajornamënt n'á nia podü gní autentiché sciöche al toca. Prëibel proa ciamó n iade.</string>
+  <string name="failed">Nia jü a bun fin</string>
+  <string name="failure_process">Informaziuns nia danman</string>
+  <string name="finalizing_patch">L'ajornamënt vëgn stlüt jö... (Vare 5 de 6)  </string>
+  <string name="first_net_text">Prëibel istalëia l'ajornamënt, zënza gnarál istalé automaticamënter dal aparat canche te l'impëies danü. Assigurëiete che le livel dla patrî sides plü co %s</string>
+  <string name="forceInstallMessage">Chësc ajornamënt gnará istalé automaticamënter ai %1$s.</string>
+  <string name="force_install_message_screen">Chësc é n ajornamënt important, porchël istalëiele anter i %1$s. Scenó gnarál istalé automaticamënter te n momënt canche to aparat vëgn adoré demanco. Assigurëiete che t'ais patrî assá por l'istalaziun.</string>
+  <string name="force_install_notification_message">Prëibel istalëia l'ajornamënt anter i %1$s. Scenó, fajará to aparat automaticamënter l'istalaziun te n momënt olache al vëgn adoré demanco.
+Tëmp de istalaziun: %2$d menüc</string>
+  <string name="force_restart_notification_message">Prëibel impëia danü anter i %1$s. Scenó piará ia to aparat automaticamënter danü te n momënt olache al vëgn adoré demanco.</string>
+  <string name="force_restart_screen_message">Sce te ne le impëies nia danü anter i %1$s, s'impiará to aparat automaticamënter danü te n tëmp canche al vëgn adoré le manco.</string>
+  <string name="google">Google</string>
+  <string name="got_it">OK</string>
+  <string name="important_update_install_overdue_message">L'orar programé por l'istalaziun é passé. L'istalaziun metará man canche to aparat ti corespognará ai criters.</string>
+  <string name="important_update_restart_overdue_message">L'orar programé por fá pié ia danü é passé. L'aparat piará ia danü canche al ti corespognará ai criters.</string>
+  <string name="initiating_ota_service_msg">Prëibel aspeta...</string>
+  <string name="initiating_ota_service_title">Tl laur da mëte man le prozes d'ajornamënt dla software</string>
+  <string name="install">Istalëia</string>
+  <string name="install_after_one_hour">Istalëia te 1 n'ora</string>
+  <string name="install_cancelled_title">Istalaziun anulada</string>
+  <string name="install_deferred_status">L'ajornamënt é gnü sburlé ai</string>
+  <string name="install_later">Istalëia plü tert</string>
+  <string name="install_notify_sanity_call_msg">L'aparat ne pó nia fá sëgn l'istalaziun, deache al vëgn fat na telefonada</string>
+  <string name="install_notify_sanity_maps_msg">L'aparat ne pó nia fá sëgn l'istalaziun, deache la navigaziun é ativada</string>
+  <string name="install_now">Istalëia sëgn</string>
+  <string name="install_postponed">Istalaziun sburlada</string>
+  <string name="install_progress_cancel_message">Sce t'os desćiarié jö chësc ajornamënt plü tert, vá tles Impostaziuns &gt; Ajornamënc de sistem</string>
+  <string name="install_progress_paused_message">%s completé (Archité)</string>
+  <string name="install_time">Tëmp de istalaziun: %1$d menüc</string>
+  <string name="install_warning">Informaziuns da savëi denanco istalé</string>
+  <string name="just_one_more_step">Ciamó n ultimo vare</string>
+  <string name="keep_it_on">Lascia impié</string>
+  <string name="later_button">Recordemal plü tert</string>
+  <string name="learn_more_online_link">Deplü informaziuns online</string>
+  <string name="low_battery_bg_install">L'istalaziun é gnü architada deache la patrî é prësc öta. L'istalaziun jará inant canche tüa patrî é indô ciariada sö sura   le 20%. </string>
+  <string name="low_battery_download">Le download é gnü archité deache la patrî é tosc rovada. Le download jará inant canche la patrî sará indô ciariada sö.</string>
+  <string name="low_battery_install">Prëibel ciaria sö to aparat cina almanco al %s denanco istalé chësc ajornamënt</string>
+  <string name="make_space">Fá lerch</string>
+  <string name="mandatory_install_notification">Sce te ne istalëies nia tosc chësc ajornamënt de sistem, te manciarál ajornamënc de segurëza importanc, sciöche ince funziuns nöies y coreziuns de fai.</string>
+  <string name="mandatory_restart_notification">Deache al é n ajornamënt important, impëia prëibel sëgn danü. Scenó te manciarál ajornamënc de segurëza, sciöche ince funziuns nöies y coreziuns de fai.</string>
+  <string name="medium_channel_name">Notificaziun che la software é gnüda desćiariada jö</string>
+  <string name="merge_update_fail_notify_title">L'ajornamënt n'é nia jü a bun fin</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Chir fora n acunt</string>
+  <string name="multiple_account_alert">Chir fora l'acunt %1$s por jí inant cun l'ajornamënt de sistem.</string>
+  <string name="no_thanks">No, dilan impó</string>
+  <string name="no_thanks_message">Sce t'os desćiarié jö chësc ajornamënt plü tert, vá tles Impostaziuns &gt; Ajornamënc de sistem.</string>
+  <string name="no_updates_applied">Al n'é gnü surantut degun ajornamënt</string>
+  <string name="not_now">Nia sëgn</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Autorisaziun che les apps adora por podëi interagí cun otaservice</string>
+  <string name="package_size">Grandëza dl download: %1$s</string>
+  <string name="personalInfo_instruction">Degöna de tües informaziuns personales jará a perde</string>
+  <string name="picker_cell_radio">Wi-Fi y dac mobii</string>
+  <string name="picker_title">Chir fora co desćiarié jö chësc ajornamënt:</string>
+  <string name="picker_wifi_only_radio">Ma Wi-Fi</string>
+  <string name="please_restart">Prëibel impëia sëgn danü</string>
+  <string name="policy_set">L'ajornamënt de sistem é bloché. Prëibel contatëia to aministradú dl aparat por deplü informaziuns.</string>
+  <string name="press_back_again_to_exit">Drüca ZORUCH ciamó n iade por jí fora</string>
+  <string name="progress_copying_sd">Tl laur da copié l'ajornamënt</string>
+  <string name="progress_deffered">Le download piará ia söla rëi Wi-Fi/telefonia mobila.</string>
+  <string name="progress_downloading_ota">Tl laur da desćiarié jö l'ajornamënt de sistem</string>
+  <string name="progress_downloading_security">Tl laur da desćiarié jö l'ajornamënt de segurëza</string>
+  <string name="progress_retried">Le download dla software é gnü archité. I porvarun inant...</string>
+  <string name="progress_suspended">Tl laur da aspeté la conesciun di dac por jí inant cun le download</string>
+  <string name="progress_suspended_datasaver">Destöda la funziun Sparagné dac por jí inant cun le download</string>
+  <string name="progress_suspended_no_adminapn">Tl laur da aspeté le Wi-Fi o la rëi Zero-rating por jí inant cun le download</string>
+  <string name="progress_suspended_roaming">Le download é gnü archité por gauja dla rëi de roaming. Prëibel impëia le Wi-Fi por jí inant cun le download.</string>
+  <string name="progress_suspended_wifi">Tl laur da aspeté le Wi-Fi por jí inant cun le download…</string>
+  <string name="progress_verify">Tl laur da verifiché sce l'aparat é arjigné ca por gní ajorné...</string>
+  <string name="progress_verify_allocate_space">Tl laur da verifiché sce al é memoria assá</string>
+  <string name="relative_date_time">%1$s dales %2$s</string>
+  <string name="release_note_battery_desc">Ajornamënc por mioré la dorada dla patrî y l'adoranza</string>
+  <string name="release_note_battery_title">Patrî</string>
+  <string name="release_note_camera_desc">Cun chisc mioramënc poste fá fotos cun na miú definiziun y deplü detais</string>
+  <string name="release_note_camera_title">Camera</string>
+  <string name="release_note_cellular_desc">Les mudaziuns dëida da mioré la conetivité di dac dl aparat</string>
+  <string name="release_note_cellular_title">Telefon</string>
+  <string name="release_note_charging_desc">Chësc ajornamënt miorëia la capazité da ciarié sö</string>
+  <string name="release_note_charging_title">Tl laur da se ciarié sö</string>
+  <string name="release_note_generic_desc">Les mudaziuns dëida da mioré dötes les prestaziuns dl aparat</string>
+  <string name="release_note_os_update_desc">I designs da un n corú nüs ti dá a to telefon n aspet elegant y alza fora le sotfunz. Controlëia coche les apps adora y partësc tü dac denanco ti dé les autorisaziuns y anüza les funziuns nöies da aldí y da ciaré de Android 14 por na miú azessibilité.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Les mudaziuns dëida da mioré la prestaziun dl aparat</string>
+  <string name="release_note_performance_title">Prestaziun</string>
+  <string name="release_note_security_desc">Tol ite le patch de segurëza cina ai %1$s</string>
+  <string name="release_note_security_title">Ajornamënt de segurëza</string>
+  <string name="release_note_stability_desc">Tol ite mioramënc y comedöres di bug che fej gní to telefon ciamó plü sigü</string>
+  <string name="release_note_stability_title">Stabilité</string>
+  <string name="release_note_title">Chësc ajornamënt tol ite</string>
+  <string name="release_note_wifi_desc">Tol ite ajornamënc por tüa conetivité Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Descür dötes le funziuns nöies de Android %1$s</string>
+  <string name="request_suspended_datasaver">Destöda la funziun Sparagné dac por jí inant cun download</string>
+  <string name="request_suspended_no_network">Degöna curida de rëi por scomencé le download</string>
+  <string name="restart_after_one_hour">Impëia danü te 1 n'ora</string>
+  <string name="restart_instruction_title">Informaziuns che vá debojëgn denanco impié danü</string>
+  <string name="restart_later">Plü tert</string>
+  <string name="restart_message">Prëibel impëia sëgn danü por ajorné</string>
+  <string name="restart_notification">Impëia danü</string>
+  <string name="restart_notification_text">Prëibel impëia sëgn danü por ajorné. L'ajornamënt messess gní fat da %1$d dis.</string>
+  <string name="restart_notify_sanity_call_msg">L'aparat ne pó nia s'impié danü sëgn, deache al vëgn fat na telefonada</string>
+  <string name="restart_notify_sanity_maps_msg">L'aparat ne pó nia s'impié danü sëgn, deache la navigaziun é ativada</string>
+  <string name="restart_now">Impëia danü sëgn</string>
+  <string name="restart_postponed">Impëia danü plü tert</string>
+  <string name="restart_title">Fá pié ia danü l'aparat</string>
+  <string name="resume_download_on_cellular">Adora i dac mobii</string>
+  <string name="retrieving_token">Tl laur da autentiché...</string>
+  <string name="sdcard_predownload_text">
+ Te chësc vare copiaraste l'ajornamënt tla memoria dl sistem. L'ajornamënt gnará istalé tl proscimo vare. 
+
+Coliëia to telefon a na fontana de strom por ester sigü che la patrî ne se desćiaries nia.</string>
+  <string name="secure_instruction">Chësta prozedöra é sigüda</string>
+  <string name="security_download_notification_title">Miorëia tüa segurëza</string>
+  <string name="security_install_notification_text">N ajornamënt de segurëza nü é arjigné ca por gní istalé</string>
+  <string name="security_install_title">N ajornamënt de segurëza é arjigné ca</string>
+  <string name="security_patch">Patch de segurëza:</string>
+  <string name="security_update_low_storage_title">Ajornamënt de segurëza</string>
+  <string name="security_update_notification_text">Desćiaria jö l'ultimo ajornamënt de segurëza</string>
+  <string name="security_update_paused">Ajornamënt de segurëza archité</string>
+  <string name="security_update_pending_notification_text">Desćiaria jö l'ultimo ajornamënt de segurëza. L'ajornamënt messess gní fat da %1$d dis.</string>
+  <string name="security_update_title">Ajornamënt de segurëza</string>
+  <string name="select_account">Chir fora n acunt %1$s</string>
+  <string name="selected_later_time_os_mr">L'ajornamënt de sistem gnará istalé ai </string>
+  <string name="selected_later_time_smr">L'ajornamënt de segurëza gnará istalé ai </string>
+  <string name="setting_sw_summary">Ajornëia cun l'ultima software </string>
+  <string name="setting_sw_title">Ajornamënc de sistem</string>
+  <string name="smart_cancel_update_toast_msg">L'ajornamënt é programé por i %1$s</string>
+  <string name="smart_end_time">Fin</string>
+  <string name="smart_install_message_popup">Deache t'as ativé la funziun Ajornamënc Inteliënc, istalará to aparat l'ajornamënt automaticamënter ai %1$s sce te ne l'as nia ciamó fat cina en chël de. Assigurëiete che t'ais patrî assá por l'istalaziun.</string>
+  <string name="smart_restart_message_popup">Deache t'as ativé la funziun Ajornamënc Inteliënc, istalará to aparat l'ajornamënt automaticamënter ai %1$s sce te ne l'as nia ciamó fat cina en chël de.</string>
+  <string name="smart_settings_string">I ajornamënc vëgn desćiariá jö y istalá automaticamënter canche t'es colié cun le Wi-Fi.</string>
+  <string name="smart_settings_string_Softbank">I ajornamënc vëgn desćiariá jö y istalá automaticamënter canche t'es colié cun le Wi-Fi o sce t'adores dac mobii.</string>
+  <string name="smart_settings_string_vzw">I ajornamënc vëgn desćiariá jö y istalá automaticamënter</string>
+  <string name="smart_start_time">Scomenciamënt</string>
+  <string name="smart_to_string">Cina</string>
+  <string name="smart_update_advanced">Funziuns ampliades</string>
+  <string name="smart_update_note">Por tüa segurëza gnará düc i ajornamënc de segurëza relevanc desćiariá automaticamënter, anfat sce chësta funziun é ativada o no.</string>
+  <string name="smart_update_note_vzw">Por tüa segurëza gnará düc i ajornamënc essenziai desćiariá jö y istalá automaticamënter, anfat sce chësta funziun é ativada o no.</string>
+  <string name="smart_update_pop_up_text">Scona y tëgn to aparat al sigü cun i ajornamënc automatics</string>
+  <string name="smart_update_recommendation">Proa i ajornamënc inteliënc</string>
+  <string name="smart_update_suggestion_text">Romagn tres al sigü cun i ajornamënc automatics</string>
+  <string name="smart_update_text_AB">Dëida to aparat da funzioné bun y te na manira sigüda istalan automaticamënter düc i ajornamënc de segurëza nüs y les coreziuns di fai.</string>
+  <string name="smart_update_text_AB_vzw">Ajornamënc inteliënc dëida to aparat da funzioné bun y te na manira sigüda. Canche te i ativëies, gnarál desćiarié jö automaticamënter düc i ajornamënc de segurëza<b> nüs </b>. Do le download piará to aparat ia danü tl orar che t'as chirí fora.</string>
+  <string name="smart_update_text_classic">Ajornamënc inteliënc dëida to aparat da funzioné bun y te na manira sigüda. Canche te i ativëies, gnarál desćiarié jö automaticamënter düc i ajornamënc de segurëza nüs <b>y les coreziuns di fai </b>. Do le download piará to aparat ia danü y fajará l'istalaziun tl orar che t'as chirí fora.</string>
+  <string name="smart_update_text_classic_vzw">Ajornamënc inteliënc dëida to aparat da funzioné bun y te na manira sigüda. Canche te i ativëies, gnarál desćiarié jö automaticamënter düc i ajornamënc de segurëza<b> nüs </b>. Do le download piará to aparat ia danü y fajará l'istalaziun tl orar che t'as chirí fora.</string>
+  <string name="smart_update_time_slot_text_AB">Chir fora n orar por fá pié ia</string>
+  <string name="smart_update_time_slot_text_classic">Chir fora n orar por l'istalaziun</string>
+  <string name="smart_update_title">Ajornamënc inteliënc</string>
+  <string name="software_not_update_to">Tüa software n'é nia ciamó gnüda ajornada ala verjiun</string>
+  <string name="software_update_in_progress">To sistem é tl laur da gní ajorné ala verjiun</string>
+  <string name="software_update_planned_summary">Verifiché - %1$s</string>
+  <string name="software_update_planned_title">Ajornamënt dla software planifiché</string>
+  <string name="software_update_to">To sistem é gnü ajorné ala verjiun</string>
+  <string name="sofware_version">Verjiun dla software:</string>
+  <string name="storage_low">Fá lerch por n ajornamënt</string>
+  <string name="su_btn">Impostaziuns</string>
+  <string name="su_text_off">Te messaras ajorné to aparat a man canche al é software nöia a desposiziun. Impëia la funziun Ajornamënc inteliënc por automatisé le prozes. Azica por deplü detais.</string>
+  <string name="su_text_on">Aladô dles impostaziuns standard, vëgn i ajornamënc inteliënc fac danter la 01.00 y les 03.00 de nöt. Te pos mudé l'orar di ajornamënc o destodé i Ajornamënc inteliënc tles impostaziuns. Azica por deplü detais.</string>
+  <string name="su_title_off">I ajornamënc inteliënc é destodá</string>
+  <string name="su_title_on">I ajornamënc inteliënc é ativá</string>
+  <string name="system_download_notification_title">Ajornamënt de sistem</string>
+  <string name="system_install_notification_text">N ajornamënt de sistem é arjigné ca por gní istalé</string>
+  <string name="system_install_title">N ajornamënt é a desposiziun</string>
+  <string name="system_pdl_notification_mr_title">Coreziuns de fai y d'ater</string>
+  <string name="system_pdl_notification_os_title">Android %1$s é danman!</string>
+  <string name="system_update">Ajornamënt de sistem</string>
+  <string name="system_update_desc">Scona to aparat da prighi por la segurëza y ciafa les ultimes funzionalités de Motorola y Android</string>
+  <string name="system_update_info_not_available">Nia danman</string>
+  <string name="system_update_low_storage_text">Azica chiló por verifiché la memoria y jí inant.</string>
+  <string name="system_update_low_storage_title">Ajornamënt de sistem</string>
+  <string name="system_update_notification_os_text">Proa fora l'Android nü</string>
+  <string name="system_update_notification_text">Desćiaria jö la software nöia</string>
+  <string name="system_update_paused">L'ajornamënt de sistem é gnü archité</string>
+  <string name="system_update_pending_notification_os_text">Proa fora l'Android nü. L'ajornamënt messess gní fat da %1$d dis.</string>
+  <string name="system_update_pending_notification_text">Desćiaria jö la software nöia. L'ajornamënt messess gní fat da %1$d dis.</string>
+  <string name="system_update_settings_list_item_title">Ajornamënc de sistem</string>
+  <string name="system_update_status">Status dl ajornamënt</string>
+  <string name="system_update_title">Ajornamënt de sistem</string>
+  <string name="tethered_permission_desc">Mëna demez i resultac dl ajornamënt 3c</string>
+  <string name="tethered_update_result">Resultat ajornamënt cun tethering</string>
+  <string name="time_picker_text">Scomëncia l'istalaziun zënza n promemoria.</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Proa ciamó n iade</string>
+  <string name="turn_it_off">Dejativëia</string>
+  <string name="turn_it_on">Ativëiela</string>
+  <string name="turn_on_smart_updates">Ativëia i ajornamënc inteliënc</string>
+  <string name="update">Ajornëia</string>
+  <string name="update_blocked_by_policy">L'ajornamënt é bloché dales normes dl'aministraziun </string>
+  <string name="update_cancelled_status">Le download dla software é gnü anulé ai</string>
+  <string name="update_fail_desc">Valch n'á nia funzioné</string>
+  <string name="update_fail_status">L'ajornamënt n'é nia jü a bun fin</string>
+  <string name="update_fail_sucancel_dm_status">Ajornamënt anulé dal server</string>
+  <string name="update_fail_title">L'ajornamënt n'é nia jü a bun fin</string>
+  <string name="update_history_blank">Al momënt n'él degöna cronologia</string>
+  <string name="update_history_src_target">Ajornamënt da %1$sa %2$s</string>
+  <string name="update_history_time">Ajorné ai %1$s</string>
+  <string name="update_history_title">Cronologia di ajornamënc</string>
+  <string name="update_history_version">Verjiun dla software %1$s</string>
+  <string name="update_info">Tl laur da ajorné...</string>
+  <string name="update_postpone_policy">L'ajornamënt gnará fat plü tert por gauja dles normes dl'aministraziun </string>
+  <string name="update_preference">Preferënzes d'ajornamënt</string>
+  <string name="update_success_desc">Verjiun atuala dla software: %1$s</string>
+  <string name="update_success_desc_os">Complimënc! T'as istalé cun suzes Android %1$s. Sëgn poste fá na miú esperiënza Android, plü intuitiva y sigüda.</string>
+  <string name="update_success_status">L'ajornamënt é jü a bun fin</string>
+  <string name="update_title">Ajornamënt completé</string>
+  <string name="update_title_text">Godete tüa software nöia!</string>
+  <string name="upto_date_title">Vá bun!</string>
+  <string name="urgent_channel_name">Avis d'ajornamënt dla software</string>
+  <string name="use_smart_updates">Adora i Ajornamënc Inteliënc</string>
+  <string name="vab_validation_update_failure_desc">L'ajornamënt dl'autenticaziun VAB n'é nia jü a bun fin</string>
+  <string name="vab_validation_update_failure_title">Ara n'é nia jüda da validé VAB</string>
+  <string name="vab_validation_update_success_desc">Complimënc! L'ajornamënt dl'autenticaziun VAB é jü a bun fin</string>
+  <string name="vab_validation_update_success_title">L'autenticaziun VAB é jüda a bun fin</string>
+  <string name="verifying_patch">L'ajornamënt é gnü surantut. Tl laur da confermé che l'aplicaziun é jüda a bun fin (Vare 4 de 6)  </string>
+  <string name="verity_disabled_msg">Al podess gní dant prighi por la segurëza de to aparat. Eseguësc le comane chiló dessot por avëi tresfora ajornamënc
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">To aparat ne ciafa nia plü ajornamënc</string>
+  <string name="verizon_failure_notification_text"> Ara n'é nia jüda da istalé chësc ajornamënt sön to aparat. Té le stromënt Assistënt Ajornamënt Software por istalé. Azica por deplü informaziuns.</string>
+  <string name="verizon_failure_text">Al é gnü a s'al dé n problem da ajorné to aparat. Al n'é gnü fat degöna mudaziun. Por ajorné tüa software, poste adoré le stromënt Assistënt Ajornamënt Software.
+
+Por istalé le stromënt Assistënt Ajornamënt Software:
+
+1. Adora n cabl USB por colié to aparat al computer
+2. Canche al comparësc le menü USB sön to aparat, selezionëia l'icona dles impostaziuns söinsom a man dërta
+3. Selezionëia l'istalaziun Software 
+4 danter les Preferënzes USB. Passa sön to PC y chir l'assistënt por l'istalaziun
+5. Vái do ala prozedöra d'assistënza
+
+L'assistënt por l'ajornamënt dla software te daidará da desćiarié jö y istalé i ajornamënc dla software sön to aparat.</string>
+  <string name="vital_applying_updates">Tl laur da surantó i ajornamënc...</string>
+  <string name="vital_bg_text">Chësc podess doré n valgügn menüc.</string>
+  <string name="vital_check_for_updates">Tl laur da chirí ajornamënc...</string>
+  <string name="vital_check_for_updates_desc">I ajornamënc scona to aparat y miorëia süa prestaziun.</string>
+  <string name="vital_done">Fat!</string>
+  <string name="vital_error_fail">Al é gnü a s'al dé n fal d'ajornamënt. Al n'é gnü fat degöna mudaziun.</string>
+  <string name="vital_go_back">Oste bëgn archité l'istalaziun?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Impëia danü por jí inant</string>
+  <string name="vital_skip">Lascia fora</string>
+  <string name="vital_stop">Archita</string>
+  <string name="wifi_setting">Impostaziuns Wi-Fi</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Enheden genstarter om %1$d sekund for at færdiggøre opdateringen.</item>
+    <item quantity="other">Enheden genstarter om %1$d sekunder for at færdiggøre opdateringen.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">om %1$d sekund</item>
+    <item quantity="other">om %1$d sekunder</item>
+  </plurals>
+</resources>

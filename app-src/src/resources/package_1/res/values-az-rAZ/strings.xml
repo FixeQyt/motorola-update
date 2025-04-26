@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Sonra yenilə</string>
+  <string name="ab_download_now">İndi yenilə</string>
+  <string name="ab_install_notification_paused_text">Arxa fon quraşdırılması dayandırıldı</string>
+  <string name="ab_install_notification_text">Arxa fon quraşdırılması</string>
+  <string name="ab_restart_fullscreen_text">Demək olar ki, oradasınız! Cihazınızı yenidən işə salmaq təxminən 90 saniyə çəkəcək. Güncəlləmə %1$d gündür əlçatandır.</string>
+  <string name="ab_restart_text">Demək olar ki, oradasınız! Cihazınızı yenidən işə salmaq təxminən 90 saniyə çəkəcək</string>
+  <string name="ab_restart_warning_os_mr">Sistem yeniləməniz, demək olar ki, tamamlanıb. Cihazınız </string>
+  <string name="ab_restart_warning_smr">Təhlükəsizlik yeniləməniz, demək olar ki, tamamlandı. Cihazınız </string>
+  <string name="ab_warning_continues"> və yeniləmə tamamlanacaq.</string>
+  <string name="abupdate_in_progress_status">Proqram təminatı yeniləməsi davam edir</string>
+  <string name="additional_charges_message">Yükləmə mobil məlumatlara davam edəcək. Məlumat xərcləri tətbiq oluna bilər.</string>
+  <string name="alertSubText">Bu, yeniləmə paketini yoxlamaq, yükləmək və quraşdırmaq üçün istifadə olunur</string>
+  <string name="alertText">Proqram yeniləmələri üçün şəbəkə əməliyyatlarına icazə verin</string>
+  <string name="alertTitle">Yeniləmələr üçün aşağıdakı icazə tələb olunur</string>
+  <string name="alert_dialog_cancel">Quraşdırmanı dayandır</string>
+  <string name="alert_dialog_continue">Quraşdırmağa davam et</string>
+  <string name="alert_dialog_no">Xeyr</string>
+  <string name="alert_dialog_ok">Anladım</string>
+  <string name="alert_dialog_yes">Bəli</string>
+  <string name="allocate_space_success">Yeniləmə üçün tələb olunan yaddaş mövcuddur</string>
+  <string name="allow">İcazə</string>
+  <string name="android_latest_sw_text">Ən son proqram təminatından istifadə edirsiniz</string>
+  <string name="android_version">Android versiyası:</string>
+  <string name="app_name">Motorola proqram təminatı yeniləməsi</string>
+  <string name="applied">Aktiv</string>
+  <string name="apply_bug_fix">Hata düzəlişlərinə müraciət edin</string>
+  <string name="apply_os_update">Bütün proqram təminatı yeniləmələrinə tətbiq et</string>
+  <string name="applying_patch">Güncəlləmə tətbiq edilir (Addım %1$d / %2$d)  </string>
+  <string name="are_you_sure">Ağıllı yeniləmələr deaktiv edilsin?</string>
+  <string name="are_you_sure_pop_up_text">Ağıllı yeniləmələri deaktiv etmək istədiyinizə əminsiniz? </string>
+  <string name="asc_campaign_assigned">Kampaniya təyin edildi</string>
+  <string name="asc_campaign_is_allowed">Firmware Yeniləmə</string>
+  <string name="asc_campaign_is_blocked">Firmware Kilidi</string>
+  <string name="asc_campaign_not_assigned">Cihaz hazırda kampaniyada deyil</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Yeniləmə pəncərəsi: %s -dən %s</string>
+  <string name="asc_sw_up_to_date"> son versiyaya qədər</string>
+  <string name="asc_target_version"> qədər version </string>
+  <string name="auth_title">Sistem yeniləməsi</string>
+  <string name="auto_download_cellualr_charges_warn">Mobil şəbəkə vasitəsilə yeniləmələri endirərkən əlavə ödənişlər tətbiq oluna bilər</string>
+  <string name="auto_download_enable_cellular_future_updates">Gələcək endirmələr üçün də mobil data seçiminə qoşulmaq istəyirsiniz?</string>
+  <string name="auto_download_settings_title">Avtomatik yükləmə parametrləri</string>
+  <string name="auto_download_wifi_cellular">Mobil və Wi-Fi üzərindən avtomatik endirmə</string>
+  <string name="auto_download_wifi_cellular_desc">Mobil və Wi-Fi üzərindən avtomatik endirin. Mövcud olduqda ilk olaraq Wi-Fi istifadə olunacaq. </string>
+  <string name="auto_download_wifi_only">Yalnız Wi-Fi üzərindən avtomatik endirmə</string>
+  <string name="auto_download_wifi_only_desc">Yalnız Wi-Fi üzərindən avtomatik endirmə</string>
+  <string name="auto_install_notification_text">Cihaz bu tarixdə avtomatik quraşdırılacaq: %1$s</string>
+  <string name="auto_time_set">Başlanğıc:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Əhəmiyyətinə görə, bu yeniləmə %1$s-də mobil məlumatlardan istifadə edərək avtomatik quraşdırılacaq</string>
+  <string name="automatic_download_on_cellular_warning">Əhəmiyyətinə görə, bu yeniləmə %1$süzərindəki mobil məlumatlardan istifadə edərək avtomatik olaraq yüklənəcəkdir.</string>
+  <string name="background_install_msg">Geri qayıtsanız və ya bu pəncərəni bağlasanız, bu yeniləmə davam edəcək</string>
+  <string name="background_install_text">Yeniləmə yüklənir və quraşdırılır. Cihazınızı istifadə etməyə davam edə bilərsiniz.</string>
+  <string name="bad_connection">İnternet yoxdur</string>
+  <string name="bad_connection_text">Cihazınızın hazırda internet ilə bağlandığı görünür. Yenidən cəhd etmək üçün alt düyməni vurun.</string>
+  <string name="bg_install_cancel_confirm">Quraşdırmanı dayandırmaq istədiyinizə əminsiniz?</string>
+  <string name="bg_retried">Proqram təminatının endirilməsi dayandırıldı. Cəhd etməyə davam edəcəyik...</string>
+  <string name="bg_suspended">Arxa fonda endirmə və quraşdırmanı davam etdirmək üçün məlumat bağlantısı gözlənilir</string>
+  <string name="bg_suspended_non_adminapn">Fon yükləməsini və quraşdırılmasını bərpa etmək üçün Wi-Fi və ya sıfır qiymətləndirilmiş şəbəkə gözləyir ...</string>
+  <string name="bg_suspended_roaming">Rouminq şəbəkəsi səbəbindən fonda quraşdırmaya pauza verildi, fonda quraşdırmanı bərpa etmək üçün Wi-Fi yandırın.</string>
+  <string name="bg_suspended_wifi">Arxa fonda endirmə və quraşdırmaya davam etmək üçün Wi-Fi gözlənilir</string>
+  <string name="bootloader_unlock_msg">Cihazınız artıq yeniləmələr almır və təhlükəsizlik risklərinə məruz qala bilər.</string>
+  <string name="bootloader_unlock_title">Mövcud yeniləmə yoxdur</string>
+  <string name="cancel">Ləğv et</string>
+  <string name="cancel_download_notification">Ləğv et</string>
+  <string name="cancel_install">Ləğv et</string>
+  <string name="cancel_update_notification">Ləğv et</string>
+  <string name="check_for_updates_title">Yeniləmələri yoxla</string>
+  <string name="check_update_badparam">Daxil olmaq olmadıqda yeniləmə cəhdi edilir.
+
+Daha sonra yenidən cəhd edin.</string>
+  <string name="check_update_checking">Yeniləmələr yoxlanılır ...</string>
+  <string name="check_update_disabled_admin">İT admini tərəfindən idarə olunan cihaz yeniləmələri</string>
+  <string name="check_update_downloading">Yeniləmə hazırda yüklənir.
+
+Yükləmə tamamlandıqda sizə məlumat veriləcək.</string>
+  <string name="check_update_fail">Gözlənilməz xəta baş verdi.
+
+Cihaz fonda yeniləməyə cəhd edəcək.</string>
+  <string name="check_update_internal">Yeniləmələri yoxlamaq olmur. Biraz sonra yenidən cəhd edin.</string>
+  <string name="check_update_net">İnternet bağlantınızı yoxlayın və yenidən cəhd edin</string>
+  <string name="check_update_net_vzw">Yeniləmələri yoxlamaq üçün data bağlantısı lazımdır. Wi-Fi bağlantınızı yoxlamaq üçün Parametrlərə keçin &gt; Şəbəkə &amp; internet &gt; İnternet &gt; Wi-Fi.
+
+Siz də ziyarət edə bilərsiniz motorola.com/systemupdates digər yeniləmə seçimlərini görmək üçün.</string>
+  <string name="check_update_not_sys_user">Qonaq profilləri üçün yoxlama yeniləməsinə icazə verilmir</string>
+  <string name="check_update_processing">Serverimizlə əlaqə qurur ...
+Zəhmət olmasa gözləyin</string>
+  <string name="check_update_roaming">Sistem Yeniləməsi yalnız ev şəbəkəsində mümkündür. 
+
+Parametrlərə gedin &gt; Şəbəkə &amp; internet &gt; İndi bir əlaqə qurmaq üçün Wi-Fi.</string>
+  <string name="check_update_storage_low">Cihazda kifayət qədər yaddaş sahəsi olmadığı üçün yeniləmə mümkün deyil.</string>
+  <string name="check_update_temperror">Yeniləmələrin yüklənməsi hazırda tamamlanmadı.
+
+Yenidən cəhd edin.</string>
+  <string name="check_update_text">Zaman zaman yeniləmələri yoxlamaq cihazınızı təhlükəsiz saxlayır və performansını artırır</string>
+  <string name="check_update_title_downloading">Yükləmə davam edir ...</string>
+  <string name="check_update_vab_validation">VAB Doğrulama yeniləmə vəziyyətinin yoxlanılması
+Xahiş edirəm gözləyin</string>
+  <string name="check_update_wifi_only">Sistem Yeniləməsi yalnız Wi-Fi ilə mümkündür.</string>
+  <string name="check_wifi_settings">Wi-Fi ayarlarını yoxlayın</string>
+  <string name="clear_space">Boş yer təmizlənsin</string>
+  <string name="cloud_picker_title">Bulud Seçici</string>
+  <string name="compatibility_failed_title">Paket yoxlanılması alınmadı</string>
+  <string name="compatibility_verification_failure">Yüklənən yeniləmə paketi cihazdakı mövcud proqram versiyasına uyğun deyil.</string>
+  <string name="compatibility_verification_failure_df">
+
+ Zəhmət olmasa Dogfood koordinatorunuzla yoxlayın.</string>
+  <string name="compatibility_verification_success">Uğurla təsdiq edildi</string>
+  <string name="completed"> Quraşdırma tamamlandı. Sizdən telefonunuzu yenidən başlatmağınız təklif olunacaq ( %1$d / %2$daddımı)</string>
+  <string name="completed_install">%s tam</string>
+  <string name="connect_to_wifi">Wi-Fi-a qoşulun</string>
+  <string name="continue_button">Davam et</string>
+  <string name="critical_install_message_popup_os_mr">Mühüm bir sistem yeniləməsi mövcuddur. Lütfən, yeniləməni tətbiq etmək üçün Quraşdırmanı seçin. Yoxdursa, yeniləmə avtomatik olaraq %1$s-də tətbiq olunur.</string>
+  <string name="critical_install_message_popup_smr">Mühüm bir təhlükəsizlik yeniləməsi mövcuddur. Lütfən, yeniləməni tətbiq etmək üçün Quraşdırmanı seçin. Yoxdursa, yeniləmə avtomatik olaraq %1$s-də tətbiq olunacaq.</string>
+  <string name="critical_install_message_screen">Bu vacib yeniləmə avtomatik olaraq %1$s-də quraşdırılacaqdır. Quraşdırma üçün kifayət qədər batareyanın olduğundan əmin olun.</string>
+  <string name="critical_install_notification">Bu yeniləmə vacib olduğu üçün cihazınız bu tarixdə avtomatik olaraq quraşdırılacaq: %1$s.
+Quraşdırma müddəti: %2$d dəqiqə</string>
+  <string name="critical_restart_message_popup">Bu vacib yeniləməni tətbiq etmək üçün mümkün qədər tez yenidən başladın. Bunu edə bilmirsinizsə, cihazınız avtomatik olaraq %1$starixində yenidən başlayacaq.</string>
+  <string name="critical_restart_message_screen">Bu, vacib yeniləmə olduğu üçün %1$s tarixində cihazınız avtomatik olaraq yenidən başladılacaq (daha əvvəl yenidən başlatmamısınızsa).</string>
+  <string name="critical_restart_notification">Bu yeniləmə vacibdir. İndi yenidən başlada bilmirsinizsə, cihazınız avtomatik olaraq yenidən başlayacaq %1$s</string>
+  <string name="critical_update_notification_title">Kritik yeniləmə</string>
+  <string name="current_version">Cari proqram versiyası:</string>
+  <string name="custom_slot">Fərdi</string>
+  <string name="custom_time">Xüsusi vaxt</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s, saat %s</string>
+  <string name="defer_count_expired">Anladım</string>
+  <string name="deny">Rədd et</string>
+  <string name="details">Təfərrüatlar</string>
+  <string name="device_corrupted_msg">Bəzi sistem problemləri tapdıq. Bunun ağrılı olduğunu bilirik, lakin bunları həll etmək üçün yerli xidmət mərkəzinə baş çəkməli olacaqsınız.
+
+Telefonunuz düzəldildikdən sonra telefonunuzda yeniləmələri işə salmağa davam edə bilərik.</string>
+  <string name="device_corrupted_title">Telefonu yeniləmək mümkün deyil</string>
+  <string name="dialog_alert_net_message">Wi-Fi və ya mobil data bağlantısını yoxlayın və yenidən cəhd edin.</string>
+  <string name="dialog_alert_net_title">Cihaz oflayn rejimdədir</string>
+  <string name="dialog_alert_title">Batareya zəifdir</string>
+  <string name="dialog_progress">Yüklənir ...</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fi bağlantısı istifadə etmək tövsiyə olunur. Mobil data ilə endirmək və ya rouminq zamanı mobil datadan istifadə əlavə xərclərə səbəb ola bilər.
+
+Bu proqram təminatını endirmək cihazınızın işinə təsir göstərmir.</string>
+  <string name="done">Hazırdır</string>
+  <string name="dont_show_this_again">Bunu bir daha göstərməyin</string>
+  <string name="download_cancelled_title">Endirmə ləğv edildi</string>
+  <string name="download_deferred_status">Proqram təminatının endirilməsi bu tarixdə təxirə salındı</string>
+  <string name="download_failed_status">Yeniləmə bu tarixdə endirilməyib</string>
+  <string name="download_in_progress_status">Proqram təminatının endirilməsi davam edir</string>
+  <string name="download_later_button">Sonra endir</string>
+  <string name="download_no_button">Xeyr, təşəkkürlər</string>
+  <string name="download_note">Yeniləmə quraşdırılarkən cihazınızı istifadə etməyə davam edə bilərsiniz</string>
+  <string name="download_now">İndi endir</string>
+  <string name="download_now_button">Endir</string>
+  <string name="download_options">Endirmə seçimləri</string>
+  <string name="download_progress_cancel_message">Bu yeniləməni sonra endirmək istəyirsinizsə, Ayarlar &gt; Sistem yeniləmələri bölməsinə keçin</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s qaldı (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% yükləndi (Pauza verildi)</string>
+  <string name="download_progress_text">Geri qayıtsanız və ya bu pəncərəni bağlasanız, bu endirmə davam edəcək</string>
+  <string name="download_subtitle">Endirməzdən əvvəl nələri bilməlisiniz?</string>
+  <string name="download_text_whats_new">Yeniliklərə nəzər salın</string>
+  <string name="download_time_left">%1$s qalıb</string>
+  <string name="download_version">Versiya %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Bu yeniləməni yükləmək üçün Wi-Fi lazımdır. Bağlantınız bərpa edildikdən sonra yükləmə davam edəcək.</string>
+  <string name="downloaded_percentage">%1$s yükləndi</string>
+  <string name="emergency_call_btn_txt">Təcili</string>
+  <string name="emergency_call_text">Siz yükləmə zamanı fövqəladə zənglər daxil olmaqla, zəng edə və ya qəbul edə bilməyəcəksiniz!</string>
+  <string name="enable_wifi_error_txt">Bu yeniləməni endirmək üçün Wi-Fi bağlantısına qoşulun.</string>
+  <string name="eol_explore">Yeni cihazları araşdırın</string>
+  <string name="eol_last_update_text">Təhlükəsizlik yamağı:</string>
+  <string name="eol_promote">Son promosyonlara baxın</string>
+  <string name="eol_title">Cihazınız ən son mövcud proqramı işlədir.</string>
+  <string name="err_title_contact_server">Server ilə əlaqə saxlanılır ...</string>
+  <string name="err_title_memory_low">Yaddaş azdır ...</string>
+  <string name="err_title_temp_error">Müvəqqəti səhv</string>
+  <string name="err_title_update">Yeniləmə xətası</string>
+  <string name="error_code">Səhv kodu:</string>
+  <string name="error_copyfail">SD kartın yerindən kopyalamaq olmadı.</string>
+  <string name="error_disabled">Yeniləməni yükləmək olmadı. Yeniləmə paketi hazırda mövcud deyil. 
+
+Əlavə əməliyyat tələb edilmir.</string>
+  <string name="error_fail">Üzr istəyirik, %1$syeniləyərkən problem baş verdi. Heç bir dəyişiklik edilmədi. Parametrlərə keçməklə yenidən cəhd edin &gt; Sistem yeniləməsi.</string>
+  <string name="error_in_call_msg">Zəng davam etdiyi üçün cihaz indi yenilənə bilmir</string>
+  <string name="error_in_call_title">Zəng davam edir</string>
+  <string name="error_install_title">Quraşdırmaq olmadı</string>
+  <string name="error_mismatch">Versiya uyğunsuzluğu baş verdi. Yeniləmə yenidən mümkün olacaq. Mümkün olduqda, sizə məlumat veriləcək.</string>
+  <string name="error_mismatch_sd">Yeniləmək olmadı. Yeniləmə versiyası telefona uyğun deyil. 
+
+Telefonunuz üçün düzgün versiyanı yükləyin və yenidən cəhd edin.</string>
+  <string name="error_network">Bağlantı bitdi. Telefon parametrlərindən əl ilə yeniləmələri yoxlayaraq yenidən cəhd edin.</string>
+  <string name="error_reboot">Bu yeniləməni yükləyə bilmədik. Bu yeniləməni daha sonra əldə etmək istəyirsinizsə, zəhmət olmasa cihazınızı yenidən başladın və sonra Ayarlara keçin &gt; Sistem yeniləmələri.</string>
+  <string name="error_resources">Bu yeniləməni yükləyə bilmədik. Bu yeniləməni daha sonra əldə etmək istəyirsinizsə, Ayarlara gedin &gt; Sistem yeniləmələri.</string>
+  <string name="error_sdcard_resources_fail_removal">SD Card çıxarıldı. Download prosesi başa deyil. 
+
+lütfən re-insert SD Card və Settings getmək &gt; System daha cəhd yeniləyir.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Download tam bilmir. SD Card kifayət qədər yer yoxdur. 
+
+bəzi yer azad və Settings getmək &gt; System daha cəhd yeniləyir.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Yükləməyə başlamaq üçün SD Kartı daxil edin.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Yükləməyə başlamaq üçün SD Kartı quraşdırın. 
+
+Parametrlər &gt; Yaddaş &gt; SD kartı quraşdır seçin.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Yükləməni başa çatdırmaq üçün SD kartda kifayət qədər yer yoxdur. 
+
+Zəhmət olmasa %1$s yer boşaldın və Parametrlərə gedin &gt; Yenidən yükləməyə cəhd etmək üçün sistem yeniləmələri.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Xəta</string>
+  <string name="error_sdcard_resources_warning">Proqram təminatı yeniləməsi SD Karta yüklənir. 
+
+Quraşdırma bitənədək SD Kartı çıxarmayın.
+
+
+</string>
+  <string name="error_server">Serverdə səhv baş verdi. Zəhmət olmasa bir az sonra yenə cəhd edin.</string>
+  <string name="error_space">Bu yeniləmə cihazınızda %1$s mövcud yaddaşa ehtiyac duyur. 
+
+İstifadə olunmamış apps silmək və ya pulsuz üçün başqa bir storage cihaz üçün foto və video hərəkət edin %2$s alan. 
+
+Bitirdikdən sonra Parametrlərə gedə bilərsiniz &gt; Yeniləməni istənilən vaxt başlamaq üçün sistem yeniləmələri.</string>
+  <string name="error_space_retry">Bu yeniləmə cihazınızda %1$s mövcud yaddaşa ehtiyac duyur. 
+
+İstifadə olunmamış apps silmək və ya pulsuz üçün başqa bir storage cihaz üçün foto və video hərəkət edin %2$s alan.</string>
+  <string name="error_space_vab">Bu yeniləmə cihazınızda mövcud boş yerə %1$s ehtiyac duyur. Uğurlu yeniləmələr üçün xahiş edirəm yaddaşınızı boşaldın</string>
+  <string name="error_space_vab_make_room_popup">Yeniləmədən əvvəl boşluğu %1$s təmizləməlisiniz. İstifadə olunmayan tətbiqləri silməyə və ya hərəkətli fotolara cəhd edin &amp; videoları başqa bir yaddaş cihazına.</string>
+  <string name="error_title">Yükləmə alınmadı</string>
+  <string name="error_verify">Yeniləmə düzgün şəkildə təsdiq edilə bilmir. Yenidən cəhd edin.</string>
+  <string name="failed">Uğursuz oldu</string>
+  <string name="failed_in_roaming">Yeniləmələr üçün Wi-Fi lazımdır</string>
+  <string name="failure_process">Məlumat mövcud deyil</string>
+  <string name="finalizing_patch">Güncəlləmə tamamlanır... (6 addımdan 5-i)  </string>
+  <string name="first_net_text">Yeniləməni quraşdırın ki, cihaz növbəti yükləmə zamanı avtomatik quraşdırılsın. Batareya səviyyəsinin %s-dən çox olmasından əmin olun</string>
+  <string name="forceInstallMessage">Bu yeniləmə avtomatik olaraq bu tarixdə quraşdırılacaq: %1$s.</string>
+  <string name="force_install_message_screen">Bu vacib bir yeniləmədir, buna görə %1$stərəfindən quraşdırın. Əks təqdirdə, cihazınız ən az istifadə edildiyi bir anda avtomatik olaraq quraşdırılacaqdır. Quraşdırma üçün kifayət qədər batareya ömrünüz olduğundan əmin olun.</string>
+  <string name="force_install_notification_message">Zəhmət olmasa %1$stərəfindən quraşdırın. Əks təqdirdə, cihazınız ən az istifadə edildiyi anda avtomatik olaraq quraşdırılacaqdır.
+Quraşdırma müddəti: %2$d dəqiqə</string>
+  <string name="force_restart_notification_message">Xahiş edirəm %1$stərəfindən yenidən başladın. Əks təqdirdə, cihazınız ən az istifadə edildiyi anda avtomatik olaraq yenidən başlayacaqdır.</string>
+  <string name="force_restart_screen_message">%1$sTərəfindən yenidən başlamazsan, cihazınız ən az istifadə edildiyi anda avtomatik olaraq yenidən başlayacaqdır.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Anladım</string>
+  <string name="important_update_install_overdue_message">Quraşdırma vaxtı keçdi. Qurğunuz meyarlara cavab verdikdən sonra quraşdırma başlayacaq.</string>
+  <string name="important_update_restart_overdue_message">Yenidən başlamağı planlaşdırılan vaxt keçdi. Cihaz meyarlara cavab verdikdən sonra yenidən başlayacaq.</string>
+  <string name="initiating_ota_service_msg">Zəhmət olmasa, gözləyin...</string>
+  <string name="initiating_ota_service_title">Proqram yeniləmə prosesi başlayır</string>
+  <string name="install">Quraşdır</string>
+  <string name="install_after_one_hour">1 saat içində quraşdırın</string>
+  <string name="install_cancelled_title">Quraşdırma ləğv edildi</string>
+  <string name="install_deferred_status">Yeniləmə bu tarixdə təxirə salındı</string>
+  <string name="install_later">Sonra quraşdır</string>
+  <string name="install_notify_sanity_call_msg">Zəng davam etdiyi üçün cihaz indi qurula bilmir</string>
+  <string name="install_notify_sanity_maps_msg">Cihaz naviqasiya aktiv olduğu üçün indi quraşdırıla bilməz</string>
+  <string name="install_now">İndi quraşdır</string>
+  <string name="install_postponed">Quraşdırma təxirə salındı</string>
+  <string name="install_progress_cancel_message">Bu yeniləməni sonra quraşdırmaq istəyirsinizsə, Ayarlar &gt; Sistem yeniləmələri bölməsinə keçin</string>
+  <string name="install_progress_paused_message">%s tamamlandı (dayandırıldı)</string>
+  <string name="install_time">Quraşdırma müddəti: %1$d dəqiqə</string>
+  <string name="install_warning">Quraşdırmazdan əvvəl nələri bilmək lazımdır?</string>
+  <string name="just_one_more_step">Son bir addım qaldı</string>
+  <string name="keep_it_on">Davam et</string>
+  <string name="later_button">Sonra xatırlat</string>
+  <string name="learn_more_online_link">Daha çox onlayn məlumat əldə edin</string>
+  <string name="low_battery_bg_install">Batareya az olduğuna görə quraşdırma dayandırılıb. Batareyanız 20%artıq olduqda quraşdırma davam edəcək.</string>
+  <string name="low_battery_download">Batareya az olduğuna görə endirmə dayandırıldı. Cihazınız şarj ediləndə endirmə davam edəcək.</string>
+  <string name="low_battery_install">Zəhmət olmasa cihazınızı heç olmasa doldurun %s bu yeniləməni quraşdırmadan əvvəl</string>
+  <string name="make_space">Məkan yaradın</string>
+  <string name="mandatory_install_notification">Bu sistem yeniləməsini tezliklə qurmursanız, vacib təhlükəsizlik yeniləmələrini, eləcə də yeni xüsusiyyətləri və səhv düzəltmələrini qaçıracaqsınız.</string>
+  <string name="mandatory_restart_notification">Vacib bir yeniləmə olduğundan, xahiş edirəm indi yenidən başladın. Əks təqdirdə təhlükəsizlik yeniləmələrini, həmçinin yeni xüsusiyyətləri və səhv düzəlişlərini qaçıracaqsınız.</string>
+  <string name="medium_channel_name">Proqram təminatının Yükləmə Bildirişi</string>
+  <string name="merge_emergency_call_text">Yenidən başlatma zamanı siz təcili zənglər də daxil olmaqla zənglər edə və ya qəbul edə bilməyəcəksiniz.</string>
+  <string name="merge_force_restart_text">İndi yenidən başlatmaq istəmirsinizsə, telefonunuz qeyri-aktiv olduqda avtomatik olaraq yenidən başlayacaq.</string>
+  <string name="merge_progress_text">Güncəlləmə tamamlandıqda, sizə bildiriş göndərəcəyik</string>
+  <string name="merge_progress_title">Güncəlləmə tamamlanır…</string>
+  <string name="merge_restart_text">Telefonunuz yenidən işə salındıqdan sonra yeniləmə tamamlanacaq</string>
+  <string name="merge_restart_title">Lütfən, yenidən başladın</string>
+  <string name="merge_update_fail_notify_text">Bəzi sistem problemləri tapdıq. Onları düzəltmək üçün xidmət mərkəzinə müraciət edin</string>
+  <string name="merge_update_fail_notify_title">Yeniləmə alınmadı</string>
+  <string name="merge_update_fail_text">Güncəlləmələri qəbul etməyinizə mane olacaq bəzi sistem problemləri tapdıq. Bunu həll etmək üçün xidmət mərkəzinə müraciət edin.
+
+Bu vaxt siz telefonunuzdan həmişəki kimi istifadə etməyə davam edə bilərsiniz.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Hesab seçin</string>
+  <string name="multiple_account_alert">Sistem yeniləməsinə davam etmək üçün %1$s hesabını seçin.</string>
+  <string name="no_thanks">Xeyr, təşəkkürlər</string>
+  <string name="no_thanks_message">Bu yeniləməni daha sonra əldə etmək istəyirsinizsə, Ayarlara gedin &gt; Sistem yeniləmələri.</string>
+  <string name="no_updates_applied">Heç bir yeniləmə tətbiq edilməyib</string>
+  <string name="not_now">İndi yox</string>
+  <string name="ok">tamam</string>
+  <string name="otaservice_perm_desc">Proqramların otaservice ilə əlaqə yaratmaq icazəsi verilməli</string>
+  <string name="package_size">Endirmə ölçüsü: %1$s</string>
+  <string name="personalInfo_instruction">Şəxsi məlumatlarınızı itirməyəcəksiniz</string>
+  <string name="picker_cell_radio">Wi-Fi və mobil data</string>
+  <string name="picker_title">Bu yeniləməni necə endirmək istədiyinizi seçin:</string>
+  <string name="picker_wifi_only_radio">Yalnız Wi-Fi</string>
+  <string name="please_restart">Cihazı yenidən başladın</string>
+  <string name="policy_set">Sistem yeniləməsi bloklanıb. Daha çox məlumat üçün cihaz rəhbərinizlə əlaqə saxlayın.</string>
+  <string name="press_back_again_to_exit">Çıxmaq üçün yenidən BACK düyməsini basın</string>
+  <string name="progress_copying_sd">Yeniləmə kopyalanır</string>
+  <string name="progress_deffered">Yükləmə Wi-Fi/Mobil Şəbəkədə başlayacaq.</string>
+  <string name="progress_downloading_ota">Sistem yeniləməsi yüklənir</string>
+  <string name="progress_downloading_security">Təhlükəsizlik yeniləməsi yüklənir</string>
+  <string name="progress_retried">Proqram təminatının endirilməsi dayandırıldı. Çalışmağa davam edəcəyik...</string>
+  <string name="progress_suspended">Endirməni yenidən başlatmaq üçün data bağlantısı gözlənilir</string>
+  <string name="progress_suspended_datasaver">Yükləməni bərpa etmək üçün data qənaətini söndür</string>
+  <string name="progress_suspended_no_adminapn">Yükləməni bərpa etmək üçün Wi-Fi və ya Sıfır dərəcəli şəbəkə gözlənir</string>
+  <string name="progress_suspended_roaming">Rouminq şəbəkəsi səbəbindən yükləməyə pauza verildi, yükləməni bərpa etmək üçün Wi-Fi yandırın.</string>
+  <string name="progress_suspended_wifi">Endirməyə davam etmək üçün Wi-Fi bağlantısı gözlənilir...</string>
+  <string name="progress_verify">Cihazınızın güncəllənməyə hazır olması təsdiqlənir...</string>
+  <string name="progress_verify_allocate_space">Yaddaşın kifayət olub olmadığını yoxlamaq</string>
+  <string name="relative_date_time">%1$s, saat %2$s</string>
+  <string name="release_note_battery_desc">Batareyanın ömrünü və istifadəsini artırmaq üçün yeniləmələr</string>
+  <string name="release_note_battery_title">Batareya</string>
+  <string name="release_note_camera_desc">Bu təkmilləşdirmələr fotoşəkilləri daha dəqiq və detallı şəkildə çəkməyə kömək edir</string>
+  <string name="release_note_camera_title">Kamera</string>
+  <string name="release_note_cellular_desc">Dəyişikliklər cihazın məlumat bağlantısını yaxşılaşdırmağa kömək edir</string>
+  <string name="release_note_cellular_title">Mobil</string>
+  <string name="release_note_charging_desc">Bu yeniləmələr doldurma imkanlarınızı artırır</string>
+  <string name="release_note_charging_title">Enerji yığır</string>
+  <string name="release_note_generic_desc">Dəyişikliklər cihazın ümumi performansını yaxşılaşdırmağa kömək edir</string>
+  <string name="release_note_os_update_desc">Yeni monoxromatik mövzular telefonunuza parlaq görünüş bəxş edir və divar kağızı pop edir. Tətbiqə icazə vermədən və Android 14-ün yeni eşitmə və görmə funksiyaları ilə onu daha əlçatan etməkdən əvvəl proqramların məlumatlarınızı necə istifadə etdiyini və paylaşdığını nəzərdən keçirin.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Dəyişikliklər cihazın işini yaxşılaşdırmağa kömək edir</string>
+  <string name="release_note_performance_title">Performans</string>
+  <string name="release_note_security_desc">vasitəsilə təhlükəsizlik yamaqları daxildir %1$s</string>
+  <string name="release_note_security_title">Təhlükəsizlik yeniləməsi</string>
+  <string name="release_note_stability_desc">Telefonunuzu daha da etibarlı edən təkmilləşdirmələr və səhv düzəlişləri daxildir</string>
+  <string name="release_note_stability_title">Sabitlik</string>
+  <string name="release_note_title">Bu yeniləmə daxildir</string>
+  <string name="release_note_wifi_desc">Wi-Fi bağlantınıza yeniləmələr daxildir</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Android %1$s versiyasındakı bütün yeni xüsusiyyətlərə baxın</string>
+  <string name="request_suspended_datasaver">Yükləməyə başlamaq üçün data qənaətini söndür</string>
+  <string name="request_suspended_no_network">Endirməyə başlamaq üçün şəbəkə əhatəsi yoxdur</string>
+  <string name="restart_after_one_hour">1 saatdan sonra yenidən başladın</string>
+  <string name="restart_instruction_title">Yenidən başlamazdan əvvəl nə bilmək lazımdır</string>
+  <string name="restart_later">Daha sonra</string>
+  <string name="restart_message">Yeniləmək üçün indi yenidən başladın</string>
+  <string name="restart_notification">Yenidən başlat</string>
+  <string name="restart_notification_text">Yeniləmək üçün indi yenidən başladın. Yeniləmə %1$d gündür ki, gözlənilir.</string>
+  <string name="restart_notify_sanity_call_msg">Zəng davam etdiyi üçün cihaz indi yenidən yükləyə bilmir</string>
+  <string name="restart_notify_sanity_maps_msg">Naviqasiya aktiv olduğu üçün cihaz indi yenidən yüklənə bilməz</string>
+  <string name="restart_now">İndi yenidən başlat</string>
+  <string name="restart_postponed">Yenidən başladın təxirə salındı</string>
+  <string name="restart_title">Cihazınızı yenidən başladın</string>
+  <string name="resume_download_on_cellular">Mobil datadan istifadə</string>
+  <string name="retrieving_token">Təsdiq edilir...</string>
+  <string name="sdcard_predownload_text">
+Bu addımda siz yeniləməni sistem yaddaşına kopyalayacaqsınız.
+
+ Yeniləmə növbəti mərhələdə quraşdırılacaq. Batareya enerjisinin bitməməsi üçün telefonu enerji mənbəyinə qoşun.</string>
+  <string name="secure_instruction">Bu proses təhlükəsizdir</string>
+  <string name="security_download_notification_title">Təhlükəsizliyinizi yaxşılaşdırın</string>
+  <string name="security_install_notification_text">Yeni təhlükəsizlik yeniləməsi quraşdırılmağa hazırdır</string>
+  <string name="security_install_title">Təhlükəsizlik yeniləməsi hazırdır</string>
+  <string name="security_patch">Təhlükəsizlik yeniləməsi:</string>
+  <string name="security_update_low_storage_title">Təhlükəsizlik güncəllənməsi</string>
+  <string name="security_update_notification_text">Ən son təhlükəsizlik yeniləməsini əldə edin</string>
+  <string name="security_update_paused">Təhlükəsizlik yeniləməsinə pauza verildi</string>
+  <string name="security_update_pending_notification_text">Ən son təhlükəsizlik yeniləməsini əldə edin. Yeniləmə %1$d gündür ki, gözlənilir.</string>
+  <string name="security_update_title">Təhlükəsizlik yeniləməsi</string>
+  <string name="select_account">%1$s Hesabı seçin</string>
+  <string name="selected_later_time_os_mr">Sistem yeniləməsi bu tarixdə quraşdırılacaq:</string>
+  <string name="selected_later_time_smr">Təhlükəsizlik yeniləməsi bu tarixdə quraşdırılacaq:</string>
+  <string name="setting_sw_summary">Ən son proqram təminatına yeniləyin </string>
+  <string name="setting_sw_title">Sistem yeniləmələri</string>
+  <string name="smart_cancel_update_toast_msg">Yeniləmə yenidən planlaşdırıldı %1$s</string>
+  <string name="smart_end_time">Son</string>
+  <string name="smart_install_message_popup">Siz Ağıllı Yeniləməni aktiv etdiyiniz kimi, o vaxta qədər quraşdırmamısınızsa, cihazınız yeniləməni %1$s üzərində avtomatik quraşdıracaq. Quraşdırma üçün kifayət qədər batareyanız olduğundan əmin olun.</string>
+  <string name="smart_restart_message_popup">Siz Ağıllı Güncəlləməni aktiv etdiyiniz kimi, o vaxta qədər yenidən başlamamısınızsa, cihazınız %1$s tarixində avtomatik olaraq yenidən başlayacaq.</string>
+  <string name="smart_settings_string">Wi-Fi-a qoşulduqda yeniləmələr avtomatik olaraq endirilir və quraşdırılır</string>
+  <string name="smart_settings_string_Softbank">Siz Wi-Fi şəbəkəsinə qoşulduqda və ya mobil datadan istifadə etdikdə yeniləmələr avtomatik endirilir və quraşdırılır</string>
+  <string name="smart_settings_string_vzw">Yeniləmələr avtomatik olaraq endirilir və quraşdırılır</string>
+  <string name="smart_start_time">Başlanğıc</string>
+  <string name="smart_to_string">-</string>
+  <string name="smart_update_advanced">Təkmil</string>
+  <string name="smart_update_note">Təhlükəsizliyiniz üçün bu funksiyanın aktiv və ya söndürülməsindən asılı olmayaraq bütün vacib təhlükəsizlik yeniləmələri avtomatik endiriləcək</string>
+  <string name="smart_update_note_vzw">Təhlükəsizliyiniz üçün bu funksiyanın aktiv və ya söndürülməsindən asılı olmayaraq bütün kritik yeniləmələr avtomatik endiriləcək və quraşdırılacaq.</string>
+  <string name="smart_update_pop_up_text">Avtomatik yeniləmələrlə cihazınızı təhlükəsiz saxlayın</string>
+  <string name="smart_update_recommendation">Ağıllı yeniləmələri sınayın</string>
+  <string name="smart_update_suggestion_text">avtomatik yenilikləri ilə Stay təhlükəsiz</string>
+  <string name="smart_update_text_AB">Bütün yeni təhlükəsizlik yeniləmələrini və baq həllərini avtomatik quraşdıraraq cihazınızın təhlükəsiz və səmərəli işləməsinə kömək edin.</string>
+  <string name="smart_update_text_AB_vzw">Ağıllı yeniləmələr cihazınızın təhlükəsiz və səmərəli işləməsinə kömək edir. Onları yandırdığınız zaman bütün yeni <b>təhlükəsizlik yeniləmələri</b> avtomatik endiriləcək. Yüklədikdən sonra cihazınız seçdiyiniz vaxt yenidən başlayacaq.</string>
+  <string name="smart_update_text_classic">Ağıllı yeniləmələr cihazınızın təhlükəsiz və səmərəli işləməsinə kömək edir. Onları aktiv etdiyiniz zaman bütün yeni <b>təhlükəsizlik yeniləmələri və xəta düzəlişləri</b> avtomatik endiriləcək. Endirmədən sonra cihazınız seçdiyiniz vaxt yenidən başlaylr və yeniləmələr quraşdırılır.</string>
+  <string name="smart_update_text_classic_vzw">Ağıllı yeniləmələr cihazınızın təhlükəsiz və səmərəli işləməsinə kömək edir. Onları yandırdığınız zaman bütün yeni <b>təhlükəsizlik yeniləmələri</b> avtomatik endiriləcək. Yüklədikdən sonra cihazınız seçdiyiniz vaxt yenidən başlayacaq və quraşdırılacaq.</string>
+  <string name="smart_update_time_slot_text_AB">Başlama vaxtını seçin</string>
+  <string name="smart_update_time_slot_text_classic">Quraşdırma vaxtını seçin</string>
+  <string name="smart_update_title">Ağıllı yeniləmələr</string>
+  <string name="software_not_update_to">Proqram təminatınız hələ bu versiyaya yenilənməyib:</string>
+  <string name="software_update_in_progress">Sisteminiz bu versiyaya yenilənir:</string>
+  <string name="software_update_planned_summary">Yoxlanılır - %1$s</string>
+  <string name="software_update_planned_title">Proqram yeniləməsi planlaşdırılır</string>
+  <string name="software_update_to">Sisteminiz bu versiyaya yeniləndi:</string>
+  <string name="sofware_version">Proqram versiyası:</string>
+  <string name="storage_low">Yeniləmə üçün yer saxlayın</string>
+  <string name="su_btn">Ayarlar</string>
+  <string name="su_text_off">Yeni proqram təminatı mövcud olduqda cihazınızı əl ilə yeniləməlisiniz. Prosesi avtomatik etmək üçün Ağıllı yeniləmələri yandırın. Ətraflı məlumat üçün toxunun.</string>
+  <string name="su_text_on">Defolt olaraq, Ağıllı yeniləmələr 1:00 - 3:00 arasında işləyir. Siz yeniləmə vaxtlarını dəyişə və ya ayarlarda Ağıllı yeniləmələri söndürə bilərsiniz. Ətraflı məlumat üçün toxunun.</string>
+  <string name="su_title_off">Ağıllı yeniləmələr deaktivdir</string>
+  <string name="su_title_on">Ağıllı yeniləmələr aktivdir</string>
+  <string name="system_download_notification_title">Sistem yeniləməsi</string>
+  <string name="system_install_notification_text">Sistem yeniləməsi quraşdırılmağa hazırdır</string>
+  <string name="system_install_title">Yeniləmə hazırdır</string>
+  <string name="system_pdl_notification_mr_title">Xəta düzəlişləri və daha çoxu</string>
+  <string name="system_pdl_notification_os_title">Android %1$s buradadır!</string>
+  <string name="system_update">Sistem yeniləməsi</string>
+  <string name="system_update_desc">Cihazınızı təhlükəsizlik təhdidlərindən qoruyun və ən son Motorola əldə edin &amp; Android xüsusiyyətləri</string>
+  <string name="system_update_info_not_available">Əlçatan deyil</string>
+  <string name="system_update_low_storage_text">Yaddaşı yoxlamaq və emal etmək üçün bura vurun.</string>
+  <string name="system_update_low_storage_title">Sistem yeniləməsi</string>
+  <string name="system_update_notification_os_text">Yeni Android-i təcrübədən keçirin</string>
+  <string name="system_update_notification_text">Yeni proqram təminatını endirin</string>
+  <string name="system_update_paused">Sistem yeniləməsinə pauza verildi</string>
+  <string name="system_update_pending_notification_os_text">Yeni Android ilə təcrübə edin. Yeniləmə %1$d gündür ki, gözlənilir.</string>
+  <string name="system_update_pending_notification_text">Yeni proqramı yükləyin. Yeniləmə %1$d gündür ki, gözlənilir.</string>
+  <string name="system_update_settings_list_item_title">Sistem güncəlləmələri</string>
+  <string name="system_update_status">Statusu yenilə</string>
+  <string name="system_update_title">Sistem yeniləməsi</string>
+  <string name="tethered_permission_desc">3c yeniləmə nəticələri göndər</string>
+  <string name="tethered_update_result">Bağlantı yaradılmış Yeniləmə Nəticəsi</string>
+  <string name="time_picker_text">Quraşdırmanı xatırlatma olmadan başlat</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Yenidən sınayın</string>
+  <string name="turn_it_off">Deaktiv et</string>
+  <string name="turn_it_on">Aktiv edin</string>
+  <string name="turn_on_smart_updates">Ağıllı yeniləmələri aktiv et</string>
+  <string name="update">Yenilə</string>
+  <string name="update_blocked_by_policy">Yeniləmə admin siyasəti tərəfindən bloklanıb </string>
+  <string name="update_cancelled_status">Proqram təminatının endirilməsi bu tarixdə ləğv edilib:</string>
+  <string name="update_fail_desc">Xəta baş verdi</string>
+  <string name="update_fail_status">Yeniləmə alınmadı</string>
+  <string name="update_fail_sucancel_dm_status">Yeniləmə server tərəfindən ləğv edildi</string>
+  <string name="update_fail_title">Yeniləmə alınmadı</string>
+  <string name="update_history_blank">Hələ tarix yoxdur</string>
+  <string name="update_history_src_target">%1$s versiyasından %2$s versiyasına yeniləmə</string>
+  <string name="update_history_time">Yenilənmə tarixi: %1$s</string>
+  <string name="update_history_title">Yeniləmə tarixçəsi</string>
+  <string name="update_history_version">Proqram təminatı versiyası: %1$s</string>
+  <string name="update_info">Yenilənir...</string>
+  <string name="update_postpone_policy">Yeniləmə admin siyasəti ilə təxirə salınıb </string>
+  <string name="update_preference">Yeniləmə tərcihləri</string>
+  <string name="update_success_desc">Cari proqram versiyası: %1$s</string>
+  <string name="update_success_desc_os">Təbriklər! Siz uğurla Android %1$squraşdırdınız. İndi daha yaxşı, daha asan və daha etibarlı Android təcrübəsindən zövq almağa hazırsınız.</string>
+  <string name="update_success_status">Yeniləmə müvəffəq oldu</string>
+  <string name="update_title">Yeniləmə bitdi</string>
+  <string name="update_title_text">Yeni proqram təminatınızdan zövq alın!</string>
+  <string name="upto_date_title">Hər şey yaxşı görünür!</string>
+  <string name="urgent_channel_name">Proqram təminatının Yeniləmə Xəbərdarlığı</string>
+  <string name="use_smart_updates">Ağıllı Yeniləmələrdən istifadə edin</string>
+  <string name="vab_validation_update_failure_desc">VAB doğrulaması yenilənmədi</string>
+  <string name="vab_validation_update_failure_title">VAB doğrulaması alınmadı</string>
+  <string name="vab_validation_update_success_desc">Təbriklər! VAB doğrulaması müvəffəq oldu</string>
+  <string name="vab_validation_update_success_title">VAB doğrulama uğuru</string>
+  <string name="verifying_patch">Yeniləmə tətbiq olundu. Tətbiqin uğurlu olduğu təsdiqlənir... (6 addımdan 4-cü addım)  </string>
+  <string name="verity_disabled_msg">Cihazınız təhlükəsizlik risklərinə açıq ola bilər. Yeniləmələr almağa davam etmək üçün aşağıdakı əmri icra edin
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Cihazınız artıq yeniləmələr almır</string>
+  <string name="verizon_failure_notification_text"> Cihazınız bu yeniləməni quraşdıra bilmədi. Qurmaq üçün Software Upgrade köməkçisi vasitəsini istifadə edin. Əlavə məlumat üçün vurun.</string>
+  <string name="verizon_failure_text">Cihazınızı yeniləyərkən problem baş verdi. Heç bir dəyişiklik edilmədi. Proqramınızı yeniləmək üçün Proqram Təkmilləşdirmə Köməkçisi alətindən istifadə edə bilərsiniz.
+
+Proqram Təkmilləşdirmə Köməkçisi alətini quraşdırmaq üçün:
+
+1. Cihazınızı kompüterinizə qoşmaq üçün USB kabeldən istifadə edin
+2. Cihazınızda USB menyusu açıldıqda, yuxarı sağdakı parametrlər ikonasını seçin
+3. USB Preferences-dən Proqram quraşdırılmasını seçin
+4. Kompüterinizə keçin və quraşdırma sihirbazını axtarın
+5. Sehrbazdan keçin
+
+Software Upgrade Assistant aləti sizə cihazınıza proqram yeniləmələrini endirməyə və quraşdırmanıza kömək edəcək.</string>
+  <string name="vital_applying_updates">Yeniləmələr tətbiq olunur ...</string>
+  <string name="vital_bg_text">Bu bir neçə dəqiqə çəkə bilər.</string>
+  <string name="vital_check_for_updates">Yeniləmələr axtarılır ...</string>
+  <string name="vital_check_for_updates_desc">Yeniləmələr cihazınızı təhlükəsiz saxlayır və işini yaxşılaşdırır.</string>
+  <string name="vital_done">Bitdi!</string>
+  <string name="vital_error_fail">Yeniləmə xətası baş verdi. Heç bir dəyişiklik edilməyib.</string>
+  <string name="vital_go_back">Quraşdırmanı dayandırmaq istədiyinizə əminsiniz</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Davam etmək üçün yenidən başladın</string>
+  <string name="vital_skip">Atlayın</string>
+  <string name="vital_stop">Dayan</string>
+  <string name="wifi_setting">Wi-Fi Ayarları</string>
+</resources>

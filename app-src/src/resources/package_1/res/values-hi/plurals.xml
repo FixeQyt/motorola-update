@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">अपडेट पूर्ण करने के लिए आपका उपकरण %1$d सेकंड में फिर से चालू होगा.</item>
+    <item quantity="other">अपडेट पूर्ण करने के लिए आपका उपकरण %1$d सेकंड्स में फिर से चालू होगा.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d सेकंड में फिर से चालू होगा</item>
+    <item quantity="other">%1$d सेकंड में फिर से चालू होगा</item>
+  </plurals>
+</resources>

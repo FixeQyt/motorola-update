@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Kar hã tỹ tãg gé</string>
+  <string name="ab_download_now">Kur tỹ tãg gé ser</string>
+  <string name="ab_install_notification_paused_text">Kã nĩm ge tỹ to jykrén ge tỹ sigũno ki tovãnh tỹ krỹ ke kỹ nĩ</string>
+  <string name="ab_install_notification_text">Kãnĩm ge tỹ to jykrén ge tỹ sigũno ki tovãj ja</string>
+  <string name="ab_restart_fullscreen_text">Ũn sĩ tóg tũ nĩ! 90 mĩnũto ẽn mĩ tóg vin fã ki rã mãn jé. Ti tỹ tãg kej ge tỹ tumẽg nĩ ki kurẽ tỹ %1$d ke nĩ.</string>
+  <string name="ab_restart_text">Ũ sĩ tóg tũ nĩ! 90 sigũnu ẽn mĩ tóg vin fã ki rã mãn mũ.</string>
+  <string name="ab_restart_warning_os_mr">Sistemỹ tỹ tãg ge ja tóg kar rã nĩ ha. Vin fã vỹ </string>
+  <string name="ab_restart_warning_smr">Há kã nĩj ke tỹ kãnĩm ge tóg kar rã nĩ ha. Vin fã vỹ </string>
+  <string name="ab_warning_continues"> ti tỹ tãg ge ja kãn jé</string>
+  <string name="abupdate_in_progress_status">Software ta tãg kej ge tỹ ver ke nĩ</string>
+  <string name="additional_charges_message">Rem ke tóg nén ũ nỹtĩg fã vo tĩ ẽn kãpẽn han nĩj mũ. Nén ũ nỹtĩj fã ti kajãm ge jé ke ẽn han jé tóg há nĩ.</string>
+  <string name="alertSubText">Ti vỹ tỹ ki nén ũ vej fã nĩ, Ti tỹ tãg kej ge ki pakóte tỹ ki vin kãn só.</string>
+  <string name="alertText">Jógo tỹ software tỹ operação kio han tãg</string>
+  <string name="alertTitle">Ti ki han mãn tãg vỹ Tag han ge ki ke mũ.</string>
+  <string name="alert_dialog_cancel">Kãnĩm ge tỹ krỹ ke</string>
+  <string name="alert_dialog_continue">Kãnĩm ge kãpẽn tĩg ra</string>
+  <string name="alert_dialog_no">Hán</string>
+  <string name="alert_dialog_ok">Kinhrã sóg</string>
+  <string name="alert_dialog_yes">Háv</string>
+  <string name="allocate_space_success">Nén ũ kar nỹtĩj fã vỹ kã saj ge nĩ ti ta tãg kej ge han ge ti</string>
+  <string name="allow">hej ke</string>
+  <string name="android_latest_sw_text">Ã tóg software tãg tỹvĩ vóg nĩ</string>
+  <string name="android_version">Android to rá ũ</string>
+  <string name="app_name">Motorola ti software tỹ tãg gej fã</string>
+  <string name="applied">Ti sa ja kurẽ</string>
+  <string name="apply_bug_fix">Nén ũ tỹ ki hã he tũ ẽn ki hyn-han jé ke tỹ kãnĩm ge</string>
+  <string name="apply_os_update">Software tỹ tãg gej fã kar ag tỹ ki vin ge</string>
+  <string name="applying_patch">Tỹ tãg gej fã tỹ kã nĩm nĩ (mĩ tĩg ge %1$d tỹ %2$d)  </string>
+  <string name="are_you_sure">Tỹ tãg gej fã kanhró tỹvĩ ag nĩféj ke?</string>
+  <string name="are_you_sure_pop_up_text">Ã mỹ kenjé tỹ tãg gej fã kanhró tỹvĩ ag nĩféj mũ?  </string>
+  <string name="asc_campaign_assigned">To han ge tỹ mré sa jé</string>
+  <string name="asc_campaign_is_allowed">Firmware ta tãg ke ra</string>
+  <string name="asc_campaign_is_blocked">Firmware ti nĩfénh</string>
+  <string name="asc_campaign_not_assigned">Vin fã ne ũ han ge kã nỹ takã ver.</string>
+  <string name="asc_campaign_status_prefix">
+Status: </string>
+  <string name="asc_campaign_window_period_status">
+Tỹ tãg kej ge jãnkã ror: %s tỹ %s tá krỹg</string>
+  <string name="asc_sw_up_to_date"> to rán ja ũ tỹ vẽhẽ han ja</string>
+  <string name="asc_target_version"> to rá ũ  tá krỹg </string>
+  <string name="auth_title">Sistemỹ tỹ tãg gej fã</string>
+  <string name="auto_download_cellualr_charges_warn">Ti tasa ũ ag tỹ ki vin ge nỹtĩj mũ ã tỹ jógo vo tĩ ỹ tãg kej ge térem kỹ.</string>
+  <string name="auto_download_enable_cellular_future_updates">Ã mỹ nanu vogvo tĩ tỹ han ge tỹ kã saj mũ download ũ ag han ge to kegé?</string>
+  <string name="auto_download_settings_title">Vẽsóg ki download ki hyn-han</string>
+  <string name="auto_download_wifi_cellular">Vẽsóg ki download tỹ kej mũ nanu vogvo fĩn kar Wi-Fi mĩ</string>
+  <string name="auto_download_wifi_cellular_desc">Vẽsóg ki download tỹ kej mũ nanu vogvo fĩn kar Wi-Fi mĩ. Wi-Fi tỹ han ge nĩ ja ta mũ ti tỹ kã sa ẽn kã. </string>
+  <string name="auto_download_wifi_only">Vẽsóg ki download Wi-Fi tỹvĩn fĩn</string>
+  <string name="auto_download_wifi_only_desc">Vẽsóg ki download Wi-Fi tỹvĩn fĩn</string>
+  <string name="auto_install_notification_text">Vẽsóg ki kãnĩm ge ra tĩg pẽn kỹ nĩ ki %1$s</string>
+  <string name="auto_time_set">Ki rãj ke ti óra:</string>
+  <string name="automatic_bg_install_on_cellular_warning">Ti tỹ há tỹvĩ tugnĩn, tỹ tãg gej ke tag tóg vẽsóg ki nén ũ rá tỹ kãki vin fã tỹ vo tĩ ẽn ki kãnĩm mũ%1$s</string>
+  <string name="automatic_download_on_cellular_warning">Ti tỹ tỹvĩ nĩ to tỹ tãg ge tag tóg vẽsóg ki rem mũ nén ũ nỹtĩj fã vo tĩ ag ki %1$s</string>
+  <string name="background_install_msg">Tỹ tãg gej fã tóg kãpẽn tĩg mũ ã tỹ vỹn ken kỹ ketũmỹr ti jẽnkã ror nĩfénh kỹ.</string>
+  <string name="background_install_text">Tỹ tãg ge fã ũ térem nĩ tóg nĩ mré tóg kãnĩm mũ. Ã tỹ kãpẽn vin fã vóg nĩnjé tóg há nĩ.</string>
+  <string name="bad_connection">Ĩternẽti tũ</string>
+  <string name="bad_connection_text">Vin fã tóg ĩternẽti kã kyn ké. Mutũ tỹ krẽm nĩ ẽn ki vóg ki han mãn jé</string>
+  <string name="bg_install_cancel_confirm">Ã mỹ kenjé kã nĩm ge tỹ krỹ ke sór mũ?</string>
+  <string name="bg_retried">Software download vỹ krỹ ké. Tỹ ke mãn ja ẽn tỹ mũ…</string>
+  <string name="bg_suspended">Nén ũ rá tỹ kãki vin fã ki rã to mẽg nĩ ti tỹ térem nĩ ẽn kãpẽ tĩg jé mré kãnĩm ge tỹ to jykré jé sigũnõ ki tovãj ja ẽn ti.</string>
+  <string name="bg_suspended_non_adminapn">Wi-fi ki rãj ke tumẽn nĩ ketũmỹr jógo kaja tũ ti tỹ térem ge ki rã mãn jé mré kãnĩm ge tỹ jykre tỹ sigũno kã nĩ ẽn ti...</string>
+  <string name="bg_suspended_roaming">Kãnĩm ge tỹ to jykrén ja tỹ sigũno ki tovãj ẽn tóg krỹ ké jógo roaming tugnĩn Wi-fi róm ra ã tỹ kãpẽn tĩg jé.</string>
+  <string name="bg_suspended_wifi">Wi-fi ki conexão to mẽg nĩ ti tỹ download ge ra rã mãn jé mré kãnĩm ge tỹ to nĩkrén ge tỹ sigũno kã nĩ ẽn ti…</string>
+  <string name="bootloader_unlock_msg">Vin fã pi ti tỹ há kỹ nĩj ke tỹ tãg gej fã kãrãg mã mỹ ha</string>
+  <string name="bootloader_unlock_title">Nén ũ tãg tỹ ki nỹtĩ tũ </string>
+  <string name="cancel">Tỹ krỹ ke</string>
+  <string name="cancel_download_notification">Tỹ krỹ ke</string>
+  <string name="cancel_install">Tỹ krỹ ke</string>
+  <string name="cancel_update_notification">Tỹ krỹ ke</string>
+  <string name="check_for_updates_title">Han ta tãg ge ja vigvég nĩ</string>
+  <string name="check_update_badparam">Nén ũ kygnẽ tóg tỹ tãg ge mãn jé login tỹ vẽnh kren ja tugnĩn.
+
+Kar hã han mãn nĩ</string>
+  <string name="check_update_checking">Ti tỹ tãg kej ge jãvãnh nĩ…</string>
+  <string name="check_update_disabled_admin">Vin fã tỹ tãg ke TI jo nĩ kar tỹ ki rãnhrãj nĩ</string>
+  <string name="check_update_downloading">Tỹ tãg ge fã ũ térem nĩ tóg nĩ.
+
+ â mỹ tóg vẽnhvĩ rá jẽnẽj mũ ti térem nĩ ẽn kar kỹ.</string>
+  <string name="check_update_fail">Ti kygnẽj ke tũ mẽg nĩ tũ ũ tóg ké.
+
+ Vin fã tóg tỹ tãg gej ke han mãn sór mũ to kykre tỹ sigũno ki</string>
+  <string name="check_update_internal">Pi tỹ tãg gej ke tỹ kã nĩ ẽn vej ke há nĩ Kar hã tỹ ke mãn sór nĩ</string>
+  <string name="check_update_net">Internet ki conexão ve ra kar tỹ ke mãn nĩ.</string>
+  <string name="check_update_net_vzw">Nén ũ rá tỹ kãki vĩn fã tỹ ki rãj tugnỹm ge tóg nĩ ti tỹ ta tãg gej fã to ũ tỹ ki nỹtĩ ẽn ve jé. Tag ki rã ra Ki han fã &gt; Jógo mré ĩternẽti &gt; Wi-Fi kar ã Wi-Fi conexão vem nĩ.
+
+Ã tỹ motorola.com/systemupdates ki rã jé ã há nĩ tỹ tãg gej fã to ke ũ ag vigve jé.</string>
+  <string name="check_update_not_sys_user">Ti tỹ tãg kej ge tugnỹm pi tỹ kej ge há nĩj mũ vóg ge ũ ag to ke pẽ tỹ.</string>
+  <string name="check_update_processing">Ã tỹ to rãnhrãj nĩ ẽ mré vãmén ge…
+tu mẽ ra</string>
+  <string name="check_update_roaming">Sistemỹ tỹ tãg gej fã tóg ĩn ki ke jé jógo ẽn hã kã nĩj mũ 
+
+Ki rãm nĩ Ki han ge &gt; Ĩternẽti jé jógo &gt; ti tỹ ki rãj ke tỹ ve há kenjé</string>
+  <string name="check_update_storage_low">Pi tỹ tãg ge há nĩ mỹr pi vin fã ki nén ũ vĩn fã ki vẽso mág nĩ.</string>
+  <string name="check_update_temperror">Pi térem ge ũ tỹ tãg gej fã kãn ge króm mũ.
+
+Han mã sór ra</string>
+  <string name="check_update_text">Kãnhmar tugnỹm mãn gem nĩ tỹ tãg gej fã tỹ há kã nĩm ge ẽn mré vin fã tỹ tĩg há han tĩ ẽn han jé.</string>
+  <string name="check_update_title_downloading">Térem nĩ tóg nĩ...</string>
+  <string name="check_update_vab_validation">VAB ti tỹ tãg ge ja tỹ há ẽn tugnỹm nĩ.
+To mẽ ra...</string>
+  <string name="check_update_wifi_only">Software tỹ tãg gej fã tóg Wi-fi tỹvĩ ki ve há kej mũ. </string>
+  <string name="check_wifi_settings">Wi-fi ki hyn-han fã ag tugnũm nĩ</string>
+  <string name="clear_space">Vẽso kuprãg ge</string>
+  <string name="cloud_picker_title">Kanhkã-góg géj fã</string>
+  <string name="compatibility_failed_title">Ti né tugnỹm ge tóg vẽnh kren</string>
+  <string name="compatibility_verification_failure">Tỹ tãg gej ke ti né térem nĩ ẽn pi software ti to rá tãg tỹ ã vin fã kã nĩ ẽn ki há nĩ</string>
+  <string name="compatibility_verification_failure_df">
+
+Tugnỹm nĩ ã Dogfood to nĩ tĩ mré.</string>
+  <string name="compatibility_verification_success">Tugnỹm ge kãn kỹ nĩ</string>
+  <string name="completed"> Kãnĩm ge ki kro. Ti vỹ ã tỹ terefãnĩ pẽnjẽg jé pini kej mũ (Han ge tỹ %1$d tỹ %2$d ki).</string>
+  <string name="completed_install">%s kãn kỹ nĩ</string>
+  <string name="connect_to_wifi">Wi-fi ra rã</string>
+  <string name="continue_button">Kãpẽn tĩg</string>
+  <string name="critical_install_message_popup_os_mr">Tỹ tãg gej fã há tỹvĩ ũ tóg kar nĩ ha sistemỹ ki. Kãnĩm ge kuprãg nĩ ã tỹ ti tỹ tãg gej fã tỹ ki han jé. ketũmỹr, tỹ tãg gej fã tóg vẽsóg ki kãnĩm mũ%1$s.</string>
+  <string name="critical_install_message_popup_smr">Há kãnĩj ke tỹ tãg gej fã há tỹvĩ ũ tóg kã nĩ ha. Kãnĩm ge kuprãg nĩ ã tỹ ti tỹ tãg gej fã tỹ ki han jé. ketũmỹr, tỹ tãg gej fã tóg vẽsóg ki kãnĩm mũ%1$s.</string>
+  <string name="critical_install_message_screen">Tỹ tãg gej ke fã tag tóg há tỹvĩ nĩ mré vẽsóg ki kãnĩm ge tóg %1$s. Materija ti ki nĩ ẽn tugnỹm nĩ ti tỹ kãnĩm ge han ge tá krỹg há ẽn.</string>
+  <string name="critical_install_notification">Tỹ tãg gej fã tag ti há tỹvĩ nĩ ẽn tugnĩn, tóg vẽsóg ki kãnĩm ge han mũ %1$s.
+ Kãnĩm ge jé tẽpo: %2$d mĩnũtu</string>
+  <string name="critical_restart_message_popup">Vin fã ki rã mãn nĩ ti tỹ há kãnĩj ke ẽn tỹ tãg gej fã ẽn han ge kã sa jé. Ã tỹ tag han tũn vi fã vỹ vẽsóg ki pẽnjẽg mãn mũ %1$s ki.</string>
+  <string name="critical_restart_message_screen">Tỹ tãg ge tag ti tỹ nén ũ há tỹvĩ nĩ tugrĩn, vin fã tóg vẽsóg ki vyn kej mũ %1$s, ã tỹ han tũ nĩn kỹ.</string>
+  <string name="critical_restart_notification">Tỹ tãg kej ge tag vỹ tỹ kej ge nĩ. Ã tỹ uri vin fã pẽnjẽg ge kórég kỹ, tag vỹ vẽsóg ki kej mũ %1$s ki.</string>
+  <string name="critical_update_notification_title">Tỹ tãg ge ja to vej ke</string>
+  <string name="current_version">Software ti to rán ja tãg</string>
+  <string name="custom_slot">Ki tỹ sĩnvĩ kej ge</string>
+  <string name="custom_time">Orarijo vẽnh sĩnvĩn kỹ sa ser</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s, %s</string>
+  <string name="defer_count_expired">Kinhrã sóg</string>
+  <string name="deny">Va</string>
+  <string name="details">To ke sĩ</string>
+  <string name="device_corrupted_msg">Nén ũ kórég ve ẽg tóg sistẽmỹ ki. Ti tỹ ki tỹ nén ũ kórég kinhra ẽg tỹ nỹtĩ, hãra ã tỹ ẽn mĩ ki han fã ra tĩg ge nĩj mũ.
+
+Terefãnĩ ki han kar, ẽg tỹ vin fã tỹ tãg ke mãn mũ.</string>
+  <string name="device_corrupted_title">Pi terefãnĩ tỹ tãg ge ki kro mũ</string>
+  <string name="dialog_alert_net_message">Nanu vogvo nỹtĩ ki conexão tugnỹm ra ketũnĩn kỹ Wi-Fi ti kar tỹ ke mãn nĩ.</string>
+  <string name="dialog_alert_net_title">Ã vin fã tóg ki rã mẽ nĩ</string>
+  <string name="dialog_alert_title">Materija krój</string>
+  <string name="dialog_progress">Rĩnh jẽ</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fi ki vóg nĩ ke ja tóg mũ nén ũ rem jé, mỹr nanu'e vugvóg rĩnh ge tỹ roaming kã nĩ ketũmỹr kã nĩ tũ ẽn tóg ti kajãm ge ũ kãrãg mũ. 
+
+Ã tỹ software tag ti térem nĩ ki ã vin fã vóg jé tóg há nĩ.</string>
+  <string name="done">Kãn kỹ nĩ</string>
+  <string name="dont_show_this_again">Ven mãn ge tũ</string>
+  <string name="download_cancelled_title">Térem ge tỹ krỹ ke</string>
+  <string name="download_deferred_status">Software térem ge vỹ ker hã tỹ kej ge to tuvãnh kã</string>
+  <string name="download_failed_status">Tỹ tãg gej fã térem tóg vẽnh kren</string>
+  <string name="download_in_progress_status">Software ta tãg kej ge tỹ ver ke nĩ</string>
+  <string name="download_later_button">Kar hã térem ge</string>
+  <string name="download_no_button">Vó, há tỹ nĩ</string>
+  <string name="download_note">Ã tỹ ã vin fã vóg jé tóg há nĩ ti tỹ kãnĩm ge tỹ tãg ge nĩ to mẽ tu.</string>
+  <string name="download_now">kur térem ge </string>
+  <string name="download_now_button">Térem</string>
+  <string name="download_options">Térem ge jé ke ag</string>
+  <string name="download_progress_cancel_message">Kar hã tỹ tãg gej ke térem jé, ki rãj ke ki han fã &gt; sistemỹ tỹ tãg gej fã ag.</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$ském kỹ nỹtĩ (%2$s/%3$s) </string>
+  <string name="download_progress_paused_message">%s%% Térem ja (krỹ ke ja)</string>
+  <string name="download_progress_text">Ã tỹ térem fã tõg kãpẽn tĩg mũ ã tỹ vỹn ken kỹ ketũmỹr ti jẽnkã ror nĩfénh kỹ.</string>
+  <string name="download_subtitle">Ã nén ũ kinhra nĩj ge ti tỹ tãg ke jé térem ge ti:</string>
+  <string name="download_text_whats_new">Nén ũ tãg ag vigve ra</string>
+  <string name="download_time_left">%1$s kén ja (ag)</string>
+  <string name="download_version">To rá ũ %1$s– %2$s</string>
+  <string name="download_wifi_only_error">Wi-fi vóg ge tóg tũ nĩ tỹ tãg gej fã térem jé. Térem fã ra tóg vỹn ke mãn mũ ki rãj ki han mãn kar.</string>
+  <string name="downloaded_percentage">%1$s térem ja to ke kar vẽ</string>
+  <string name="emergency_call_btn_txt">Fũrũr ke</string>
+  <string name="emergency_call_text">Ki rã mãn nĩ kãki, pi jamrẽr ke ẽn ketũmỹr jun ã mỹ kã rãj ge ẽn han jé há nĩj mũ, kore kej fã vẽjaprẽr ke ẽn mré hã.</string>
+  <string name="enable_wifi_error_txt">Wi-fi ki rãm nĩ tỹ tãg gej ke térem jé</string>
+  <string name="eol_explore">Vin fã tãg ag kinhrãg ge</string>
+  <string name="eol_last_update_text">Patch tỹ há kã nĩ</string>
+  <string name="eol_promote">To nén ũ kajã tãg nỹtĩ ẽn vigvej ke</string>
+  <string name="eol_title">Ã vin fã tóg software tãg tỹvĩ ẽn vóg nĩ ha.</string>
+  <string name="err_title_contact_server">Tỹ rãnhrãj fã ti mré vĩj ke...</string>
+  <string name="err_title_memory_low">Ki ẽkrén ge sĩ</string>
+  <string name="err_title_temp_error">Kygnẽ tỹ kãnĩj ke sĩ vẽ</string>
+  <string name="err_title_update">Tỹ tãg gej fã ti kygnẽ</string>
+  <string name="error_code">Kygnẽ to kónhigo: </string>
+  <string name="error_copyfail">Kartỹv SD nĩgja vej ke kãgran ge tõg vẽnhkren.</string>
+  <string name="error_disabled">Tỹ tãg gej fã térem tóg vẽnh kren Tỹ tãg ge fã ti né tóg pi ver kã nĩ. 
+
+ Nén ũ han ge pi kã nĩ</string>
+  <string name="error_fail">Nén ũ tóg hẽn riké ã tũ tỹ tãg ge nĩ ra%1$s. Tỹ ũ kej ke ũ pi han kỹ nĩ. Ki hyn-han fã &gt; Sistẽmỹ ta tãg kej fã ra rãm nĩ kar tỹ ke mãn sór nĩ.</string>
+  <string name="error_in_call_msg">Pi vin fã ra rã mãn ge há nĩ vẽjaprãr nĩ ẽn tugnĩn.</string>
+  <string name="error_in_call_title">Vẽjaprãr tĩg sa...</string>
+  <string name="error_install_title">Kãnĩm ge tóg vẽnh kren</string>
+  <string name="error_mismatch">To rá e' ag pi kãki jagnẽ ki há nỹtĩ Tỹ tãg gej ke ũ tóg han ge kỹ nĩ Tỹ tãg gej ke tỹ kã nĩnkỹ ã mỹ to vãme tóg kãrãj mũ.</string>
+  <string name="error_mismatch_sd">Tỹ tãg gej ke kren tóg. Ã tỹ ki ũ mré vãmén fã pi tỹ tãg ge fã to rá tag ki há nĩ. 
+
+ Ã tỹ ũ mré ki vãmén fã jé to vẽnhrá ẽn térem nĩ kar ki han mã nĩ.</string>
+  <string name="error_network">Ki rãj ke kren tóg. Ã nĩgé tỹ ki vóg nĩ ki terefãnĩ ki vãmén fã ki hyn-han ge tãg han mãn jé.</string>
+  <string name="error_reboot">Pi tỹ tãg gej ke térem ki kro mũ. Ã tỹ kar hã tỹ tãg ge sór kỹ, ã vin fã ki rã mãn nĩ kar ki hyn-han fã ra rã &gt;Sistemỹ tỹ tãg kej fã.</string>
+  <string name="error_resources">Pi tỹ tãg gej ke térem ki kro mũ. Ã tỹ kar hã tỹ tãg ge sór kỹ, ki hyn-han fã ra rã &gt; Sistemỹ tỹ tãg kej ge.</string>
+  <string name="error_sdcard_resources_fail_removal">Kartỹv SD kunũnh tóg. Pi térem fã ti kãn tá krỹg mũ. 
+
+Kartỹv SD tỹ ra rãg mãn kar ki hyn-han fã &gt; ã tỹ térem mãn sór ka. 
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">Pi térem fã ti kãn tá krỹg mũ. Pi kartỹv SD ki vẽso mág nĩ. 
+
+ Vẽso tovãnh nĩ mre ki rãm nĩ Ki han fã &gt; sistemỹ tỹ tãg gej fã térem mãn sór jé.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Kartỹv SD tỹ ki rã nĩ ti tỹ ki térem jé
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Kartỹv SD róm nĩ térem ge ki rã jé. 
+
+ Ra tĩg ra "Ki han ge" &gt; "kãki vĩn ge" &gt; "Kartỹv SD róm ge".
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">Pi kartỹv SD ki vẽso mág nĩ térem ke kãn jé. 
+
+ tovãnh nĩ %1$s vẽso ti kar ki rãj ke jé Ki han fã &gt; sistemỹ tỹ tãg gej fã ti ã tỹ ki han mãn sór jé.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Vẽnhkren</string>
+  <string name="error_sdcard_resources_warning">Software ti tỹ tãg ge ja térem nĩ tóg nĩ Kartỹv SD ra. 
+
+ Kir kartỹv tỹ ranh ké hẽ ti tỹ kãnĩm ge kar tũg ki.
+
+
+</string>
+  <string name="error_server">Nén ũ tóg hẽn riké tỹ rãnhrãj fã ti ki Kar hã tỹ ke mãn sór nĩ</string>
+  <string name="error_space">Tỹ tãg gej ke tag tỹ inh mỹ %1$s vin fã ki nén ũ vin fã jé vẽso ũ tovãnh kej mũ. 
+
+ Ã tỹ app vóg vãnh ag kykũnhkũnh nĩ ketũmỹr kãgrá mré kãgrá vogvo tĩ ag mũn nĩ vin fã tỹ nén ũ vin fã ũ ra ti tỹ %2$s vẽso ũ tovãj jé. 
+
+ Kar ki rãj ke, Ki han fã &gt; Sistemỹ tỹ tãg gej fã ỹ tãg gej fã ki rã jé nén ũ tỹ hẽn rike mũ kã.</string>
+  <string name="error_space_retry">Tỹ tãg gej ke tag tỹ inh mỹ %1$s vin fã ki nén ũ vin fã jé vẽso ũ tovãnh kej mũ. 
+
+ Ã tỹ app vóg vãnh kykũnhkũnh nĩ ketũmỹr kãgrá mré kãgrá vogo tĩ ag mũn nĩ vin fã ũ ra ti tỹ %2$s vẽso tovãj jé.</string>
+  <string name="error_space_vab">Tỹ tãg gej ke tag tỹ %1$s ta gé kej mũ vin fã ki nén ũ vin fã jé vẽso ũ tovãnh kej mũ. Nén ũ kar nỹtĩj fã vẽso ũ tuvãnh ra ti ta tãg kej ge ta ki vin jé.</string>
+  <string name="error_space_vab_make_room_popup">â vỹ ti vẽso %1$s kuprẽg ge nĩ ti ta tãg ge han jé. Ã tỹ app vóg vãnh kykũnhkũnh nĩ ketũmỹr kãgrá mré kãgrá vogvo tĩ ag mũn nĩ vin fã ũ ra.</string>
+  <string name="error_title">Térem ge tóg vẽnh kren</string>
+  <string name="error_verify">Pi tỹ tãg ge ja to hej kej ke ki hã ke mũ. Han mãn ra</string>
+  <string name="failed">Vãnh kren</string>
+  <string name="failed_in_roaming">Ki Wi-Fi nĩj ge ti tỹ tãg ke jé</string>
+  <string name="failure_process">To vãme sĩ pi kã nĩ</string>
+  <string name="finalizing_patch">Tỹ tãg gej fã tỹ kãnĩm nĩ… (Han ge tỹ 5 tỹ 6 ki)  </string>
+  <string name="first_net_text">Tỹ tãg gej fã tỹ kãnĩm ketũmỹr tóg vẽsóg ki kãnĩm mũ ki rã mãn gen kỹ. Tugnỹ nĩ materija tỹ kỹ nĩ ẽn tỹ éhé ven jé %s</string>
+  <string name="forceInstallMessage">tỹ tãg ge tag tó vẽsóg ki kãnĩm mũ %1$s.</string>
+  <string name="force_install_message_screen">Tỹ tãg gej ke tag tóg há tỹvĩ nĩ mré ti tỹ kãnĩm ge tóg han há nĩ ẽn ge kã%1$s. Ketũmỹr, ti tỹ vẽsóg ki kãnĩm mũ vin fã ti tỹ vóg mẽ nĩ ẽn kã. Materija ti ki nĩ ẽn tugnỹm nĩ ti tỹ kã nĩm ge han ge tá krỹg há ẽn.</string>
+  <string name="force_install_notification_message">Kãnĩm nĩ ẽn ge ra%1$s. Ketũmỹr, vin fã tóg vẽsóg ki kãnĩm mũ ti tỹ óra ũ kã vo mẽ nĩ ẽn kã.
+ Kãnĩm ge jé tẽpo: %2$d mĩnũtu</string>
+  <string name="force_restart_notification_message">Ra rã mãn ge ra%1$s. Ketũmỹr, vin fã tóg vẽsóg ki ki rãj mãn mũ ti tỹ óra ũ ki sĩn kỹ vo nĩ ẽn kã.</string>
+  <string name="force_restart_screen_message">Ã tỹ vin fã tỹ ki rã mãn ge han tũ nĩnkỹ %1$s, tóg vẽsóg ki han mũ ti tỹ óra ũ ki vo sĩ han nĩ ẽn kã.</string>
+  <string name="google">Google</string>
+  <string name="got_it">Kinhrãg sóg</string>
+  <string name="important_update_install_overdue_message">Kãnĩm ge to óra kã nĩm ja tóg vyr hore. Kãnĩm ge ki rã ja tóg mũ vin fã tỹ nén ũ tỹ ki nỹtĩj ke ẽn tá krỹg kỹ.</string>
+  <string name="important_update_restart_overdue_message">Ki rã mãn ge to óra kã nĩm ja tóg vyr hore. Vin fã ki rã mãn ja tóg mũ ti tỹ nén ũ tỹ ki nỹtĩj ke ẽn tá krỹg kãn kỹ.</string>
+  <string name="initiating_ota_service_msg">To mẽ ra…</string>
+  <string name="initiating_ota_service_title">Software tỹ tãg ke nĩ ra rã nĩ</string>
+  <string name="install">Kãnĩm ge</string>
+  <string name="install_after_one_hour">1 óra ki kã nĩm ge</string>
+  <string name="install_cancelled_title">Kãnĩm ge tóg krỹ ké</string>
+  <string name="install_deferred_status">Ta tãg ke vỹ kurẽ ũ kã tỹ ke mãn ge kã sa kã</string>
+  <string name="install_later">Kar hã kã nĩm ge</string>
+  <string name="install_notify_sanity_call_msg">Pi vinfã ki nén ũ tỹ kã saj há nĩ vẽjaprãr nĩ ẽn tugnĩn.</string>
+  <string name="install_notify_sanity_maps_msg">Pi vinfã ki nén ũ tỹ kã saj há nĩ kãmĩ nén ũ kar vugvóg ge tugnĩn.</string>
+  <string name="install_now">Kãnĩm ra ser</string>
+  <string name="install_postponed">Kar hã kã nĩm ge </string>
+  <string name="install_progress_cancel_message">Kar hã tỹ tãg gej fã tỹ kãnĩm jé, ki hyn-han fã ra rã &gt; Sistemỹ tỹ tãg kej ge.</string>
+  <string name="install_progress_paused_message">%s kar kỹ nĩ (krỹ ke kỹ nĩ)</string>
+  <string name="install_time">Kãnĩm ge jé tẽpo: %1$d mĩnũtu ki</string>
+  <string name="install_warning">Nén ũ tỹ kã sa tũ ki, ã vỹ nén ũ tag ag kinhra nĩj ge nĩ: </string>
+  <string name="just_one_more_step">Ũ han mãn ge ver</string>
+  <string name="keep_it_on">Rugróm kỹ tugvãj ke</string>
+  <string name="later_button">Kar hã to jykrén ge</string>
+  <string name="learn_more_online_link">On-line kã nĩ ki kinhrãg mãn</string>
+  <string name="low_battery_bg_install">Ti kã sa vỹ ke sĩ han materija tỹ krój tugnĩn kỹ ti vỹ ke mãn mũ ti fãn nĩ tỹ 20% kã sa kãfór kỹ nĩ ẽn kã.</string>
+  <string name="low_battery_download">Térem ge tỹ krỹ ke tóg materija tóg krój nĩnkỹ. Ra vỹn ke ja tóg mũ vin fã ti rĩj ke fór kỹ</string>
+  <string name="low_battery_install">Vin fã ti fãn ge kãnĩm nĩ %s ã tỹ ta tãg gej fã tag tỹ kãnĩm tũ ki.</string>
+  <string name="make_space">Vẽso tovãj ke</string>
+  <string name="mandatory_install_notification">Sistemỹ tỹ tãg gej fã tag tỹ kãnhmar ki han mẽ nĩnkỹ, ã tóg há kãnij ke tỹ tãg gej fã há tỹvĩ ẽn ag krenkren mũ, rikursu tãg ag mré kygnẽ ja ki hyn-han fã ti ke gé.</string>
+  <string name="mandatory_restart_notification">tỹ tãg gej ke tag tỹ há tỹvĩ ki ẽn tugnĩn, kur ki rã mãn nĩ. Ketũmỹr, ã tóg há kỹ nĩj ke tỹ tãg ge ja kren mũ, rikursu tãg ẽn ke gé mré kygnã ki han fã ti ke gé.</string>
+  <string name="medium_channel_name">download ti software to vãme ven fã</string>
+  <string name="merge_emergency_call_text">Ti pẽnjẽg mãn nĩ ẽn kã, pi jamrẽr ge nĩj mũ kar ti ki vĩj ge nĩj mũ gé, kore kej fã vẽjaprẽr ke ẽn mré hã.</string>
+  <string name="merge_force_restart_text">Ã pẽnjẽg mãn ge tũn kỹ, terefãnĩ tỹ pẽnjẽg mũ ti tỹ ne han mỹ nỹ ẽn kã.</string>
+  <string name="merge_progress_text">Ti tỹ tãg kej kãn kar, ẽg tỹ nén ũ to vãme jãnãj mũ.</string>
+  <string name="merge_progress_title">Ti tỹ tãg ke tákrỹg nĩ…</string>
+  <string name="merge_restart_text">Ti rỹ tãg ke tỹ kar mũ terefãnĩ pẽnjẽg mãn kar.</string>
+  <string name="merge_restart_title">Pẽnjẽg mãn nĩ</string>
+  <string name="merge_update_fail_notify_text">Nén ũ kórég ũ vigve ẽg tóg sistẽmỹ ki. Ki han fã ra tĩg nĩ ã tỹ tag ki han jé.</string>
+  <string name="merge_update_fail_notify_title">Tỹ tãg ge tỹ vẽnhkren</string>
+  <string name="merge_update_fail_text">Nén ũ kórég ũ vigve ẽg tóg sistẽmỹ ki ti tỹ tãg ke han ge ti. Ki han fã ra tĩg nĩ ã tỹ tag ki hyn-han jé.
+
+Tag jãvo, ã tỹ terefãnĩ vóg nĩ há han mũ.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">kãnta ũ kuprãg ra</string>
+  <string name="multiple_account_alert">Sistemỹ tỹ tãg gej ke tỹ kãpẽn tĩg jé, kãnta ũ kuprãg nĩ%1$s.</string>
+  <string name="no_thanks">Vó, há tỹ nỹ</string>
+  <string name="no_thanks_message">Ã tỹ kar hã tỹ tãg ge sór kỹ, ki hyn-han fã ra rã &gt; Sistemỹ tỹ tãg kej ge.</string>
+  <string name="no_updates_applied">Ti tỹ tãg ge ũ tỹ kã sa ja tũ.</string>
+  <string name="not_now">Kar hã</string>
+  <string name="ok">OK</string>
+  <string name="otaservice_perm_desc">Inh mỹ hẽj kem nĩ ke ja tóg mũ aprikativo ti tỹ otaservice mré jagnẽ ki rã jé.</string>
+  <string name="package_size">Térem fã kãmur: %1$s</string>
+  <string name="personalInfo_instruction">Ti to nén ũ kãme pẽ ũ pi vẽnh kren mũ.</string>
+  <string name="picker_cell_radio">Wi-Fi mré nanu 'e vugvóg</string>
+  <string name="picker_title">Ã tỹ ta tãg gej fã tag térem jé ũ tỹ ã mỹ há ẽn kuprãg nĩ:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi tỹvĩn</string>
+  <string name="please_restart">Kur ki rãj ke</string>
+  <string name="policy_set">Sistemỹ tỹ tãg ge ja tóg nĩfénh kỹ nĩ. Ã tỹ to vãme ũ ve sór kỹ ã vin fã ti to nĩ ti mré vĩn nĩ.</string>
+  <string name="press_back_again_to_exit">ã tỹ kutẽ jé, mutũ VỸN KE ki gỹm nĩ</string>
+  <string name="progress_copying_sd">Ũ tãg kãgrá han nĩ</string>
+  <string name="progress_deffered">Térem ge tóg ki rãj ke mũ jógo vój fã/Wi-fi ki</string>
+  <string name="progress_downloading_ota">Sistemỹ tỹ tãg gej ke térem nĩ...</string>
+  <string name="progress_downloading_security">Há kã nĩm fã tỹ tãg gej ke ẽn térem nĩ...</string>
+  <string name="progress_retried">Software download vỹ krỹ ké. Tỹ ke mãn ja ẽn tỹ mũ…</string>
+  <string name="progress_suspended">Nén ũ rá vin fã tỹ ki rãj ke tũ mẽg nĩ tóg nĩ ti tỹ térem ké...</string>
+  <string name="progress_suspended_datasaver">To ke pẽ nỹtĩj fã tỹ mãnu To fen ge kỹ nĩ ẽn nhyn nĩ ti tỹ térem nĩ ẽn ra rã mã jé</string>
+  <string name="progress_suspended_no_adminapn">Wi-fi tỹ ki rã tumẽg nĩ ketũmỹr jógo kaja tũ ẽn ti tỹ térem nĩ ẽn rã mãn jé</string>
+  <string name="progress_suspended_roaming">Térem ge tóg krỹ ké jógo roaming tugnĩn. Wi-fi róm ra ã tỹ kãpẽn tĩg jé.</string>
+  <string name="progress_suspended_wifi">Wi-fi tỹ ki rã to mẽg nĩ ti tỹ térem ge ra rã mãn jé...</string>
+  <string name="progress_verify">Tugnỹm nĩ ã vin fã tỹ kar kỹ nĩ ti vóg jé kar ti tỹ tãg ke jé…</string>
+  <string name="progress_verify_allocate_space">Nén ũ kar nỹtĩj fã ta vin han ge tá krỹ ẽn nĩgjãg nĩ...</string>
+  <string name="relative_date_time">%1$s kã %2$s</string>
+  <string name="release_note_battery_desc">Ti tỹ tãg ke tỹ materija vóg nĩ mág ge tỹ há tĩ.</string>
+  <string name="release_note_battery_title">Materija</string>
+  <string name="release_note_camera_desc">Tỹ há tag ag tỹ fótu nũnh ge há tỹvĩ han tĩ kar ki hã han ge ti.</string>
+  <string name="release_note_camera_title">Kỹmẽra</string>
+  <string name="release_note_cellular_desc">Vin mãn ge tỹ vin fã ti nanu rãnhrãj há han ge tỹ ke tĩ.</string>
+  <string name="release_note_cellular_title">Serurar</string>
+  <string name="release_note_charging_desc">Tỹ tãg ke tag tỹ ti fãn ge kuge tỹ mág ke tĩ.</string>
+  <string name="release_note_charging_title">Fãn</string>
+  <string name="release_note_generic_desc">Vin mãn ge tỹ vin fã ti rãnhrãj há ke kãn han ge tỹ ke tĩ.</string>
+  <string name="release_note_os_update_desc">Mãnũkromỹtiko ki ven ge tãg tỹ terefãnĩ ki kyr tỹ'ũ ke tĩ kar tỹ ti nhin tá prỹnũ tỹ ve há ke tỹvĩn tĩ. Tugnỹm ra hẽrenkỹ app ag tỹ ã nanu ag jãgnã ti ti han ge tỹ kã sa tũg ki kar ti tỹ vóg nĩj ge há ti Android 14 ti ki ẽmẽ kar ti vej ge jé ti kuge tãg ag.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Vin mãn ge tỹ vin fã ti rãnhrãj há han ge tỹ ke tĩ.</string>
+  <string name="release_note_performance_title">Ti rãnhrãj</string>
+  <string name="release_note_security_desc">Ki vỹ há ki patches nĩgtĩ %1$s tá krỹg ge ti.</string>
+  <string name="release_note_security_title">Há kã nĩ ẽn ti tỹ tãg gej ke</string>
+  <string name="release_note_stability_desc">Ki tỹ ki han ja tỹ há ke nĩgtĩ ti kygnẽ ja ti ag tỹ ã terefãnĩ tỹ há ke tỹvĩn han ge ti.</string>
+  <string name="release_note_stability_title">Krỹ ke ka nỹ</string>
+  <string name="release_note_title">Ti tỹ tãg ke tag vỹ ki ke nĩ</string>
+  <string name="release_note_wifi_desc">Ki vỹ tỹ tãg kej ge nĩ Wi-Fi ki rãj ge to.</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Android %1$s to rikurso tãg ag vigve ra</string>
+  <string name="request_suspended_datasaver">Mãnu nén ũ rá tỹ kãki vin fã To fen ge ẽn nĩfénh nĩ térem ge ki rã jé</string>
+  <string name="request_suspended_no_network">Pi hẽrenkỹ jógo ki rãj ke nĩ, térem ge ki rã jé.</string>
+  <string name="restart_after_one_hour">1 óra kar ki rã mãn nĩ</string>
+  <string name="restart_instruction_title">Ã ne kinhra nĩj ke nĩ, ã tỹ ki rã mãn tũ ki:</string>
+  <string name="restart_later">Kar hã</string>
+  <string name="restart_message">Pẽnjẽg mãn ra ser, ã tỹ software tỹ tãg gen jé.</string>
+  <string name="restart_notification">Ra rã mãn</string>
+  <string name="restart_notification_text">Pẽnjẽg mãn ra ti tỹ tãg ke jé. Ti tỹ tãg kej ge tỹ tumẽg nĩ ki kurẽ tỹ %1$d ke nĩ.</string>
+  <string name="restart_notify_sanity_call_msg">Pi vinfã ra rã mãn ge há nĩ vẽjaprãr nĩ ẽn tugnĩn.</string>
+  <string name="restart_notify_sanity_maps_msg">Pi vinfã ra rã mãn ge há nĩ kãmĩ nén ũ kar vugvóg ge tugnĩn. </string>
+  <string name="restart_now">Kur ki rãj ke</string>
+  <string name="restart_postponed">Ki rã mãn ge tóg kar hã han ge to nĩ</string>
+  <string name="restart_title">Vin fã ki rã mãn</string>
+  <string name="resume_download_on_cellular">Nén ũ tỹ kãki vin fã vo tĩ ẽn vóg ge</string>
+  <string name="retrieving_token">kinhrãg nĩ...</string>
+  <string name="sdcard_predownload_text">
+ Mĩ tĩg ge tag ki ã tóg, tỹ tãg ge ja tỹ sistemỹ ti tỹ ki ẽkrén fã ra kãgran kỹ tĩn mũ. Tỹ tãg gej ke tóg kãnĩm ge tỹ kãrãj ke ũ ki rãj mũ. 
+
+ Ã tỹ ki ũ mré vãmén fã tỹ ti fãn ge ra rãg nĩ ti materija tỹ tũ ke tũ nĩnjé.</string>
+  <string name="secure_instruction">Mĩ tĩg ge tãg tóg há kã nĩ.</string>
+  <string name="security_download_notification_title">Há kã nĩj ke tãn ra</string>
+  <string name="security_install_notification_text">há kã nĩj ke tỹ tãg gej fã tãg tóg kar kỹ nĩ ha kã nĩm jẽ</string>
+  <string name="security_install_title">Tỹ tãg gej ke ũ tóg kar kỹ nĩ ha</string>
+  <string name="security_patch">Patch tỹ há kã nĩ</string>
+  <string name="security_update_low_storage_title">Há kã nĩ ẽn ti tỹ tãg gej ke.</string>
+  <string name="security_update_notification_text">Ti tỹ há kã nĩj ke ẽn tỹ tãg gej fã tãg tỹvĩ tỹ kãnĩm</string>
+  <string name="security_update_paused">Tỹ tãg gej fã tỹ há kã nĩ ẽn tóg tỹ krỹ ke kỹ nĩ.</string>
+  <string name="security_update_pending_notification_text">Ti tỹ há kã nĩj ke ẽn tỹ tãg kej ge térem ra. Ti tỹ tãg kej ge tỹ tumẽg nĩ ki kurẽ tỹ %1$d ke nĩ.</string>
+  <string name="security_update_title">Há kã nĩ ẽn ti tỹ tãg gej ke.</string>
+  <string name="select_account">Kãnta ũ kuprãg ge ti %1$s</string>
+  <string name="selected_later_time_os_mr">Sistemỹ tỹ tãg gej fã tóg ẽn ge kã kãnĩj ke nĩ</string>
+  <string name="selected_later_time_smr">Há kã nĩj ke tỹ tãg gej ke tỹ kãnĩm ge tóg</string>
+  <string name="setting_sw_summary">Software han ja ũ tãg ge tỹ tãg ke ra </string>
+  <string name="setting_sw_title">Sistemỹ tỹ tãg kej ge</string>
+  <string name="smart_cancel_update_toast_msg">Tỹ tãg gej ke tóg ẽn ge kã ke han ge to nỹ%1$s.</string>
+  <string name="smart_end_time">Tá krỹg</string>
+  <string name="smart_install_message_popup">Tỹ tãg gej fã kanhró tỹvĩ to rikursu ẽn jo róm ã tóg, vin fã tóg vẽsóg ki kãnĩm mũ %1$s ã tỹ vẽnhver han ja tũ nĩnkỹ. Materija ti ki nĩ ẽn tugnỹm nĩ ti tỹ kã nĩm ge han ge tá krỹg há ẽn.</string>
+  <string name="smart_restart_message_popup">Ã tỹ ta tãg gej fã to rikurso ẽn róm ja tugnĩn, vẽsóg ki tóg vin fã tỹ tãg gej mũ %1$s ã tỹ ver han ja tũ nĩnkỹ.</string>
+  <string name="smart_settings_string">Tỹ tãg gej fã ag rem ge vẽsóg ki ti tỹ Wi-Fi jógo ki conexão ra rã kỹ</string>
+  <string name="smart_settings_string_Softbank">Tỹ tãg gej fã ag rem ja tóg mũ mré tóg ki vĩn mũ vẽsóg ki ã tỹ Wi-Fi jógo ki conexão nanu vogvo agra rã kỹ.</string>
+  <string name="smart_settings_string_vzw">Tỹ tãg gej fã tóg rem vỹ ki vẽnh vin mũ vẽsóg ki</string>
+  <string name="smart_start_time">Ke vén</string>
+  <string name="smart_to_string">kã</string>
+  <string name="smart_update_advanced">Tã kã hã jẽ</string>
+  <string name="smart_update_note">Ã mỹ hán jé, há kã nĩj ke to tỹ tãg gej fã há tỹvi ag kar rem ja tóg mũ mré tóg vẽsóg ki vin mũ, ti to kuge tỹ krỹ ke kỹ nĩ ra.</string>
+  <string name="smart_update_note_vzw">Ã mỹ hán jé, tỹ tãg gej fã há tỹvĩ ag kar rem ja tóg mũ mré tóg vẽsóg ki vin mũ, ti to kuge ẽn tỹ krỹ ke kỹ nĩ ra.</string>
+  <string name="smart_update_pop_up_text">Ã vin fã tỹ há kã nĩm nĩ mré tỹ tãg gej fã tỹ vẽsóg ki ra tĩg ge jy nĩgãn nĩ.</string>
+  <string name="smart_update_recommendation">Tỹ tãg gej fã kanhró tỹvĩ vóg kãmẽ ra</string>
+  <string name="smart_update_suggestion_text">Há kã nĩm nĩ ti tỹ vẽsóg ki tãg kej fã tỹ</string>
+  <string name="smart_update_text_AB">Ti há ki tỹ tãg kej ge tãg ag tỹ vẽsóg ki vin nĩ kar nén ũ kren ja ki han ge ti tỹ vin fã tỹ há kar tỹ ke há ki vo há han jé.</string>
+  <string name="smart_update_text_AB_vzw">Tỹ tãg ge fã kanhró tỹvĩ ag tóg vin fã tỹ vo há han ge mré tar há nĩj ke ki há nỹtĩ. Ã tỹ ti kugs tag kỹ, ũn tãg kar ag <b>há kãnĩ tã tãg ke je</b> ag tỹ vésóg ki rem tĩ. Download kar, vin fã tỹ pẽnjẽg mãn tĩ ã tỹ óra kuprẽg ja ẽn kã.</string>
+  <string name="smart_update_text_classic">Tỹ tãg ge fã kanhró tỹvĩ ag tóg vin fã tỹ vo há han ge mré tar há nĩj ke ki há nỹtĩ. Ã tỹ ti kuge tag kỹ, ũn tãg kar ag <b>há kãnĩ tã tãg ke je</b> ag tỹ vésóg ki rem tĩ. Download kar, vin fã tỹ pẽnjẽg mãn tĩ ka tỹ kã sãg tĩ ã tỹ óra kuprẽg ja ẽn kã.</string>
+  <string name="smart_update_text_classic_vzw">Tỹ tãg ge fã kanhró tỹvĩ ag tóg vin fã tỹ vo há han ge mré tar há nĩj ke ki há nỹtĩ. Ã tỹ ti kugs tag kỹ, ũn tãg kar ag <b>há kãnĩ tã tãg ke je</b> ag tỹ vésóg ki rem tĩ. Download kar, vin fã tỹ pẽnjẽg mãn tĩ ka tỹ kã sãg tĩ ã tỹ óra kuprẽg ja ẽn kã.</string>
+  <string name="smart_update_time_slot_text_AB">Óra kã tỹ kej ge kupẽg ra</string>
+  <string name="smart_update_time_slot_text_classic">Kã nĩm ge óra kuprãg ge</string>
+  <string name="smart_update_title">Tỹ tãg gej fã kanhró ag</string>
+  <string name="software_not_update_to">Ã software pi ver tag ra ta tãg ke ja nĩ</string>
+  <string name="software_update_in_progress">Ã sistẽmỹ tỹ to rá ũ ra ta tãg ke nĩ</string>
+  <string name="software_update_planned_summary">%1$s - Tugnỹm nĩ</string>
+  <string name="software_update_planned_title">Software ta tãg kej ge tỹ hẽ kã tỹ kej ge</string>
+  <string name="software_update_to">Ã sistẽmỹ vỹ ta tãg ké mỹ</string>
+  <string name="sofware_version">Software vẽnhven tãg:</string>
+  <string name="storage_low">Vẽso nĩj ke tóg nĩ tỹ tãg gej fã ũ mỹ</string>
+  <string name="su_btn">Ki han ge</string>
+  <string name="su_text_off">Ã vỹ inh hã vin fã ta tãg kej ge há nĩj mũ software tỹ kã saj ge há ẽn kã. Ta tãg kej ge kajró tỹ ki vin nĩ ã ty ti han ge vo han jé. Vóg ra ã tỹ ki nén ũ vigve mãn jé.</string>
+  <string name="su_text_on">Ti pẽ to, ti ta tãg kej ge kajró ag vỹ óra tỹ 1 kar 3 ke tá han tĩ. Ã vỹ ti kuge tag ta krỹ kej há nĩj mũ taki ketũmỹr ti ki hyn-han fã tỹ mrẽnh kej fã óra tá. Vóg ra ã tỹ ki nén ũ vigve mãn jé.</string>
+  <string name="su_title_off">Ta tãg ke kajró tỹ ki vin ja</string>
+  <string name="su_title_on">Ta tãg ke kajró tỹ ki vin ja</string>
+  <string name="system_download_notification_title">Sistemỹ tỹ tãg ge</string>
+  <string name="system_install_notification_text">Sistemỹ tỹ tãg gej fã ag ũ tóg kar kỹ nĩ ha kãnĩm jé</string>
+  <string name="system_install_title">Tỹ tãg gej ke ũ tóg kar kỹ nĩ ha</string>
+  <string name="system_pdl_notification_mr_title">Kygnẽ ki han ge mré ũ ag tỹ ke nĩm nĩ</string>
+  <string name="system_pdl_notification_os_title">Android %1$s tóg jun</string>
+  <string name="system_update">Software tỹ tãg ge</string>
+  <string name="system_update_desc">Ã vin fã tỹ ti há kókén ge ãn jo péjum nĩ kar Motorola tỹ Android ki kuge tãg ra rãj ge kã nĩm nĩ.</string>
+  <string name="system_update_info_not_available">Kãnĩ tũ</string>
+  <string name="system_update_low_storage_text">Tag ki vóg nĩ ã tỹ ti jykre nĩgja tugnỹm kar ki tĩg jé</string>
+  <string name="system_update_low_storage_title">Sistemỹ tỹ tãg ge</string>
+  <string name="system_update_notification_os_text">Android tãg ti ki nén ũ há han nĩ</string>
+  <string name="system_update_notification_text">Software tãg térem nĩ</string>
+  <string name="system_update_paused">Sistemỹ tỹ tãg gej ke tỹ krỹ ke kã nĩ</string>
+  <string name="system_update_pending_notification_os_text">Android tãg kĩnhrãg ra. Ti tỹ tãg kej ge tỹ tumẽg nĩ ki kurẽ tỹ %1$d ke nĩ.</string>
+  <string name="system_update_pending_notification_text">Software tãg térem nĩ. Ti tỹ tãg kej ge tỹ tumẽg nĩ ki kurẽ tỹ %1$d ke nĩ.</string>
+  <string name="system_update_settings_list_item_title">Sistemỹ tỹ tãg gej fã ag</string>
+  <string name="system_update_status">Tỹ tãg ke tũ pẽ</string>
+  <string name="system_update_title">Software tỹ tãg ge</string>
+  <string name="tethered_permission_desc">Tá krỹg ja tãg jẽnẽj ke 3c</string>
+  <string name="tethered_update_result">Tỹ tãg gej fã tỹ tá jun ja ẽn to rá mré nĩ</string>
+  <string name="time_picker_text">Ki ẽkrén ge tũ ra kãnĩm fã ki rãj ke.</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Tỹ ke mãn sór ge</string>
+  <string name="turn_it_off">Tỹ nhyn ke</string>
+  <string name="turn_it_on">Tỹ róm ke</string>
+  <string name="turn_on_smart_updates">Tỹ tãg gej ke kanhró tỹ ki vin ge</string>
+  <string name="update">Tỹ tãg ge</string>
+  <string name="update_blocked_by_policy">Ti ta tãg ge tỹ krỹ ke ũn tỹ ti to rá jo nĩ ẽn ti. </string>
+  <string name="update_cancelled_status">Software térem ge vỹ ker hã tỹ kej ge nĩ</string>
+  <string name="update_fail_desc">Nén ũ tỹ hẽnrike.</string>
+  <string name="update_fail_status">Tỹ tãg ge tỹ vẽnhkren</string>
+  <string name="update_fail_sucancel_dm_status">Servidor tỹ ta tãg kej ge tũ</string>
+  <string name="update_fail_title">Tỹ tãg ge tóg vẽnh kren</string>
+  <string name="update_history_blank">Mĩ mũ ja ven ge tũ</string>
+  <string name="update_history_src_target">To rá tỹ tãg ge ja %1$s ra %2$s</string>
+  <string name="update_history_time">Tỹ tãg ge ja ẽn kã %1$s</string>
+  <string name="update_history_title">Tỹ tãg gej fã tỹ mĩ vỹr ja to ti rá</string>
+  <string name="update_history_version">software to rá ũ vẽ: %1$s</string>
+  <string name="update_info">Ta tãg ke nĩ…</string>
+  <string name="update_postpone_policy">Ti ta tãg ge tỹ krỹ ke ũn tỹ ti to rá jo nĩ ẽn ti </string>
+  <string name="update_preference">Tỹ tãg gej fã há nỹtĩ ag</string>
+  <string name="update_success_desc">Software ti to han ja tãg %1$s</string>
+  <string name="update_success_desc_os">Há tỹvĩ ! Android %1$s tỹ ã kãnĩm. Uri ã tóg Android há kãfór, kanhró tỹvĩ mré há kã nĩ ẽn ki há han kãmẽj mỹ ha.</string>
+  <string name="update_success_status">Tỹ tãg ge fã tỹ kar kỹ nĩ</string>
+  <string name="update_title">Tỹ tãg ge fã tõg kar kỹ nĩ</string>
+  <string name="update_title_text">Software tãg ki há han nĩ</string>
+  <string name="upto_date_title">Ki hã ke kar!</string>
+  <string name="urgent_channel_name">Software tỹ tãg ge kỹ to toj fã</string>
+  <string name="use_smart_updates">Tỹ tãg gej ke kanhró ag tỹ kej ge</string>
+  <string name="vab_validation_update_failure_desc">VAB tỹ tãg ge ja kinhrãg ge to nén ũ tóg vẽnh kren ja nĩ.</string>
+  <string name="vab_validation_update_failure_title">VAB ti kinhrãg ge tóg vẽnh kren</string>
+  <string name="vab_validation_update_success_desc">Há tỹvĨ! VAB ti tỹ ki hã ke tỹ tãg ge tóg kar hore.</string>
+  <string name="vab_validation_update_success_title">VAB kinhrãg ge tóg kar.</string>
+  <string name="verifying_patch">Ti tỹ tãg kej ge tỹ kã sa hore. Ti tỹ ki hã nỹtĩ tỹ ki kroj ge vég nĩ… (Han ge tỹ 4 tỹ 6 ki)  </string>
+  <string name="verity_disabled_msg">Hẽrimũn tóg há kãnĩj ke tũ ẽn kã nĩj mũ. Mĩ tĩg ge tỹ krẽm sa ẽn ki han nĩ tỹ tãg gej ke tỹ kãrã kej ke ẽn kãrãm jé 
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">Vin fã mỹ tỹ tãg gej fã ũ pi jun mãn mũ ha</string>
+  <string name="verizon_failure_notification_text"> Pi vin fã tỹ tãg gej fã tỹ kã nĩm ge ki hã ke mũ. Ũ tỹ software tỹ tãg gej fã vigvén tĩ ũ ti ki vóg nĩ ti tỹ tag han jé. ki vóg ã tỹ ũ kinhrãg mãn jé</string>
+  <string name="verizon_failure_text">Nén ũ tóg hẽn riké vin fã tỹ tãg ge mỹr. Tỹ'ũ kej ke ũ pi han kỹ nĩ. Software Upgrade Assistent ki tỹ vóg ra software ta tãg ken jé.
+
+ Ã tỹ Software Upgrade Assistant tỹ ki han jé, tag han nĩ
+
+: Vin fã tỹ kãputanor to sam nĩ USB mrũr tỹ.
+2. USB mẽnũ tỹ vin fã ki vẽnh ven ka, ki hyn-han fã ikonĩ kuprẽg nĩ krĩgmỹ pãgja tá péno ki.
+3. USB hã vóg ge ki, kuprẽg nĩ software tỹ kã saj ge ti. 
+4. Kãputanor ki, kã saj ge jo nĩj fã ti jãvãnh nĩ.
+5. Ti tỹ to vãme nón tĩg nĩ.
+
+Software Upgrade Assistant ki ke tỹ ã juna ke tĩ vin fã ki software ta tãg kej ge térem kar kã ti saj ge ti.</string>
+  <string name="vital_applying_updates">Ti tỹ tãg ke nĩ…</string>
+  <string name="vital_bg_text">Tag tỹ mĩnũto tỹ hẽnrike han mũ.</string>
+  <string name="vital_check_for_updates">Ti tỹ tãg ke jãvãnh nĩ…</string>
+  <string name="vital_check_for_updates_desc">Ti tỹ tãg ke vỹ vin fã tỹ nén ũ han ki há ke tĩ.</string>
+  <string name="vital_done">Tág ser!</string>
+  <string name="vital_error_fail">Ti tỹ vẽ sa tãg ke vỹ vẽnh kren Ne pi ki tỹ'ũ ke mũ.</string>
+  <string name="vital_go_back">Ã mỹ kenjé kã nĩm ge tỹ krỹ ke sór mũ?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Ra rã vén ge ra vỹn ké ã tỹ kãpẽn tĩg jé</string>
+  <string name="vital_skip">Ki ẽmẽj ge tũ</string>
+  <string name="vital_stop">Krỹ kej ge</string>
+  <string name="wifi_setting">Wi-fi ki hyn-han fã</string>
+</resources>

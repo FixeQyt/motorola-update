@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Dispozitivul dvs. va reporni în %1$d secunde pentru finalizarea actualizării.</item>
+    <item quantity="few">Dispozitivul dvs. va reporni în %1$d secunde pentru finalizarea actualizării.</item>
+    <item quantity="other">Dispozitivul dvs. va reporni în %1$d secunde pentru finalizarea actualizării.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">reporni în %1$d secundă</item>
+    <item quantity="few">reporni în %1$d secunde</item>
+    <item quantity="other">reporni în %1$d secunde</item>
+  </plurals>
+</resources>

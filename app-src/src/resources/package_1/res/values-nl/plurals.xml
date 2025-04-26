@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Je apparaat wordt over %1$d seconden opnieuw opgestart om de update te voltooien.</item>
+    <item quantity="other">Je apparaat wordt over %1$d seconden opnieuw opgestart om de update te voltooien.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">wordt over %1$d seconde opnieuw gestart</item>
+    <item quantity="other">wordt over %1$d seconden opnieuw gestart</item>
+  </plurals>
+</resources>

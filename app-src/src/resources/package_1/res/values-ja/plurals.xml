@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="other">デバイスは%1$d秒後に再起動し、アップデートが完了します。</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="other">%1$d秒後に再起動します</item>
+  </plurals>
+</resources>

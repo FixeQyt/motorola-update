@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">පසුව යාවත්කාලීන කරන්න</string>
+  <string name="ab_download_now">දැන් යාවත්කාලීන කරන්න</string>
+  <string name="ab_install_notification_paused_text">පසුබිමේ ස්ථාපනය විරාම ගැන්විණි</string>
+  <string name="ab_install_notification_text">පසුබිමේ ස්ථාපනය</string>
+  <string name="ab_restart_fullscreen_text">ඔබේ උපාංගය යළි ඇරඹීමට තත්පර 90ක පමණ කාලයක් ගත වනු ඇත. යාවත්කාලීන කිරීම දින %1$dක් තිස්සේ ලද හැකිව තිබී ඇත.</string>
+  <string name="ab_restart_text">ඔබේ උපාංගය යළි ඇරඹීමට තත්පර 90ක පමණ කාලයක් ගත වනු ඇත.</string>
+  <string name="ab_restart_warning_os_mr">ඔබේ පද්ධති යාවත්කාලීනය මුළුමනින්ම පාහේ සම්පූර්ණයි. ඔබේ උපාංගය  </string>
+  <string name="ab_restart_warning_smr">ඔබේ ආරක්ෂක යාවත්කාලීනය බොහෝ දුරට සම්පුර්ණයි.ඔබේ උපාංගය </string>
+  <string name="ab_warning_continues"> යාවත්කාලීනය සම්පූර්ණ කිරීමට.</string>
+  <string name="abupdate_in_progress_status">මෘදුකාංග යාවත්කාලීනය සිදු වෙමින් පවතී</string>
+  <string name="additional_charges_message">බාගැනීම ජංගම දත්තවලින් දිගටම සිදු වනු ඇත. දත්ත ගාස්තු අය කරනු ලැබිය හැක.</string>
+  <string name="alertSubText">මෙය යාවත්කාලීන පැකේජය පරීක්ෂා කිරීමට, බාගැනීමට සහ ස්ථාපනයට භාවිතා වේ</string>
+  <string name="alertText">මෘදුකාංග යාවත්කාලීන සඳහා ජාල මෙහෙයුම්වලට ඉඩ ලබා දෙන්න</string>
+  <string name="alertTitle">යාවත්කාලීනයට පහත අවසරය අවශ්‍ය වේ</string>
+  <string name="alert_dialog_cancel">ස්ථාපනය නවත්වන්න</string>
+  <string name="alert_dialog_continue">ස්ථාපනය කරගෙන යන්න</string>
+  <string name="alert_dialog_no">නැත</string>
+  <string name="alert_dialog_ok">තේරුණා</string>
+  <string name="alert_dialog_yes">ඔව්</string>
+  <string name="allocate_space_success">යාවත්කාලීනය සඳහා අවශ්‍ය මතකය ලබා ගත හැක</string>
+  <string name="allow">ඉඩ දෙන්න</string>
+  <string name="android_latest_sw_text">ඔබ භාවිතා කරන්නේ නවතම මෘදුකාංගයි.</string>
+  <string name="android_version">Android අනුවාදය:</string>
+  <string name="app_name">Motorola මෘදුකාංග යාවත්කාලීන කිරීම</string>
+  <string name="applied">ක්‍රියාත්මක යි</string>
+  <string name="apply_bug_fix">දෝෂ නිවැරදි කිරීම් යොදන්න</string>
+  <string name="apply_os_update">සියලු මෘදුකාංග යාවත්කාලීන සඳහා යොදන්න</string>
+  <string name="applying_patch">යාවත්කාලීනය යොදමින්… (පියවර %2$d න් %1$d)  </string>
+  <string name="are_you_sure">ස්මාර්ට් යාවත්කාලීන ක්රියාවිරහිත කරන්න ද?</string>
+  <string name="are_you_sure_pop_up_text">ස්මාර්ට් යාවත්කාලීන ක්රියාවිරහිත කළ යුතු බව ඔබට විශ්වාස ද? </string>
+  <string name="asc_campaign_assigned">ව්‍යාපාරය පවරා ඇත</string>
+  <string name="asc_campaign_is_allowed">තිරාංග යාවත්කාලීනය</string>
+  <string name="asc_campaign_is_blocked">තිරාංග අගුල</string>
+  <string name="asc_campaign_not_assigned">ව්‍යාපාරය පවරා නොමැත</string>
+  <string name="asc_sw_up_to_date">නවතම අනුවාදය දක්වා</string>
+  <string name="asc_target_version">  අනුවාදය දක්වා</string>
+  <string name="auth_title">පද්ධති යාවත්කාලය</string>
+  <string name="auto_download_cellualr_charges_warn">ජංගම ජාල ඔස්සේ මෘදුකාංග පැකේජ බාගන්නා විට අතිරේක බිල් කිරීමේ ගාස්තු අදාළ විය හැක.</string>
+  <string name="auto_download_enable_cellular_future_updates">ඔබට අනාගත බාගැනීම් සඳහාත් සෙලියුලර් දත්ත විකල්පයට ඇතුළත් වීමට උවමනා ද?</string>
+  <string name="auto_download_settings_title">ස්වයංක්‍රීය බාගැනීමේ සැකසුම්</string>
+  <string name="auto_download_wifi_cellular">සෙලියුලර් (ගෘහාශ්‍රිත පමණි) සහ Wi-Fi ඔස්සේ ස්වයංක්‍රීයව බාගන්න</string>
+  <string name="auto_download_wifi_cellular_desc">සෙලියුලර් සහ Wi-Fi ඔස්සේ ස්වයංක්‍රීය බාගන්න. ලද හැකි විට පළමුව Wi-Fi භාවිතා වනු ඇත. </string>
+  <string name="auto_download_wifi_only">Wi-Fi ඔස්සේ පමණක් ස්වයංක්‍රීය බාගැනීම</string>
+  <string name="auto_download_wifi_only_desc">Wi-Fi ඔස්සේ පමණක් ස්වයංක්‍රීයව බාගැනීම</string>
+  <string name="auto_install_notification_text">උපාංගය %1$s හි ස්වයංව ස්ථාපනය වනු ඇත</string>
+  <string name="auto_time_set">ආරම්භය:</string>
+  <string name="automatic_bg_install_on_cellular_warning">එහි වැදගත්කම නිසා, යාවත්කාලීනය %1$s ට ජංගම දත්ත භාවිතයෙන් ස්වයංක්රීයව ස්ථාපනය වනු ලැබේ</string>
+  <string name="automatic_download_on_cellular_warning">එහි වැදගත්කම නිසා, යාවත්කාලීනය %1$s ට ජංගම දත්ත භාවිතයෙන් ස්වයංක්රීයව බාගනු ලැබේ</string>
+  <string name="background_install_msg">ඔබ පසුපසට ගියහොත් හෝ මෙම කවුළුව වසා දැමුවහොත් මෙම යාවත්කාලීනය දිගටම කරගෙන යනු ඇත.</string>
+  <string name="background_install_text">යාවත්කාලීනයක් බාගැනෙමින් සහ ස්ථාපනය වෙමින් පවතියි. ඔබට ඔබේ උපාංගය භාවිතය දිගටම කරගෙන යාමට හැකියි.</string>
+  <string name="bad_connection">සබැඳුමක් නැත</string>
+  <string name="bad_connection_text">පෙනෙන ආකාරයට ඔබේ උපාංගය දැනට අන්තර්ජාලයෙන් විසන්ධි වී ඇත. නැවත උත්සාහ කිරීමට පහළ බොත්තම තට්ටු කරන්න.</string>
+  <string name="bg_install_cancel_confirm">ස්ථාපනය නැවැත්වීමට අවශ්‍ය බව ඔබට විශ්වාස ද?</string>
+  <string name="bg_retried">මෘදුකාංග බාගැනීමට බාධා කර ඇත. අපි දිගටම උත්සාහ කරමු…</string>
+  <string name="bg_suspended">පසුබිම් බාගැනීම සහ ස්ථාපනය නැවත ඇරඹීමට දත්ත සබැඳුම සඳහා රැඳෙමින්...</string>
+  <string name="bg_suspended_non_adminapn">පසුබිම් ස්ථාපනය නැවත ඇරඹීමට Wi-Fi හෝ ශුන්‍ය ප්‍රමත ජාලය සඳහා රැඳෙමින්</string>
+  <string name="bg_suspended_roaming">සැරිසර ජාලය හේතුවෙන් පසුබිමේ ස්ථාපනය විරාම ගැන්විණී, කරුණාකර පසුබිමේ ස්ථාපනය වීම නැවත පටන් ගැනීමට Wi-Fi ක්‍රියාත්මක කරන්න.</string>
+  <string name="bg_suspended_wifi">පසුබිම් බාගැනීම සහ ස්ථාපනය නැවත ඇරඹීමට Wi-Fi සඳහා රැඳෙමින්…</string>
+  <string name="bootloader_unlock_msg">ඔබේ උපාංගයට තවදුරටත් යාවත්කාලීන නොලැබෙන අතර ආරක්ෂක අවදානම්වලට ගොදුරු විය හැකි ය.</string>
+  <string name="bootloader_unlock_title">පවතින යාවත්කාලීන නැත</string>
+  <string name="cancel">අවලංගු කරන්න</string>
+  <string name="cancel_download_notification">අවලංගු කරන්න</string>
+  <string name="cancel_install">අවලංගු කරන්න</string>
+  <string name="cancel_update_notification">අවලංගු කරන්න</string>
+  <string name="check_for_updates_title">යාවත්කාලීන සදහා පරීක්ෂා කරන්න</string>
+  <string name="check_update_badparam">උත්ශ්‍රේණි කිරීමේ උත්සාහය අසමත් පිවිසුමක් නිසාවෙන් දෝෂයකට ලක් වී ඇත.
+
+කරුණාකර පසුව නැවත උත්සාහ කරන්න.</string>
+  <string name="check_update_checking">යාවත්කාලීන සඳහා පරීක්ෂා කරමින්...</string>
+  <string name="check_update_disabled_admin">IT පරිපාලක විසින් පාලනය කරනු ලැබේ</string>
+  <string name="check_update_downloading">යාවත්කාලයක් දැනට බාගනිමින් ඇත.
+
+බාගැනීම සම්පූර්ණ වූ විට ඔබට දැනුම් දෙනු ඇත.</string>
+  <string name="check_update_fail">බලාපොරොත්තු නොවූ දෝෂයක් සිදු වී ඇත.
+
+උපාංගය පසුබිමේ යාවත්කාලීනයක් සඳහා යළි උත්සාහ කරනු ඇත.</string>
+  <string name="check_update_internal">යාවත්කාලීන සඳහා පරීක්ෂා කිරීමට නොහැකිය. පසුව නැවත උත්සාහ කරන්න.</string>
+  <string name="check_update_net">යාවත්කාලීන පරීක්ෂා කිරීමට ඔබට දත්ත සබැඳුමක් අවශ්‍ය වේ. ඔබේ Wi-Fi සබැඳුම පරීක්ෂා කිරීමට, සැකසුම් &gt; ජාල සහ අන්තර්ජාලය &gt; Wi-Fi වෙත යන්න.</string>
+  <string name="check_update_net_vzw">යාවත්කාලීන පරීක්ෂා කිරීමට ඔබට දත්ත සබැඳුමක් අවශ්‍ය වේ. ඔබේ Wi-Fi සබැඳුම පරීක්ෂා කිරීමට, සැකසුම් &gt; ජාල සහ අන්තර්ජාලය &gt; Wi-Fi වෙත යන්න.
+
+වෙනත් යාවත්කාලීන විකල්ප බැලීමට ඔබට motorola.com/systemupdates වෙත ද පිවිසීමට හැකිය.</string>
+  <string name="check_update_processing">අපගේ සේවාදායකය සම්බන්ධ කර ගනිමින්…
+කරුණාකර රැඳී සිටින්න</string>
+  <string name="check_update_roaming">පද්ධති යාවත්කාලය නිවාස ජාලයේ පමණක් ලබා ගත හැකි වේ. 
+
+දැන් සබැඳුමක් පිහිටුවීමට සැකසීම් &gt; ජාල සහ අන්තර්ජාලය &gt; Wi-Fi වෙත යන්න.</string>
+  <string name="check_update_storage_low">උපාංගයේ ප්‍රමාණවත් නොවන ගබඩා ඉඩ හේතුවෙන් යාවත්කාලීනය කළ නොහැකිය.</string>
+  <string name="check_update_temperror">යාවත්කාල බාගැනීමක් මේ මොහොතේ දී සම්පූර්ණ කළ නොහැකි විය.
+
+කරුණාකර නැවත උත්සාහ කරන්න.</string>
+  <string name="check_update_text">විටින් විට යාවත්කාලීනයන් සඳහා පරීක්ෂා කිරීමෙන් ඔබේ උපාංගය ආරක්ෂිතව තබා ගත හැකි අතර එහි කාර්ය සාධනය වැඩි කළ හැකිය.</string>
+  <string name="check_update_title_downloading">බාගැනීම ප්රගතියේ පවතියි…</string>
+  <string name="check_update_vab_validation">VAB වලංගුකරණ යාවත්කාලීන තත්ත්වය සඳහා පරීක්ෂා කරමින්
+රැඳී සිටින්න</string>
+  <string name="check_update_wifi_only">පද්ධති යාවත්කාලය Wi-Fi ඔස්සේ පමණක් ලබා ගත හැක.</string>
+  <string name="check_wifi_settings">Wi-Fi සැකසුම් පරීක්ෂා කරන්න</string>
+  <string name="clear_space">ඉඩ හිස් කරන්න</string>
+  <string name="cloud_picker_title">ක්ලවුඩ් අහුලනය</string>
+  <string name="common_android_wear_notification_needs_update_text">Android Wear යෙදුම යාවත්කාලීන කිරීමට යෙදුමක් අවශ්‍යය.</string>
+  <string name="common_android_wear_update_text">Android Wear යෙදුම ඔබ යාවත්කාලීන කළේ නැති නම් මෙම යෙදුම ධාවනය කළ නොහැක.</string>
+  <string name="common_android_wear_update_title">Android Wear යාවත්කාලීන කරන්න</string>
+  <string name="common_google_play_services_enable_button">Google Play සේවාවන් සබල කරන්න</string>
+  <string name="common_google_play_services_enable_text">ඔබ Google Play සේවාවන් සබල කරන්නේ නම් මිස මෙම යෙදුම වැඩ නොකරනු ඇත.</string>
+  <string name="common_google_play_services_enable_title">Google Play සේවාවන් සබල කරන්න</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">%1$s විසින් ඉල්ලා ඇත</string>
+  <string name="common_google_play_services_install_button">Google Play සේවාවන් ලබා ගන්න</string>
+  <string name="common_google_play_services_install_text_phone">ඔබගේ දුරකථනයෙන් අස්ථානගත වී ඇති Google Play සේවාවන් රහිතව මෙම යෙදුම ධාවනය නොවනු ඇත.</string>
+  <string name="common_google_play_services_install_text_tablet">ඔබගේ ටැබ්ලටයෙන් අස්ථානගත වී ඇති Google Play සේවාවන් රහිතව මෙම යෙදුම ධාවනය නොවේ.</string>
+  <string name="common_google_play_services_install_title">Google Play සේවාවන් ලබා ගන්න</string>
+  <string name="common_google_play_services_invalid_account_text">නියම කර දැක්වූ ගිණුම මෙම උපාංගය මත නොපවතී. කරුණාකර වෙනත් ගිණුමක් තෝරන්න.</string>
+  <string name="common_google_play_services_invalid_account_title">වලංගු නොවන ගිණුම</string>
+  <string name="common_google_play_services_needs_enabling_title">යෙදුමකට Google Play සේවාවන් සබලව තිබීම අවශ්‍යය.</string>
+  <string name="common_google_play_services_network_error_text">Google Play සේවාවන් වෙත සබැඳීමට දත්ත සබැඳුමක් අවශ්‍යය.</string>
+  <string name="common_google_play_services_network_error_title">ජාල දෝෂය</string>
+  <string name="common_google_play_services_notification_needs_installation_title">යෙදුමකට Google Play සේවා ස්ථාපනයක් අවශ්‍යය.</string>
+  <string name="common_google_play_services_notification_needs_update_title">යෙදුමකට Google Play සේවාවන් සඳහා යාවත්කාලීනයක් අවශ්‍යය.</string>
+  <string name="common_google_play_services_notification_ticker">Google Play සේවා දෝෂය</string>
+  <string name="common_google_play_services_unknown_issue">Google Play සේවාවන් සමග නොදන්නා ගැටලුවක්.</string>
+  <string name="common_google_play_services_unsupported_text">ඔබගේ සමහර යෙදුම් විශ්වාසය තබන, Google Play සේවාවන්ට, ඔබගේ උපාංගය සහාය නොදක්වයි. කරුණාකර සහාය සඳහා නිෂ්පාදකයා අමතන්න.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play සේවා</string>
+  <string name="common_google_play_services_update_button">යාවත්කාලීන කරන්න</string>
+  <string name="common_google_play_services_update_text">ඔබ Google Play සේවා යාවත්කාලීන කරන්නේ නම් මිස මෙම යෙදුම ධාවනය නොවේ.</string>
+  <string name="common_google_play_services_update_title">Google Play සේවාවන් යාවත්කාලීන කරන්න</string>
+  <string name="common_open_on_phone">දුරකථනය තුළ විවෘත කරන්න</string>
+  <string name="common_signin_button_text">පිවිසෙන්න</string>
+  <string name="common_signin_button_text_long">Google සමගින් පුරනය වන්න</string>
+  <string name="compatibility_failed_title">පැකේජ සත්යාපනය අසමත් විය</string>
+  <string name="compatibility_verification_failure">යාවත්කාලීන පැකේජය බාගනිමින් පවතින අතර උපාංගයෙහි වත්මන් මෘදුකාංග අනුවාදය සමඟ අනුකූල නොවේ.</string>
+  <string name="compatibility_verification_failure_df">
+
+ඔබේ Dogfood සම්බන්ධිකාරක සමඟ පරීක්ෂා කරන්න.</string>
+  <string name="compatibility_verification_success">සාර්ථකව සත්‍යාපිතයි</string>
+  <string name="completed"> ස්ථාපනය සම්පූර්ණ විය. (පියවර %2$d න් %1$d)</string>
+  <string name="completed_install">%s සම්පූර්ණයි</string>
+  <string name="continue_button">ඉදිරියට යන්න</string>
+  <string name="critical_install_message_popup_os_mr">වැදගත් පද්ධති යාවත්කාලීනයක් තිබේ. යාවත්කාලීනය යෙදීමට කරුණාකර ස්ථාපනය කරන්න යන්න තෝරන්න. එසේ නොමැති නම්, යාවත්කාලීනය %1$s ට ස්වයංක්රියව ස්ථාපනය වනු ඇත.</string>
+  <string name="critical_install_message_popup_smr">වැදගත් ආරක්ෂක යාවත්කලීනයක් තිබේ. යාවත්කාලීනය යෙදීමට කරුණාකර ස්ථාපනය කරන්න යන්න තෝරන්න. එසේ නොමැති නම්, යාවත්කාලීනය %1$s ට ස්වයංක්‍රියව ස්ථාපනය වනු ඇත.</string>
+  <string name="critical_install_message_screen">මෙම වැදගත් යාවත්කාලීනය %1$s ට ස්වයංක්රියව ස්ථාපනය වනු ඇත. ඔබට ස්ථාපනය සඳහා ප්රමාණවත් බැටරි ඇති බව තහවුරු කරගන්න.</string>
+  <string name="critical_install_notification">මෙය වැදගත් යාවත්කාලීනයක් නිසා, ඔබේ උපාංගය %1$s ට ස්වයංක්රියව ස්ථාපනය කරනු ඇත.
+ස්ථාපන කාලය: මිනිත්තු %2$d</string>
+  <string name="critical_restart_message_popup">මෙම වැදගත් යාවත්කාලීනය හැකි ඉක්මනින් යෙදීමට කරුණාකර ඔබේ උපාංගය යළි අරඹන්න. ඔබ හස්තීයව යළි ඇරඹුවේ නැති නම්, ඔබේ උපාංගය %1$s ට ස්වයංක්‍රියව යළි ඇරඹෙනු ඇත.</string>
+  <string name="critical_restart_message_screen">මෙය වැදගත් යාවත්කාලීනයක් නිසා, ඔබේ උපාංගය %1$s ට ඔබ ඒ වන විට යළි අරඹා නොමැති නම් ස්වයංක්‍රීයව යළි ඇරඹෙනු ඇත.</string>
+  <string name="critical_restart_notification">මෙය වැදගත් යාවත්කාලීනයක් නිසා, ඔබේ උපාංගය %1$s ට ස්වයංක්රියව යළි ඇරඹෙනු ඇත</string>
+  <string name="critical_update_notification_title">තීරණාත්මක යාවත්කාලීනය</string>
+  <string name="current_version">වත්මන් මෘදුකාංග අනුවාදය:</string>
+  <string name="custom_slot">අභිමත</string>
+  <string name="date_time">%s හි දී %s</string>
+  <string name="defer_count_expired">තේරුණා</string>
+  <string name="deny">ප්‍රතික්ෂේප කරන්න</string>
+  <string name="details">විස්තර</string>
+  <string name="dialog_alert_net_message">ඔබේ Wi-Fi හෝ ජංගම දත්ත සබැඳුම පරීක්ෂා කර නැවත උත්සාහ කරන්න.</string>
+  <string name="dialog_alert_net_title">ඔබේ උපාංගය නොබැඳිය</string>
+  <string name="dialog_alert_title">බැටරිය අඩුයි</string>
+  <string name="dialog_progress">පූරණය වෙමින්...</string>
+  <string name="dl_options_mobile_only_warning">Wi-Fi භාවිතයට නිර්දේශ කෙරේ. ජංගම දත්ත සමඟ බාගැනීම හෝ රෝමිං අතරේ ජංගම දත්ත භාවිතයේ ප්‍රතිඵලයක් ලෙස අතිරේක ගාස්තු අය විය හැක.
+
+මෙම මෘදුකාංගය බාගැනීම ඔබේ උපාංගයේ ක්‍රියාකාරීත්වයට බල නොපානු ඇත.</string>
+  <string name="done">නිමයි</string>
+  <string name="dont_show_this_again">මෙය නැවත පෙන්වන්න එපා</string>
+  <string name="download_cancelled_title">බාගැනීම අවලංගුයි</string>
+  <string name="download_deferred_status">මෘදුකාංග බාගැනීම කල් දමන ලද්දේ</string>
+  <string name="download_failed_status">යාවත්කාලීනය මෙහි දී බාගැනීම අසමත් විය</string>
+  <string name="download_in_progress_status">මෘදුකාංග බාගැනීම සිදු වෙමින් පවතී</string>
+  <string name="download_later_button">පසුව බාගන්න</string>
+  <string name="download_no_button">එපා ස්තූතියි</string>
+  <string name="download_note">යාවත්කාලීනය ස්ථාපනය වන අතරතුරේදී ඔබට ඔබේ උපාංගය භාවිතය දිගටම කරගෙන යාමට හැකිය</string>
+  <string name="download_now">දැන් බාගන්න</string>
+  <string name="download_now_button">බාගන්න</string>
+  <string name="download_options">බාගැනීමේ විකල්ප</string>
+  <string name="download_progress_cancel_message">ඔබ මෙම යාවත්කාලීනය පසුව බාගැනීමට කැමති නම්, සැකසුම් &gt; පද්ධති යාවත්කාලීන වෙත යන්න</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">%1$s ඉතිරියි (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">%s%% බාගන්නා ලදි (විරාමයි)</string>
+  <string name="download_progress_text">ඔබ පසුපසට ගියහොත් හෝ මෙම කවුළුව වසා දැමුවහොත් මෙම බාගැනීම දිගටම කරගෙන යනු ඇත.</string>
+  <string name="download_subtitle">ඔබ බාගැනීමට පෙර දැන ගත යුතු දේ</string>
+  <string name="download_text_whats_new">අලුත් දේවල් මොනවාදැයි බලන්න</string>
+  <string name="download_time_left">%1$s ඉතිරියි</string>
+  <string name="download_version">නව අනුවාදය: %1$s</string>
+  <string name="download_wifi_only_error">මෙම යාවත්කාලීනය බාගැනීමට Wi-Fi අවශ්යයි. ඔබේ සම්බන්ධතාවය ප්රතිසාධනය වූ විට නැවත බාගැනීම ඇරඹෙනු ඇත.</string>
+  <string name="downloaded_percentage">%1$s බාගෙන ඇත</string>
+  <string name="emergency_call_btn_txt">හදිසි අවස්ථාව</string>
+  <string name="emergency_call_text">ඔබට නැවත පණගැන්වීම අතරතුර, හදිසි ඇමතුම් ඇතුළු, ඇමතුම් ගැනීමට හෝ ලැබීමට නොහැකි වනු ඇත!</string>
+  <string name="enable_wifi_error_txt">මෙම යාවත්කාලීනය බාගැනීම සඳහා Wi-Fi වෙත සම්බන්ධ වන්න.</string>
+  <string name="eol_explore">නව උපාංග ගවේශනය කරන්න</string>
+  <string name="eol_last_update_text">ආරක්ෂක පැච්:</string>
+  <string name="eol_promote">නවතම ප්රවර්ධන බලන්න</string>
+  <string name="eol_title">ඔබේ උපාංගය ලබා ගත හැකි නවතම මෘදුකාංගය භාවිතා කරයි.</string>
+  <string name="err_title_contact_server">සේවාදායකය සම්බන්ධ කර ගනිමින්…</string>
+  <string name="err_title_memory_low">මතකය අඩුයි…</string>
+  <string name="err_title_temp_error">තාවකාලික දෝෂයක්</string>
+  <string name="err_title_update">යාවත්කාලීන කිරීමේ දෝෂයක්</string>
+  <string name="error_code">දෝෂ කේතය: </string>
+  <string name="error_copyfail">SD කාඩ්පත් පිහිටීමේ සිට පිටපත් කිරීමට අසමත් විය.</string>
+  <string name="error_disabled">යාවත්කාලය බාගැනීමට අසමත් විය. යාවත්කාල පැකේජය මේ අවස්ථාවේදී ලද නොහැකිය. 
+
+වැඩිදුර පියවර අවශ්‍ය නොවේ.</string>
+  <string name="error_fail">සමාවන්න, ඔබේ %1$s යාවත්කාලීන කිරීමේ ගැටලුවක් ඇති විය. කිසිදු වෙනස්කමක් සිදු නොකෙරුණි. කරුණාකර සැකසුම් &gt; පද්ධති යාවත්කාලීනය වෙත ගොස් නැවත උත්සාහ කරන්න.</string>
+  <string name="error_in_call_msg">ඇමතුම ප්‍රගතියේ පවතින නිසා උපාංගය දැන් යාවත්කාලීන කළ නොහැක</string>
+  <string name="error_in_call_title">ඇමතුම ප්‍රගතියේ පවතියි</string>
+  <string name="error_install_title">ස්ථාපනය අසමත් විය</string>
+  <string name="error_mismatch">අනුවාදය නොගැළපීමක් සිදු වී ඇත. යාවත්කාලයක් නැවත සිදු වනු ඇත. එකක් ලබා ගත හැකි වන්නේ නම්, ඔබෙන් විමසනු ඇත.</string>
+  <string name="error_mismatch_sd">යාවත්කාල කිරීමට අසමත් විය. යාවත්කාලයේ අනුවාදය ඔබේ දුරකථනයට නොගැළපේ. 
+
+ඔබේ දුරකථනය සඳහා නිවැරදි අනුවාදය බාගෙන නැවත උත්සාහ කරන්න.</string>
+  <string name="error_network">සම්බන්ධතාවය අහිමි වී ඇත. දුරකථන සැකසුම් ඔස්සේ හස්තීයව යාවත්කාල සඳහා පරීක්ෂා කිරීමෙන් කරුණාකර නැවත උත්සාහ කරන්න.</string>
+  <string name="error_reboot">අපට මෙම යාවත්කාලීනය බාගැනීමට නොහැකි විය. ඔබ මෙම යාවත්කාලීනය පසුව ලබා ගැනීමට කැමති නම්, කරුණාකර ඔබේ උපාංගය යළි අරඹා අනතුරුව සැකසුම් &gt; පද්ධති යාවත්කාලීන වෙත යන්න.</string>
+  <string name="error_resources">අපට මෙම යාවත්කාලීනය බාගැනීමට නොහැකි විය. ඔබ මෙම යාවත්කාලීනය පසුව ලබා ගැනීමට කැමති නම්, සැකසුම් &gt; පද්ධති යාවත්කාලීන වෙත යන්න.</string>
+  <string name="error_sdcard_resources_fail_removal">SD කාඩ්පත ඉවත් කරන ලදි. බාගැනීමේ ක්‍රියාවලිය සම්පූර්ණ නොකරන ලදි. 
+
+කරුණාකර SD කාඩ්පත නැවත ඇතුළු කර නැවත උත්සාහ කිරීමට සැකසීම්&gt;පද්ධති යාවත්කාලීන කිරීම් වෙත යන්න.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">බාගැනීමසම්පූර්ණකිරීමටනොහැකිය. SD කාඩ්පතේප්‍රමාණවත්ඉඩක්නැත. 
+
+බාගැනීමනැවතඋත්සාහකිරීමටකරුණාකරඉඩනිදහස්කරසැකසීම්&gt;පද්ධතියාවත්කාලීනවෙතයන්න.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">බාගැනීම ආරම්භ කිරීමට SD කාඩ්පත ඇතුළත් කරන්න.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">බාගැනීම ආරම්භ කිරීමට SD කාඩ්පත සවි කරන්න. 
+
+සැකසුම් &gt; ගබඩාව &gt; SD කාඩ්පත සවි කරන්න වෙත යන්න.
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">බාගැනීම සම්පූර්ණ කිරීමට SD කාඩ්පතෙහි ප්රමාණවත් ඉඩක් නොමැත. 
+
+කරුණාකර බාගැනීම නැවත උත්සාහ කිරීමට %1$s ඉඩක් නිදහස් කර සැකසීම් &gt; පද්ධතිය යාවත්කාලීනය වෙත යන්න.
+
+
+</string>
+  <string name="error_sdcard_resources_title">දෝෂය</string>
+  <string name="error_sdcard_resources_warning">මෘදුකාංග යාවත්කාලය SD කාඩ්පත වෙත බාගැනේ. 
+
+ස්ථාපනය සම්පූර්ණ වන තුරු SD කාඩ්පත ඉවත් කරන්න එපා.
+
+
+</string>
+  <string name="error_server">සේවාදායකය මත දෝෂයක් හට ගෙන ඇත. කරුණාකර පසුව නැවත උත්සාහ කරන්න.</string>
+  <string name="error_space">මෙම යාවත්කාලීනයට ඔබේ උපාංගයේ තිබෙන ගබඩාවෙන් %1$s අවශ්ය වේ. 
+
+%2$s ඉඩක් නිදහස් කර ගැනීමට කරුණාකර භාවිතයට නොගත් යෙදුම් මකා දමන්න හෝ ඔබේ ඡායාරූප හා වීඩියෝ තවත් ගබඩා උපාංගයකට ගෙන යන්න. 
+
+නිම කළ පසු, ඕනෑම වේලාවක යාවත්කාලීනය ආරම්භ කිරීමට සැකසීම් &gt; පද්ධතිය යාවත්කාලීනය වෙත යන්න</string>
+  <string name="error_space_retry">මෙම යාවත්කාලීනයට ඔබේ උපාංගයේ තිබෙන ගබඩාවෙන් %1$s අවශ්ය වේ. 
+
+%2$s ඉඩක් නිදහස් කර ගැනීමට කරුණාකර භාවිතයට නොගත් යෙදුම් මකා දමන්න හෝ ඔබේ ඡායාරූප හා වීඩියෝ තවත් ගබඩා උපාංගයකට ගෙන යන්න.</string>
+  <string name="error_space_vab">මෙම යාවත්කාලීනයට ඔබේ උපාංගයෙහි %1$sක පවතින නිදහස් ඉඩක් අවශ්‍ය වේ. සාර්ථක යාවත්කාලීන සඳහා මතකය නිදහස් කරන්න</string>
+  <string name="error_space_vab_make_room_popup">යාවත්කාලීන කිරීමට පෙර ඔබට %1$sක ඉඩක් හිස් කිරීමට අවශ්‍ය වේ. භාවිතයට නොගත් යෙදුම් මකා දැමීමට හෝ ඡායාරූප සහ වීඩියෝ වෙනත් ගබඩා උපාංගයකට ගෙන යාමට උත්සාහ කරන්න.</string>
+  <string name="error_title">බාගැනීම අසමත් විය</string>
+  <string name="error_verify">යාවත්කාලය නිසි පරිදි වලංගු කළ නොහැකි විය. කරුණාකර නැවත උත්සාහ කරන්න.</string>
+  <string name="failed">අසමත්</string>
+  <string name="failure_process">තොරතුරු ලබා ගත නොහැක</string>
+  <string name="first_net_text">යාවත්කාලීනය ස්ථාපනය කරන්න, එසේ නැතහොත් උපාංගය ඊළඟ නැවත පණගැන්වීමේ දී ස්වයංක්රීයව ස්ථාපනය කරනු ඇත. බැටරි මට්ටම %sට වඩා වැඩි බවට වග බලා ගන්න.</string>
+  <string name="forceInstallMessage">මෙම යාවත්කාලීනය %1$s ට ස්වයංක්රියව ස්ථාපනය වනු ඇත.</string>
+  <string name="force_install_message_screen">මෙය වැදගත් යාවත්කාලීනයකි, එනිසා කරුණාකර %1$s ට පෙර ස්ථාපනය කරන්න. එසේ නැති නම්, ඔබේ උපාංගය අඩුවෙන්ම භාවිතා වන අවස්ථාවක එය ස්වයංක්රියව ස්ථාපනය වනු ඇත. ස්ථාපනය සඳහා ඔබට ප්රමාණවත් බැටරි ආයු කාලයක් ඇති බව තහවුරු කරගන්න.</string>
+  <string name="force_install_notification_message">කරුණාකර %1$s ට පෙර ස්ථාපනය කරන්න. එසේ නැති නම්, ඔබේ උපාංගය අඩුවෙන්ම භාවිතා වන අවස්ථාවක එය ස්වයංක්රියව ස්ථාපනය කරනු ඇත.
+ස්ථාපන කාලය: මිනිත්තු %2$d</string>
+  <string name="force_restart_notification_message">කරුණාකර %1$s ට පෙර යළි අරඹන්න. එසේ නැති නම්, ඔබේ උපාංගය අඩුවෙන්ම භාවිතා වන අවස්ථාවක එය ස්වයංක්රියව යළි ආරම්භ වනු ඇත.</string>
+  <string name="force_restart_screen_message">ඔබ %1$s වන විට යළි ඇරඹුවේ නැත්නම්, ඔබේ උපාංගය එය අවම වශයෙන් භාවිතා කරන වේලාවක දී ස්වයංක්‍රීයව යළි ඇරඹෙනු ඇත.</string>
+  <string name="google">Google</string>
+  <string name="got_it">තේරුණා</string>
+  <string name="important_update_install_overdue_message">ස්ථාපනය සඳහා නියමිත කාලය පසු වී ඇත. ඔබේ උපාංගය නිර්ණායක සපුරාලන විට ස්ථාපනය ආරම්භ වනු ඇත.</string>
+  <string name="important_update_restart_overdue_message">යළි ඇරඹීම සඳහා නියමිත කාලය පසු වී ඇත. උපාංගය නිර්ණායක සපුරාලන විට යළි ඇරඹෙනු ඇත.</string>
+  <string name="initiating_ota_service_msg">කරුණාකර රැඳී සිටින්න...</string>
+  <string name="initiating_ota_service_title">මෘදුකාංගය යාවත්කාලීන කිරීමේ ක්රියාවලිය ආරම්භ කිරීම</string>
+  <string name="install">ස්ථාපනය</string>
+  <string name="install_after_one_hour">පැය 1කින් ස්ථාපනය කරන්න</string>
+  <string name="install_cancelled_title">ස්ථාපනය අවලංගු කරන ලදී</string>
+  <string name="install_deferred_status">යාවත්කාලීන කිරීම කල් දමන ලද්දේ</string>
+  <string name="install_later">පසුව ස්ථාපනය කරන්න</string>
+  <string name="install_notify_sanity_call_msg">ඇමතුම ප්‍රගතියේ පවතින නිසා උපාංගයට දැන් ස්ථාපනය කළ නොහැක</string>
+  <string name="install_notify_sanity_maps_msg">සංචලනය ක්‍රියාත්මක නිසා උපාංගයට දැන් ස්ථාපනය කළ නොහැක</string>
+  <string name="install_now">දැන් ස්ථාපනය කරන්න</string>
+  <string name="install_postponed">ස්ථාපනය කල් දමන ලදි</string>
+  <string name="install_progress_cancel_message">ඔබ මෙම යාවත්කාලීනය පසුව ස්ථාපනය කිරීමට කැමති නම්, සැකසුම් &gt; පද්ධති යාවත්කාලීන වෙත යන්න</string>
+  <string name="install_progress_paused_message">%s සම්පූර්ණ කරන ලදි (විරාම කරන ලදි)</string>
+  <string name="install_time">ස්ථාපන කාලය: විනාඩි %1$d</string>
+  <string name="install_warning">ඔබ ස්ථාපනයට පෙර දැන ගත යුතු දේ</string>
+  <string name="just_one_more_step">තව එක් පියවරක් පමණි</string>
+  <string name="keep_it_on">එය ක්‍රියාත්මකව තබන්න</string>
+  <string name="later_button">මට පසුව මතක් කරන්න</string>
+  <string name="learn_more_online_link">සබැඳිව තව දැන ගන්න</string>
+  <string name="low_battery_bg_install">බැටරි අඩු නිසා ස්ථාපනය විරාම විය. ඔබේ උපාංගය ආරෝපණය වුණු පසු ස්ථාපනය නැවත ඇරඹෙනු ඇත.</string>
+  <string name="low_battery_download">බැටරි අඩු නිසා බාගැනීම විරාම විය. ඔබේ උපාංගය ආරෝපණය වුණු පසු බාගැනීම නැවත ඇරඹෙනු ඇත.</string>
+  <string name="low_battery_install">මෙම යාවත්කාලීනය ස්ථාපනය කිරීමට පෙර අවම වශයෙන් %s දක්වා ඔබේ උපාංගය ආරෝපණය කරන්න</string>
+  <string name="make_space">ඉඩ ඇති කරන්න</string>
+  <string name="mandatory_install_notification">ඔබ මෙම පද්ධති යාවත්කාලීනය ඉක්මනින් ස්ථාපනය නොකළහොත්, ඔබට වැදගත් ආරක්ෂක යාවත්කාලීන මෙන්ම, නව විශේෂාංග සහ දෝෂ නිවැරදි කිරීම් මඟ හැරෙනු ඇත.</string>
+  <string name="mandatory_restart_notification">එය වැදගත් යාවත්කාලීන කිරීමක් බැවින් කරුණාකර දැන් නැවත ආරම්භ කරන්න. එසේ නොමැතිනම් ඔබට ආරක්ෂක යාවත්කාලීන මෙන්ම, නව විශේෂාංග සහ දෝෂ නිවැරදි කිරීම් මඟ හැරෙනු ඇත.</string>
+  <string name="medium_channel_name">මෘදුකාංග බාගැනීමේ දැනුවත්කරු</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">ගිණුමක් තෝරන්න</string>
+  <string name="multiple_account_alert">පද්ධති යාවත්කාලය ඉදිරියට කරගෙන යාමට %1$s ගිණුම තෝරාගන්න.</string>
+  <string name="no_thanks">එපා ස්තූතියි</string>
+  <string name="no_thanks_message">ඔබ මෙම යාවත්කාලීනය පසුව ලබා ගැනීමට කැමති නම්, සැකසුම් &gt; පද්ධති යාවත්කාලීන වෙත යන්න.</string>
+  <string name="no_updates_applied">යාවත්කාල කිරීම් කිසිවක් ‍නොයොදන ලදී</string>
+  <string name="not_now">දැන් නොවේ</string>
+  <string name="otaservice_perm_desc">යෙදුම්වලට otaservice සමඟ අන්තර් ක්‍රියා කිරීමට අවශ්‍ය අවසරය</string>
+  <string name="package_size">බාගැනීමේ විශාලත්වය: %1$s</string>
+  <string name="personalInfo_instruction">ඔබට කිසිදු පුද්ගලික තොරතුරක් අහිමි නොවේ</string>
+  <string name="picker_cell_radio">Wi-Fi සහ ජංගම දත්ත</string>
+  <string name="picker_title">ඔබ මෙම යාවත්කාලය බාගැනීමට කැමති ආකාරය තෝරා ගන්න:</string>
+  <string name="picker_wifi_only_radio">Wi-Fi පමණයි</string>
+  <string name="please_restart">කරුණාකර දැන් යළි අරඹන්න</string>
+  <string name="policy_set">පද්ධති යාවත්කාලීන කිරීම අවහිර කර ඇත. වැඩි විස්තර සඳහා කරුණාකර ඔබගේ උපාංග පරිපාලක අමතන්න.</string>
+  <string name="press_back_again_to_exit">පිට වීමට ආපසු බොත්තම නැවත ඔබන්න</string>
+  <string name="progress_copying_sd">යාවත්කාලය පිටපත් කරමින්</string>
+  <string name="progress_deffered">බාගැනීම Wi-Fi/සෙලියුලර් ජාලය තුළ ආරම්භ වනු ඇත.</string>
+  <string name="progress_downloading_ota">පද්ධති යාවත්කාලය බාගනිමින්</string>
+  <string name="progress_downloading_security">ආරක්ෂක යාවත්කාලීනය බාගනිමින්</string>
+  <string name="progress_retried">මෘදුකාංග බාගැනීමට බාධා කර ඇත. අපි දිගටම උත්සාහ කරමු…</string>
+  <string name="progress_suspended">බාගැනීම නැවත ඇරඹීමට දත්ත සම්බන්ධතාවය සඳහා රැඳෙමින්</string>
+  <string name="progress_suspended_datasaver">බාගැනීම නැවත ඇරඹීමට දත්ත සුරැකුම ක්‍රියා විරහිත කරන්න</string>
+  <string name="progress_suspended_no_adminapn">බාගැනීම නැවත පටන් ගැනීමට Wi-Fi හෝ ශුන්‍ය ප්‍රමත ජාලය සඳහා රැඳෙමින්</string>
+  <string name="progress_suspended_roaming">සැරිසර ජාලය හේතුවෙන් බාගැනීම විරාම ගැන්විණි, කරුණාකර බාගැනීම නැවත පටන් ගැනීමට Wi-Fi ක්‍රියාත්මක කරන්න.</string>
+  <string name="progress_suspended_wifi">බාගැනීම නැවත ඇරඹීමට Wi-Fi සඳහා රැඳී සිටිමින්…</string>
+  <string name="progress_verify">යාවත්කාලීනය සත්යාපනය කරමින්…</string>
+  <string name="progress_verify_allocate_space">මතකය ප්‍රමාණවත් දැයි පරීක්ෂා කිරීම</string>
+  <string name="relative_date_time">%1$s දින %2$s</string>
+  <string name="release_notes_string">Android %1$s හි සියලු නව විශේෂාංග පරීක්ෂා කරන්න</string>
+  <string name="request_suspended_datasaver">බාගැනීම ආරම්භ කිරීමට දත්ත සුරකුම ක්‍රියාවිරහිත කරන්න</string>
+  <string name="request_suspended_no_network">බාගැනීම ආරම්භ කිරීමට ජාල ආවරණයක් නොමැත</string>
+  <string name="restart_after_one_hour">පැය 1කින් යළි ආරම්භ වේ</string>
+  <string name="restart_instruction_title">ඔබ යළි ඇරඹීමට පෙර දැන ගත යුතු දේ</string>
+  <string name="restart_later">පසුව</string>
+  <string name="restart_message">කරුණාකර යාවත්කාලීන කිරීමට දැන් යළි අරඹන්න</string>
+  <string name="restart_notification">යළි අරඹන්න</string>
+  <string name="restart_notification_text">කරුණාකර යාවත්කාලීන කිරීමට දැන් යළි අරඹන්න. යාවත්කාලීන කිරීම දින %1$dක් තිස්සේ පොරොත්තුව තිබී ඇත.</string>
+  <string name="restart_notify_sanity_call_msg">ඇමතුම ප්‍රගතියේ පවතින නිසා උපාංගයට දැන් යළි ගැන්වීමට නොහැක</string>
+  <string name="restart_notify_sanity_maps_msg">සංචලනය ක්‍රියාත්මක නිසා උපාංගයට දැන් යළි ගැන්වීමට නොහැක</string>
+  <string name="restart_now">දැන් යළි අරඹන්න</string>
+  <string name="restart_postponed">යළි ආරම්භ කිරීම කල් දමන ලදි</string>
+  <string name="restart_title">ඔබේ උපාංගය යළි අරඹන්න</string>
+  <string name="resume_download_on_cellular">ජංගම දත්ත භාවිතා කරන්න</string>
+  <string name="retrieving_token">සත්‍යාපනය කරමින්...</string>
+  <string name="sdcard_predownload_text">
+මෙම පියවරේ දී, ඔබ පද්ධතියේ මතකයට යාවත්කාලීනය පිටපත් කරනු ඇත. යාවත්කාලීනය ඊළඟ පියවරේ දී ස්ථාපනය කරනු ඇත. 
+
+ඔබේ බැටරියේ බලය ඉවර නොවන බව සහතික කිරීම සඳහා ඔබේ දුරකථනය බල ප්‍රභවයකට සම්බන්ධ කරන්න.</string>
+  <string name="secure_instruction">මෙම ක්‍රියාවලිය සුරක්ෂිතයි</string>
+  <string name="security_download_notification_title">ඔබේ ආරක්ෂාව වැඩි කර ගන්න</string>
+  <string name="security_install_notification_text">නව ආරක්ෂක යාවත්කාලීනයක් ස්ථාපනයට සූදානම්</string>
+  <string name="security_install_title">ආරක්ෂක යාවත්කාලීනයක් සූදානම්</string>
+  <string name="security_patch">ආරක්ෂක පැච්:</string>
+  <string name="security_update_low_storage_title">ආරක්‍ෂිත යාවත්කාලීන</string>
+  <string name="security_update_notification_text">නවතම ආරක්ෂක යාවත්කාලීනය ලබා ගන්න</string>
+  <string name="security_update_paused">ආරක්ෂක යාවත්කාලීනය විරාම කෙරිණි</string>
+  <string name="security_update_pending_notification_text">නවතම ආරක්ෂක යාවත්කාලීනය ලබා ගන්න. යාවත්කාලීන කිරීම දින %1$dක් තිස්සේ පොරොත්තුව තිබී ඇත.</string>
+  <string name="security_update_title">ආරක්‍ෂිත යාවත්කාලීන</string>
+  <string name="select_account">%1$s ගිණුමක් තෝරන්න</string>
+  <string name="selected_later_time_os_mr">පද්ධති යාවත්කාලය ස්ථාපනය කෙරෙනු ඇත්තේ </string>
+  <string name="selected_later_time_smr">ආරක්ෂක යාවත්කාලීනය ස්ථාපනය වන්නේ</string>
+  <string name="setting_sw_summary">නවතම මෘදුකාංගයට යාවත්කාලීන කරන්න </string>
+  <string name="setting_sw_title">පද්ධති යාවත්කාලීන</string>
+  <string name="smart_cancel_update_toast_msg">මෙම යාවත්කාලීනය %1$s ට යළි සැලසුම් කර ඇත</string>
+  <string name="smart_end_time">අවසානය</string>
+  <string name="smart_install_message_popup">ඔබ ස්මාර්ට් යාවත්කාලීන විශේෂාංගය සබල කර ඇති නිසා, %1$s වන විට ඔබ ඔබේ උපාංගයේ ස්ථාපනය නොකළොත් එය ස්වයංක්රියව යාවත්කාලීන ස්ථාපනය කරනු ඇත. ඔබට ස්ථාපනය සඳහා ප්රමාණවත් බැටරි ඇති බව ස්ථිර කරගන්න.</string>
+  <string name="smart_restart_message_popup">ඔබ ස්මාර්ට් යාවත්කාලීන විශේෂාංගය සබල කර ඇති නිසා, %1$s වන විට ඔබ ඔබේ උපාංගය යළි ආරම්භ නොකළොත් එය ස්වයංක්රියව යාවත්කාලීන වනු ඇත.</string>
+  <string name="smart_settings_string">ඔබ Wi-Fi සමඟ සම්බන්ධ වූ විට යාවත්කාලීන කිරීම් ස්වයංක්රීයව බාගත කර ස්ථාපනය කෙරේ</string>
+  <string name="smart_settings_string_Softbank">ඔබ Wi-Fi හෝ ජංගම දත්ත සමඟ සම්බන්ධ වූ විට යාවත්කාලීන කිරීම් ස්වයංක්රීයව බාගෙන ස්ථාපනය කෙරේ</string>
+  <string name="smart_settings_string_vzw">යාවත්කාලීන බාගැනීම් සහ ස්වයංක්රීයව ස්ථාපනය කෙරේ</string>
+  <string name="smart_start_time">ආරම්භය</string>
+  <string name="smart_to_string">වෙත</string>
+  <string name="smart_update_advanced">උසස්</string>
+  <string name="smart_update_note">සටහන: ආරක්ෂාව සඳහා, මෙම විශේෂාංගය ක්රියාත්මක වුවත් ක්රියාවිරහිත වුවත් සියලුම වැදගත් ආරක්ෂක යාවත්කාලීනයන් ස්වයංක්රියව බාගත වී ස්ථාපනය වනු ඇත.</string>
+  <string name="smart_update_note_vzw">සටහන: ඔබේ ආරක්ෂාව සඳහා, මෙම විශේෂාංගය ක්රියාත්මක වුවත් ක්රියාවිරහිත වුවත් සියලුම තීරණාත්මක යාවත්කාලීනයන් ස්වයංක්රියව බාගත වී ස්ථාපනය වනු ඇත.</string>
+  <string name="smart_update_pop_up_text">ස්වයංක්‍රීය යාවත්කාලීන කිරීම් සමඟ ඔබගේ උපාංගය ආරක්ෂිතව සහ සුරක්ෂිතව තබා ගන්න</string>
+  <string name="smart_update_recommendation">ස්මාර්ට් යාවත්කාලීන කිරීම් උත්සාහ කරන්න</string>
+  <string name="smart_update_suggestion_text">ස්වයංක්‍රීය යාවත්කාලීන කිරීම් සමඟ ආරක්ෂිතව සිටින්න</string>
+  <string name="smart_update_text_AB">ස්මාර්ට් යාවත්කාලීන ඔබේ උපාංගයට ආරක්ෂිතව සහ කාර්යක්ෂමව ධාවනය කිරීමට උපකාරී වේ. ඔබ ඒවා ක්රියාත්මක කළ විට, සියලුම නව <b>ආරක්ෂක යාවත්කාලීන</b> සහ දෝෂ නිරාකරණ ස්වයංක්රියව බාගැනේ. බාගැනීමෙන් පසු, ඔබේ උපාංගය ඔබ තෝරාගන්නා වේලාවක යළි ඇරඹෙනු ඇත.</string>
+  <string name="smart_update_text_AB_vzw">ස්මාර්ට් යාවත්කාලීන ඔබේ උපාංගයට ආරක්ෂිතව සහ කාර්යක්ෂමව ධාවනය කිරීමට උපකාරී වේ. ඔබ ඒවා ක්රියාත්මක කළ විට, සියලුම නව <b>ආරක්ෂක යාවත්කාලීන</b> ස්වයංක්රියව බාගැනේ. බාගැනීමෙන් පසු, ඔබේ උපාංගය ඔබ තෝරාගන්නා වේලාවක යළි ඇරඹෙනු ඇත.</string>
+  <string name="smart_update_text_classic">ස්මාර්ට් යාවත්කාලීන ඔබේ උපාංගයට ආරක්ෂිතව සහ කාර්යක්ෂමව ධාවනය කිරීමට උපකාරී වේ. ඔබ ඒවා ක්රියාත්මක කළ විට, සියලුම නව <b>ආරක්ෂක යාවත්කාලීන</b> සහ දෝෂ නිරාකරණ ස්වයංක්රියව බාගැනේ. බාගැනීමෙන් පසු, ඔබේ උපාංගය ඔබ තෝරාගන්නා වේලාවක යළි ඇරඹී ස්ථාපනය වනු ඇත.</string>
+  <string name="smart_update_text_classic_vzw">ස්මාර්ට් යාවත්කාලීන ඔබේ උපාංගයට ආරක්ෂිතව සහ කාර්යක්ෂමව ධාවනය කිරීමට උපකාරී වේ. ඔබ ඒවා ක්රියාත්මක කළ විට, සියලුම නව <b>ආරක්ෂක යාවත්කාලීන</b> ස්වයංක්රියව බාගැනේ. බාගැනීමෙන් පසු, ඔබේ උපාංගය ඔබ තෝරාගන්නා වේලාවක යළි ඇරඹී ස්ථාපනය වනු ඇත.</string>
+  <string name="smart_update_time_slot_text_AB">යළි ඇරඹීමට වේලාවක් තෝරන්න</string>
+  <string name="smart_update_time_slot_text_classic">ස්ථාපන වේලාවක් තෝරන්න</string>
+  <string name="smart_update_title">ස්මාර්ට් යාවත්කාලීන</string>
+  <string name="software_not_update_to">ඔබේ මෘදුකාංගය තවම මෙයට යාවත්කාලීන කර නොමැත</string>
+  <string name="software_update_in_progress">ඔබේ පද්ධතිය අනුවාදයට යාවත්කාලීන වේ</string>
+  <string name="software_update_planned_summary">පරීක්ෂා කළා - %1$s</string>
+  <string name="software_update_planned_title">මෘදුකාංග යාවත්කාලීනය සැලසුම් කරන ලදී</string>
+  <string name="software_update_to">ඔබේ පද්ධතිය යාවත්කාලීන කර ඇත්තේ</string>
+  <string name="sofware_version">මෘදුකාංග අනුවාදය:</string>
+  <string name="storage_low">යාවත්කාලයක් සඳහා ඉඩ ඇති කරන්න</string>
+  <string name="su_btn">සැකසුම්</string>
+  <string name="su_text_off">නව මෘදුකාංග ලද හැකි විට ඔබට ඔබේ උපාංගය හස්තීයව යාවත්කාලීන කිරීමට සිදු වේ. ක්‍රිියාවලිය ස්වයංක්‍රීය කිරීමට ස්මාර්ට් යාවත්කාලීන ක්‍රියාත්මක කරන්න. වැඩි විස්තර සඳහා තට්ටු කරන්න.</string>
+  <string name="su_text_on">පෙරනිමියෙන්, ස්මාර්ට් යාවත්කාලීන පෙ.ව. 1.00 - පෙ.ව. 3.00 අතර ක්‍රියාත්මක වේ. ඔබට සැකසුම් තුළ වේලාවන් යාවත්කාලීන කිරීමට හෝ ස්මාර්ට් යාවත්කාලීන ක්‍රියා විරහිත කිරීමට පුළුවන. වැඩි විස්තර සඳහා තට්ටු කරන්න.</string>
+  <string name="su_title_off">ස්මාර්ට් යාවත්කාලීන කිරීම ක්‍රියා විරහිත යි</string>
+  <string name="su_title_on">ස්මාර්ට් යාවත්කාලීන ක්‍රියාත්මක යි</string>
+  <string name="system_download_notification_title">පද්ධති යාවත්කාලය</string>
+  <string name="system_install_notification_text">පද්ධති යාවත්කාලීනයක් ස්ථාපනයට සූදානමින්</string>
+  <string name="system_install_title">යාවත්කාලීනයක් සූදානම්</string>
+  <string name="system_pdl_notification_mr_title">දෝෂ නිවැරදි කිරීම් සහ තවත් දේ ලබා ගන්න</string>
+  <string name="system_pdl_notification_os_title">Android %1$s මෙහි ඇත!</string>
+  <string name="system_update">පද්ධති යාවත්කාලය</string>
+  <string name="system_update_info_not_available">ලබා ගත නොහැකිය</string>
+  <string name="system_update_low_storage_text">මතකය පරීක්ෂා කර ඉදිරියට කිරීමට මෙහි තට්ටු කරන්න.</string>
+  <string name="system_update_low_storage_title">පද්ධති යාවත්කාලය</string>
+  <string name="system_update_notification_os_text">නව Android අත්විඳින්න</string>
+  <string name="system_update_notification_text">නව මෘදුකාංගය බාගන්න</string>
+  <string name="system_update_paused">පද්ධති යාවත්කාලය විරාම කෙරිණි</string>
+  <string name="system_update_pending_notification_os_text">නව Android අත්විඳින්න. යාවත්කාලීන කිරීම දින %1$dක් තිස්සේ පොරොත්තුව තිබී ඇත.</string>
+  <string name="system_update_pending_notification_text">නව මෘදුකාංගය බාගන්න. යාවත්කාලීන කිරීම දින %1$dක් තිස්සේ පොරොත්තුව තිබී ඇත.</string>
+  <string name="system_update_settings_list_item_title">පද්ධති යාවත්කාලීන</string>
+  <string name="system_update_status">පද්ධති යාවත්කාලීන තත්ත්වය</string>
+  <string name="system_update_title">පද්ධති යාවත්කාලය</string>
+  <string name="tethered_permission_desc">3c යාවත්කාල ප්‍රතිඵල යවන්න</string>
+  <string name="tethered_update_result">දිගේලි කළ යාවත්කාල ප්‍රතිඵල</string>
+  <string name="time_picker_text">සිහිගැන්වීමක් නොමැතිව ස්ථාපනය අරඹන්න</string>
+  <string name="total_download_size">ප්රමාණය: %1$s</string>
+  <string name="turn_it_off">එය ක්‍රියා විරහිත කරන්න</string>
+  <string name="turn_it_on">එය ක්‍රියාත්මක කරන්න</string>
+  <string name="turn_on_smart_updates">ස්මාර්ට් යාවත්කාලීන ක්‍රියාත්මක කරන්න</string>
+  <string name="update">යාවත්කාලීන කරන්න</string>
+  <string name="update_blocked_by_policy">පරිපාලක ප්‍රතිපත්තිය මගින් යාවත්කාලීන කිරීම අවහිර කර ඇත </string>
+  <string name="update_cancelled_status">මෘදුකාංග බාගැනීම අවලංගු කරන ලද්දේ</string>
+  <string name="update_fail_desc">ඔබේ උපාංගය යාවත්කාලීන කිරීමේ ගැටලුවක් ඇති විය. කිසිදු වෙනස්කමක් සිදු නොකෙරුණි.
+කරුණාකර සැකසුම් &gt; පද්ධති යාවත්කාලීනය වෙත ගොස් නැවත උත්සාහ කරන්න.</string>
+  <string name="update_fail_status">යාවත්කාලය අසමත් විය</string>
+  <string name="update_fail_sucancel_dm_status">යාවත්කාලීන කිරීම සේවාදායකය මගින් අවලංගු කරන ලදි</string>
+  <string name="update_fail_title">යාවත්කාලය අසමත් විය</string>
+  <string name="update_history_blank">ඉතිහාසයක් නොමැත</string>
+  <string name="update_history_src_target">%1$s සිට %2$s ට යාවත්කාලීන කරන්න</string>
+  <string name="update_history_time">%1$s ට යාවත්කාලීන කරන ලදි</string>
+  <string name="update_history_title">යාවත්කාලීන ඉතිහාසය</string>
+  <string name="update_history_version">මෘදුකාංග අනුවාදය %1$s</string>
+  <string name="update_postpone_policy">පරිපාලක ප්‍රතිපත්තිය මගින් යාවත්කාලීන කිරීම කල් දමා ඇත </string>
+  <string name="update_preference">මනාප යාවත්කාලීන කරන්න</string>
+  <string name="update_success_desc">සුබ පැතුම්! ඔබ %1$s අනුවාදය සාර්ථකව ස්ථාපනය කළා.</string>
+  <string name="update_success_desc_os">සුබ පැතුම්! ඔබ සාර්ථකව Android %1$s ස්ථාපනය කර ඇත. දැන් ඔබ වඩාත් හොඳ, ස්මාර්ට්, සහ ආරක්ෂිත Android අත්දැකීමක් අත්විඳීමට සූදානම්.</string>
+  <string name="update_success_status">යාවත්කාලීනය සාර්ථකයි</string>
+  <string name="update_title">යාවත්කාලය සම්පූර්ණයි</string>
+  <string name="update_title_text">ඔබේ නව මෘදුකාංගය බුක්ති විඳින්න!</string>
+  <string name="upto_date_title">හැම දෙයක්ම හොඳයි!</string>
+  <string name="urgent_channel_name">මෘදුකාංග යාවත්කාලීන ඇඟවීම</string>
+  <string name="vab_validation_update_failure_desc">VAB වලංගුකරණය යාවත්කාලීනය අසමත් විය</string>
+  <string name="vab_validation_update_failure_title">VAB වලංගුකරණය අසමත් විය</string>
+  <string name="vab_validation_update_success_desc">සුබ පැතුම්! VAB වලංගුකරණය යාවත්කාලීනය සාර්ථක විය</string>
+  <string name="vab_validation_update_success_title">VAB වලංගුකරණය සාර්ථකයි</string>
+  <string name="verity_disabled_msg">ඔබේ උපාංගය ආරක්ෂක අවදානම්වලට ගොදුරු විය හැක. යාවත්කාලීන දිගටම ලැබීමට සහ සත්‍යාපනය සබල කිරීමට පහත විධානය
+
+ඉටු කරන්න</string>
+  <string name="verity_disabled_title">ඔබේ උපාංගයට තව දුරටත් යාවත්කාලීන නොලැබේ</string>
+  <string name="verizon_failure_notification_text"> ඔබේ උපාංගයට මෙම යාවත්කාලීනය ස්ථාපනය කිරීමට නොහැකි විය. ස්ථාපනය කිරීමට මෘදුකාංග උත්ශ්රේණි සහයක මෙවලම භාවිතා කරන්න. තව තොරතුරු සඳහා තට්ටු කරන්න.</string>
+  <string name="verizon_failure_text">ඔබේ උපාංගය යාවත්කාලීන කිරීමේ දී ගැටලුවක් ඇති විය. කිසිදු වෙනස්කමක් සිදු නොකෙරුණි. ඔබේ මෘදුකාංගය යාවත්කාලීන කිරීමට, ඔබට මෘදුකාංග උත්ශ්‍රේණිගත කිරීමේ සහායක මෙවලම භාවිතා කළ හැකි ය.
+
+මෘදුකාංග උත්ශ්‍රේණිගත කිරීමේ සහායක මෙවලම ස්ථාපනය කිරීමට:
+
+1. ඔබේ උපාංගය ඔබේ පරිගණකයට සම්බන්ධ කිරීමට USB කේබලයක් භාවිතා කරන්න.
+2 ඔබේ උපාංගයේ USB මෙනුව උත්පතනය වන විට දකුණුපස ඉහළ කෙළවරේ ඇති සැකසුම් අයිකනය තෝරන්න
+3. USB මනාප වෙතින් මෘදුකාංග ස්ථාපනය තෝරන්න
+4. ඔබේ PC වෙත මාරු වී ස්ථාපනය කිරීමේ විශාරදය සොයා ගන්න
+5. විශාරදයේ ඉදිරියට යන්න
+
+ඔබේ උපාංගයට මෘදුකාංග බාගෙන ස්ථාපනය කිරීමට මෘදුකාංග උත්ශ්‍රේණිගත කිරීමේ සහායකය උපකාරී වනු ඇත.</string>
+  <string name="vital_applying_updates">යාවත්කාලීන කිරීම් ඇතුලත් කිරීම...</string>
+  <string name="vital_bg_text">මේ සදහා මිනිත්තු කිහිපයක් ගතවනු ඇත.</string>
+  <string name="vital_check_for_updates">යාවත්කාලීන කිරීම් සොයමින් සිටී...</string>
+  <string name="vital_check_for_updates_desc">යාවත්කාලීන කිරීම් ඔබගේ උපාංගය ආරක්ෂිතව තැබීම සහ එහි ක්රියාකාරිත්වය වැඩි දියුණු කරයි.</string>
+  <string name="vital_done">නිමයි!</string>
+  <string name="vital_error_fail">යාවත්කාලීන කිරීමේ දෝෂයක් ඇතිවිය. කිසිදු වෙනසක් සිදු කර නොමැත.</string>
+  <string name="vital_go_back">ස්ථාපනය නැවැත්වීමට අවශ්ය බව ඔබට විශ්වාසද?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">ඉදිරියට යාමට යළි අරඹන්න</string>
+  <string name="vital_skip">මඟ හරින්න</string>
+  <string name="vital_stop">නවතන්න</string>
+  <string name="wifi_setting">Wi-Fi සැකසුම්</string>
+</resources>

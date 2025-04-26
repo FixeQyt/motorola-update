@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="vital_restart_desc">
+    <item quantity="one">Eszköze %1$d másodpercen belül újraindul a frissítések befejezéséhez.</item>
+    <item quantity="other">Eszköze %1$d másodpercen belül újraindul a frissítések befejezéséhez.</item>
+  </plurals>
+  <plurals name="warning_before_restart">
+    <item quantity="one">%1$d másodperc múlva újraindul</item>
+    <item quantity="other">%1$d másodperc múlva újraindul</item>
+  </plurals>
+</resources>

@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ab_download_later">Actualitza més tard</string>
+  <string name="ab_download_now">Actualitza ara</string>
+  <string name="ab_install_notification_paused_text">Instal·lació en segon pla en pausa</string>
+  <string name="ab_install_notification_text">Instal·lació en segon pla</string>
+  <string name="ab_restart_fullscreen_text">Gairebé ja hem acabat! El dispositiu només trigarà uns 90 segons en reiniciar-se. Actualització pendent des de fa %1$d dies.</string>
+  <string name="ab_restart_text">Gairebé ja hem acabat! El dispositiu només trigarà uns 90 segons a reiniciar-se.</string>
+  <string name="ab_restart_warning_os_mr">L'actualització del sistema gairebé ha finalitzat. El dispositiu  </string>
+  <string name="ab_restart_warning_smr">La instal·lació de seguretat gairebé ha finalitzat. El dispositiu </string>
+  <string name="ab_warning_continues"> per completar l'actualització.</string>
+  <string name="abc_action_bar_home_description">Navega a la pàgina d'inici</string>
+  <string name="abc_action_bar_up_description">Navega cap amunt</string>
+  <string name="abc_action_menu_overflow_description">Més opcions</string>
+  <string name="abc_action_mode_done">Fet</string>
+  <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+  <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+  <string name="abc_capital_off">DESACTIVA</string>
+  <string name="abc_capital_on">ACTIVA</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">Supr</string>
+  <string name="abc_menu_enter_shortcut_label">Retorn</string>
+  <string name="abc_menu_function_shortcut_label">Funció+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">Espai</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menú+</string>
+  <string name="abc_search_hint">Cerca…</string>
+  <string name="abc_searchview_description_clear">Esborra la consulta</string>
+  <string name="abc_searchview_description_query">Consulta de cerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+  <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="abc_toolbar_collapse_description">Replega</string>
+  <string name="abupdate_in_progress_status">Actualització de programari en curs.</string>
+  <string name="additional_charges_message">La descàrrega continuarà amb les dades mòbils. Es poden aplicar càrrecs per dades.</string>
+  <string name="alertSubText">S'utilitza per comprovar, baixar i instal·lar el paquet d'actualització</string>
+  <string name="alertText">Permet les operacions a la xarxa per a les actualitzacions de programari</string>
+  <string name="alertTitle">Les actualitzacions necessiten el següent permís</string>
+  <string name="alert_dialog_cancel">Atura la instal·lació</string>
+  <string name="alert_dialog_continue">Continua instal·lant</string>
+  <string name="alert_dialog_no">No</string>
+  <string name="alert_dialog_ok">D'acord</string>
+  <string name="alert_dialog_yes">Sí</string>
+  <string name="allocate_space_success">Hi ha prou memòria disponible per a l'actualització</string>
+  <string name="allow">Permet</string>
+  <string name="android_latest_sw_text">Tens la versió més recent del programari</string>
+  <string name="android_version">Versió d'Android:</string>
+  <string name="app_name">Actualització de programari de Motorola</string>
+  <string name="applied">Activat</string>
+  <string name="apply_bug_fix">Aplica a les correccions d'errors</string>
+  <string name="apply_os_update">Aplica a totes les actualitzacions de programari</string>
+  <string name="applying_patch">S'està implementant l'actualització (pas %1$d de %2$d)  </string>
+  <string name="are_you_sure">Vols desactivar les Actualitzacions intel·ligents?</string>
+  <string name="are_you_sure_pop_up_text">Segur que vols desactivar les Actualitzacions intel·ligents? </string>
+  <string name="asc_campaign_assigned">La campanya s'ha assignat</string>
+  <string name="asc_campaign_is_allowed">Actualització de microprogramari</string>
+  <string name="asc_campaign_is_blocked">Bloqueig de microprogramari</string>
+  <string name="asc_campaign_not_assigned">El dispositiu no està actualment a una campanya</string>
+  <string name="asc_campaign_status_prefix">
+Estat: </string>
+  <string name="asc_campaign_window_period_status">
+Finestra d'actualització: de %s a %s</string>
+  <string name="asc_sw_up_to_date"> fins a l'última versió</string>
+  <string name="asc_target_version"> fins a la versió </string>
+  <string name="auth_title">Actualització del sistema</string>
+  <string name="auto_download_cellualr_charges_warn">Quan descarreguis actualitzacions través de la xarxa mòbil, se't poden aplicar càrrecs addicionals</string>
+  <string name="auto_download_enable_cellular_future_updates">Vols activar també l'opció de dades mòbils per a descàrregues futures?</string>
+  <string name="auto_download_settings_title">Configuració de descàrrega automàtica</string>
+  <string name="auto_download_wifi_cellular">Descarrega automàticament amb dades mòbils i Wi-Fi</string>
+  <string name="auto_download_wifi_cellular_desc">Descarrega automàticament amb dades mòbils i Wi-Fi. Es farà servir Wi-Fi quan hi hagi una xarxa disponible. </string>
+  <string name="auto_download_wifi_only">Baixada automàtica només amb Wi-Fi</string>
+  <string name="auto_download_wifi_only_desc">Descarrega automàticament només amb Wi-Fi</string>
+  <string name="auto_install_notification_text">El dispositiu farà la instal·lació automàticament el %1$s</string>
+  <string name="auto_time_set">Comença a les:</string>
+  <string name="automatic_bg_install_on_cellular_warning">A causa de la seva importància, aquesta actualització s'instal·larà automàticament utilitzant les dades mòbils el %1$s</string>
+  <string name="automatic_download_on_cellular_warning">A causa de la seva importància, aquesta actualització es baixarà automàticament utilitzant les dades mòbils el %1$s</string>
+  <string name="background_install_msg">L'actualització continuarà encara que tornis enrere o tanquis aquesta finestra</string>
+  <string name="background_install_text">S'està baixant i instal·lant una actualització. Pots continuar fent servir el dispositiu.</string>
+  <string name="bad_connection">No hi ha Internet</string>
+  <string name="bad_connection_text">Sembla que el dispositiu no està connectat a Internet. Toca el botó inferior per tornar-ho a provar.</string>
+  <string name="bg_install_cancel_confirm">Vols aturar la instal·lació?</string>
+  <string name="bg_retried">La baixada de programari s'ha interromput. Ho tornarem a provar…</string>
+  <string name="bg_suspended">S'està esperant una connexió de dades per reprendre la baixada i la instal·lació en segon pla</string>
+  <string name="bg_suspended_non_adminapn">S'està esperant una xarxa Wi-Fi o de tarifa zero per reprendre la baixada i la instal·lació en segon pla…</string>
+  <string name="bg_suspended_roaming">La instal·lació en segon pla s'ha posat en pausa perquè la xarxa és d'itinerància. Activeu la Wi-Fi per reprendre la instal·lació en segon pla.</string>
+  <string name="bg_suspended_wifi">S'està esperant una xarxa Wi-Fi per reprendre la baixada i la instal·lació en segon pla</string>
+  <string name="bootloader_unlock_msg">El teu dispositiu ja no rep actualitzacions i podria estar exposat a riscos de seguretat.</string>
+  <string name="bootloader_unlock_title">No hi ha actualitzacions disponibles</string>
+  <string name="call_notification_answer_action">Respon</string>
+  <string name="call_notification_answer_video_action">Vídeo</string>
+  <string name="call_notification_decline_action">Rebutja</string>
+  <string name="call_notification_hang_up_action">Penja</string>
+  <string name="call_notification_incoming_text">Trucada entrant</string>
+  <string name="call_notification_ongoing_text">Trucada en curs</string>
+  <string name="call_notification_screening_text">S'està filtrant una trucada entrant</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="cancel_download_notification">Cancel·la</string>
+  <string name="cancel_install">Cancel·la</string>
+  <string name="cancel_update_notification">Cancel·la</string>
+  <string name="check_for_updates_title">Cerca actualitzacions</string>
+  <string name="check_update_badparam">L'intent d'actualització ha fallat perquè no s'ha pogut iniciar sessió.
+
+Torneu a provar-ho més tard.</string>
+  <string name="check_update_checking">S'està comprovant si hi ha actualitzacions…</string>
+  <string name="check_update_disabled_admin">Actualitzacions del dispositiu controlades per l'administrador de TI</string>
+  <string name="check_update_downloading">En aquest moment s'està baixant una actualització.
+
+Rebreu una notificació quan s'acabi de baixar.</string>
+  <string name="check_update_fail">S'ha produït un error inesperat.
+
+El dispositiu intentarà repetir l'actualització en segon pla.</string>
+  <string name="check_update_internal">No es pot comprovar si hi ha actualitzacions. Torna a provar-ho més tard.</string>
+  <string name="check_update_net">Comprova la connexió a Internet i torna-ho a provar</string>
+  <string name="check_update_net_vzw">Cal una connexió de dades per comprovar si hi ha actualitzacions. Per comprovar la connexió Wi-Fi, ves a Configuració &gt; Xarxes i Internet &gt; Internet &gt; Wi-Fi.
+
+També pots visitar motorola.com/systemupdates per veure altres opcions d'actualització.</string>
+  <string name="check_update_not_sys_user">No es permet la comprovació d'actualitzacions als perfils de convidats</string>
+  <string name="check_update_processing">S'està contactant amb el nostre servidor…
+Espera't</string>
+  <string name="check_update_roaming">L'actualització del sistema només està disponible a la xarxa domèstica. 
+
+Ves a "Configuració &gt; Xarxes i Internet &gt; Wi-Fi" per configurar una connexió ara.</string>
+  <string name="check_update_storage_low">No es pot fer l'actualització perquè no hi ha prou espai d'emmagatzematge al dispositiu.</string>
+  <string name="check_update_temperror">No s'ha pogut completar la baixada de les actualitzacions.
+
+Torneu-ho a provar.</string>
+  <string name="check_update_text">Comprovar de tant en tant si hi ha actualitzacions millora la seguretat i el rendiment del dispositiu</string>
+  <string name="check_update_title_downloading">La baixada està en curs…</string>
+  <string name="check_update_vab_validation">S'està comprovant l'estat d'actualització de la validació VAB
+Espera't</string>
+  <string name="check_update_wifi_only">L'actualització del sistema només està disponible mitjançant la Wi-Fi.</string>
+  <string name="check_wifi_settings">Comprova la configuració de la Wi-Fi</string>
+  <string name="clear_space">Allibera espai</string>
+  <string name="cloud_picker_title">Cloud Picker</string>
+  <string name="common_android_wear_notification_needs_update_text">Una aplicació necessita que s'actualitzi l'aplicació Android Wear.</string>
+  <string name="common_android_wear_update_text">Aquesta aplicació no s'executarà fins que no actualitzis l'aplicació Android Wear.</string>
+  <string name="common_android_wear_update_title">Actualitza Android Wear</string>
+  <string name="common_google_play_services_enable_button">Activa els serveis de Google Play</string>
+  <string name="common_google_play_services_enable_text">Aquesta aplicació no funcionarà si no actives els serveis de Google Play.</string>
+  <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Sol·licitada per %1$s</string>
+  <string name="common_google_play_services_install_button">Baixa els serveis de Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Aquesta aplicació no s'executarà si el telèfon no té instal·lats els serveis de  Google Play.</string>
+  <string name="common_google_play_services_install_text_tablet">Aquesta aplicació no funcionarà si la tauleta no té instal·lats els serveis de Google Play.</string>
+  <string name="common_google_play_services_install_title">Baixa els serveis de Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">El compte especificat no existeix en aquest dispositiu. Tria un compte diferent.</string>
+  <string name="common_google_play_services_invalid_account_title">Compte no vàlid</string>
+  <string name="common_google_play_services_needs_enabling_title">Una aplicació requereix que s'activin els serveis de Google Play.</string>
+  <string name="common_google_play_services_network_error_text">Es requereix una connexió de dades per connectar amb els serveis de Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Error de xarxa</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Una aplicació requereix que s'instal·lin els serveis de Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Una aplicació requereix que s'actualitzin els serveis de Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
+  <string name="common_google_play_services_unknown_issue">Error desconegut relacionat amb els serveis de Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">El teu dispositiu no és compatible amb els serveis de Google Play, en què es basen les teves aplicacions. Per obtenir assistència, contacta amb el fabricant.</string>
+  <string name="common_google_play_services_unsupported_title">Serveis de Google Play</string>
+  <string name="common_google_play_services_update_button">Actualitza</string>
+  <string name="common_google_play_services_update_text">Aquesta aplicació no s'executarà si no actualitzes els serveis de Google Play.</string>
+  <string name="common_google_play_services_update_title">Actualitza els serveis de Google Play</string>
+  <string name="common_open_on_phone">Obre al telèfon</string>
+  <string name="common_signin_button_text">Inicia sessió</string>
+  <string name="common_signin_button_text_long">Inicia sessió amb Google</string>
+  <string name="compatibility_failed_title">Error en verificar el paquet</string>
+  <string name="compatibility_verification_failure">El paquet d'actualització que s'està baixant no és compatible amb la versió actual del programari del dispositiu.</string>
+  <string name="compatibility_verification_failure_df">
+
+Comproveu-ho amb el vostre coordinador de Dogfood.</string>
+  <string name="compatibility_verification_success">S'ha verificat correctament</string>
+  <string name="completed"> Instal·lació finalitzada. Se't demanarà que reiniciis el telèfon (pas %1$d de %2$d)</string>
+  <string name="completed_install">%s completat</string>
+  <string name="connect_to_wifi">Connecta a la Wi-Fi</string>
+  <string name="continue_button">Continua</string>
+  <string name="critical_install_message_popup_os_mr">Hi ha disponible una actualització important del sistema. Selecciona "Instal·la" per implementar-la. Si no, l'actualització s'implementarà automàticament el %1$s.</string>
+  <string name="critical_install_message_popup_smr">Hi ha disponible una actualització important de seguretat. Selecciona "Instal·la" per implementar-la. Si no, l'actualització s'implementarà automàticament el %1$s.</string>
+  <string name="critical_install_message_screen">Aquesta actualització és important i s'instal·larà automàticament el %1$s. Assegura't que hi hagi prou bateria per a la instal·lació.</string>
+  <string name="critical_install_notification">Com que aquesta actualització és important, el dispositiu la instal·larà automàticament el %1$s.
+Temps d'instal·lació: %2$d minuts</string>
+  <string name="critical_restart_message_popup">Reinicia el dispositiu per implementar aquesta actualització important tan aviat com sigui possible. Si no ho fas, es reiniciarà automàticament el %1$s.</string>
+  <string name="critical_restart_message_screen">Com que aquesta actualització és important, el dispositiu es reiniciarà automàticament el %1$s si encara no ho has fet tu.</string>
+  <string name="critical_restart_notification">Aquesta actualització és important. Si no reinicies el dispositiu ara, es reiniciarà automàticament el %1$s</string>
+  <string name="critical_update_notification_title">Actualització crítica</string>
+  <string name="current_version">Versió actual del programari:</string>
+  <string name="custom_slot">Personalitzat</string>
+  <string name="custom_time">Hora personalitzada</string>
+  <string name="dash">—</string>
+  <string name="date_time">%s a les %s</string>
+  <string name="defer_count_expired">D'acord</string>
+  <string name="deny">Denega</string>
+  <string name="details">Detalls</string>
+  <string name="device_corrupted_msg">S'han detectat problemes en el sistema. Sabem que és una llauna, però hauràs de visitar un centre de serveis local per solucionar-los.
+
+Una vegada reparat el telèfon, podrem continuar amb les actualitzacions.</string>
+  <string name="device_corrupted_title">No es pot actualitzar el telèfon</string>
+  <string name="dialog_alert_net_message">Comprova la connexió Wi-Fi o de dades mòbils i torna-ho a provar.</string>
+  <string name="dialog_alert_net_title">El dispositiu està desconnectat</string>
+  <string name="dialog_alert_title">Bateria baixa</string>
+  <string name="dialog_progress">S'està carregant...</string>
+  <string name="dl_options_mobile_only_warning">Es recomana utilitzar la Wi-Fi. Si utilitzes les dades mòbils per fer baixades o mentre estàs en itinerància, se't poden cobrar càrrecs addicionals.
+
+La baixada d'aquest programari no afectarà el funcionament del dispositiu.</string>
+  <string name="done">Fet</string>
+  <string name="dont_show_this_again">No ho tornis a mostrar</string>
+  <string name="download_cancelled_title">Baixada cancel·lada</string>
+  <string name="download_deferred_status">La descàrrega de programari es va retardar el:</string>
+  <string name="download_failed_status">Hi ha hagut un error en descarregar l'actualització el:</string>
+  <string name="download_in_progress_status">Descàrrega de programari en curs.</string>
+  <string name="download_later_button">Baixa més tard</string>
+  <string name="download_no_button">No, gràcies</string>
+  <string name="download_note">Pots continuar fent servir el dispositiu mentre s'instal·la l'actualització</string>
+  <string name="download_now">Baixa ara</string>
+  <string name="download_now_button">Baixa</string>
+  <string name="download_options">Opcions de baixada</string>
+  <string name="download_progress_cancel_message">Pots baixar l'actualització en un altre moment accedint a Configuració &gt; Actualitzacions del sistema</string>
+  <string name="download_progress_fragment_message">%1$s/%2$s</string>
+  <string name="download_progress_message">Queda: %1$s (%2$s/%3$s)</string>
+  <string name="download_progress_paused_message">Baixat: %s%% (en pausa)</string>
+  <string name="download_progress_text">La baixada continuarà encara que tornis enrere o tanquis aquesta finestra</string>
+  <string name="download_subtitle">Coses que has de saber abans d'acceptar la baixada</string>
+  <string name="download_text_whats_new">Consulta les novetats</string>
+  <string name="download_time_left">Queda: %1$s</string>
+  <string name="download_version">Versió %1$s — %2$s</string>
+  <string name="download_wifi_only_error">Per baixar aquesta actualització cal una xarxa Wi-Fi. La baixada es reprendrà quan s'hagi restaurat la connexió.</string>
+  <string name="downloaded_percentage">Baixat: %1$s</string>
+  <string name="emergency_call_btn_txt">Emergències</string>
+  <string name="emergency_call_text">Durant el reinici no podreu fer ni rebre trucades, ni tan sols trucades d'emergència.</string>
+  <string name="enable_wifi_error_txt">Connecta't a la Wi-Fi per descarregar aquesta actualització.</string>
+  <string name="eol_explore">Explora nous dispositius</string>
+  <string name="eol_last_update_text">Revisió de seguretat:</string>
+  <string name="eol_promote">Coneix les últimes promocions</string>
+  <string name="eol_title">El dispositiu té la versió més recent del programari.</string>
+  <string name="err_title_contact_server">S'està contactant amb el servidor…</string>
+  <string name="err_title_memory_low">Hi ha poca memòria…</string>
+  <string name="err_title_temp_error">Error temporal</string>
+  <string name="err_title_update">Error d'actualització</string>
+  <string name="error_code">Codi d'error: </string>
+  <string name="error_copyfail">No s'ha pogut copiar des de la ubicació de la targeta SD.</string>
+  <string name="error_disabled">No s'ha pogut baixar l'actualització. El paquet d'actualització no està disponible en aquest moment 
+
+No cal que feu res més.</string>
+  <string name="error_fail">S'ha produït un error en actualitzar el %1$s. No s'ha fet cap canvi. Torna a provar-ho des de Configuració &gt; Actualització del sistema.</string>
+  <string name="error_in_call_msg">El dispositiu ara no pot actualitzar-se perquè hi ha una trucada en curs</string>
+  <string name="error_in_call_title">Trucada en curs</string>
+  <string name="error_install_title">La instal·lació ha fallat</string>
+  <string name="error_mismatch">S'ha detectat una discrepància de versions. Es tornarà a fer una actualització. Si n'hi ha alguna de disponible, se us notificarà.</string>
+  <string name="error_mismatch_sd">No s'ha pogut actualitzar. La versió de l'actualització no es correspon amb el vostre telèfon. 
+
+Baixeu-vos la versió correcta per al vostre telèfon i torneu-ho a provar.</string>
+  <string name="error_network">S'ha perdut la connexió. Torneu a provar-ho comprovant manualment si hi ha actualitzacions a la configuració del telèfon.</string>
+  <string name="error_reboot">No hem pogut baixar aquesta actualització. Pots obtenir l'actualització en un altre moment reiniciant el dispositiu i accedint a Configuració &gt; Actualitzacions del sistema.</string>
+  <string name="error_resources">No hem pogut baixar aquesta actualització. Pots obtenir l'actualització en un altre moment accedint a Configuració &gt; Actualitzacions del sistema.</string>
+  <string name="error_sdcard_resources_fail_removal">No s'ha completat el procés de baixada perquè s'ha retirat la targeta SD. 
+
+Torna a inserir la targeta SD i ves a Configuració &gt; Actualitzacions del sistema per tornar-ho a provar.
+
+
+</string>
+  <string name="error_sdcard_resources_fail_space">No es pot finalitzar la baixada perquè no hi ha prou espai a la targeta SD. 
+
+Allibera espai i ves a Configuració &gt; Actualitzacions del sistema per tornar-ho a provar.
+
+
+</string>
+  <string name="error_sdcard_resources_nosdcard">Inseriu la targeta SD per iniciar la baixada.
+
+
+
+
+</string>
+  <string name="error_sdcard_resources_notmounted">Activeu la targeta SD per iniciar la baixada. 
+
+Aneu a "Configuració &gt; Emmagatzematge &gt; Activa targeta SD".
+
+
+
+</string>
+  <string name="error_sdcard_resources_space">No hi ha prou espai a la targeta SD per completar la baixada. 
+
+Allibera %1$s d'espai i ves a "Configuració &gt; Actualitzacions del sistema" per repetir la baixada.
+
+
+</string>
+  <string name="error_sdcard_resources_title">Error</string>
+  <string name="error_sdcard_resources_warning">S'està baixant l'actualització del programari a la targeta SD. 
+
+No retireu la targeta SD fins que finalitzi la instal·lació.
+
+
+</string>
+  <string name="error_server">S'ha produït un error al servidor. Torna a provar-ho més tard.</string>
+  <string name="error_space">Aquesta actualització requereix %1$s d'espai d'emmagatzematge lliure al dispositiu. 
+
+Suprimeix les aplicacions que no facis servir o mou fotos i vídeos a un altre dispositiu d'emmagatzematge per alliberar %2$s d'espai. 
+
+Quan ho hagis fet, podràs iniciar l'actualització en qualsevol moment mitjançant "Configuració &gt; Actualitzacions del sistema".</string>
+  <string name="error_space_retry">Aquesta actualització requereix %1$s d'espai d'emmagatzematge lliure al dispositiu. 
+
+Suprimeix les aplicacions que no facis servir o mou fotos i vídeos a un altre dispositiu d'emmagatzematge per alliberar %2$s d'espai.</string>
+  <string name="error_space_vab">Aquesta actualització requereix %1$s d'espai d'emmagatzematge al dispositiu. Allibera espai a la memòria per fer les actualitzacions correctament</string>
+  <string name="error_space_vab_make_room_popup">Has d'esborrar %1$s d'espai abans de fer l'actualització. Prova de suprimir les aplicacions que no facis servir o moure fotos i vídeos a un altre dispositiu d'emmagatzematge.</string>
+  <string name="error_title">La baixada ha fallat</string>
+  <string name="error_verify">No s'ha pogut validar correctament l'actualització. Torneu-ho a provar.</string>
+  <string name="failed">S'ha produït un error.</string>
+  <string name="failed_in_roaming">Cal Wi-Fi per a les actualitzacions</string>
+  <string name="failure_process">Informació no disponible</string>
+  <string name="finalizing_patch">L'actualització està finalitzant… (pas 5 de 6)  </string>
+  <string name="first_net_text">Si no instal·leu l'actualització, el dispositiu ho farà automàticament la propera vegada que es reiniciï. Assegureu-vos que el nivell de bateria sigui superior al %s</string>
+  <string name="forceInstallMessage">Aquesta actualització s'instal·larà automàticament el %1$s.</string>
+  <string name="force_install_message_screen">Aquesta actualització és important. Et preguem que la instal·lis abans del %1$s. Si no, s'instal·larà automàticament quan el dispositiu s'utilitzi menys. Assegura't que hi hagi prou bateria per a la instal·lació.</string>
+  <string name="force_install_notification_message">Instal·la-la abans del %1$s. Si no, el dispositiu la instal·larà automàticament quan s'utilitzi menys.
+Temps d'instal·lació: %2$d minuts</string>
+  <string name="force_restart_notification_message">Reinicia'l abans del %1$s. Si no, el dispositiu es reiniciarà automàticament quan s'utilitzi menys.</string>
+  <string name="force_restart_screen_message">Si no reinicies el dispositiu abans del %1$s, es reiniciarà automàticament quan s'utilitzi menys.</string>
+  <string name="google">Google</string>
+  <string name="got_it">D'acord</string>
+  <string name="important_update_install_overdue_message">Ha passat el temps programat per a la instal·lació. La instal·lació començarà quan el vostre dispositiu compleixi els criteris.</string>
+  <string name="important_update_restart_overdue_message">Ha passat el temps programat per al reinici. El vostre dispositiu es reiniciarà quan compleixi els criteris.</string>
+  <string name="initiating_ota_service_msg">Espera't...</string>
+  <string name="initiating_ota_service_title">S'està iniciant el procés d'actualització de programari</string>
+  <string name="install">Instal·la</string>
+  <string name="install_after_one_hour">Instal·la d'aquí a una hora</string>
+  <string name="install_cancelled_title">S'ha cancel·lat la instal·lació</string>
+  <string name="install_deferred_status">L'actualització s'ha retardat fins al:</string>
+  <string name="install_later">Instal·la més tard</string>
+  <string name="install_notify_sanity_call_msg">El dispositiu ara no pot instal·lar res perquè hi ha una trucada en curs</string>
+  <string name="install_notify_sanity_maps_msg">El dispositiu ara no pot instal·lar res perquè la navegació està activada</string>
+  <string name="install_now">Instal·la ara</string>
+  <string name="install_postponed">S'ha ajornat la instal·lació</string>
+  <string name="install_progress_cancel_message">Pots instal·lar l'actualització en un altre moment accedint a Configuració &gt; Actualitzacions del sistema</string>
+  <string name="install_progress_paused_message">%s completat (en pausa)</string>
+  <string name="install_time">Temps d'instal·lació: %1$d minuts</string>
+  <string name="install_warning">Coses que has de saber abans d'instal·lar</string>
+  <string name="just_one_more_step">Només queda un pas</string>
+  <string name="keep_it_on">Mantén activat</string>
+  <string name="later_button">Recorda-m'ho més tard</string>
+  <string name="learn_more_online_link">Més informació en línia</string>
+  <string name="low_battery_bg_install">S'ha aturat la instal·lació perquè hi ha poca bateria. La instal·lació es reprendrà quan hi haja més del 20 % de bateria.</string>
+  <string name="low_battery_download">S'ha aturat la baixada perquè hi ha poca bateria. La baixada es reprendrà quan s'hagi carregat el dispositiu.</string>
+  <string name="low_battery_install">Abans d'instal·lar l'actualització, heu de carregar el dispositiu com a mínim fins al %s</string>
+  <string name="make_space">Allibera espai</string>
+  <string name="mandatory_install_notification">Si no instal·les aquesta actualització del sistema aviat, et perdràs actualitzacions de seguretat molt importants, així com noves característiques i correccions d'errors.</string>
+  <string name="mandatory_restart_notification">Aquesta actualització és important. Reinicia ara. Si no, et perdràs actualitzacions de seguretat, així com noves característiques i correccions d'errors.</string>
+  <string name="medium_channel_name">Notificador de baixada de programari</string>
+  <string name="merge_emergency_call_text">Durant el reinici no podràs fer ni rebre trucades, ni tan sols trucades d'emergència.</string>
+  <string name="merge_force_restart_text">Si no vols reiniciar el telèfon ara, es reiniciarà automàticament quan no estigui actiu.</string>
+  <string name="merge_progress_text">T'enviarem una notificació quan l'actualització s'hagi completat</string>
+  <string name="merge_progress_title">S'està finalitzant l'actualització…</string>
+  <string name="merge_restart_text">L'actualització es completarà després de reiniciar el telèfon</string>
+  <string name="merge_restart_title">Torna a reiniciar</string>
+  <string name="merge_update_fail_notify_text">S'han detectat problemes en el sistema. Visita un centre de servei per solucionar-los.</string>
+  <string name="merge_update_fail_notify_title">L'actualització ha fallat</string>
+  <string name="merge_update_fail_text">Hem trobat problemes en el sistema que t'impediran rebre actualitzacions. Visita un centre de servei per solucionar-los.
+
+Mentrestant, podràs continuar fent servir el telèfon com sempre.</string>
+  <string name="motorola">Motorola</string>
+  <string name="multiple_account">Tria un compte</string>
+  <string name="multiple_account_alert">Tria un compte de %1$s per continuar l'actualització del sistema.</string>
+  <string name="no_thanks">No, gràcies</string>
+  <string name="no_thanks_message">Pots obtenir l'actualització en un altre moment accedint a Configuració &gt; Actualitzacions del sistema.</string>
+  <string name="no_updates_applied">No s'han aplicat actualitzacions</string>
+  <string name="not_now">Ara no</string>
+  <string name="ok">D'acord</string>
+  <string name="otaservice_perm_desc">Permís que necessiten les aplicacions per interaccionar amb otaservice</string>
+  <string name="package_size">Mida de la baixada: %1$s</string>
+  <string name="personalInfo_instruction">No perdràs informació personal</string>
+  <string name="picker_cell_radio">Wi-Fi i dades mòbils</string>
+  <string name="picker_title">Seleccioneu com voleu baixar-vos l'actualització:</string>
+  <string name="picker_wifi_only_radio">Només Wi-Fi</string>
+  <string name="please_restart">Reinicia'l ara</string>
+  <string name="policy_set">L'actualització del sistema s'ha bloquejat. Contacta l'administrador del teu dispositiu per obtenir més informació.</string>
+  <string name="press_back_again_to_exit">Prem ENRERE una altra vegada per sortir</string>
+  <string name="progress_copying_sd">S'està copiant l'actualització</string>
+  <string name="progress_deffered">La baixada començarà a la xarxa Wi-Fi/mòbil.</string>
+  <string name="progress_downloading_ota">S'està baixant l'actualització del sistema</string>
+  <string name="progress_downloading_security">S'està baixant l'actualització de seguretat</string>
+  <string name="progress_retried">La baixada de programari s'ha interromput. Ho tornarem a provar…</string>
+  <string name="progress_suspended">S'està esperant una connexió de dades per reprendre la baixada</string>
+  <string name="progress_suspended_datasaver">Desactiveu l'economitzador de dades per reprendre la baixada</string>
+  <string name="progress_suspended_no_adminapn">S'està esperant una xarxa Wi-Fi o de tarifa zero per reprendre la baixada</string>
+  <string name="progress_suspended_roaming">La baixada s'ha posat en pausa perquè la xarxa és d'itinerància. Activeu la Wi-Fi per reprendre la baixada.</string>
+  <string name="progress_suspended_wifi">S'està esperant una xarxa Wi-Fi per reprendre la baixada…</string>
+  <string name="progress_verify">S'està verificant que el dispositiu està a punt per a l'actualització…</string>
+  <string name="progress_verify_allocate_space">S'està comprovant si hi ha prou memòria</string>
+  <string name="relative_date_time">%1$s a les %2$s</string>
+  <string name="release_note_battery_desc">Actualitzacions per millorar l'ús i la durada de la bateria</string>
+  <string name="release_note_battery_title">Bateria</string>
+  <string name="release_note_camera_desc">Aquestes millores t'ajuden a capturar fotos amb més detall i precisió</string>
+  <string name="release_note_camera_title">Càmera</string>
+  <string name="release_note_cellular_desc">Els canvis ajuden a millorar la connectivitat de dades del dispositiu</string>
+  <string name="release_note_cellular_title">Mòbil</string>
+  <string name="release_note_charging_desc">Aquestes actualitzacions milloren la capacitat de càrrega</string>
+  <string name="release_note_charging_title">S'està carregant</string>
+  <string name="release_note_generic_desc">Els canvis ajuden a millorar el rendiment general del dispositiu</string>
+  <string name="release_note_os_update_desc">Els nous temes monocromàtics proporcionen un aspecte més estilitzat al telèfon i fan destacar l'empaperat. Revisa com utilitzen i comparteixen les teves dades les aplicacions abans de donar-los permís i millora l'accessibilitat amb les noves funcions auditives i visuals de l'Android 14.</string>
+  <string name="release_note_os_update_title">Android %1$s</string>
+  <string name="release_note_performance_desc">Els canvis ajuden a millorar el rendiment del dispositiu</string>
+  <string name="release_note_performance_title">Rendiment</string>
+  <string name="release_note_security_desc">Inclou les revisions de seguretat fins el dia %1$s</string>
+  <string name="release_note_security_title">Actualització de seguretat</string>
+  <string name="release_note_stability_desc">Inclou millores i correccions d'errors per millorar la fiabilitat del telèfon</string>
+  <string name="release_note_stability_title">Estabilitat</string>
+  <string name="release_note_title">Aquesta actualització inclou</string>
+  <string name="release_note_wifi_desc">Inclou actualitzacions sobre la connectivitat Wi-Fi</string>
+  <string name="release_note_wifi_title">Wi-Fi</string>
+  <string name="release_notes_string">Comprova les noves funcions de l'Android %1$s</string>
+  <string name="request_suspended_datasaver">Desactiveu l'economitzador de dades per començar la baixada</string>
+  <string name="request_suspended_no_network">No hi ha cobertura de xarxa i no es pot iniciar la baixada</string>
+  <string name="restart_after_one_hour">Reinicia d'aquí a 1 hora</string>
+  <string name="restart_instruction_title">Coses que has de saber abans de reiniciar</string>
+  <string name="restart_later">Més tard</string>
+  <string name="restart_message">Reinicia ara per actualitzar</string>
+  <string name="restart_notification">Reinicia</string>
+  <string name="restart_notification_text">Reinicia ara per actualitzar. Actualització pendent des de fa %1$d dies.</string>
+  <string name="restart_notify_sanity_call_msg">El dispositiu ara no pot reiniciar-se perquè hi ha una trucada en curs</string>
+  <string name="restart_notify_sanity_maps_msg">El dispositiu ara no pot reiniciar-se perquè la navegació està activada</string>
+  <string name="restart_now">Reinicia ara</string>
+  <string name="restart_postponed">Reinici posposat</string>
+  <string name="restart_title">Reinicia el dispositiu</string>
+  <string name="resume_download_on_cellular">Utilitza dades mòbils</string>
+  <string name="retrieving_token">S'està autenticant...</string>
+  <string name="sdcard_predownload_text">
+En aquest pas, copiareu l'actualització a la memòria del sistema. L'actualització s'instal·larà en el següent pas. 
+
+Connecteu el telèfon a una font d'alimentació per assegurar-vos que la bateria no es quedi sense energia.</string>
+  <string name="search_menu_title">Cerca</string>
+  <string name="secure_instruction">Aquest és un procés segur</string>
+  <string name="security_download_notification_title">Millora la seguretat</string>
+  <string name="security_install_notification_text">Hi ha una nova actualització de seguretat a punt per a instal·lar-se</string>
+  <string name="security_install_title">Hi ha una actualització de seguretat a punt</string>
+  <string name="security_patch">Revisió de seguretat:</string>
+  <string name="security_update_low_storage_title">Actualització de seguretat</string>
+  <string name="security_update_notification_text">Obtén l'actualització de seguretat més recent</string>
+  <string name="security_update_paused">Actualització de seguretat en pausa</string>
+  <string name="security_update_pending_notification_text">Obtén l'actualització de seguretat més recent. Actualització pendent des de fa %1$d dies.</string>
+  <string name="security_update_title">Actualització de seguretat</string>
+  <string name="select_account">Tria un compte de %1$s</string>
+  <string name="selected_later_time_os_mr">L'actualització del sistema s'instal·larà el </string>
+  <string name="selected_later_time_smr">L'actualització de seguretat s'instal·larà el</string>
+  <string name="setting_sw_summary">Actualitza el programari a la versió més recent </string>
+  <string name="setting_sw_title">Actualitzacions del sistema</string>
+  <string name="smart_cancel_update_toast_msg">L'actualització s'ha reprogramat per al %1$s</string>
+  <string name="smart_end_time">Final</string>
+  <string name="smart_install_message_popup">Com que has activat la funció d'actualitzacions intel·ligents, el dispositiu instal·larà automàticament l'actualització el %1$s si encara no ho has fet tu. Assegura't que hi hagi prou bateria per a la instal·lació.</string>
+  <string name="smart_restart_message_popup">Com que has activat les actualitzacions intel·ligents, el dispositiu es reiniciarà automàticament el %1$s si encara no l'has reiniciat.</string>
+  <string name="smart_settings_string">Les actualitzacions es baixen i s'instal·len automàticament quan hi ha connexió amb la Wi-Fi</string>
+  <string name="smart_settings_string_Softbank">Les actualitzacions es baixen i s'instal·len automàticament quan hi ha connexió Wi-Fi o dades mòbils</string>
+  <string name="smart_settings_string_vzw">Les actualitzacions es baixen i s'instal·len automàticament</string>
+  <string name="smart_start_time">Inici</string>
+  <string name="smart_to_string">Per a</string>
+  <string name="smart_update_advanced">Avançat</string>
+  <string name="smart_update_note">Per motius de seguretat, totes les actualitzacions importants de seguretat es baixaran automàticament amb independència de si aquesta funció està activada o no</string>
+  <string name="smart_update_note_vzw">Per motius de seguretat, totes les actualitzacions crítiques es baixaran i s'instal·laran automàticament amb independència de si aquesta funció està activada o no.</string>
+  <string name="smart_update_pop_up_text">Mantén el teu dispositiu protegit amb les actualitzacions automàtiques</string>
+  <string name="smart_update_recommendation">Prova les actualitzacions intel·ligents</string>
+  <string name="smart_update_suggestion_text">Mantén-te protegit amb les actualitzacions automàtiques</string>
+  <string name="smart_update_text_AB">Fes que el teu dispositiu funcioni amb seguretat i eficiència instal·lant automàticament totes les noves actualitzacions de seguretat i correccions d'errors.</string>
+  <string name="smart_update_text_AB_vzw">Les Actualitzacions intel·ligents milloren la seguretat i l'eficiència del dispositiu. Quan aquesta funció està activada, es baixaran automàticament totes les noves <b>actualitzacions de seguretat</b>. Després de la baixada, el dispositiu es reiniciarà a l'hora que triïs.</string>
+  <string name="smart_update_text_classic">Les Actualitzacions intel·ligents milloren la seguretat i l'eficiència del dispositiu. Quan aquesta funció està activada, es baixaran automàticament totes les noves <b>actualitzacions de seguretat i les correccions d'errors</b>. Després de la baixada, el dispositiu es reiniciarà i les instal·larà a l'hora que triïs.</string>
+  <string name="smart_update_text_classic_vzw">Les Actualitzacions intel·ligents milloren la seguretat i l'eficiència del dispositiu. Quan aquesta funció està activada, es baixaran automàticament totes les noves <b>actualitzacions de seguretat</b>. Després de la baixada, el dispositiu es reiniciarà i les instal·larà a l'hora que triïs.</string>
+  <string name="smart_update_time_slot_text_AB">Tria una hora d'inici</string>
+  <string name="smart_update_time_slot_text_classic">Tria una hora per instal·lar</string>
+  <string name="smart_update_title">Actualitzacions intel·ligents</string>
+  <string name="software_not_update_to">El programari encara no s'ha actualitzat a:</string>
+  <string name="software_update_in_progress">El sistema s'està actualitzant a la versió</string>
+  <string name="software_update_planned_summary">Comprovat - %1$s</string>
+  <string name="software_update_planned_title">Actualització planificada del programari</string>
+  <string name="software_update_to">El sistema s'ha actualitzat a:</string>
+  <string name="sofware_version">Versió del programari:</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_low">Feu lloc per a l'actualització</string>
+  <string name="su_btn">Configuració</string>
+  <string name="su_text_off">Cal que actualitzis manualment el teu dispositiu quan hi ha nou programari disponible. Activa Actualitzacions intel·ligents per automatitzar el procés. Toca per obtenir informació.</string>
+  <string name="su_text_on">Per defecte, les actualitzacions intel·ligents s'executen d'1:00 a 3:00. Pots canviar les hores d'actualització o desactivar les actualitzacions intel·ligents a configuració. Toca per obtenir informació.</string>
+  <string name="su_title_off">Actualitzacions intel·ligents desactivades</string>
+  <string name="su_title_on">Actualitzacions intel·ligents activades</string>
+  <string name="system_download_notification_title">Actualitz. sistema</string>
+  <string name="system_install_notification_text">Hi ha una actualització del sistema a punt per instal·lar-se</string>
+  <string name="system_install_title">Hi ha una actualització a punt</string>
+  <string name="system_pdl_notification_mr_title">Obtén correccions d'errors i més</string>
+  <string name="system_pdl_notification_os_title">Ja ha arribat l'Android %1$s!</string>
+  <string name="system_update">Actualització del sistema</string>
+  <string name="system_update_desc">Protegeix el teu dispositiu de les amenaces contra la seguretat i obtén les últimes funcions de Motorola i Android</string>
+  <string name="system_update_info_not_available">No disponible</string>
+  <string name="system_update_low_storage_text">Toqueu aquí per comprovar la memòria i continuar.</string>
+  <string name="system_update_low_storage_title">Actualització del sistema</string>
+  <string name="system_update_notification_os_text">Descobreix el nou Android</string>
+  <string name="system_update_notification_text">Baixa't el nou programari</string>
+  <string name="system_update_paused">Actualització del sistema en pausa</string>
+  <string name="system_update_pending_notification_os_text">Descobreix el nou Android. Actualització pendent des de fa %1$d dies.</string>
+  <string name="system_update_pending_notification_text">Baixa't el nou programari. Actualització pendent des de fa %1$d dies.</string>
+  <string name="system_update_settings_list_item_title">Actualitzacions del sistema</string>
+  <string name="system_update_status">Estat de l'actualització</string>
+  <string name="system_update_title">Actualització del sistema</string>
+  <string name="tethered_permission_desc">Envia resultats d'actualització 3c</string>
+  <string name="tethered_update_result">Resultat de l'actualització de la connexió compartida</string>
+  <string name="time_picker_text">Inicia la instal·lació sense recordar-m'ho</string>
+  <string name="total_download_size">%1$s</string>
+  <string name="try_again">Torna-ho a provar</string>
+  <string name="turn_it_off">Desactiva</string>
+  <string name="turn_it_on">Activa-la</string>
+  <string name="turn_on_smart_updates">Activa les actualitzacions intel·ligents</string>
+  <string name="update">Actualitza</string>
+  <string name="update_blocked_by_policy">La política de l'administrador ha bloquejat l'actualització </string>
+  <string name="update_cancelled_status">La descàrrega de programari es va cancel·lar el:</string>
+  <string name="update_fail_desc">S'ha produït un error</string>
+  <string name="update_fail_status">L'actualització ha fallat</string>
+  <string name="update_fail_sucancel_dm_status">Actualització cancel·lada pel servidor</string>
+  <string name="update_fail_title">L'actualització ha fallat</string>
+  <string name="update_history_blank">L'historial encara és buit</string>
+  <string name="update_history_src_target">Actualització de %1$s a %2$s</string>
+  <string name="update_history_time">Actualitzat el %1$s</string>
+  <string name="update_history_title">Historial d'actualitzacions</string>
+  <string name="update_history_version">Versió del programari %1$s</string>
+  <string name="update_info">S'està actualitzant…</string>
+  <string name="update_postpone_policy">La política de l'administrador ha posposat l'actualització </string>
+  <string name="update_preference">Preferències d'actualització</string>
+  <string name="update_success_desc">Versió actual del programari: %1$s</string>
+  <string name="update_success_desc_os">Felicitats! S'ha instal·lat correctament l'Android %1$s. Ja pots gaudir d'una experiència millor, més intel·ligent i més segura amb Android.</string>
+  <string name="update_success_status">L'actualització s'ha instal·lat correctament</string>
+  <string name="update_title">Actualització finalitzada</string>
+  <string name="update_title_text">Gaudeix del nou programari!</string>
+  <string name="upto_date_title">Tot sembla correcte!</string>
+  <string name="urgent_channel_name">Alerta d'actualització del programari</string>
+  <string name="use_smart_updates">Utilitza actualitzacions intel·ligents</string>
+  <string name="vab_validation_update_failure_desc">L'actualització de la validació VAB ha fallat</string>
+  <string name="vab_validation_update_failure_title">La validació VAB ha fallat</string>
+  <string name="vab_validation_update_success_desc">Felicitats! La validació VAB s'ha actualitzat correctament</string>
+  <string name="vab_validation_update_success_title">La validació VAB s'ha realitzat correctament</string>
+  <string name="verifying_patch">S'ha aplicat l'actualització. S'està confirmant que l'aplicació s'ha completat… (pas 4 de 6)  </string>
+  <string name="verity_disabled_msg">La seguretat del dispositiu podria estar en perill. Executa l'ordre següent per a actualitzacions contínues
+
+adb enable-verity</string>
+  <string name="verity_disabled_title">El dispositiu ja no rep actualitzacions</string>
+  <string name="verizon_failure_notification_text"> El dispositiu no ha pogut instal·lar l'actualització. Fes servir l'assistent d'actualització del programari per instal·lar-la. Toca per obtenir més informació.</string>
+  <string name="verizon_failure_text">S'ha produït un error en actualitzar el dispositiu. No s'ha fet cap canvi. Per actualitzar el programari, pots utilitzar l'assistent d'actualització de programari.
+
+Per instal·lar l'assistent d'actualització de programari:
+
+1. Utilitza un cable USB per connectar el teu dispositiu a l'ordinador
+2. Quan aparegui el menú d'USB en el dispositiu, selecciona la icona de configuració a la part superior dreta
+3. Des de Preferències d'USB, selecciona Instal·lació de programari
+4. Canvia a l'ordinador i busca l'auxiliar d'instal·lació
+5. Segueix els passos de l'auxiliar
+
+L'assistent d'actualització del programari t'ajudarà a descarregar i instal·lar actualitzacions de programari al teu dispositiu.</string>
+  <string name="vital_applying_updates">Aplicant les actualitzacions…</string>
+  <string name="vital_bg_text">Això pot tardar uns minuts.</string>
+  <string name="vital_check_for_updates">S'estan cercant actualitzacions…</string>
+  <string name="vital_check_for_updates_desc">Les actualitzacions mantenen la seguretat del dispositiu i milloren el seu funcionament.</string>
+  <string name="vital_done">Fet!</string>
+  <string name="vital_error_fail">Hi ha hagut un error d'actualització. No s'ha fet cap canvi.</string>
+  <string name="vital_go_back">Segur que vols aturar la instal·lació?</string>
+  <string name="vital_percentage">%s</string>
+  <string name="vital_restart_title">Reinicia per continuar</string>
+  <string name="vital_skip">Omet</string>
+  <string name="vital_stop">Atura</string>
+  <string name="wifi_setting">Configuració de Wi-Fi</string>
+</resources>
